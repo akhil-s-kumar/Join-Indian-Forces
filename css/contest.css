@@ -71,4 +71,11 @@
     text-decoration: none;
 }
 
-  
+@media (max-width: 425px) {
+  .timmer span{
+    font-size: 20px;
+  }
+  .timmer .smalltext{
+    font-size: 10px;
+  }
+}
