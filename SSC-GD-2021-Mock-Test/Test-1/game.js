@@ -12,48 +12,49 @@ let availableQuestions = []
 
 let questions = [
     {
-        question:'What is 2+2?',
-        choice1 : '2',
-        choice2 : '56',
-        choice3 : '4',
-        choice4 : '23',
+        question:'A boy was asked to multiply a certain number by 50. He multiplied it by 30 and got his answer less than the correct one by 400. The number to be multiplied was :',
+        choice1 : '10',
+        choice2 : '20',
+        choice3 : '30',
+        choice4 : '40',
+        answer: 2,
+    },
+    {
+        question:'0.6 of a number is equal to 0.08 of another number. The ratio of the numbers will be',
+        choice1 : '3 : 4',
+        choice2 : '4 : 3',
+        choice3 : '2 : 15',
+        choice4 : '2 : 9',
         answer: 3,
     },
     {
-        question:'What is 2+3?',
-        choice1 : '2',
-        choice2 : '5',
-        choice3 : '4',
-        choice4 : '23',
+        question:'1/5 of a number exceeds 1/7 of the same number by 10. The number is :',
+        choice1 : '125',
+        choice2 : '150',
+        choice3 : '175',
+        choice4 : '200',
+        answer: 3,
+    },
+    {
+        question:'The sum of three consecutive odd natural numbers each divisible by 3 is 72. What is the largest among them?',
+        choice1 : '21',
+        choice2 : '27',
+        choice3 : '24',
+        choice4 : '36',
         answer: 2,
     },
     {
-        question:'What is 1+2?',
-        choice1 : '2',
-        choice2 : '56',
+        question:'If *381 is divisible by 11, then the digit at tae place of * is',
+        choice1 : '0',
+        choice2 : '1',
         choice3 : '4',
-        choice4 : '3',
+        choice4 : '7',
         answer: 4,
     },
-    {
-        question:'What is 2+8?',
-        choice1 : '2',
-        choice2 : '56',
-        choice3 : '4',
-        choice4 : '10',
-        answer: 4,
-    },
-    {
-        question:'What is 3+2?',
-        choice1 : '2',
-        choice2 : '5',
-        choice3 : '4',
-        choice4 : '23',
-        answer: 2,
-    },
+
 ]
 
-const SCORE_POINTS = 100
+const SCORE_POINTS = 1
 const MAX_QUESTIONS = 5
 
 startGame = () =>{
