@@ -7,6 +7,7 @@ body{
 }
 
 .container{
+    padding-top: 50px;
     min-height: 100vh; 
     display: flex;
     align-items: center;
@@ -103,5 +104,24 @@ body{
     .choice-container{
         min-width: 25rem;
     }
+    #progressBar{
+        width:13rem;
+
+    }
+    #question{
+        font-size: 20px;
+    }
     
+}
+
+@media screen and (max-width:430px) {
+    .choice-container{
+        min-width: 20rem;
+    }   
+}
+
+@media screen and (max-width:340px) {
+    .choice-container{
+        min-width: 18rem;
+    }
 }
