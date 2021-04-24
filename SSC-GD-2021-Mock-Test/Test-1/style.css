@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&display=swap');
+
+body{
+    background-color: rgb(29, 26, 26);
+    font-family: 'Nova Square', cursive;
+}
+
+h1{
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.btn {
+    width: 20rem;
+    font-size: 30px;
+    color: #000000;
+    background-color: rgb(18, 92, 255);
+    margin-bottom: 8px;
+}
+
+.btn:hover{
+    color: #000000;
+
+}
+
+#highscore-btn{
+    background-color: #E7E40F;
+}
+
+.container{
+  min-height: 100vh; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-center{
+    justify-content: center;
+    align-items: center;
+}
+
+.end-form-container{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 30rem;
+}
+
+input{
+    margin-bottom: 1rem;
+    width: 20rem;
+    padding: 20px;
+    font-size: 1.8rem;
+    border: none;
+    box-shadow: 0 0.1rem 1.4rem 0 rgb(86, 185, 235, 0.5);
+}
+
+input::placeholder{
+    color: #aaa;
+}
+
+#username{
+    margin-bottom: 3rem;
+    width: 100%;
+    outline: none;
+}
+
+#end-text{
+    font-size: 2.4rem;
+    color: #fff;
+    text-align: center;
+}
+
+#saveScoreBtn {
+    border: none;
+}
