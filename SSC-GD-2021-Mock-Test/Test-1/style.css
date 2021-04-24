@@ -52,6 +52,11 @@ h1{
     max-width: 30rem;
 }
 
+.end-text{
+    color: #fff;
+    padding-bottom: 10px;
+}
+
 input{
     margin-bottom: 1rem;
     width: 20rem;
