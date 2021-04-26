@@ -15,6 +15,8 @@ body{
   }
 
 .choice-container{
+    margin-left:auto;
+    margin-right: auto;
     display: flex;
     margin-bottom: 0.8rem;
     width: 40px;
