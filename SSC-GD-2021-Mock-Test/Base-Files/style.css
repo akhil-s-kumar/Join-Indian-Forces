@@ -27,6 +27,10 @@ h1{
     background-color: #E7E40F;
 }
 
+#tryanother-btn{
+    background-color: rgb(18, 93, 255);
+}
+
 .container{
   min-height: 100vh; 
   display: flex;
