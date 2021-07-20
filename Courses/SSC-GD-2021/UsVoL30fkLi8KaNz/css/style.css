@@ -27,6 +27,11 @@ body{
     border-radius: 15px;
 }
 
+.cardcontainer .card:hover{
+    transform: scale(1.04);
+    transition: 0.5s;
+}
+
 .cardcontainer .card1{
     background: linear-gradient(150deg, #fad961, #f76b1c 100%);
 }
