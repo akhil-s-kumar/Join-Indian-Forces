@@ -1,0 +1,96 @@
+body{
+    background-color: #202427;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+.head h5{
+    font-size: 25px;
+    color: #ffffff;
+    font-weight:700 ;
+}
+
+.head p{
+   color: #ffffff;
+   font-weight: 100; 
+}
+
+.curriculum .card{
+    margin-bottom: 7px;
+    border: none;
+}
+
+.curriculum .card .card-header{
+    background-color:#ffffff ;
+}
+
+.curriculum .card .card-header button{
+    color: #333333;
+    text-decoration: none;
+}
+
+.curriculum .card .card-header button:focus{
+    outline: none;
+    box-shadow: none;
+}
+
+.curriculum .card .card-body .video-item{
+    margin-top: -20px;
+    margin-bottom: -20px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+
+.curriculum .card .card-body .video-item a{
+    text-decoration: none;
+    color: #555;
+}
+
+.curriculum .card .card-body .video-item .dark{
+    background-color: #F7F8FA;
+}
+
+.curriculum .card .card-body .video-item .light{
+    background-color: #FFFFFF;
+}
+
+.curriculum .card .card-body .video-item ul{
+    display:flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    justify-content:space-between;
+}
+
+.curriculum .card .card-body .video-item ul li{
+    color: #555;
+    font-size: 15px;
+    list-style-type: none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.curriculum .card .card-body .video-item ul li i{
+    color:transparent;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color:#F35F00;
+}
+
+.curriculum .card .card-body .video-item ul li .lefticon{
+    margin-right: 15px;
+}
+
+.curriculum .card .card-body .video-item ul li .badge-duration{
+    font-size: 12px;
+    font-weight: 400;
+    background-color: #F35F00;
+    color: #ffffff;
+    margin-right: 15px;
+}
