@@ -1,0 +1,59 @@
+body{
+    background-color: #202427;
+    font-family: 'Roboto', sans-serif;
+}
+
+.head{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+    margin-right: 20px;
+}
+.head #lblGreetings{
+    font-size: 25px;
+    color: #ffffff;
+    font-weight:700 ;
+}
+
+.head p{
+   color: #ffffff;
+   font-weight: 100; 
+}
+
+.cardcontainer .card{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: none;
+    border-radius: 15px;
+}
+
+.cardcontainer .card1{
+    background: linear-gradient(150deg, #fad961, #f76b1c 100%);
+}
+
+.cardcontainer .card2{
+    background: linear-gradient(150deg, #13f1fc, #0470dc 100%);
+}
+
+.cardcontainer .card3{
+    background: linear-gradient(150deg, #b1ea4d, #459522 100%);
+}
+
+.cardcontainer .card4{
+    background: linear-gradient(150deg, #F36265, #961276 100%);
+}
+
+.cardcontainer .card-body{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    color: #ffffff;
+}
+
+.cardcontainer .card-body i{
+    padding-right: 20px;
+}
+
+.cardcontainer .card-body h3{
+    font-size: 20px;
+}
