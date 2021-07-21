@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "sectionName": "Elementary Mathematics",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Number System",
+        "duration": "52 Min",
+        "url": "https://www.youtube-nocookie.com/embed/-WvuAM21UUA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "HCF & LCM",
+        "duration": "28 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7mSHNGtUs_Y?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Decimal Fractions",
+        "duration": "42 Min",
+        "url": "https://www.youtube-nocookie.com/embed/GLwxrvbroTU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Square & Cube Roots",
+        "duration": "46 Min",
+        "url": "https://www.youtube-nocookie.com/embed/bWgkCOBI_Hc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Arithmetical Operations",
+        "duration": "58 Min",
+        "url": "https://www.youtube-nocookie.com/embed/_g6TXciLq3I?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sectionName": "Mathematics QP Discussion",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Number System 01",
+        "duration": "61 Min",
+        "url": "https://www.youtube-nocookie.com/embed/0IMJ3A-NdCQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Number System 02",
+        "duration": "152 Min",
+        "url": "https://www.youtube-nocookie.com/embed/u9H89tQPfZI?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Number System 03",
+        "duration": "83 Min",
+        "url": "https://www.youtube-nocookie.com/embed/4HXK0QjvVeU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "HCF & LCM 01 Part 1",
+        "duration": "91 Min",
+        "url": "https://www.youtube-nocookie.com/embed/mIkuymE3YkA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "HCF & LCM 01 Part 2",
+        "duration": "59 Min",
+        "url": "https://www.youtube-nocookie.com/embed/1lwlcVUgyFY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Decimal Fraction 01",
+        "duration": "91 Min",
+        "url": "https://www.youtube-nocookie.com/embed/mIkuymE3YkA?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sectionName": "English",
+    "lessonName": [
+    ]
+  },
+  {
+    "id": 4,
+    "sectionName": "GI & R",
+    "lessonName": [
+    ]
+  },
+  {
+    "id": 5,
+    "sectionName": "GK & GA",
+    "lessonName": [
+    ]
+  },
+  {
+    "id": 6,
+    "sectionName": "Practice Sets Discussion",
+    "lessonName": [
+    ]
+  }
+]
