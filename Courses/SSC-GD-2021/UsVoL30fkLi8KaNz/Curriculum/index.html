@@ -60,13 +60,12 @@
       crossorigin="anonymous"
     ></script>
     <script>
-      fetch("../data.json")
+      fetch("../curriculumData.json")
         .then(function (response) {
           return response.json();
         })
         .then(function (data) {
           appendData(data);
-          console.log(data);
         })
         .catch(function (err) {
           console.log("error: " + err);
@@ -92,7 +91,12 @@
           cardHeader.appendChild(heading);
           var expandArea = document.createElement("div");
           expandArea.id = `collapse${data[i].id}`;
-          expandArea.className = "collapse";
+          if (i == 0){
+            expandArea.className = "collapse show";
+          }
+          else {
+            expandArea.className = "collapse";
+          }
           expandArea.setAttribute("aria-labelledby", `heading${data[i].id}`);
           expandArea.setAttribute("data-parent", "#accordion");
           var cardBody = document.createElement("div");
@@ -136,7 +140,6 @@
           cardContainer.appendChild(expandArea);
           mainContainer.appendChild(cardContainer);
         }
-        console.log(mainContainer);
       }
     </script>
   </body>
