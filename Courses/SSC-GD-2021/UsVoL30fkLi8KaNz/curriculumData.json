@@ -37,7 +37,7 @@
   },
   {
     "id": 2,
-    "sectionName": "Mathematics QP Discussion",
+    "sectionName": "Mathematics QP's Discussion",
     "lessonName": [
       {
         "id": 1,
@@ -87,17 +87,41 @@
     "id": 4,
     "sectionName": "GI & R",
     "lessonName": [
+      {
+        "id": 1,
+        "title": "Analogies & Similarities",
+        "duration": "13 Min",
+        "url": "https://www.youtube-nocookie.com/embed/KSMP0tvNekk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Coding and Decoding",
+        "duration": "26 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dCeS7BWENTY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Number Series",
+        "duration": "53 Min",
+        "url": "https://www.youtube-nocookie.com/embed/LrE8b9AqjjM?rel=0&amp;loop=1"
+      }
     ]
   },
   {
     "id": 5,
     "sectionName": "GK & GA",
     "lessonName": [
+      {
+        "id": 1,
+        "title": "Computer",
+        "duration": "57 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dm1Y6cDC3H0?rel=0&amp;loop=1"
+      }
     ]
   },
   {
     "id": 6,
-    "sectionName": "Practice Sets Discussion",
+    "sectionName": "Practice QP's Discussion",
     "lessonName": [
     ]
   }
