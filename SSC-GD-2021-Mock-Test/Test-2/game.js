@@ -142,6 +142,8 @@ choices.forEach(choice => {
         
         if (classToApply === 'correct'){
             incrementScore(SCORE_POINTS)
+        } else{
+            decrementScore()
         }
 
         selectedChoice.parentElement.classList.add(classToApply)
@@ -156,6 +158,11 @@ choices.forEach(choice => {
 
 incrementScore = num => {
     score+=num
+    scoreText.innerText = score
+}
+
+decrementScore = num => {
+    score-=0.25
     scoreText.innerText = score
 }
 
