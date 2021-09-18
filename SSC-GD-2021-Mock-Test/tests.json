@@ -2,15 +2,122 @@
   {
     "id": 1,
     "TitleName": "Mock Test 1 Mathematics",
-    "noQ": "5",
-    "maxS": "5",
-    "difL": "Easy"
-  },
-  {
-    "id": 2,
-    "TitleName": "Mock Test 2 Mathematics",
-    "noQ": "10",
-    "maxS": "10",
-    "difL": "Medium"
+    "noQ": 5,
+    "maxS": 5,
+    "difL": "Easy",
+    "examStart" : "sep 18, 2021 20:00:00",
+    "examEnd" : "sep 19, 2021 24:00:00",
+    "questions":[
+      {
+        "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
+        "option":[
+          {
+            "id":1,
+            "option":"402"
+          },
+          {
+            "id":2,
+            "option":"543"
+          },
+          {
+            "id":3,
+            "option":"436"
+          },
+          {
+            "id":4,
+            "option":"455"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The sum of odd numbers from 10 to 60 is",
+        "option":[
+          {
+            "id":1,
+            "option":"775"
+          },
+          {
+            "id":2,
+            "option":"468"
+          },
+          {
+            "id":3,
+            "option":"921"
+          },
+          {
+            "id":4,
+            "option":"875"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Find the sum of first 27 odd numbers.",
+        "option":[
+          {
+            "id":1,
+            "option":"929"
+          },
+          {
+            "id":2,
+            "option":"879"
+          },
+          {
+            "id":3,
+            "option":"729"
+          },
+          {
+            "id":4,
+            "option":"869"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"What is the product of first three prime numbers?",
+        "option":[
+          {
+            "id":1,
+            "option":"10"
+          },
+          {
+            "id":2,
+            "option":"20"
+          },
+          {
+            "id":3,
+            "option":"30"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"When a number is divided by 121, the remainder is 25. If the same number is divided by 11, the remainder will be",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"4"
+          },
+          {
+            "id":3,
+            "option":"6"
+          },
+          {
+            "id":4,
+            "option":"25"
+          }
+        ],
+        "answer":1
+      }
+    ]
   }
 ]

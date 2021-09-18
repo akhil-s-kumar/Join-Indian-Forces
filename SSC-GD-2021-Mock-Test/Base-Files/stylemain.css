@@ -1,14 +1,102 @@
-body{
-    padding-top: 40px;
-    background-color: rgb(29, 26, 26);
+body {
+  padding-top: 40px;
+  background-color: rgb(29, 26, 26);
 }
 
-i{
-    margin-right: 5px;
+i {
+  margin-right: 5px;
 }
 
-.card{
-    margin-bottom: 20px;
+.card {
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.instructionsHead {
+  color: #000000;
+  font-size: 35px;
+}
+
+.instructions {
+  color: #000000;
+  font-size: 15px;
+}
+
+.inputField {
+  margin-bottom: 15px;
+}
+
+/* To hide up arrow and down arrow for Input number */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+.btnInstruction {
+  margin-right: 6px;
+}
+
+.timeHead {
+  color: crimson;
+  font-size: 25px;
+}
+
+#countdown {
+  color: #fff;
+  display: inline-block;
+  font-weight: 100;
+  text-align: center;
+  font-size: 30px;
+}
+
+#countdown > div {
+  margin-right: 5px;
+  padding: 10px;
+  border-radius: 3px;
+  background: crimson;
+  display: inline-block;
+}
+
+#countdown div > span {
+  padding: 5px;
+  border-radius: 3px;
+  background: crimson;
+  display: inline-block;
+}
+
+.smalltext {
+  padding-top: 5px;
+  font-size: 16px;
+}
+
+.questionNumber{
+    color: crimson;
+}
+
+.question {
+  color: #000000;
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.option {
+  color: #000000;
+  font-size: 15px;
+  margin-left: 10px;
+  font-weight: 500;
+}
+
+.btnClear{
+    margin-top: 10px;
+}
+
+.btnSubmit{
     margin-left: 10px;
-    margin-right: 10px;
+    margin-bottom: 30px;
 }
