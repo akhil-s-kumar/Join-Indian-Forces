@@ -3,7 +3,7 @@ const mainFunc = () => {
   var remMain = document.getElementById("mainContainer");
   remMain.parentNode.removeChild(remMain);
 
-  fetch("././tests.json")
+  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -97,7 +97,7 @@ const test = (testId) => {
   var list1 = document.createElement("li");
 
   //Fetch details
-  fetch("././tests.json")
+  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -256,7 +256,7 @@ const startExam = (testId) => {
   quizContainermain.id = "quiz";
 
   //Quiz container inner
-  fetch("././tests.json")
+  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -419,7 +419,7 @@ const clearSelection = (name) => {
 //Submit Answers
 const submitAnswers = (testId) => {
   var score = 0;
-  fetch("././tests.json")
+  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json")
     .then(function (response) {
       return response.json();
     })
