@@ -3,7 +3,7 @@ const mainFunc = () => {
   var remMain = document.getElementById("mainContainer");
   remMain.parentNode.removeChild(remMain);
 
-  fetch("../tests.json")
+  fetch("././tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -97,7 +97,7 @@ const test = (testId) => {
   var list1 = document.createElement("li");
 
   //Fetch details
-  fetch("../tests.json")
+  fetch("././tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -256,7 +256,7 @@ const startExam = (testId) => {
   quizContainermain.id = "quiz";
 
   //Quiz container inner
-  fetch("../tests.json")
+  fetch("././tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -419,7 +419,7 @@ const clearSelection = (name) => {
 //Submit Answers
 const submitAnswers = (testId) => {
   var score = 0;
-  fetch("../tests.json")
+  fetch("././tests.json")
     .then(function (response) {
       return response.json();
     })
@@ -463,7 +463,3 @@ const submitAnswers = (testId) => {
 };
 
 mainFunc();
-
-//AKfycbx2p_YsTw_A4BhcDC3vGGl57wqigLjGVmDYdohHzbqmiUGxjuvNFkNWwwjskOQcWpxSHw
-
-//https://script.google.com/macros/s/AKfycbx2p_YsTw_A4BhcDC3vGGl57wqigLjGVmDYdohHzbqmiUGxjuvNFkNWwwjskOQcWpxSHw/exec
