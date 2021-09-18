@@ -5,8 +5,8 @@
     "noQ": 5,
     "maxS": 5,
     "difL": "Easy",
-    "examStart" : "sep 19, 2021 22:45:00",
-    "examEnd" : "sep 19, 2021 23:20:00",
+    "examStart" : "sep 18, 2021 22:55:00",
+    "examEnd" : "sep 18, 2021 23:20:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
