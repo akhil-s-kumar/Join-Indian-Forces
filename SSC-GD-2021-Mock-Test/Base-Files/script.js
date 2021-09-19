@@ -343,6 +343,68 @@ const startExam = (testId) => {
           quizContainer.appendChild(submitButton);
         }
       }
+      (function () {
+        const second = 1000,
+          minute = second * 60,
+          hour = minute * 60,
+          day = hour * 24;
+
+        var startTime = localStorage.getItem("startTime");
+        var endTime = localStorage.getItem("endTime");
+
+        let examEnd = endTime,
+          countDown = new Date(examEnd).getTime(),
+          x = setInterval(function () {
+            let examStart = new Date(startTime).getTime(),
+              currentTime = new Date().getTime(),
+              distance = countDown - currentTime;
+
+            if (currentTime >= examStart && currentTime < countDown) {
+              let headline = document.getElementById("timeHead");
+              headline.innerText = "Time Left";
+              let countdown = document.getElementById("countdown");
+              countdown.removeAttribute("style");
+              let questions = document.getElementById("quiz");
+              questions.removeAttribute("style");
+              let submitBtn = document.getElementById("submitBtn");
+              if (submitBtn.disabled === true) {
+                submitBtn.disabled = false;
+              }
+
+              (document.getElementById("hours").innerText = Math.floor(
+                (distance % day) / hour
+              )),
+                (document.getElementById("minutes").innerText = Math.floor(
+                  (distance % hour) / minute
+                )),
+                (document.getElementById("seconds").innerText = Math.floor(
+                  (distance % minute) / second
+                ));
+            } else if (
+              countDown <= currentTime &&
+              currentTime < countDown + 500
+            ) {
+              submitAnswers(testId);
+            } else if (countDown < currentTime) {
+              let headline = document.getElementById("timeHead");
+              headline.innerText = "Exam Ended!";
+              let countdown = document.getElementById("countdown");
+              countdown.style.display = "none";
+              let submitBtn = document.getElementById("submitBtn");
+              if (submitBtn.disabled === false) {
+                submitBtn.disabled = true;
+              }
+              clearInterval(x);
+            } else if (currentTime < examStart) {
+              let headline = document.getElementById("timeHead");
+              headline.innerHTML = "Exam not Started!";
+              let countdown = document.getElementById("countdown");
+              countdown.style.display = "none";
+              let questions = document.getElementById("quiz");
+              questions.style.display = "none";
+            }
+          }, 100);
+      })();
     })
     .catch(function (err) {
       console.log("error: " + err);
@@ -351,66 +413,6 @@ const startExam = (testId) => {
   colContainer.appendChild(quizContainermain);
   mainContainer.appendChild(colContainer);
   externalContainer.appendChild(mainContainer);
-
-  (function () {
-    const second = 1000,
-      minute = second * 60,
-      hour = minute * 60,
-      day = hour * 24;
-
-    var startTime = localStorage.getItem("startTime");
-    var endTime = localStorage.getItem("endTime");
-
-    let examEnd = endTime,
-      countDown = new Date(examEnd).getTime(),
-      x = setInterval(function () {
-        let examStart = new Date(startTime).getTime(),
-          currentTime = new Date().getTime(),
-          distance = countDown - currentTime;
-
-        if (currentTime >= examStart && currentTime < countDown) {
-          let headline = document.getElementById("timeHead");
-          headline.innerText = "Time Left";
-          let countdown = document.getElementById("countdown");
-          countdown.removeAttribute("style");
-          let questions = document.getElementById("quiz");
-          questions.removeAttribute("style");
-          let submitBtn = document.getElementById("submitBtn");
-          if (submitBtn.disabled === true) {
-            submitBtn.disabled = false;
-          }
-
-          (document.getElementById("hours").innerText = Math.floor(
-            (distance % day) / hour
-          )),
-            (document.getElementById("minutes").innerText = Math.floor(
-              (distance % hour) / minute
-            )),
-            (document.getElementById("seconds").innerText = Math.floor(
-              (distance % minute) / second
-            ));
-        } else if (countDown <= currentTime && currentTime < countDown + 500) {
-          submitAnswers(testId);
-        } else if (countDown < currentTime) {
-          let headline = document.getElementById("timeHead");
-          headline.innerText = "Exam Ended!";
-          let countdown = document.getElementById("countdown");
-          countdown.style.display = "none";
-          let submitBtn = document.getElementById("submitBtn");
-          if (submitBtn.disabled === false) {
-            submitBtn.disabled = true;
-          }
-          clearInterval(x);
-        } else if (currentTime < examStart) {
-          let headline = document.getElementById("timeHead");
-          headline.innerHTML = "Exam not Started!";
-          let countdown = document.getElementById("countdown");
-          countdown.style.display = "none";
-          let questions = document.getElementById("quiz");
-          questions.style.display = "none";
-        }
-      }, 100);
-  })();
 };
 
 //clear selection function
@@ -459,7 +461,7 @@ const submitAnswers = (testId) => {
         url: "https://docs.google.com/forms/d/e/1FAIpQLSe8uk54G2us5M5oHTJYG8JWtH48cNyUsSOahINlc6RKom7GBw/formResponse?",
         data: { "entry.1956923164": roll, "entry.1449291632": score },
         type: "POST",
-        dataType: "xml"
+        dataType: "xml",
       });
 
       alert("Test Completed. Result will be published soon!");
