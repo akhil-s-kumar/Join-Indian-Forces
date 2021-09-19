@@ -119,5 +119,236 @@
         "answer":1
       }
     ]
+  },
+  {
+    "id": 2,
+    "TitleName": "Mock Test 1 General Knowledge",
+    "noQ": 10,
+    "maxS": 10,
+    "difL": "Easy",
+    "examStart" : "sep 19, 2021 20:00:00",
+    "examEnd" : "sep 19, 2021 20:15:00",
+    "questions":[
+      {
+        "question":"Pre-history means",
+        "option":[
+          {
+            "id":1,
+            "option":"period having written evidences"
+          },
+          {
+            "id":2,
+            "option":"period having no written evidences"
+          },
+          {
+            "id":3,
+            "option":"period which have all the 3 evidences like time, place and events"
+          },
+          {
+            "id":4,
+            "option":"none of the above"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Old stone age people",
+        "option":[
+          {
+            "id":1,
+            "option":"wore cotton clothes"
+          },
+          {
+            "id":2,
+            "option":"wore leaves, barks of trees and skin of animals"
+          },
+          {
+            "id":3,
+            "option":"wore woollen clothes"
+          },
+          {
+            "id":4,
+            "option":"none of the above"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Which among the following cities is considered as one of the oldest surviving cities in the world?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mathura"
+          },
+          {
+            "id":2,
+            "option":"Varanasi"
+          },
+          {
+            "id":3,
+            "option":"Hardwar"
+          },
+          {
+            "id":4,
+            "option":"Ayodhya"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"River Chenab was known is ancient times as",
+        "option":[
+          {
+            "id":1,
+            "option":"Parushni"
+          },
+          {
+            "id":2,
+            "option":"Satudri"
+          },
+          {
+            "id":3,
+            "option":"Himadri"
+          },
+          {
+            "id":4,
+            "option":"Asikni"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Fire had been discovered in which age?",
+        "option":[
+          {
+            "id":1,
+            "option":"Paleolithic"
+          },
+          {
+            "id":2,
+            "option":"Mesolithic"
+          },
+          {
+            "id":3,
+            "option":"Neolithic"
+          },
+          {
+            "id":4,
+            "option":"Chalcolithic"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The Granary at Harappa was made of",
+        "option":[
+          {
+            "id":1,
+            "option":"bricks only"
+          },
+          {
+            "id":2,
+            "option":"bricks and timber"
+          },
+          {
+            "id":3,
+            "option":"bricks and stones"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which of the following was the most significant feature of the Indus Valley Civilization?",
+        "option":[
+          {
+            "id":1,
+            "option":"Economic System"
+          },
+          {
+            "id":2,
+            "option":"Religious life"
+          },
+          {
+            "id":3,
+            "option":"Town Planning"
+          },
+          {
+            "id":4,
+            "option":"Social life"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The earliest evidence regarding a ploughed field has been found from?",
+        "option":[
+          {
+            "id":1,
+            "option":"Lothal"
+          },
+          {
+            "id":2,
+            "option":"Kalibangan"
+          },
+          {
+            "id":3,
+            "option":"Harappa"
+          },
+          {
+            "id":4,
+            "option":"Maski"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The earliest evidence of silver in India is found in the—",
+        "option":[
+          {
+            "id":1,
+            "option":"Harappan culture"
+          },
+          {
+            "id":2,
+            "option":"Chalcolithic cultures of Western India"
+          },
+          {
+            "id":3,
+            "option":"Vedic texts"
+          },
+          {
+            "id":4,
+            "option":"Silver punch marked coins"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The entry port for trade between the Indus trading centres and Mesopotamia was?",
+        "option":[
+          {
+            "id":1,
+            "option":"Elam"
+          },
+          {
+            "id":2,
+            "option":"Oman"
+          },
+          {
+            "id":3,
+            "option":"Behrain"
+          },
+          {
+            "id":4,
+            "option":"Afganistan"
+          }
+        ],
+        "answer":3
+      }
+    ]
   }
 ]

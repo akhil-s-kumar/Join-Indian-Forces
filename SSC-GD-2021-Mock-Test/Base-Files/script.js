@@ -174,7 +174,6 @@ const checkRoll = () => {
 const startExam = (testId) => {
   //To get Roll Number
   var rollExtract = document.querySelector('input[id="rollNumber"]').value;
-  console.log(rollExtract);
 
   localStorage.setItem("rollNumber", rollExtract);
 
@@ -368,6 +367,8 @@ const startExam = (testId) => {
           headline.innerText = "Time Left";
           let countdown = document.getElementById("countdown");
           countdown.removeAttribute("style");
+          let questions = document.getElementById("quiz");
+          questions.removeAttribute("style");
           let submitBtn = document.getElementById("submitBtn");
           if (submitBtn.disabled === true) {
             submitBtn.disabled = false;
@@ -382,8 +383,7 @@ const startExam = (testId) => {
             (document.getElementById("seconds").innerText = Math.floor(
               (distance % minute) / second
             ));
-        } else if (countDown <= currentTime && currentTime < countDown + 100) {
-          console.log(rollExtract);
+        } else if (countDown <= currentTime && currentTime < countDown + 500) {
           submitAnswers(testId);
         } else if (countDown < currentTime) {
           let headline = document.getElementById("timeHead");
@@ -400,6 +400,8 @@ const startExam = (testId) => {
           headline.innerHTML = "Exam not Started!";
           let countdown = document.getElementById("countdown");
           countdown.style.display = "none";
+          let questions = document.getElementById("quiz");
+          questions.style.display = "none";
         }
       }, 100);
   })();
@@ -407,7 +409,6 @@ const startExam = (testId) => {
 
 //clear selection function
 const clearSelection = (name) => {
-  console.log(name);
   const radioBtns = document.querySelectorAll(
     "input[type='radio'][name='" + name + "']"
   );
@@ -444,7 +445,6 @@ const submitAnswers = (testId) => {
         }
       }
       var roll = localStorage.getItem("rollNumber");
-      console.log(roll, score);
 
       //To save data
       $.ajax({
