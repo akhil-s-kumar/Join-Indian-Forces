@@ -309,3 +309,9 @@ body{
   margin-bottom: 20px;
 }
 
+.containerPage h2{
+  margin-top: 200px;
+  font-size: 5rem;
+  font-weight: 900;
+  color: #333333;
+}
