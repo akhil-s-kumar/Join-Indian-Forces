@@ -350,5 +350,236 @@
         "answer":3
       }
     ]
+  },
+  {
+    "id": 3,
+    "TitleName": "Mock Test 2 Mathematics",
+    "noQ": 10,
+    "maxS": 10,
+    "difL": "Easy",
+    "examStart" : "oct 16, 2021 21:00:00",
+    "examEnd" : "oct 16, 2021 21:15:00",
+    "questions":[
+      {
+        "question":"\\(1 \\over 0.04\\) is eual to ",
+        "option":[
+          {
+            "id":1,
+            "option":"25.5"
+          },
+          {
+            "id":2,
+            "option":"2.5"
+          },
+          {
+            "id":3,
+            "option":"25"
+          },
+          {
+            "id":4,
+            "option":"0.25"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"15.06 * 0.0001 = ?",
+        "option":[
+          {
+            "id":1,
+            "option":"15060000"
+          },
+          {
+            "id":2,
+            "option":"0.001506"
+          },
+          {
+            "id":3,
+            "option":"0.01506"
+          },
+          {
+            "id":4,
+            "option":"0.1506"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":" 0.5 * 0.002 = ?",
+        "option":[
+          {
+            "id":1,
+            "option":"0.0001"
+          },
+          {
+            "id":2,
+            "option":"0.01"
+          },
+          {
+            "id":3,
+            "option":"0.1"
+          },
+          {
+            "id":4,
+            "option":"0.001"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"792.02 + 101.32 - 206.76 = ?",
+        "option":[
+          {
+            "id":1,
+            "option":"676.58"
+          },
+          {
+            "id":2,
+            "option":"687.58"
+          },
+          {
+            "id":3,
+            "option":"686.58"
+          },
+          {
+            "id":4,
+            "option":"586.58"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"617 + 6.017 + 0.617 + 6.0017 = ?",
+        "option":[
+          {
+            "id":1,
+            "option":"62.96357"
+          },
+          {
+            "id":2,
+            "option":"62963.57"
+          },
+          {
+            "id":3,
+            "option":"62.96357"
+          },
+          {
+            "id":4,
+            "option":"629.6357"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Which is smallest",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(13 \\over 16\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(15 \\over 19\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(17 \\over 21\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(7 \\over 8\\)"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Asscending order of \\(10 \\over 13\\), \\(12 \\over 17\\), \\(5 \\over 6\\), and \\(11 \\over 21\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(10 \\over 13\\), \\(12 \\over 17\\), \\(5 \\over 6\\), \\(11 \\over 21\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(11 \\over 21\\), \\(12 \\over 17\\), \\(10 \\over 13\\), \\(5 \\over 6\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(5 \\over 6\\), \\(10 \\over 13\\), \\(11 \\over 21\\), \\(12 \\over 17\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(5 \\over 6\\), \\(10 \\over 13\\), \\(12 \\over 17\\), \\(11 \\over 21\\)"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Which of the following fractions is greater than \\(3 \\over 4\\) but less than \\(5 \\over 6\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(1 \\over 2\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(2 \\over 3\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(4 \\over 5\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(9 \\over 10\\)"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Sum of three fractions is 2\\(11 \\over 24\\). If the greatest fraction is divided by the smallest fraction, the result is \\(7 \\over 6\\) which is greater than the middle fraction by \\(1 \\over 3\\) Find the fraction.",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(4 \\over 7\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(4 \\over 5\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(7 \\over 8\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(7 \\over 9\\)"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"If a fraction is multiplied by itself and then divided by the reciprocal of the same fraction, the result is 18\\(26 \\over 27\\). Find the fraction.",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(8 \\over 27\\)"
+          },
+          {
+            "id":2,
+            "option":"1\\(1 \\over 3\\)"
+          },
+          {
+            "id":3,
+            "option":"2\\(2 \\over 3\\)"
+          },
+          {
+            "id":4,
+            "option":"3\\(2 \\over 3\\)"
+          }
+        ],
+        "answer":3
+      }
+    ]
   }
 ]

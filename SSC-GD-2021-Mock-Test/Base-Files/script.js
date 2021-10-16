@@ -332,6 +332,8 @@ const startExam = (testId) => {
             quizContainer.appendChild(card);
           }
 
+          MathJax.typesetPromise();
+
           //For Submit
           var submitButton = document.createElement("button");
           submitButton.type = "button";
