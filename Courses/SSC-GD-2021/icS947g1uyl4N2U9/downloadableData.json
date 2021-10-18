@@ -168,7 +168,50 @@
   {
     "id": 5,
     "sectionName": "GI & R",
-    "fileName": []
+    "fileName": [
+      {
+        "id": 1,
+        "title": "Analogies & Similarities",
+        "pages": "08 Pages",
+        "url": "https://drive.google.com/file/d/1LfQ4jIrGJznj2KfO7cutV54knXThNTHb/view?usp=sharing"
+      },
+      {
+        "id": 2,
+        "title": "Coding & Decoding",
+        "pages": "15 Pages",
+        "url": "https://drive.google.com/file/d/1G13_UA1f_1eFNuIgAn0z3IX3aYRLHdBg/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "title": "Number Series",
+        "pages": "31 Pages",
+        "url": "https://drive.google.com/file/d/1JptNw8yd0RVmctcr1gghDC53qx6Im-_V/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "title": "Alphabet Series",
+        "pages": "08 Pages",
+        "url": "https://drive.google.com/file/d/1Y7rKMqZQ2yLDbrk0Vx75nig7Dpx3RAwI/view?usp=sharing"
+      },
+      {
+        "id": 5,
+        "title": "Classification or Differences",
+        "pages": "09 Pages",
+        "url": "https://drive.google.com/file/d/1AI9snj1NxJj87Vrhi2A62ceHFIv3Owf0/view?usp=sharing"
+      },
+      {
+        "id": 6,
+        "title": "Word Formation",
+        "pages": "11 Pages",
+        "url": "https://drive.google.com/file/d/1xVByux3Yq0FUEEfCnqKwu8jm1xtbuPYm/view?usp=sharing"
+      },
+      {
+        "id": 7,
+        "title": "Logical Sequence of words",
+        "pages": "05 Pages",
+        "url": "https://drive.google.com/file/d/10o_HkU6Xm-dmrEmikCX3LMDw9mFMBvAm/view?usp=sharing"
+      }
+    ]
   },
   {
     "id": 6,
