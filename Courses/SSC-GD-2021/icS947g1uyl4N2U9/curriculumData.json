@@ -301,6 +301,108 @@
   },
   {
     "id": 6,
+    "sectionName": "GK & GA QP's Discussion",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Chemistry Part 1",
+        "duration": "10 Min",
+        "url": "https://www.youtube-nocookie.com/embed/HcFlWB2f0yo?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Chemistry Part 2",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/XGilvu2NG8o?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Chemistry Part 3",
+        "duration": "12 Min",
+        "url": "https://www.youtube-nocookie.com/embed/qarEX13NduE?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Chemistry Part 4",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/i7HPBrBr0qk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Chemistry Part 5",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/eRGbQ1PLvmA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Physics Part 1",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/DSvNj4CLLPA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Physics Part 2",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/ChaadnB2Ro4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Physics Part 3",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/sy36z2anD8I?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "Physics Part 4",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/K66qo5epM5g?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Physics Part 5",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/9c5Oyur1hSM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Physics Part 6",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/9c5Oyur1hSM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Physics Part 7",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dP_zboMCyV0?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "History Part 1",
+        "duration": "06 Min",
+        "url": "https://www.youtube-nocookie.com/embed/57r_fu_8-do?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Politics Part 1",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/Gp1DPoCYquc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 15,
+        "title": "Geography Part 1",
+        "duration": "05 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7X60K8qBoC4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 16,
+        "title": " Economics Part 1",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/S5CRodaMUoM?rel=0&amp;loop=1"
+      }    
+    ]
+  },
+  {
+    "id": 7,
     "sectionName": "Practice QP's Discussion",
     "lessonName": [
     ]
