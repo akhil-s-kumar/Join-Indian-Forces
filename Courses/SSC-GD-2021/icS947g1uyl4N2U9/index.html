@@ -1,105 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link
-      rel="stylesheet"
-      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-      integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
-      crossorigin="anonymous"
-    />
-    <link rel="stylesheet" href="css/style.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
-    />
-    <link rel="icon" sizes="192x192" href="../../../Images/Favicon.png">
-    <link rel="shortcut icon" href="../../../Images/Favicon.png" />
-    <title>SSC GD 2021 Online Course</title>
-  </head>
-  <body>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="head">
-            <h5 id="lblGreetings">Welcome!</h5>
-            <p>Keep your learning streaks high.</p>
-          </div>
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="icon" sizes="192x192" href="../../../Images/Favicon.png">
+  <link rel="shortcut icon" href="../../../Images/Favicon.png" />
+  <title>SSC GD 2021 Online Course</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12">
+        <div class="head">
+          <h5 id="lblGreetings">Welcome!</h5>
+          <p>Keep your learning streaks high.</p>
         </div>
       </div>
     </div>
+  </div>
 
-    <div class="container">
-      <div class="row cardcontainer">
-        <div class="col-lg-4">
-          <div class="card shadow card1">
-            <a href="./Curriculum" style="text-decoration: none">
-              <div class="card-body">
-                <h3><i class="fa fa-file-video-o"></i>Curriculum</h3>
-              </div>
-            </a>
-          </div>
+  <div class="container">
+    <div class="row cardcontainer">
+      <div class="col-lg-4">
+        <div class="card shadow card1">
+          <a href="./Curriculum" style="text-decoration: none">
+            <div class="card-body">
+              <h3><i class="fa fa-file-video-o"></i>Curriculum</h3>
+            </div>
+          </a>
         </div>
-        <div class="col-lg-4">
-          <div class="card shadow card2">
-            <a href="./Downloads" style="text-decoration: none">
-              <div class="card-body">
-                <h3><i class="fa fa-cloud-download"></i>Downloads</h3>
-              </div>
-            </a>
-          </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="card shadow card2">
+          <a href="./Downloads" style="text-decoration: none">
+            <div class="card-body">
+              <h3><i class="fa fa-cloud-download"></i>Downloads</h3>
+            </div>
+          </a>
         </div>
-        <div class="col-lg-4">
-          <div class="card shadow card3">
-            <a
-              href="https://telegram.me/joinchat/Vxvcz6A0fybCzDt2"
-              style="text-decoration: none"
-            >
-              <div class="card-body">
-                <h3><i class="fa fa-comments"></i>Discussion</h3>
-              </div>
-            </a>
-          </div>
+      </div>
+      <div class="col-lg-4">
+        <div class="card shadow card3">
+          <a onclick="discussion()" style="text-decoration: none">
+            <div class="card-body">
+              <h3><i class="fa fa-comments"></i>Discussion</h3>
+            </div>
+          </a>
         </div>
-        <div class="col-lg-4">
-          <div class="card shadow card4">
+      </div>
+      <div class="col-lg-4">
+        <div class="card shadow card4">
+          <a href="https://joinindianforces.in/SSC-GD-2021-Mock-Test/" style="text-decoration: none">
             <div class="card-body">
               <h3><i class="fa fa-check-square-o"></i>Mock Tests</h3>
             </div>
-          </div>
+          </a>
         </div>
       </div>
     </div>
+  </div>
 
-    <script type="text/javascript">
-      var myDate = new Date();
-      var hrs = myDate.getHours();
+  <script type="text/javascript">
+    var myDate = new Date();
+    var hrs = myDate.getHours();
 
-      var greet;
+    var greet;
 
-      if (hrs < 12) greet = "Good Morning!";
-      else if (hrs >= 12 && hrs <= 17) greet = "Good Afternoon!";
-      else if (hrs >= 17 && hrs <= 24) greet = "Good Evening!";
+    if (hrs < 12) greet = "Good Morning!";
+    else if (hrs >= 12 && hrs <= 17) greet = "Good Afternoon!";
+    else if (hrs >= 17 && hrs <= 24) greet = "Good Evening!";
 
-      document.getElementById("lblGreetings").innerHTML = greet;
-    </script>
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script
-      src="https://code.jquery.com/jquery-3.5.1.js"
-      integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
-      integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
-      crossorigin="anonymous"
-    ></script>
-    <script
-      src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
-      integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
-      crossorigin="anonymous"
-    ></script>
-  </body>
+    document.getElementById("lblGreetings").innerHTML = greet;
+  </script>
+  <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+  <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
+    crossorigin="anonymous"></script>
+  <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+    integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+    crossorigin="anonymous"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+    integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+    crossorigin="anonymous"></script>
+  <script>
+    const discussion  = () =>{
+      alert("Please use our official discussion group of course for asking your doubts!")
+    }
+  </script>
+</body>
+
 </html>
