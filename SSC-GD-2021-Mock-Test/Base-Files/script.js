@@ -387,7 +387,6 @@ const startExam = (testId) => {
               currentTime < countDown + 500
             ) {
               submitAnswers(testId);
-              submitBtn.disabled === true
             } else if (countDown + 500 < currentTime) {
               let headline = document.getElementById("timeHead");
               headline.innerText = "Exam Ended!";
