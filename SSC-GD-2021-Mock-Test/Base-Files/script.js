@@ -168,7 +168,7 @@ const test = (testId) => {
 //Roll Number check function
 const checkRoll = () => {
   var a = document.getElementById("rollNumber").value;
-  if (a === "" || a.length > 8 || a.length < 8) {
+  if (a === "" || a.length > 11 || a.length < 11) {
     document.getElementById("startExambtn").disabled = true;
   } else {
     document.getElementById("startExambtn").disabled = false;
