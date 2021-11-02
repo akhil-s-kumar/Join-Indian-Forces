@@ -110,6 +110,7 @@ const test = (testId) => {
         if (data[i].id == testId) {
           maxQ = data[i].noQ;
           maxM = data[i].maxS;
+          maxT = data[i].maxTime
           list1.innerHTML = `There are total ${maxQ} questions for ${maxM} marks.`;
           instructions.appendChild(list1);
 
@@ -119,7 +120,7 @@ const test = (testId) => {
           instructions.appendChild(list2);
 
           var list3 = document.createElement("li");
-          list3.innerHTML = `Total time will be ${maxQ + 5} Minutes.`;
+          list3.innerHTML = `Total time will be ${maxTime} Minutes.`;
           instructions.appendChild(list3);
         }
       }
@@ -382,12 +383,7 @@ const startExam = (testId) => {
                 (document.getElementById("seconds").innerText = Math.floor(
                   (distance % minute) / second
                 ));
-            } else if (
-              countDown <= currentTime &&
-              currentTime < countDown + 500
-            ) {
-              submitAnswers(testId);
-            } else if (countDown + 500 < currentTime) {
+            } else if (countDown < currentTime) {
               let headline = document.getElementById("timeHead");
               headline.innerText = "Exam Ended!";
               let countdown = document.getElementById("countdown");

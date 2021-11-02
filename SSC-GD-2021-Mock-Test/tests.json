@@ -4,9 +4,10 @@
     "TitleName": "Mock Test 2 Mathematics",
     "noQ": 10,
     "maxS": 10,
+    "maxTime":12,
     "difL": "Easy",
-    "examStart" : "oct 30, 2021 16:08:00",
-    "examEnd" : "oct 30, 2021 16:10:00",
+    "examStart" : "nov 2, 2021 14:40:00",
+    "examEnd" : "nov 2, 2021 14:52:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
@@ -235,6 +236,7 @@
     "TitleName": "Mock Test 1 General Knowledge",
     "noQ": 10,
     "maxS": 10,
+    "maxTime":12,
     "difL": "Easy",
     "examStart" : "sep 19, 2021 20:00:00",
     "examEnd" : "sep 19, 2021 20:15:00",
@@ -466,6 +468,7 @@
     "TitleName": "Mock Test 1 Mathematics",
     "noQ": 5,
     "maxS": 5,
+    "maxTime":12,
     "difL": "Easy",
     "examStart" : "sep 19, 2021 10:05:00",
     "examEnd" : "sep 19, 2021 10:20:00",
