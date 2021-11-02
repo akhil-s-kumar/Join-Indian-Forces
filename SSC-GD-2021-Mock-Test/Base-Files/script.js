@@ -120,7 +120,7 @@ const test = (testId) => {
           instructions.appendChild(list2);
 
           var list3 = document.createElement("li");
-          list3.innerHTML = `Total time will be ${maxTime} Minutes.`;
+          list3.innerHTML = `Total time will be ${maxT} Minutes.`;
           instructions.appendChild(list3);
         }
       }
