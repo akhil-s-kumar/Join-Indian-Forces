@@ -46,7 +46,7 @@
 }
 
 .row1 .btn{
-    background-image: linear-gradient(to right, #50089C, #9B1FCC );
+    background-image: linear-gradient(to right, #50089C, #9B1FCC);
     color: #fff;
     width: 300px;
     height: 50px;
@@ -88,6 +88,65 @@
 
 .row1 .card p{
     color: #000;
+}
+
+.titleHead{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.cardcol .card{
+    background-image: linear-gradient(to right, #50089c, #9B1FCC);
+    height: 300px;
+    border: none;
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+.cardcol .card i{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    color: #fff;
+}
+
+.cardcol .card h3{
+    color: #fff;
+}
+
+.cardcol .card:hover {
+    box-shadow: 0 11px 11px 0 rgba(0, 0, 0, 0.16);
+    transform: translateY(-5px);
+    transition: 0.5s;
+  }
+
+.accordion button:active, .accordion button:focus{
+    background-color: #fff;
+    border-color: transparent;
+    box-shadow: none;
+}
+
+.accordion .accordion-item{
+    margin-bottom: 20px;
+}
+
+.accordion h2 button{
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.accordion h2 button:active, .accordion h2 button:focus{
+    color: #50089C;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #50089C;
+    background-color: #fff;
+}
+
+footer{
+    margin-top: 100px;
 }
 
 @media(max-width:768px){
