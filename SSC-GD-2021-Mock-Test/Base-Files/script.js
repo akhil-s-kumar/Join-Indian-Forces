@@ -425,6 +425,7 @@ const clearSelection = (name) => {
 
 //Submit Answers
 const submitAnswers = (testId) => {
+  document.getElementById("submitBtn").disabled = true;
   var score = 0;
   fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json", {
     cache: "no-store",
