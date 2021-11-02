@@ -102,7 +102,7 @@
                                                 class="form-control" minlength="10" maxlength="10" name="Phone" />
                                         </div>
                                     </div>
-                                    <button class="btn" type="submit">Register</button>
+                                    <button class="btn" id="submitButton" type="submit">Register</button>
                                 </form>
                             </div>
                         </div>
@@ -298,10 +298,11 @@
         crossorigin="anonymous"></script>
     <script>
         $("#register-form").submit((e) => {
+            document.getElementById("submitButton").disabled = true;
             let phone = document.getElementById("phone").value;
             let sliceStr = phone.slice(6, 10);
             let randomNumber =
-                Math.floor(Math.random() * (9999999 - 1000000 + 1)) + 1000;
+                Math.floor(Math.random() * (9999999 - 1000000 + 1)) + 1000000;
             const name = document.getElementById("FirstName").value;
             const rollNumber = `${randomNumber}` + `${sliceStr}`;
             const dataSet =
