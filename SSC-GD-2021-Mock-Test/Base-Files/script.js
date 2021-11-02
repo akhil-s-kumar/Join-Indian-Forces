@@ -122,6 +122,14 @@ const test = (testId) => {
           var list3 = document.createElement("li");
           list3.innerHTML = `Total time will be ${maxT} Minutes.`;
           instructions.appendChild(list3);
+
+          var list4 = document.createElement("li");
+          list4.innerHTML = "2 Minutes Buffer time is also given, submit your resposes atleast 1 minute before the exam ends.";
+          instructions.appendChild(list4);
+
+          var list5 = document.createElement("li");
+          list5.innerHTML = "You won't be able to submit your responses once the exam ends.";
+          instructions.appendChild(list5);
         }
       }
     })

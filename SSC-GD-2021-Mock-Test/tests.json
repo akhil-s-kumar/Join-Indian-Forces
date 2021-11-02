@@ -4,10 +4,10 @@
     "TitleName": "Mock Test 2 Mathematics",
     "noQ": 10,
     "maxS": 10,
-    "maxTime":12,
+    "maxTime": 3,
     "difL": "Easy",
-    "examStart" : "nov 2, 2021 14:40:00",
-    "examEnd" : "nov 2, 2021 14:52:00",
+    "examStart" : "nov 2, 2021 15:05:00",
+    "examEnd" : "nov 2, 2021 15:10:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
