@@ -110,7 +110,7 @@ const test = (testId) => {
         if (data[i].id == testId) {
           maxQ = data[i].noQ;
           maxM = data[i].maxS;
-          maxT = data[i].maxTime
+          maxT = data[i].maxTime;
           list1.innerHTML = `There are total ${maxQ} questions for ${maxM} marks.`;
           instructions.appendChild(list1);
 
@@ -124,11 +124,13 @@ const test = (testId) => {
           instructions.appendChild(list3);
 
           var list4 = document.createElement("li");
-          list4.innerHTML = "2 Minutes Buffer time is also given, submit your resposes atleast 1 minute before the exam ends.";
+          list4.innerHTML =
+            "2 Minutes Buffer time is also given, submit your resposes atleast 1 minute before the exam ends.";
           instructions.appendChild(list4);
 
           var list5 = document.createElement("li");
-          list5.innerHTML = "You won't be able to submit your responses once the exam ends.";
+          list5.innerHTML =
+            "You won't be able to submit your responses once the exam ends.";
           instructions.appendChild(list5);
         }
       }
@@ -187,242 +189,291 @@ const checkRoll = () => {
 const startExam = (testId) => {
   //To get Roll Number
   var rollExtract = document.querySelector('input[id="rollNumber"]').value;
+  console.log(typeof rollExtract);
 
-  localStorage.setItem("rollNumber", rollExtract);
-
-  //To remove main Container
-  var remMain = document.getElementById("mainContainer");
-  remMain.parentNode.removeChild(remMain);
-
-  //To get external container
-  var externalContainer = document.getElementById("extContainer");
-
-  //To create main container row
-  var mainContainer = document.createElement("div");
-  mainContainer.id = "mainContainer";
-  mainContainer.className = "row";
-
-  //To create column
-  var colContainer = document.createElement("div");
-  colContainer.className = "col-lg-12";
-
-  //To create timer
-  var card = document.createElement("div");
-  card.className = "card shadow text-center";
-  var cardBody = document.createElement("div");
-  cardBody.className = "card-body";
-
-  var timeHead = document.createElement("h5");
-  timeHead.innerHTML = "Time Left";
-  timeHead.id = "timeHead";
-  timeHead.className = "timeHead";
-  cardBody.appendChild(timeHead);
-
-  var timmer = document.createElement("div");
-  timmer.id = "countdown";
-  timmer.className = "timmer";
-
-  var hour = document.createElement("div");
-  var hourSpan = document.createElement("span");
-  hourSpan.className = "hours";
-  hourSpan.id = "hours";
-  hourSpan.innerHTML = "00";
-  var hourText = document.createElement("div");
-  hourText.className = "smalltext";
-  hourText.innerHTML = "Hours";
-  hour.appendChild(hourText);
-  hour.appendChild(hourSpan);
-  timmer.appendChild(hour);
-
-  var minute = document.createElement("div");
-  var minuteSpan = document.createElement("span");
-  minuteSpan.className = "minutes";
-  minuteSpan.id = "minutes";
-  minuteSpan.innerHTML = "00";
-  var minuteText = document.createElement("div");
-  minuteText.className = "smalltext";
-  minuteText.innerHTML = "Minutes";
-  minute.appendChild(minuteText);
-  minute.appendChild(minuteSpan);
-  timmer.appendChild(minute);
-
-  var second = document.createElement("div");
-  var secondSpan = document.createElement("span");
-  secondSpan.className = "seconds";
-  secondSpan.id = "seconds";
-  secondSpan.innerHTML = "00";
-  var secondText = document.createElement("div");
-  secondText.className = "smalltext";
-  secondText.innerHTML = "Seconds";
-  second.appendChild(secondText);
-  second.appendChild(secondSpan);
-  timmer.appendChild(second);
-
-  cardBody.appendChild(timmer);
-
-  card.appendChild(cardBody);
-  colContainer.appendChild(card);
-
-  //Quiz container
-  var quizContainermain = document.createElement("div");
-  quizContainermain.id = "quiz";
-
-  //Quiz container inner
-  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json", {
-    cache: "no-store",
-  })
+  //To check Roll Number exist
+  fetch(
+    "https://joinindianforces.in/SSC-GD-2021-Mock-Test/registeredCandidates.json",
+    {
+      cache: "no-store",
+    }
+  )
     .then(function (response) {
       return response.json();
     })
     .then(function (data) {
-      var quizContainer = document.getElementById("quiz");
-
+      console.log(data.length);
       for (var i = 0; i < data.length; i++) {
-        if (data[i].id == testId) {
-          //Fetching Stad and end Time
-          localStorage.setItem("startTime", data[i].examStart);
-          localStorage.setItem("endTime", data[i].examEnd);
+        if (data[i].RollNumber === rollExtract) {
+          localStorage.setItem("rollNumber", rollExtract);
+          localStorage.setItem(
+            "Name",
+            data[i].FirstName + " " + data[i].LastName
+          );
 
-          for (var j = 0; j < data[i].questions.length; j++) {
-            //For Card
-            var card = document.createElement("div");
-            card.className = "card shadow";
-            var cardBody = document.createElement("div");
-            cardBody.className = "card-body";
+          //To remove main Container
+          var remMain = document.getElementById("mainContainer");
+          remMain.parentNode.removeChild(remMain);
 
-            //For Question Number
-            var questionNumber = document.createElement("p");
-            questionNumber.className = "questionNumber";
-            questionNumber.innerHTML = `Question ${j + 1} of ${
-              data[i].questions.length
-            }`;
-            cardBody.appendChild(questionNumber);
+          //To get external container
+          var externalContainer = document.getElementById("extContainer");
 
-            //For Line
-            var line = document.createElement("hr");
-            cardBody.appendChild(line);
+          //To create main container row
+          var mainContainer = document.createElement("div");
+          mainContainer.id = "mainContainer";
+          mainContainer.className = "row";
 
-            //For Question
-            var question = document.createElement("p");
-            question.className = "question";
-            question.innerHTML = data[i].questions[j].question;
-            cardBody.appendChild(question);
+          //To create column
+          var colContainer = document.createElement("div");
+          colContainer.className = "col-lg-12";
 
-            for (var k = 0; k < data[i].questions[j].option.length; k++) {
-              var option = document.createElement("input");
-              option.type = "radio";
-              option.id = `option${k}`;
-              option.value = k + 1;
-              option.name = "question" + (j + 1);
-              var label = document.createElement("label");
-              label.className = "option";
-              label.setAttribute = ("for", `option${k}`);
-              label.innerHTML = data[i].questions[j].option[k].option;
-              cardBody.appendChild(option);
-              cardBody.appendChild(label);
-              var lineBreak = document.createElement("br");
-              cardBody.appendChild(lineBreak);
+          //To create timer
+          var card = document.createElement("div");
+          card.className = "card shadow text-center";
+          var cardBody = document.createElement("div");
+          cardBody.className = "card-body";
+
+          var timeHead = document.createElement("h5");
+          timeHead.innerHTML = "Time Left";
+          timeHead.id = "timeHead";
+          timeHead.className = "timeHead";
+          cardBody.appendChild(timeHead);
+
+          var timmer = document.createElement("div");
+          timmer.id = "countdown";
+          timmer.className = "timmer";
+
+          var hour = document.createElement("div");
+          var hourSpan = document.createElement("span");
+          hourSpan.className = "hours";
+          hourSpan.id = "hours";
+          hourSpan.innerHTML = "00";
+          var hourText = document.createElement("div");
+          hourText.className = "smalltext";
+          hourText.innerHTML = "Hours";
+          hour.appendChild(hourText);
+          hour.appendChild(hourSpan);
+          timmer.appendChild(hour);
+
+          var minute = document.createElement("div");
+          var minuteSpan = document.createElement("span");
+          minuteSpan.className = "minutes";
+          minuteSpan.id = "minutes";
+          minuteSpan.innerHTML = "00";
+          var minuteText = document.createElement("div");
+          minuteText.className = "smalltext";
+          minuteText.innerHTML = "Minutes";
+          minute.appendChild(minuteText);
+          minute.appendChild(minuteSpan);
+          timmer.appendChild(minute);
+
+          var second = document.createElement("div");
+          var secondSpan = document.createElement("span");
+          secondSpan.className = "seconds";
+          secondSpan.id = "seconds";
+          secondSpan.innerHTML = "00";
+          var secondText = document.createElement("div");
+          secondText.className = "smalltext";
+          secondText.innerHTML = "Seconds";
+          second.appendChild(secondText);
+          second.appendChild(secondSpan);
+          timmer.appendChild(second);
+
+          cardBody.appendChild(timmer);
+
+          card.appendChild(cardBody);
+          colContainer.appendChild(card);
+
+          //Quiz container
+          var quizContainermain = document.createElement("div");
+          quizContainermain.id = "quiz";
+
+          //Quiz container inner
+          fetch(
+            "https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json",
+            {
+              cache: "no-store",
             }
+          )
+            .then(function (response) {
+              return response.json();
+            })
+            .then(function (data) {
+              var quizContainer = document.getElementById("quiz");
 
-            //For button
-            var clearButton = document.createElement("button");
-            clearButton.type = "button";
-            clearButton.className = "btn btn-danger btnClear";
-            clearButton.setAttribute(
-              "onclick",
-              `clearSelection("${"question" + (j + 1)}")`
-            );
-            clearButton.innerHTML = "Clear Selection";
-            cardBody.appendChild(clearButton);
-            var lineBreak = document.createElement("br");
-            cardBody.appendChild(lineBreak);
+              for (var i = 0; i < data.length; i++) {
+                if (data[i].id == testId) {
+                  //Fetching Stad and end Time
+                  localStorage.setItem("startTime", data[i].examStart);
+                  localStorage.setItem("endTime", data[i].examEnd);
 
-            card.appendChild(cardBody);
-            quizContainer.appendChild(card);
+                  for (var j = 0; j < data[i].questions.length; j++) {
+                    //For Card
+                    var card = document.createElement("div");
+                    card.className = "card shadow";
+                    var cardBody = document.createElement("div");
+                    cardBody.className = "card-body";
+
+                    //For Question Number
+                    var questionNumber = document.createElement("p");
+                    questionNumber.className = "questionNumber";
+                    questionNumber.innerHTML = `Question ${j + 1} of ${
+                      data[i].questions.length
+                    }`;
+                    cardBody.appendChild(questionNumber);
+
+                    //For Line
+                    var line = document.createElement("hr");
+                    cardBody.appendChild(line);
+
+                    //For Question
+                    let qori = data[i].questions[j].question;
+                    if (
+                      qori.substring(0, 7) == "http://" ||
+                      qori.substring(0, 8) == "https://"
+                    ) {
+                      var question = document.createElement("img");
+                      question.className = "img-fluid";
+                      question.src = data[i].questions[j].question;
+                      cardBody.appendChild(question);
+                      var breakline = document.createElement("br");
+                      cardBody.appendChild(breakline);
+                    } else {
+                      var question = document.createElement("p");
+                      question.className = "question";
+                      question.innerHTML = data[i].questions[j].question;
+                      cardBody.appendChild(question);
+                    }
+
+                    for (
+                      var k = 0;
+                      k < data[i].questions[j].option.length;
+                      k++
+                    ) {
+                      var option = document.createElement("input");
+                      option.type = "radio";
+                      option.id = `option${k}`;
+                      option.value = k + 1;
+                      option.name = "question" + (j + 1);
+                      var label = document.createElement("label");
+                      label.className = "option";
+                      label.setAttribute = ("for", `option${k}`);
+                      label.innerHTML = data[i].questions[j].option[k].option;
+                      cardBody.appendChild(option);
+                      cardBody.appendChild(label);
+                      var lineBreak = document.createElement("br");
+                      cardBody.appendChild(lineBreak);
+                    }
+
+                    //For button
+                    var clearButton = document.createElement("button");
+                    clearButton.type = "button";
+                    clearButton.className = "btn btn-danger btnClear";
+                    clearButton.setAttribute(
+                      "onclick",
+                      `clearSelection("${"question" + (j + 1)}")`
+                    );
+                    clearButton.innerHTML = "Clear Selection";
+                    cardBody.appendChild(clearButton);
+                    var lineBreak = document.createElement("br");
+                    cardBody.appendChild(lineBreak);
+
+                    card.appendChild(cardBody);
+                    quizContainer.appendChild(card);
+                  }
+                  MathJax.typesetPromise();
+
+                  //For Submit
+                  var submitButton = document.createElement("button");
+                  submitButton.type = "button";
+                  submitButton.className = "btn btn-success btnSubmit";
+                  submitButton.id = "submitBtn";
+                  submitButton.disabled = true;
+                  submitButton.setAttribute(
+                    "onclick",
+                    `submitAnswers(${testId})`
+                  );
+                  submitButton.innerHTML = "Submit";
+                  quizContainer.appendChild(submitButton);
+                }
+              }
+              (function () {
+                const second = 1000,
+                  minute = second * 60,
+                  hour = minute * 60,
+                  day = hour * 24;
+
+                var startTime = localStorage.getItem("startTime");
+                var endTime = localStorage.getItem("endTime");
+
+                let examEnd = endTime,
+                  countDown = new Date(examEnd).getTime(),
+                  x = setInterval(function () {
+                    let examStart = new Date(startTime).getTime(),
+                      currentTime = new Date().getTime(),
+                      distance = countDown - currentTime;
+
+                    if (currentTime >= examStart && currentTime < countDown) {
+                      let headline = document.getElementById("timeHead");
+                      headline.innerText = "Time Left";
+                      let countdown = document.getElementById("countdown");
+                      countdown.removeAttribute("style");
+                      let questions = document.getElementById("quiz");
+                      questions.removeAttribute("style");
+                      let submitBtn = document.getElementById("submitBtn");
+                      if (submitBtn.disabled === true) {
+                        submitBtn.disabled = false;
+                      }
+
+                      (document.getElementById("hours").innerText = Math.floor(
+                        (distance % day) / hour
+                      )),
+                        (document.getElementById("minutes").innerText =
+                          Math.floor((distance % hour) / minute)),
+                        (document.getElementById("seconds").innerText =
+                          Math.floor((distance % minute) / second));
+                    } else if (countDown < currentTime) {
+                      let headline = document.getElementById("timeHead");
+                      headline.innerText = "Exam Ended!";
+                      let countdown = document.getElementById("countdown");
+                      countdown.style.display = "none";
+                      let submitBtn = document.getElementById("submitBtn");
+                      if (submitBtn.disabled === false) {
+                        submitBtn.disabled = true;
+                      }
+                      clearInterval(x);
+                    } else if (currentTime < examStart) {
+                      let headline = document.getElementById("timeHead");
+                      headline.innerHTML = "Exam not Started!";
+                      let countdown = document.getElementById("countdown");
+                      countdown.style.display = "none";
+                      let questions = document.getElementById("quiz");
+                      questions.style.display = "none";
+                    }
+                  }, 100);
+              })();
+            })
+            .catch(function (err) {
+              console.log("error: " + err);
+            });
+
+          colContainer.appendChild(quizContainermain);
+          mainContainer.appendChild(colContainer);
+          externalContainer.appendChild(mainContainer);
+          break;
+        } else if (i == data.length - 1) {
+          if (data[i].RollNumber != rollExtract) {
+            alert("Sorry, You are not registered for any of our Mock Tests!e");
+            location.reload();
           }
-
-          MathJax.typesetPromise();
-
-          //For Submit
-          var submitButton = document.createElement("button");
-          submitButton.type = "button";
-          submitButton.className = "btn btn-success btnSubmit";
-          submitButton.id = "submitBtn";
-          submitButton.disabled = true;
-          submitButton.setAttribute("onclick", `submitAnswers(${testId})`);
-          submitButton.innerHTML = "Submit";
-          quizContainer.appendChild(submitButton);
         }
       }
-      (function () {
-        const second = 1000,
-          minute = second * 60,
-          hour = minute * 60,
-          day = hour * 24;
-
-        var startTime = localStorage.getItem("startTime");
-        var endTime = localStorage.getItem("endTime");
-
-        let examEnd = endTime,
-          countDown = new Date(examEnd).getTime(),
-          x = setInterval(function () {
-            let examStart = new Date(startTime).getTime(),
-              currentTime = new Date().getTime(),
-              distance = countDown - currentTime;
-
-            if (currentTime >= examStart && currentTime < countDown) {
-              let headline = document.getElementById("timeHead");
-              headline.innerText = "Time Left";
-              let countdown = document.getElementById("countdown");
-              countdown.removeAttribute("style");
-              let questions = document.getElementById("quiz");
-              questions.removeAttribute("style");
-              let submitBtn = document.getElementById("submitBtn");
-              if (submitBtn.disabled === true) {
-                submitBtn.disabled = false;
-              }
-
-              (document.getElementById("hours").innerText = Math.floor(
-                (distance % day) / hour
-              )),
-                (document.getElementById("minutes").innerText = Math.floor(
-                  (distance % hour) / minute
-                )),
-                (document.getElementById("seconds").innerText = Math.floor(
-                  (distance % minute) / second
-                ));
-            } else if (countDown < currentTime) {
-              let headline = document.getElementById("timeHead");
-              headline.innerText = "Exam Ended!";
-              let countdown = document.getElementById("countdown");
-              countdown.style.display = "none";
-              let submitBtn = document.getElementById("submitBtn");
-              if (submitBtn.disabled === false) {
-                submitBtn.disabled = true;
-              }
-              clearInterval(x);
-            } else if (currentTime < examStart) {
-              let headline = document.getElementById("timeHead");
-              headline.innerHTML = "Exam not Started!";
-              let countdown = document.getElementById("countdown");
-              countdown.style.display = "none";
-              let questions = document.getElementById("quiz");
-              questions.style.display = "none";
-            }
-          }, 100);
-      })();
-    })
-    .catch(function (err) {
-      console.log("error: " + err);
     });
-
-  colContainer.appendChild(quizContainermain);
-  mainContainer.appendChild(colContainer);
-  externalContainer.appendChild(mainContainer);
 };
 
 //clear selection function
 const clearSelection = (name) => {
+  console.log(name);
   const radioBtns = document.querySelectorAll(
     "input[type='radio'][name='" + name + "']"
   );
@@ -462,11 +513,17 @@ const submitAnswers = (testId) => {
         }
       }
       var roll = localStorage.getItem("rollNumber");
+      var name = localStorage.getItem("Name");
+      console.log(roll, score, name);
 
       //To save data
       $.ajax({
         url: "https://docs.google.com/forms/d/e/1FAIpQLSe8uk54G2us5M5oHTJYG8JWtH48cNyUsSOahINlc6RKom7GBw/formResponse?",
-        data: { "entry.1956923164": roll, "entry.1449291632": score },
+        data: {
+          "entry.1956923164": roll,
+          "entry.1161499829": name,
+          "entry.1449291632": score,
+        },
         type: "POST",
         dataType: "xml",
       });
