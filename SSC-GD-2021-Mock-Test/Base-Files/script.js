@@ -463,7 +463,7 @@ const startExam = (testId) => {
           break;
         } else if (i == data.length - 1) {
           if (data[i].RollNumber != rollExtract) {
-            alert("Sorry, You are not registered for any of our Mock Tests!e");
+            alert("Sorry, You are not registered for any of our Mock Test!");
             location.reload();
           }
         }
