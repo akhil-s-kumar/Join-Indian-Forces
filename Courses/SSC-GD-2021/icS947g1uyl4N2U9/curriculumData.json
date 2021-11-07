@@ -203,9 +203,15 @@
       },
       {
         "id": 19,
-        "title": "Simple & Compound Interest 01 Part 1",
+        "title": "SI & CI 01 Part 1",
         "duration": "84 Min",
         "url": "https://www.youtube-nocookie.com/embed/UA3kLYV2tjg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 20,
+        "title": "SI & CI 01 Part 2",
+        "duration": "79 Min",
+        "url": "https://www.youtube-nocookie.com/embed/FfQ5V0oOq3E?rel=0&amp;loop=1"
       }
     ]
   },
@@ -272,6 +278,36 @@
         "title": "Synonyms and Antonyms",
         "duration": "09 Min",
         "url": "https://www.youtube-nocookie.com/embed/zJ2lK5UffCM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Sentence Completion(Fillers)",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/MQ4564OkhqQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Sentence Improvement",
+        "duration": "13 Min",
+        "url": "https://www.youtube-nocookie.com/embed/g9IJxUnwALs?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "Idioms & Phrase",
+        "duration": "16 Min",
+        "url": "https://www.youtube-nocookie.com/embed/qdmbMC7ZMeA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Cloze Test",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/weUufV_-fZY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 15,
+        "title": "Comprehension",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/HOiwilvIcsA?rel=0&amp;loop=1"
       }
     ]
   },
