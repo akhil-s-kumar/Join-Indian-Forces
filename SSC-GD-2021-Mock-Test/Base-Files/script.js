@@ -148,6 +148,7 @@ const test = (testId) => {
   rollNo.className = "inputField";
   rollNo.id = "rollNumber";
   rollNo.setAttribute("onkeyup", "checkRoll()");
+  rollNo.onpaste  = e => e.preventDefault();
   cardBody.appendChild(rollNo);
   var lineBreak = document.createElement("br");
   cardBody.appendChild(lineBreak);
