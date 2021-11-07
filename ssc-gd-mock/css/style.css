@@ -175,3 +175,11 @@ footer{
         max-width: 350px;
     }
 }
+
+.checkScore .btn{
+    background-image: linear-gradient(to right, #50089C, #9B1FCC);
+    color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+}
