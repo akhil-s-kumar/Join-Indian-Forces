@@ -1,13 +1,2223 @@
 [
   {
+    "id": 4,
+    "TitleName": "SSC GD 2021 All Kerala Mock 1",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime": 90,
+    "difL": "Moderate",
+    "examStart" : "nov 07, 2021 09:00:00",
+    "examEnd" : "nov 07, 2021 10:32:00",
+    "questions":[
+      {
+        "question":"NIM: OHO :: SES : ? Replace (?), so that the second pair shares the same relation as the first pair",
+        "option":[
+          {
+            "id":1,
+            "option":"TDU"
+          },
+          {
+            "id":2,
+            "option":"TFQ"
+          },
+          {
+            "id":3,
+            "option":"RFU"
+          },
+          {
+            "id":4,
+            "option":"RDQ"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Find the option which should replace (?), so that the second pair shares the same relation as the first pair KNIFE:COOK :: ?:BOWLER",
+        "option":[
+          {
+            "id":1,
+            "option":"BAT"
+          },
+          {
+            "id":2,
+            "option":"BALL"
+          },
+          {
+            "id":3,
+            "option":"HAT"
+          },
+          {
+            "id":4,
+            "option":"PEN"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"If each of the letters in the English alphabet is assigned odd numerical value beginning A = 1, B = 3 and so on, what will the total value of the ewers for the word ‘HOTEL’ ?",
+        "option":[
+          {
+            "id":1,
+            "option":"95"
+          },
+          {
+            "id":2,
+            "option":"115"
+          },
+          {
+            "id":3,
+            "option":"125"
+          },
+          {
+            "id":4,
+            "option":"105"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"In a certain code, DESTROY is written as EDTSSNZ, then IMAGINE is written as?",
+        "option":[
+          {
+            "id":1,
+            "option":"HLCFKML"
+          },
+          {
+            "id":2,
+            "option":"JLBFJMF"
+          },
+          {
+            "id":3,
+            "option":"HKCDHNF"
+          },
+          {
+            "id":4,
+            "option":"JLCDHML"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Find the odd word from the given alternatives",
+        "option":[
+          {
+            "id":1,
+            "option":"Volt"
+          },
+          {
+            "id":2,
+            "option":"Watt"
+          },
+          {
+            "id":3,
+            "option":"Ampere"
+          },
+          {
+            "id":4,
+            "option":"Kilogram"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"14, 18, 21, 25, 28, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"32"
+          },
+          {
+            "id":2,
+            "option":"31"
+          },
+          {
+            "id":3,
+            "option":"30"
+          },
+          {
+            "id":4,
+            "option":"35"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"In a queue of students, Ramesh Position is 20 th from right and Sohan is 15 th from left side. Two students are in between them. Find the minimum and maximum number of students in queue.",
+        "option":[
+          {
+            "id":1,
+            "option":"30, 38"
+          },
+          {
+            "id":2,
+            "option":"31, 37"
+          },
+          {
+            "id":3,
+            "option":"31, 38"
+          },
+          {
+            "id":4,
+            "option":"30, 37"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Namratha walks 14 metres towards west, then turns to her right and walks 14 meters and then turns to her left and walks 10 metres. Again turning to her left she walks 14 metres. What is the shortest distance (in metres) between her starting point and her present position?",
+        "option":[
+          {
+            "id":1,
+            "option":"38 Metres"
+          },
+          {
+            "id":2,
+            "option":"28 Metres"
+          },
+          {
+            "id":3,
+            "option":"24 Metres"
+          },
+          {
+            "id":4,
+            "option":"10 Metres"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"a _ a b _ c _ c d _",
+        "option":[
+          {
+            "id":1,
+            "option":"aabd"
+          },
+          {
+            "id":2,
+            "option":"abcd"
+          },
+          {
+            "id":3,
+            "option":"accd"
+          },
+          {
+            "id":4,
+            "option":"abcc"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Arrange  `RTCELAI` into a meaningful word.",
+        "option":[
+          {
+            "id":1,
+            "option":"6, 3, 1, 7, 5, 2, 4"
+          },
+          {
+            "id":2,
+            "option":"7, 4, 1, 5, 3, 2, 6"
+          },
+          {
+            "id":3,
+            "option":"6, 4, 1, 3, 7, 2, 5"
+          },
+          {
+            "id":4,
+            "option":"6, 1, 2, 7, 3, 5, 4"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1rFVNI280vcQv6LjfdDZ_XA4KKM65rh6b",
+        "option":[
+          {
+            "id":1,
+            "option":"a"
+          },
+          {
+            "id":2,
+            "option":"b"
+          },
+          {
+            "id":3,
+            "option":"c"
+          },
+          {
+            "id":4,
+            "option":"d"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1adBXrCWy9_RBFgW6Su3gkVUn8EFQ2Smy",
+        "option":[
+          {
+            "id":1,
+            "option":"a"
+          },
+          {
+            "id":2,
+            "option":"b"
+          },
+          {
+            "id":3,
+            "option":"c"
+          },
+          {
+            "id":4,
+            "option":"d"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"A is the son of B. C is the granddaughter of D, who in turn is the husband of B. How is D related to A ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Father"
+          },
+          {
+            "id":2,
+            "option":"Cousin"
+          },
+          {
+            "id":3,
+            "option":"Mother"
+          },
+          {
+            "id":4,
+            "option":"Brother"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"‘A’ is the sister of ‘B’. ‘B’ is married to ‘D’. ‘B’ and ‘D’ have a daughter ‘G’. How is ‘G’ related to ‘A’?",
+        "option":[
+          {
+            "id":1,
+            "option":"Sister"
+          },
+          {
+            "id":2,
+            "option":"Daughter"
+          },
+          {
+            "id":3,
+            "option":"Niece"
+          },
+          {
+            "id":4,
+            "option":"Cousin"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1qOOg-xDiEEJQBZbNVw1zZxEt7uqhF8PQ",
+        "option":[
+          {
+            "id":1,
+            "option":"a"
+          },
+          {
+            "id":2,
+            "option":"b"
+          },
+          {
+            "id":3,
+            "option":"c"
+          },
+          {
+            "id":4,
+            "option":"d"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Find the odd Word from the given alternatives",
+        "option":[
+          {
+            "id":1,
+            "option":"SMS"
+          },
+          {
+            "id":2,
+            "option":"Speed Post"
+          },
+          {
+            "id":3,
+            "option":"Money Order"
+          },
+          {
+            "id":4,
+            "option":"Letter"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"4:19 :: 7:?",
+        "option":[
+          {
+            "id":1,
+            "option":"52"
+          },
+          {
+            "id":2,
+            "option":"68"
+          },
+          {
+            "id":3,
+            "option":"28"
+          },
+          {
+            "id":4,
+            "option":"49"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"If 2 = 0, 3 = 3, 4 = 6, 5 = 9, then 8 = ?",
+        "option":[
+          {
+            "id":1,
+            "option":"16"
+          },
+          {
+            "id":2,
+            "option":"12"
+          },
+          {
+            "id":3,
+            "option":"18"
+          },
+          {
+            "id":4,
+            "option":"15"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1RrzodZzGkY7XsJqG_WWG0SvzOTud1-Ut",
+        "option":[
+          {
+            "id":1,
+            "option":"16"
+          },
+          {
+            "id":2,
+            "option":"13"
+          },
+          {
+            "id":3,
+            "option":"9"
+          },
+          {
+            "id":4,
+            "option":"7"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1ULecOzaUtvLZoJ4dPO9OAxw0cOlJgtAb",
+        "option":[
+          {
+            "id":1,
+            "option":"a"
+          },
+          {
+            "id":2,
+            "option":"b"
+          },
+          {
+            "id":3,
+            "option":"c"
+          },
+          {
+            "id":4,
+            "option":"d"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Arrange 1. 'Ocean', 2. 'Pond', 3. 'River', 4. 'Sea' in a Logical sequence of words",
+        "option":[
+          {
+            "id":1,
+            "option":"1, 3, 2, 4"
+          },
+          {
+            "id":2,
+            "option":"2, 3, 4, 1"
+          },
+          {
+            "id":3,
+            "option":"3, 2, 1, 4"
+          },
+          {
+            "id":4,
+            "option":"4, 1, 3, 2"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"'STOVE' is coded as 'EVOTS' and 'CANDLE' is coded as 'ELDNAC' then 'REPORT' is coded as?",
+        "option":[
+          {
+            "id":1,
+            "option":"QDONQS"
+          },
+          {
+            "id":2,
+            "option":"SEQPSU"
+          },
+          {
+            "id":3,
+            "option":"PORTRE"
+          },
+          {
+            "id":4,
+            "option":"TROPER"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"'÷' stands for '×', '×' stands '-', '-' stands for '+' and '+' stands for '÷' then 48 + 6 - 12 ÷ 2 + 10 = ?(Do chronologically and not using BODMAS rule)",
+        "option":[
+          {
+            "id":1,
+            "option":"14"
+          },
+          {
+            "id":2,
+            "option":"16"
+          },
+          {
+            "id":3,
+            "option":"9"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1dGtSOGdpLtNZHxdPuGOvjr8tiMi1JiUP",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"6"
+          },
+          {
+            "id":3,
+            "option":"5"
+          },
+          {
+            "id":4,
+            "option":"10"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"0.15, 0.3, ?, 1.2, 2.4",
+        "option":[
+          {
+            "id":1,
+            "option":"4.8"
+          },
+          {
+            "id":2,
+            "option":"0.6"
+          },
+          {
+            "id":3,
+            "option":"0.06"
+          },
+          {
+            "id":4,
+            "option":"0.9"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The term 'URL' used in internet technology stands for?",
+        "option":[
+          {
+            "id":1,
+            "option":"Unique Remote Locator"
+          },
+          {
+            "id":2,
+            "option":"Unique Resource Locator"
+          },
+          {
+            "id":3,
+            "option":"Uniform Remote Locator"
+          },
+          {
+            "id":4,
+            "option":"Uniform Resource Locator"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Chemical composition of Heavy water",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(D_{2}O\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(H_{2}O_{2}\\)"
+          },
+          {
+            "id":3,
+            "option":"HDO"
+          },
+          {
+            "id":4,
+            "option":"\\(H_{2}O\\)"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The element used for making Solar cell is",
+        "option":[
+          {
+            "id":1,
+            "option":"Magnesium"
+          },
+          {
+            "id":2,
+            "option":"Sodium"
+          },
+          {
+            "id":3,
+            "option":"Calcium"
+          },
+          {
+            "id":4,
+            "option":"Silicon"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"The place where the computer stores programs and data is called",
+        "option":[
+          {
+            "id":1,
+            "option":"Backup"
+          },
+          {
+            "id":2,
+            "option":"Memory"
+          },
+          {
+            "id":3,
+            "option":"Storagehouse"
+          },
+          {
+            "id":4,
+            "option":"Storage Unit"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Vitamin C is known as",
+        "option":[
+          {
+            "id":1,
+            "option":"Amino Acid"
+          },
+          {
+            "id":2,
+            "option":"Ascorbic Acid"
+          },
+          {
+            "id":3,
+            "option":"Acetic Acid"
+          },
+          {
+            "id":4,
+            "option":"Azelaic Acid"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Karif crops can be described as the crops which are sown with the beginning of the _________ season",
+        "option":[
+          {
+            "id":1,
+            "option":"Winter"
+          },
+          {
+            "id":2,
+            "option":"Summer"
+          },
+          {
+            "id":3,
+            "option":"Spring"
+          },
+          {
+            "id":4,
+            "option":"Rainy"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Shooting stars are known as",
+        "option":[
+          {
+            "id":1,
+            "option":"Commet"
+          },
+          {
+            "id":2,
+            "option":"Asteroids"
+          },
+          {
+            "id":3,
+            "option":"Meteors"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"when was the office of district collector created?",
+        "option":[
+          {
+            "id":1,
+            "option":"1786"
+          },
+          {
+            "id":2,
+            "option":"1773"
+          },
+          {
+            "id":3,
+            "option":"1772"
+          },
+          {
+            "id":4,
+            "option":"1771"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"On which one of the following rivers, the Indo-Pak Bagalihar project is located?",
+        "option":[
+          {
+            "id":1,
+            "option":"Chenab"
+          },
+          {
+            "id":2,
+            "option":"Jhelum"
+          },
+          {
+            "id":3,
+            "option":"Beas"
+          },
+          {
+            "id":4,
+            "option":"Sutlej"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Who wrote the famous novel 'The Guide'",
+        "option":[
+          {
+            "id":1,
+            "option":"R.K Narayanan"
+          },
+          {
+            "id":2,
+            "option":"Chetan Bhagat"
+          },
+          {
+            "id":3,
+            "option":"Arundhati Roy"
+          },
+          {
+            "id":4,
+            "option":"Satyajith Ray"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which country has launched the military communication satellite 'Syracuse 4A'",
+        "option":[
+          {
+            "id":1,
+            "option":"France"
+          },
+          {
+            "id":2,
+            "option":"China"
+          },
+          {
+            "id":3,
+            "option":"Japan"
+          },
+          {
+            "id":4,
+            "option":"Russia"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Facebook company has changed its's name to what name",
+        "option":[
+          {
+            "id":1,
+            "option":"Beta"
+          },
+          {
+            "id":2,
+            "option":"Meta"
+          },
+          {
+            "id":3,
+            "option":"Dyme"
+          },
+          {
+            "id":4,
+            "option":"Crypto"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"What is the rank of India in the 'Global Climate tech investment trends Report 2021'",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(5^{th}\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(9^{th}\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(12^{th}\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(18^{th}\\)"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Who won India’s first gold medal in the track and field event in the Olympics?",
+        "option":[
+          {
+            "id":1,
+            "option":"Abhinav Bindra"
+          },
+          {
+            "id":2,
+            "option":"Neeraj Chopra"
+          },
+          {
+            "id":3,
+            "option":"Bajrang Punia"
+          },
+          {
+            "id":4,
+            "option":"Norman Pritchard"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The land-attack version of which missile was test-fired in the Andaman and Nicobar?",
+        "option":[
+          {
+            "id":1,
+            "option":"BrahMos"
+          },
+          {
+            "id":2,
+            "option":"Prithvi- III"
+          },
+          {
+            "id":3,
+            "option":"Agni- III"
+          },
+          {
+            "id":4,
+            "option":"Dhanush"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Prithvi-2 ballistic missiles, which were recently test-fired were manufactured by which organisation?",
+        "option":[
+          {
+            "id":1,
+            "option":"DRDO"
+          },
+          {
+            "id":2,
+            "option":"GRSE"
+          },
+          {
+            "id":3,
+            "option":"L&T"
+          },
+          {
+            "id":4,
+            "option":"OFB"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The country’s first advanced Hypersonic Wind Tunnel (HWT) test facility was inaugurated in which city?",
+        "option":[
+          {
+            "id":1,
+            "option":"Bangalore"
+          },
+          {
+            "id":2,
+            "option":"Hyderabad"
+          },
+          {
+            "id":3,
+            "option":"Cochin"
+          },
+          {
+            "id":4,
+            "option":"Noida"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Who is the current Director General of Border Security Force?",
+        "option":[
+          {
+            "id":1,
+            "option":"V.K. Johri"
+          },
+          {
+            "id":2,
+            "option":"Rakesh Asthana"
+          },
+          {
+            "id":3,
+            "option":"Surjeet Singh Deswal"
+          },
+          {
+            "id":4,
+            "option":"Pankaj Kumar Singh"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Joe Biden took oath as the _____ President of the United States of America",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(44^{th}\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(45^{th}\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(46^{th}\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(47^{th}\\)"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Which state government decided to start world’s largest floating solar project by 2023?",
+        "option":[
+          {
+            "id":1,
+            "option":"Tamil Nadu"
+          },
+          {
+            "id":2,
+            "option":"West Bengal"
+          },
+          {
+            "id":3,
+            "option":"Karnataka"
+          },
+          {
+            "id":4,
+            "option":"Madhya Pradesh"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which was the port city of Indus Valley Civilization?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kalibanga"
+          },
+          {
+            "id":2,
+            "option":"Kot Diji"
+          },
+          {
+            "id":3,
+            "option":"Lothal"
+          },
+          {
+            "id":4,
+            "option":"Mohenjodaro"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Which metal was known to Neolithic people?",
+        "option":[
+          {
+            "id":1,
+            "option":"Silver"
+          },
+          {
+            "id":2,
+            "option":"Gold"
+          },
+          {
+            "id":3,
+            "option":"Copper"
+          },
+          {
+            "id":4,
+            "option":"Bronze"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Which planet is known as red planet",
+        "option":[
+          {
+            "id":1,
+            "option":"Saturn"
+          },
+          {
+            "id":2,
+            "option":"Uranus"
+          },
+          {
+            "id":3,
+            "option":"Mars"
+          },
+          {
+            "id":4,
+            "option":"Jupiter"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Molten matter, inside the earth is known as",
+        "option":[
+          {
+            "id":1,
+            "option":"Coarse grained material"
+          },
+          {
+            "id":2,
+            "option":"Magma"
+          },
+          {
+            "id":3,
+            "option":"Liquid material"
+          },
+          {
+            "id":4,
+            "option":"Volcanic matter"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"When was the First General Election to the Lok Sabha held?",
+        "option":[
+          {
+            "id":1,
+            "option":"1950-51"
+          },
+          {
+            "id":2,
+            "option":"1951-52"
+          },
+          {
+            "id":3,
+            "option":"1952-53"
+          },
+          {
+            "id":4,
+            "option":"1956-57"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The ratio of ages of two person is 5:9 and the age of one of them is greater than the other by 40 years. The sum of their ages in year is",
+        "option":[
+          {
+            "id":1,
+            "option":"140"
+          },
+          {
+            "id":2,
+            "option":"180"
+          },
+          {
+            "id":3,
+            "option":"150"
+          },
+          {
+            "id":4,
+            "option":"160"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Two numbers are in ratio 5 : 8. If their difference is 48, then the smallest number is",
+        "option":[
+          {
+            "id":1,
+            "option":"96"
+          },
+          {
+            "id":2,
+            "option":"80"
+          },
+          {
+            "id":3,
+            "option":"64"
+          },
+          {
+            "id":4,
+            "option":"128"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"\\(1+ {1 \\over {1+{1 \\over 5}}}\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(11 \\over 6\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(13 \\over 6\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(15 \\over 6\\)"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Simplyfy \\((1+ {1 \\over 4})(1- {1 \\over 4})(1+ {1 \\over 5})(1- {1 \\over 5})(1+ {1 \\over 6})(1- {1 \\over 6})\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(3 \\over 8\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(5 \\over 8\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(7 \\over 8\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(1 \\over 8\\)"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Ram went to a market and bought one copy of a Mathematics book and two pencil for ₹ 165. rahim went to the same market and bought another copy of the same book and ten pencil of the same brand for ₹ 169. The price of each pencil was",
+        "option":[
+          {
+            "id":1,
+            "option":"₹ 0.50"
+          },
+          {
+            "id":2,
+            "option":"₹ 1"
+          },
+          {
+            "id":3,
+            "option":"₹ 0.75"
+          },
+          {
+            "id":4,
+            "option":"₹ 2"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"If the cost of an article is ₹ P after two successive reduction of 20% and 25%, the original price of the article was",
+        "option":[
+          {
+            "id":1,
+            "option":"\\({4P} \\over 5\\)"
+          },
+          {
+            "id":2,
+            "option":"\\({5P} \\over 4\\)"
+          },
+          {
+            "id":3,
+            "option":"\\({5P} \\over 3\\)"
+          },
+          {
+            "id":4,
+            "option":"\\({3P} \\over 5\\)"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"By selling a car for ₹ 156600 a person suffers a 13% loss. What was his loss?",
+        "option":[
+          {
+            "id":1,
+            "option":"₹ 20358"
+          },
+          {
+            "id":2,
+            "option":"₹ 23400"
+          },
+          {
+            "id":3,
+            "option":"₹ 136242"
+          },
+          {
+            "id":4,
+            "option":"₹ 18016"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"A sum of money amounts to ₹ 6690 after 3 years and to ₹ 10035 after 6 years on compound interest. The sum is",
+        "option":[
+          {
+            "id":1,
+            "option":"₹ 4460"
+          },
+          {
+            "id":2,
+            "option":"₹ 3650"
+          },
+          {
+            "id":3,
+            "option":"₹ 4535"
+          },
+          {
+            "id":4,
+            "option":"₹ 2800"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"A certain sum amounts to ₹ 1725 at 15% per annum at simple interest and ₹ 1800 in the same time at 20% per annum at simple interest. Find the sum.",
+        "option":[
+          {
+            "id":1,
+            "option":"₹ 1650"
+          },
+          {
+            "id":2,
+            "option":"₹ 1200"
+          },
+          {
+            "id":3,
+            "option":"₹ 1700"
+          },
+          {
+            "id":4,
+            "option":"₹ 1500"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"If 90% of \\(x\\) is 315 Km, then the value of \\(x\\) is",
+        "option":[
+          {
+            "id":1,
+            "option":"325 Km"
+          },
+          {
+            "id":2,
+            "option":"350 Km"
+          },
+          {
+            "id":3,
+            "option":"405 Km"
+          },
+          {
+            "id":4,
+            "option":"340 Km"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The length of the longest pole that can be placed in a romm of 12m long, 8m broad, 9m high is",
+        "option":[
+          {
+            "id":1,
+            "option":"12m"
+          },
+          {
+            "id":2,
+            "option":"17m"
+          },
+          {
+            "id":3,
+            "option":"19m"
+          },
+          {
+            "id":4,
+            "option":"21m"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The area of a rhombus is \\(240~cm^2\\) and one of the diagonal is 16 cm. Find another diagonal in cm.",
+        "option":[
+          {
+            "id":1,
+            "option":"3 cm"
+          },
+          {
+            "id":2,
+            "option":"13 cm"
+          },
+          {
+            "id":3,
+            "option":"30 cm"
+          },
+          {
+            "id":4,
+            "option":"33 cm"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1giw95q_jPoORZoA1RWA779H65QaBHJbY",
+        "option":[
+          {
+            "id":1,
+            "option":"2"
+          },
+          {
+            "id":2,
+            "option":"3"
+          },
+          {
+            "id":3,
+            "option":"4"
+          },
+          {
+            "id":4,
+            "option":"1"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Total number of units manufactured by Apple is how much percent less than the total number of units manufactured by samsung ?",
+        "option":[
+          {
+            "id":1,
+            "option":"52.85%"
+          },
+          {
+            "id":2,
+            "option":"57.14%"
+          },
+          {
+            "id":3,
+            "option":"28.57%"
+          },
+          {
+            "id":4,
+            "option":"42.85%"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"What is the average of total number of units manufactured by nokia, honor and samsung ?",
+        "option":[
+          {
+            "id":1,
+            "option":"33"
+          },
+          {
+            "id":2,
+            "option":"35"
+          },
+          {
+            "id":3,
+            "option":"34"
+          },
+          {
+            "id":4,
+            "option":"36"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The speed of two cars are in the ratio 5 : 4. The ratio between the times taken by them to travel the same distance is",
+        "option":[
+          {
+            "id":1,
+            "option":"5 : 4"
+          },
+          {
+            "id":2,
+            "option":"6 : 4"
+          },
+          {
+            "id":3,
+            "option":"6 : 5"
+          },
+          {
+            "id":4,
+            "option":"4 : 5"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"A man rows a boat 18 Km in 4 hours downstream and return upstream in 12 hours. The speed of stream in (Km/h) is",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"1.5"
+          },
+          {
+            "id":3,
+            "option":"2"
+          },
+          {
+            "id":4,
+            "option":"1.75"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The sum of all those prime numbers which are not greater than 17 is",
+        "option":[
+          {
+            "id":1,
+            "option":"59"
+          },
+          {
+            "id":2,
+            "option":"58"
+          },
+          {
+            "id":3,
+            "option":"41"
+          },
+          {
+            "id":4,
+            "option":"42"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The decimal fraction \\(2.3\\bar {49}\\) is equal to",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(2326 \\over 999 \\)"
+          },
+          {
+            "id":2,
+            "option":"\\(2326 \\over 990 \\)"
+          },
+          {
+            "id":3,
+            "option":"\\(2347 \\over 999 \\)"
+          },
+          {
+            "id":4,
+            "option":"\\(2347 \\over 990 \\)"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The sum of all even number from 1 to 60 is",
+        "option":[
+          {
+            "id":1,
+            "option":"870"
+          },
+          {
+            "id":2,
+            "option":"960"
+          },
+          {
+            "id":3,
+            "option":"840"
+          },
+          {
+            "id":4,
+            "option":"930"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"The LCM of two number is 520 and their HCF is 4. If one of the number is 52, then the other number is",
+        "option":[
+          {
+            "id":1,
+            "option":"40"
+          },
+          {
+            "id":2,
+            "option":"42"
+          },
+          {
+            "id":3,
+            "option":"50"
+          },
+          {
+            "id":4,
+            "option":"52"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The simplified value of \\(\\sqrt {0.25 \\times 2.25} \\) ?",
+        "option":[
+          {
+            "id":1,
+            "option":"0.075"
+          },
+          {
+            "id":2,
+            "option":"0.705"
+          },
+          {
+            "id":3,
+            "option":"0.750"
+          },
+          {
+            "id":4,
+            "option":"7.500"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"\\( \\sqrt {64} - \\sqrt {36} \\) is equal to",
+        "option":[
+          {
+            "id":1,
+            "option":"-2"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"0"
+          },
+          {
+            "id":4,
+            "option":"1"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Some person can do a piece of work in 12 days. Two times the number of such persons will do half of the work in",
+        "option":[
+          {
+            "id":1,
+            "option":"9 days"
+          },
+          {
+            "id":2,
+            "option":"6 days"
+          },
+          {
+            "id":3,
+            "option":"5 days"
+          },
+          {
+            "id":4,
+            "option":"3 days"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"A triangle ABC has lengths AB = 10 cm, BC = 9 cm and CA = 8 cm. What is the length of the median BD?",
+        "option":[
+          {
+            "id":1,
+            "option":"\\( \\sqrt {74.5} \\)"
+          },
+          {
+            "id":2,
+            "option":"\\( \\sqrt {84.5} \\)"
+          },
+          {
+            "id":3,
+            "option":"\\( \\sqrt {64.5} \\)"
+          },
+          {
+            "id":4,
+            "option":"\\( \\sqrt {54.5} \\)"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"<strong>Read the given passage carefully and select the best answer to each question out of the four given alternatives.</strong> <br><br> Vedanta summarises the metaphysics of the Upanishads, a clutch of Sanskrit religious texts, likely written between 800 and 500 BCE. They form the basis for the many philosophical, spiritual and mystical traditions of the Indian sub-continent. The Upanishads were also a source of inspiration for some modern scientists, including Albert Einstein, Erwin Schrödinger and Werner Heisenberg, as they struggled to comprehend quantum physics of the 20th century. <br><br>The Vedantic quest for understanding begins from what it considers the logical starting point: our own consciousness. How can we trust conclusions about what we observe and analyse unless we understand what is doing the observation and analysis? The progress of AI, neural nets and deep learning have inclined some modern observers to claim that the human mind is merely an intricate organic processing machine – and consciousness, if it exists at all, might simply be a property that emerges from information complexity. However, this view fails to explain intractable issues such as the subjective self and our experience of qualia, those aspects of mental content such as ‘redness’ or ‘sweetness’ that we experience during conscious awareness. Figuring out how matter can produce phenomenal consciousness remains the so-called ‘hard problem’. <br><br> Which of the following do we experience during conscious awareness?",
+        "option":[
+          {
+            "id":1,
+            "option":"farsightedness"
+          },
+          {
+            "id":2,
+            "option":"laziness"
+          },
+          {
+            "id":3,
+            "option":"brightness"
+          },
+          {
+            "id":4,
+            "option":"kindness"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Which of the following is true as per the passage?",
+        "option":[
+          {
+            "id":1,
+            "option":"Vedanta gives importance to consciousness."
+          },
+          {
+            "id":2,
+            "option":"Modern observers give importance to consciousness."
+          },
+          {
+            "id":3,
+            "option":"Vedanta does not give importance to consciousness."
+          },
+          {
+            "id":4,
+            "option":"Both Vedanta and modern observers give importance to consciousness."
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"What is the meaning of the word ‘intricate’?",
+        "option":[
+          {
+            "id":1,
+            "option":"helpful"
+          },
+          {
+            "id":2,
+            "option":"complicated"
+          },
+          {
+            "id":3,
+            "option":"neccessary"
+          },
+          {
+            "id":4,
+            "option":"relevant"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"What does ‘they’ refer to in the line “They form the basis for the many philosophical, spiritual and mystical traditions of the Indian sub-continent.”",
+        "option":[
+          {
+            "id":1,
+            "option":"Upanishads"
+          },
+          {
+            "id":2,
+            "option":"Vedanta"
+          },
+          {
+            "id":3,
+            "option":"Religious Texts"
+          },
+          {
+            "id":4,
+            "option":"Metaphysics"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which of the following scientists made a significant contribution to the Upanishads?",
+        "option":[
+          {
+            "id":1,
+            "option":"Albert Einstein and Erwin Schrödinger only"
+          },
+          {
+            "id":2,
+            "option":"Erwin Schrödinger and Werner Heisenberg only"
+          },
+          {
+            "id":3,
+            "option":"Albert Einstein, Erwin Schrödinger, and Werner Heisenberg"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Find the correctly spelt word",
+        "option":[
+          {
+            "id":1,
+            "option":"Dictionery"
+          },
+          {
+            "id":2,
+            "option":"Dectionary"
+          },
+          {
+            "id":3,
+            "option":"Dictionary"
+          },
+          {
+            "id":4,
+            "option":"Dictienary"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"choose a word opposite to 'Fragile'",
+        "option":[
+          {
+            "id":1,
+            "option":"Discard"
+          },
+          {
+            "id":2,
+            "option":"Weak"
+          },
+          {
+            "id":3,
+            "option":"Brittle"
+          },
+          {
+            "id":4,
+            "option":"Strong"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Choose a word alternative to 'Obstruction'",
+        "option":[
+          {
+            "id":1,
+            "option":"Encouragement"
+          },
+          {
+            "id":2,
+            "option":"Disapproval"
+          },
+          {
+            "id":3,
+            "option":"Hindrance"
+          },
+          {
+            "id":4,
+            "option":"Assistance"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Find the word which is either wrongly spelt or correctly spelt",
+        "option":[
+          {
+            "id":1,
+            "option":"Eficient"
+          },
+          {
+            "id":2,
+            "option":"Horrible"
+          },
+          {
+            "id":3,
+            "option":"Insignificant"
+          },
+          {
+            "id":4,
+            "option":"Barren"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Choose the word which can be substituted for the given sentence 'To exmine ones to own toughts and feelings'",
+        "option":[
+          {
+            "id":1,
+            "option":"Introspection"
+          },
+          {
+            "id":2,
+            "option":"Retrospection"
+          },
+          {
+            "id":3,
+            "option":"Euthanasia"
+          },
+          {
+            "id":4,
+            "option":"Circumspection"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Spot the error: 'He walks as if the Earth belonged to him.'",
+        "option":[
+          {
+            "id":1,
+            "option":"He walks"
+          },
+          {
+            "id":2,
+            "option":"as if the Earth"
+          },
+          {
+            "id":3,
+            "option":"belonged to him"
+          },
+          {
+            "id":4,
+            "option":"No error"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"This is our house and that is __________",
+        "option":[
+          {
+            "id":1,
+            "option":"their"
+          },
+          {
+            "id":2,
+            "option":"theirs"
+          },
+          {
+            "id":3,
+            "option":"them"
+          },
+          {
+            "id":4,
+            "option":"their's"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Spot the Error: 'Human nature is more or less the same in India likewise in Europe.'",
+        "option":[
+          {
+            "id":1,
+            "option":"Human nature is more or less"
+          },
+          {
+            "id":2,
+            "option":"the same in India"
+          },
+          {
+            "id":3,
+            "option":"likewise in Europe"
+          },
+          {
+            "id":4,
+            "option":"No error"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Spot the Error: 'Since my mother was angry so I did not utter a word'",
+        "option":[
+          {
+            "id":1,
+            "option":"Since my mother"
+          },
+          {
+            "id":2,
+            "option":"was angry so"
+          },
+          {
+            "id":3,
+            "option":"I did not utter a word"
+          },
+          {
+            "id":4,
+            "option":"No error"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"His appoinment may _________ some new life into the committee.",
+        "option":[
+          {
+            "id":1,
+            "option":"Increase"
+          },
+          {
+            "id":2,
+            "option":"Inject"
+          },
+          {
+            "id":3,
+            "option":"Infect"
+          },
+          {
+            "id":4,
+            "option":"Insure"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Rita _________ her cooking last night.",
+        "option":[
+          {
+            "id":1,
+            "option":"does not do"
+          },
+          {
+            "id":2,
+            "option":"did not do"
+          },
+          {
+            "id":3,
+            "option":"will not do"
+          },
+          {
+            "id":4,
+            "option":"would not do"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"In the given question a sentence/part of sentence has been undelined. Below options are alternatives which may improve the underlined part. Choose the correct alternative. <br><br> Two negatives destroy <u>one another.</u>",
+        "option":[
+          {
+            "id":1,
+            "option":"each other"
+          },
+          {
+            "id":2,
+            "option":"themselves"
+          },
+          {
+            "id":3,
+            "option":"with one another"
+          },
+          {
+            "id":4,
+            "option":"No improvement"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"In the following questions four alternatives are given for the Idiom/Phrase underlined in the sentence. Choose the alternative which best expresses the meaning of the given Idiom/Phrase. <br><br> <u>To break the ice</u>",
+        "option":[
+          {
+            "id":1,
+            "option":"To start doubting"
+          },
+          {
+            "id":2,
+            "option":"To start a quarrel"
+          },
+          {
+            "id":3,
+            "option":"To start a conversation"
+          },
+          {
+            "id":4,
+            "option":"To break a friendship"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"<u>Touch and go</u>",
+        "option":[
+          {
+            "id":1,
+            "option":"A desired outcome possible but very uncertain"
+          },
+          {
+            "id":2,
+            "option":"A venture started secretly"
+          },
+          {
+            "id":3,
+            "option":"Participate in time restraining activities"
+          },
+          {
+            "id":4,
+            "option":"Waste of time"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"<u>Not my cup of tea</u>",
+        "option":[
+          {
+            "id":1,
+            "option":"A refreshing drink"
+          },
+          {
+            "id":2,
+            "option":"A routine work"
+          },
+          {
+            "id":3,
+            "option":"Not what I like"
+          },
+          {
+            "id":4,
+            "option":"Not liked by me"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"<strong>Read the following passage and fill in each blank with words chosen from options given.</strong> <br><br> John is a salesman. He goes from door to door (A)______ vacuum cleaners. On his first day of work, he decided to sell his goods by knocking on the doors of a private housing estate. “My first (B)______ ,” he thought as he pressed the doorbell of the first house. A middle-aged woman with curlers in her hair opened the door. John began to explain who he was and the (C)______ he was selling. The next minute, the door was (D)______ . “Not interested !” John heard her shout (E)______ the closed door. <br><br>Which of these words most appropriately fits the blank labelled (A)?",
+        "option":[
+          {
+            "id":1,
+            "option":"Purchasing"
+          },
+          {
+            "id":2,
+            "option":"Buying"
+          },
+          {
+            "id":3,
+            "option":"Gifting"
+          },
+          {
+            "id":4,
+            "option":"Selling"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Which of these words most appropriately fits the blank labelled (B)?",
+        "option":[
+          {
+            "id":1,
+            "option":"seller"
+          },
+          {
+            "id":2,
+            "option":"customer"
+          },
+          {
+            "id":3,
+            "option":"guest"
+          },
+          {
+            "id":4,
+            "option":"purchaser"
+          }
+        ],
+        "answer":2
+      },{
+        "question":"Which of these words most appropriately fits the blank labelled (C)?",
+        "option":[
+          {
+            "id":1,
+            "option":"things"
+          },
+          {
+            "id":2,
+            "option":"resource"
+          },
+          {
+            "id":3,
+            "option":"items"
+          },
+          {
+            "id":4,
+            "option":"product"
+          }
+        ],
+        "answer":4
+      },{
+        "question":"Which of these words most appropriately fits the blank labelled (D)?",
+        "option":[
+          {
+            "id":1,
+            "option":"shut"
+          },
+          {
+            "id":2,
+            "option":"close down"
+          },
+          {
+            "id":3,
+            "option":"close"
+          },
+          {
+            "id":4,
+            "option":"drop"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which of these words most appropriately fits the blank labelled (E)?",
+        "option":[
+          {
+            "id":1,
+            "option":"below"
+          },
+          {
+            "id":2,
+            "option":"beyond"
+          },
+          {
+            "id":3,
+            "option":"behind"
+          },
+          {
+            "id":4,
+            "option":"after"
+          }
+        ],
+        "answer":3
+      }
+    ]
+  },
+  {
     "id": 3,
     "TitleName": "Mock Test 2 Mathematics",
     "noQ": 10,
     "maxS": 10,
-    "maxTime": 3,
+    "maxTime": 10,
     "difL": "Easy",
     "examStart" : "nov 5, 2021 14:45:00",
-    "examEnd" : "nov 5, 2021 14:50:00",
+    "examEnd" : "nov 5, 2021 14:57:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
@@ -468,10 +2678,10 @@
     "TitleName": "Mock Test 1 Mathematics",
     "noQ": 5,
     "maxS": 5,
-    "maxTime":12,
+    "maxTime":5,
     "difL": "Easy",
     "examStart" : "sep 19, 2021 10:05:00",
-    "examEnd" : "sep 19, 2021 10:20:00",
+    "examEnd" : "sep 19, 2021 10:10:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
