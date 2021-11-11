@@ -1,5 +1,2215 @@
 [
   {
+    "id": 5,
+    "TitleName": "SSC GD 2021 All Kerala Mock 2",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime": 90,
+    "difL": "Moderate",
+    "examStart" : "nov 11, 2021 21:00:00",
+    "examEnd" : "nov 11, 2021 22:32:00",
+    "questions":[
+      {
+        "question":"Directions (Q.Nos. 1-4) Select the related words/letters/numbers from the given alternatives<br>Post office : Envelope :: Bank: ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Account"
+          },
+          {
+            "id":2,
+            "option":"Money"
+          },
+          {
+            "id":3,
+            "option":"Cheque"
+          },
+          {
+            "id":4,
+            "option":"Manager"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Paisa: Rupee :: ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kilogram : Quintal"
+          },
+          {
+            "id":2,
+            "option":"Metre : Centimetre"
+          },
+          {
+            "id":3,
+            "option":"Coin : Money"
+          },
+          {
+            "id":4,
+            "option":"Weight: Tonne"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"25:37::49:?",
+        "option":[
+          {
+            "id":1,
+            "option":"41"
+          },
+          {
+            "id":2,
+            "option":"56"
+          },
+          {
+            "id":3,
+            "option":"60"
+          },
+          {
+            "id":4,
+            "option":"65"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"CAT :DDY :: BIG :?",
+        "option":[
+          {
+            "id":1,
+            "option":"CLL"
+          },
+          {
+            "id":2,
+            "option":"CLM"
+          },
+          {
+            "id":3,
+            "option":"CML"
+          },
+          {
+            "id":4,
+            "option":"CEP"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Select the one which is different from the other three responses.",
+        "option":[
+          {
+            "id":1,
+            "option":"BdE"
+          },
+          {
+            "id":2,
+            "option":"XpD"
+          },
+          {
+            "id":3,
+            "option":"HQu"
+          },
+          {
+            "id":4,
+            "option":"MkV"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Select the one which is different from the other three responses.",
+        "option":[
+          {
+            "id":1,
+            "option":"22, 4, 5"
+          },
+          {
+            "id":2,
+            "option":"34, 4, 8"
+          },
+          {
+            "id":3,
+            "option":"37, 4, 9"
+          },
+          {
+            "id":4,
+            "option":"54, 4, 13"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Select the one which is different from the other three responses.",
+        "option":[
+          {
+            "id":1,
+            "option":"Sparrow"
+          },
+          {
+            "id":2,
+            "option":"Swan"
+          },
+          {
+            "id":3,
+            "option":"Parrot"
+          },
+          {
+            "id":4,
+            "option":"Koel"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Directions (Q.Nos. 8 and 9) In each of the following series find the missing term.<br>GH, JL, NQ, SW, YD, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"EJ"
+          },
+          {
+            "id":2,
+            "option":"FJ"
+          },
+          {
+            "id":3,
+            "option":"EL"
+          },
+          {
+            "id":4,
+            "option":"FL"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"3,7,15,?,63, 127",
+        "option":[
+          {
+            "id":1,
+            "option":"30"
+          },
+          {
+            "id":2,
+            "option":"31"
+          },
+          {
+            "id":3,
+            "option":"47"
+          },
+          {
+            "id":4,
+            "option":"52"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Select the word which cannot be formed from the letters of the original word 'CONSOLIDATE'",
+        "option":[
+          {
+            "id":1,
+            "option":"LENTIL"
+          },
+          {
+            "id":2,
+            "option":"SLAIN"
+          },
+          {
+            "id":3,
+            "option":"CONDOLE"
+          },
+          {
+            "id":4,
+            "option":"DETAIL"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"If SHIFT is coded as RFFBO, which word would be coded as LKUMB?",
+        "option":[
+          {
+            "id":1,
+            "option":"MMXQG"
+          },
+          {
+            "id":2,
+            "option":"MLVNC"
+          },
+          {
+            "id":3,
+            "option":"KJVLA"
+          },
+          {
+            "id":4,
+            "option":"MJVLC "
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"If 5 x 3 x 9 = 395; 9 x 7 x 5 = 759, then 7 x 6 x 4 =?",
+        "option":[
+          {
+            "id":1,
+            "option":"676"
+          },
+          {
+            "id":2,
+            "option":"476"
+          },
+          {
+            "id":3,
+            "option":"647"
+          },
+          {
+            "id":4,
+            "option":"764"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"If x means +, + means ÷, - means x, and ÷ means -, then 8 x 7 - 8 + 40 ÷ 2 is equal to",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"\\(7 {2 \\over 5}\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(8 {3 \\over 5}\\)"
+          },
+          {
+            "id":4,
+            "option":"44"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1f8Ri1kwshvWKAHuI47SxcJ-3bR-6mXQL",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1wRINDiShuf4e1FYbHRC-F7ZFdUtsovkI",
+        "option":[
+          {
+            "id":1,
+            "option":"585"
+          },
+          {
+            "id":2,
+            "option":"577"
+          },
+          {
+            "id":3,
+            "option":"755"
+          },
+          {
+            "id":4,
+            "option":"775"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which one of the given responses would be a meaningful order the following.<br>1. Table 2. Tree 3. Wood 4. Seed 5. Plant",
+        "option":[
+          {
+            "id":1,
+            "option":"4, 5, 3, 2, 1"
+          },
+          {
+            "id":2,
+            "option":"4, 5, 2, 3, 1"
+          },
+          {
+            "id":3,
+            "option":"1, 3, 2, 4, 5"
+          },
+          {
+            "id":4,
+            "option":"1, 2, 3, 4, 5"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The total age of a mother and her daughter is 60 years. The difference between their age is 30 years. Find out the age of mother.",
+        "option":[
+          {
+            "id":1,
+            "option":"40 Years"
+          },
+          {
+            "id":2,
+            "option":"50 Years"
+          },
+          {
+            "id":3,
+            "option":"45 Years"
+          },
+          {
+            "id":4,
+            "option":"55 Years"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1ms5Jf3QLoKr7ovCum0zCjwLhPbFjQYWT",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=14Frdfv4DND1WFU6ZEWr-Jq4QsA392WDi",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Eight friends A, B, C, D, E, F, G and H are sitting around a circular table facing each other for a lunch. A is opposite F and third to the right of B. G is between F and D.H is to the left of D. E is between C and A. Who is sitting third to the right of C?",
+        "option":[
+          {
+            "id":1,
+            "option":"D"
+          },
+          {
+            "id":2,
+            "option":"G"
+          },
+          {
+            "id":3,
+            "option":"H"
+          },
+          {
+            "id":4,
+            "option":"A"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Arrange the following in Logical Sequence<br>1. 'Sentence', 2. 'Word', 3. 'Chapter', 4. 'Idiom', 5. 'Paragraph'",
+        "option":[
+          {
+            "id":1,
+            "option":"3, 1, 4, 2, 5"
+          },
+          {
+            "id":2,
+            "option":"3, 5, 1, 4, 2"
+          },
+          {
+            "id":3,
+            "option":"1, 2, 3, 4, 5"
+          },
+          {
+            "id":4,
+            "option":"4, 5, 2, 3, 1"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1iaav1Lv_rHM5t7OZjSR88apAjQQvA7Xp",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"If '+' means 'x', '-' means '÷', 'x' means '+' and '÷' means '-', then 25 x 5 - 3 ÷ 2 + 5 = ?",
+        "option":[
+          {
+            "id":1,
+            "option":"40"
+          },
+          {
+            "id":2,
+            "option":"20"
+          },
+          {
+            "id":3,
+            "option":"50"
+          },
+          {
+            "id":4,
+            "option":"\\(16 {2 \\over 3}\\)"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"ABDE GHJK MNPQ",
+        "option":[
+          {
+            "id":1,
+            "option":"RTUW"
+          },
+          {
+            "id":2,
+            "option":"STVW"
+          },
+          {
+            "id":3,
+            "option":"CEFH"
+          },
+          {
+            "id":4,
+            "option":"RSUV"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"If BOY is represented as 42, then GIRL is represented is",
+        "option":[
+          {
+            "id":1,
+            "option":"46"
+          },
+          {
+            "id":2,
+            "option":"48"
+          },
+          {
+            "id":3,
+            "option":"40"
+          },
+          {
+            "id":4,
+            "option":"43"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The two great Mughal rulers who wrote their own memoirs are",
+        "option":[
+          {
+            "id":1,
+            "option":"Babur and Humayun"
+          },
+          {
+            "id":2,
+            "option":"Humayun and Akbar"
+          },
+          {
+            "id":3,
+            "option":"Babur and Jahangir"
+          },
+          {
+            "id":4,
+            "option":"Jahangir and Shahjahan"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"LPG is a hydrocarbon consisting of a mixture of",
+        "option":[
+          {
+            "id":1,
+            "option":"Methane and Butane"
+          },
+          {
+            "id":2,
+            "option":"Propane and Butane"
+          },
+          {
+            "id":3,
+            "option":"Ethane and Propane"
+          },
+          {
+            "id":4,
+            "option":"Ethane and Butane"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Which of the following is not a Fundamental Right?",
+        "option":[
+          {
+            "id":1,
+            "option":"Right to Equality"
+          },
+          {
+            "id":2,
+            "option":"Right to Liberty"
+          },
+          {
+            "id":3,
+            "option":"Right Against Exploitation"
+          },
+          {
+            "id":4,
+            "option":"Right to Property"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"A 'Bit' refers to",
+        "option":[
+          {
+            "id":1,
+            "option":"Binary Information"
+          },
+          {
+            "id":2,
+            "option":"Bilingual Information"
+          },
+          {
+            "id":3,
+            "option":"Binary Terminator"
+          },
+          {
+            "id":4,
+            "option":"Binary Digit"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"The First Computer which provided storage was",
+        "option":[
+          {
+            "id":1,
+            "option":"EDSAC"
+          },
+          {
+            "id":2,
+            "option":"EDBAC"
+          },
+          {
+            "id":3,
+            "option":"MARK-I"
+          },
+          {
+            "id":4,
+            "option":"ACE"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Plague is transmitted by",
+        "option":[
+          {
+            "id":1,
+            "option":"house fly"
+          },
+          {
+            "id":2,
+            "option":"tse-tse fly"
+          },
+          {
+            "id":3,
+            "option":"rat flea"
+          },
+          {
+            "id":4,
+            "option":"mosquito"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Hemoglobin contains the metal",
+        "option":[
+          {
+            "id":1,
+            "option":"Copper"
+          },
+          {
+            "id":2,
+            "option":"Molybdenum"
+          },
+          {
+            "id":3,
+            "option":"Iron"
+          },
+          {
+            "id":4,
+            "option":"Magnesium"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"when water freezes its density",
+        "option":[
+          {
+            "id":1,
+            "option":"decreases"
+          },
+          {
+            "id":2,
+            "option":"increases"
+          },
+          {
+            "id":3,
+            "option":"becomes zero"
+          },
+          {
+            "id":4,
+            "option":"remains constant"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which of the following is ussed for wrapping of fractured bones?",
+        "option":[
+          {
+            "id":1,
+            "option":"White cement"
+          },
+          {
+            "id":2,
+            "option":"White lead"
+          },
+          {
+            "id":3,
+            "option":"Zinc oxide"
+          },
+          {
+            "id":4,
+            "option":"Plaster of Paris"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Shaving mirror is ",
+        "option":[
+          {
+            "id":1,
+            "option":"convex"
+          },
+          {
+            "id":2,
+            "option":"concave"
+          },
+          {
+            "id":3,
+            "option":"plane"
+          },
+          {
+            "id":4,
+            "option":"parabolic"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"A micron is equal to",
+        "option":[
+          {
+            "id":1,
+            "option":"0.1 mm"
+          },
+          {
+            "id":2,
+            "option":"0.01 mm"
+          },
+          {
+            "id":3,
+            "option":"0.001 mm"
+          },
+          {
+            "id":4,
+            "option":"0.0001 mm"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The headquarters of United Organization is located at",
+        "option":[
+          {
+            "id":1,
+            "option":"Washington"
+          },
+          {
+            "id":2,
+            "option":"Rome"
+          },
+          {
+            "id":3,
+            "option":"Geneva"
+          },
+          {
+            "id":4,
+            "option":"New York"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"The smallest ocean is",
+        "option":[
+          {
+            "id":1,
+            "option":"Atlantic"
+          },
+          {
+            "id":2,
+            "option":"Arctic"
+          },
+          {
+            "id":3,
+            "option":"Pacific"
+          },
+          {
+            "id":4,
+            "option":"Indian"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The first mathematical calculator was designed by",
+        "option":[
+          {
+            "id":1,
+            "option":"Napier"
+          },
+          {
+            "id":2,
+            "option":"Leibnitz"
+          },
+          {
+            "id":3,
+            "option":"Fischer"
+          },
+          {
+            "id":4,
+            "option":"Pingale"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The headquaters of World Trade Organization is situated in",
+        "option":[
+          {
+            "id":1,
+            "option":"Washington"
+          },
+          {
+            "id":2,
+            "option":"New Delhi"
+          },
+          {
+            "id":3,
+            "option":"London"
+          },
+          {
+            "id":4,
+            "option":"Geneva"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"India has the monoply in the International market in the supply of",
+        "option":[
+          {
+            "id":1,
+            "option":"Iron"
+          },
+          {
+            "id":2,
+            "option":"Mica"
+          },
+          {
+            "id":3,
+            "option":"Bauxite"
+          },
+          {
+            "id":4,
+            "option":"Copper"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Citizens of India can vote at the age of",
+        "option":[
+          {
+            "id":1,
+            "option":"18 Years"
+          },
+          {
+            "id":2,
+            "option":"21 Years"
+          },
+          {
+            "id":3,
+            "option":"22 Years"
+          },
+          {
+            "id":4,
+            "option":"25 Years"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Instrument that records earthquakes is",
+        "option":[
+          {
+            "id":1,
+            "option":"Ergograph"
+          },
+          {
+            "id":2,
+            "option":"Edlograph"
+          },
+          {
+            "id":3,
+            "option":"Thermograph"
+          },
+          {
+            "id":4,
+            "option":"Seismograph"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"The most common cause of pollution of air is",
+        "option":[
+          {
+            "id":1,
+            "option":"Carbon dioxide"
+          },
+          {
+            "id":2,
+            "option":"Carbon monoxide"
+          },
+          {
+            "id":3,
+            "option":"Sulphur dioxide"
+          },
+          {
+            "id":4,
+            "option":"Smoke"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Mohenjo-daro is situated in",
+        "option":[
+          {
+            "id":1,
+            "option":"Larkana"
+          },
+          {
+            "id":2,
+            "option":"Montgomery"
+          },
+          {
+            "id":3,
+            "option":"Sind"
+          },
+          {
+            "id":4,
+            "option":"Udhampur"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Which state is to establish India’s first Green Energy Convergence Project?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kerala"
+          },
+          {
+            "id":2,
+            "option":"Odhisa"
+          },
+          {
+            "id":3,
+            "option":"Goa"
+          },
+          {
+            "id":4,
+            "option":"Telangana"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Who has been appointed as the new Director-General of Narcotics Control Bureau?",
+        "option":[
+          {
+            "id":1,
+            "option":"Atul Karwal"
+          },
+          {
+            "id":2,
+            "option":"R Hari Kumar"
+          },
+          {
+            "id":3,
+            "option":"Sheel Vardhan"
+          },
+          {
+            "id":4,
+            "option":"SN Pradhan"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"When is National Education Day?",
+        "option":[
+          {
+            "id":1,
+            "option":"November 9th"
+          },
+          {
+            "id":2,
+            "option":"November 10th"
+          },
+          {
+            "id":3,
+            "option":"November 11th"
+          },
+          {
+            "id":4,
+            "option":"November 12th"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Who has been appointed as the next Chief of Naval Staff?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ajit Kumar P"
+          },
+          {
+            "id":2,
+            "option":"Atul Kumar Jain"
+          },
+          {
+            "id":3,
+            "option":"R Hari Kumar"
+          },
+          {
+            "id":4,
+            "option":"Ajendra Bahadur Singh"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Who has become India’s wealthiest self-made woman billionaire?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kiran Mazumdar-Shaw"
+          },
+          {
+            "id":2,
+            "option":"Falguni Nayar "
+          },
+          {
+            "id":3,
+            "option":"Divya Gokulnath"
+          },
+          {
+            "id":4,
+            "option":"Leena Tewari"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"A sum of money placed at compound interest triples itself in 5 yr. In how many years will it amount to nine times itself?",
+        "option":[
+          {
+            "id":1,
+            "option":"12 Year"
+          },
+          {
+            "id":2,
+            "option":"10 Year"
+          },
+          {
+            "id":3,
+            "option":"15 Year"
+          },
+          {
+            "id":4,
+            "option":"18 Year"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"What is the value of \\(\\sqrt{7.84} + \\sqrt{0.0784} + \\sqrt{0.00000784} \\) ?",
+        "option":[
+          {
+            "id":1,
+            "option":"3.08"
+          },
+          {
+            "id":2,
+            "option":"3.108"
+          },
+          {
+            "id":3,
+            "option":"3.1008"
+          },
+          {
+            "id":4,
+            "option":"3.1108"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"A is twice as fast a workman as B and together they finish a piece of work in 14 days. In how many days can A alone finish the work?",
+        "option":[
+          {
+            "id":1,
+            "option":"18 Days"
+          },
+          {
+            "id":2,
+            "option":"24 Days"
+          },
+          {
+            "id":3,
+            "option":"21 Days"
+          },
+          {
+            "id":4,
+            "option":"27 Days"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"If both the radius and height of a right circular cone are increased by 20%, its volume will be increased by",
+        "option":[
+          {
+            "id":1,
+            "option":"20%"
+          },
+          {
+            "id":2,
+            "option":"40%"
+          },
+          {
+            "id":3,
+            "option":"60%"
+          },
+          {
+            "id":4,
+            "option":"72.8%"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"In an examination, 52% students failed in Hindi and 42% in English. If 17% failed in both the subjects, what percentage of students passed in both the subjects?",
+        "option":[
+          {
+            "id":1,
+            "option":"38%"
+          },
+          {
+            "id":2,
+            "option":"33%"
+          },
+          {
+            "id":3,
+            "option":"23%"
+          },
+          {
+            "id":4,
+            "option":"18%"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The least number, which must be added to 6709 to make it exactly divisible by 9, is",
+        "option":[
+          {
+            "id":1,
+            "option":"5"
+          },
+          {
+            "id":2,
+            "option":"4"
+          },
+          {
+            "id":3,
+            "option":"7"
+          },
+          {
+            "id":4,
+            "option":"2"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The greatest number that divides 122 and 243 leaving respectively 2 and 3 as remainders, is",
+        "option":[
+          {
+            "id":1,
+            "option":"12"
+          },
+          {
+            "id":2,
+            "option":"24"
+          },
+          {
+            "id":3,
+            "option":"30"
+          },
+          {
+            "id":4,
+            "option":"120"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1567Vx2eJDW__QP-HZXqobVt1fTpEmLG4",
+        "option":[
+          {
+            "id":1,
+            "option":"1750"
+          },
+          {
+            "id":2,
+            "option":"20000"
+          },
+          {
+            "id":3,
+            "option":"12500"
+          },
+          {
+            "id":4,
+            "option":"50000"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The total expenses of the family on transport are equal to those spent on",
+        "option":[
+          {
+            "id":1,
+            "option":"Savings"
+          },
+          {
+            "id":2,
+            "option":"Clothing"
+          },
+          {
+            "id":3,
+            "option":"Food"
+          },
+          {
+            "id":4,
+            "option":"Others"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The average of a marks in Mathematics for 5 students was found to be 50. Later, it was discovered that in the case of one student, the marks 48 were misread as 84. The correct average is",
+        "option":[
+          {
+            "id":1,
+            "option":"40.2"
+          },
+          {
+            "id":2,
+            "option":"40.8"
+          },
+          {
+            "id":3,
+            "option":"42.8"
+          },
+          {
+            "id":4,
+            "option":"48.2"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"A man gets Rs 13 more by selling an article at a profit of \\(\\ 12{1 \\over 2}\\) %, then selling at a loss of \\(\\ 12{1 \\over 2}\\) %. The cost price of the article is",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 25.50"
+          },
+          {
+            "id":2,
+            "option":"Rs 38"
+          },
+          {
+            "id":3,
+            "option":"Rs 52"
+          },
+          {
+            "id":4,
+            "option":"Rs 65"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Of the three numbers, the first is twice the second and the second is 3 times the third. If their average is 100, the largest of the three numbers is",
+        "option":[
+          {
+            "id":1,
+            "option":"120"
+          },
+          {
+            "id":2,
+            "option":"150"
+          },
+          {
+            "id":3,
+            "option":"180"
+          },
+          {
+            "id":4,
+            "option":"300"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"A man can do a piece of work in 5 days, but with the help of his son, he can do it in 3 days. In what time can the son do it alone?",
+        "option":[
+          {
+            "id":1,
+            "option":"7 Days"
+          },
+          {
+            "id":2,
+            "option":"8 Days"
+          },
+          {
+            "id":3,
+            "option":"\\(\\ 7{1 \\over 2}\\) Days"
+          },
+          {
+            "id":4,
+            "option":"\\(\\ 6{1 \\over 2}\\) Days"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"An article is sold at a profit of 20%. If it had been sold at a profit of 25%, it would have fetched Rs 35 more. The cost price of the article",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 650"
+          },
+          {
+            "id":2,
+            "option":"Rs 700"
+          },
+          {
+            "id":3,
+            "option":"Rs 750"
+          },
+          {
+            "id":4,
+            "option":"Rs 800"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Rs 750 are divided among A, B and C in such a manner that A:B=5:2 and B:C = 7:13. What is A's share?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 350"
+          },
+          {
+            "id":2,
+            "option":"Rs 260"
+          },
+          {
+            "id":3,
+            "option":"Rs 140"
+          },
+          {
+            "id":4,
+            "option":"Rs 250"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"A trader marks his goods at 40% above the cost price but allows a discount of 20% on the marked price. His profit per cent is",
+        "option":[
+          {
+            "id":1,
+            "option":"20%"
+          },
+          {
+            "id":2,
+            "option":"10%"
+          },
+          {
+            "id":3,
+            "option":"8%"
+          },
+          {
+            "id":4,
+            "option":"12%"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"If the difference between the simple and compound interests on a sum of money for 2 yr at 4% per annum is 80, the sum is",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 5000"
+          },
+          {
+            "id":2,
+            "option":"Rs 50000"
+          },
+          {
+            "id":3,
+            "option":"Rs 10000"
+          },
+          {
+            "id":4,
+            "option":"Rs 1000"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"TThe average of 6 numbers is 30. If first four numbers average is 25 and last three numbers average is 35, then fourth number will be",
+        "option":[
+          {
+            "id":1,
+            "option":"25"
+          },
+          {
+            "id":2,
+            "option":"30"
+          },
+          {
+            "id":3,
+            "option":"35"
+          },
+          {
+            "id":4,
+            "option":"40"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The list price of a watch is Rs 160. After two successive discounts, it is sold for Rs 122.40. If the first discount is 10%, what is the rate of the second discount?",
+        "option":[
+          {
+            "id":1,
+            "option":"13%"
+          },
+          {
+            "id":2,
+            "option":"18%"
+          },
+          {
+            "id":3,
+            "option":"16%"
+          },
+          {
+            "id":4,
+            "option":"15%"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"If the cost price of 9 pens is equal to the selling price of 11 pens, then what is gain or loss percentage?",
+        "option":[
+          {
+            "id":1,
+            "option":"19%"
+          },
+          {
+            "id":2,
+            "option":"\\(\\ 17{8 \\over 3}\\)%"
+          },
+          {
+            "id":3,
+            "option":"\\(\\ 18{2 \\over 11}\\)%"
+          },
+          {
+            "id":4,
+            "option":"\\(\\ 19{2 \\over 3}\\)%"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The speed of a bus is 72 km/h. The distance covered by the bus in 5 second is",
+        "option":[
+          {
+            "id":1,
+            "option":"50 M"
+          },
+          {
+            "id":2,
+            "option":"74.5 M"
+          },
+          {
+            "id":3,
+            "option":"100 M"
+          },
+          {
+            "id":4,
+            "option":"60 M"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The present ratio of ages of A and B is 4:5. 18 yr ago, this ratio was 11:16. Find the sum of total of their present ages.",
+        "option":[
+          {
+            "id":1,
+            "option":"90 Years"
+          },
+          {
+            "id":2,
+            "option":"105 Years"
+          },
+          {
+            "id":3,
+            "option":"110 Years"
+          },
+          {
+            "id":4,
+            "option":"80 Years"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The radius of a sphere and hemisphere are same. The ratio of their total surface area is",
+        "option":[
+          {
+            "id":1,
+            "option":"3:1"
+          },
+          {
+            "id":2,
+            "option":"2:1"
+          },
+          {
+            "id":3,
+            "option":"3:2"
+          },
+          {
+            "id":4,
+            "option":"4:3"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"Rekha purchased a scooter for Rs 20000 and sold it for Rs 22000. The percentage of profit is",
+        "option":[
+          {
+            "id":1,
+            "option":"15"
+          },
+          {
+            "id":2,
+            "option":"12"
+          },
+          {
+            "id":3,
+            "option":"10"
+          },
+          {
+            "id":4,
+            "option":"20"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"If a train 110 m long passes a telegraph pole in 3 s, then the time taken by it to cross a railway platform 165 m long will be",
+        "option":[
+          {
+            "id":1,
+            "option":"60.50 s"
+          },
+          {
+            "id":2,
+            "option":"8.5 s"
+          },
+          {
+            "id":3,
+            "option":"7.5 s"
+          },
+          {
+            "id":4,
+            "option":"6.55 s"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 76-78) Out of the four alternatives, choose the one which best expresses the meaning of the given word.</strong><br>Instigate",
+        "option":[
+          {
+            "id":1,
+            "option":"Find"
+          },
+          {
+            "id":2,
+            "option":"Incite"
+          },
+          {
+            "id":3,
+            "option":"Force"
+          },
+          {
+            "id":4,
+            "option":"Cause"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Voracious",
+        "option":[
+          {
+            "id":1,
+            "option":"Quick"
+          },
+          {
+            "id":2,
+            "option":"Angry"
+          },
+          {
+            "id":3,
+            "option":"Hungry"
+          },
+          {
+            "id":4,
+            "option":"Wild"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"Wary",
+        "option":[
+          {
+            "id":1,
+            "option":"Cautious"
+          },
+          {
+            "id":2,
+            "option":"Accurate"
+          },
+          {
+            "id":3,
+            "option":"Quick"
+          },
+          {
+            "id":4,
+            "option":"Practical"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 79-81) Choose the word opposite in meaning to the given word.</strong><br>Epilogue",
+        "option":[
+          {
+            "id":1,
+            "option":"Dialogue"
+          },
+          {
+            "id":2,
+            "option":"Prelude"
+          },
+          {
+            "id":3,
+            "option":"Post Script"
+          },
+          {
+            "id":4,
+            "option":"Epigram"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Condense",
+        "option":[
+          {
+            "id":1,
+            "option":"Expand"
+          },
+          {
+            "id":2,
+            "option":"Distribute"
+          },
+          {
+            "id":3,
+            "option":"Interpret"
+          },
+          {
+            "id":4,
+            "option":"Lengthen"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Indiscreet",
+        "option":[
+          {
+            "id":1,
+            "option":"Reliable"
+          },
+          {
+            "id":2,
+            "option":"Honest"
+          },
+          {
+            "id":3,
+            "option":"Prudent"
+          },
+          {
+            "id":4,
+            "option":"Stupid"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 82-84) Out of the four alternatives, choose the one which can be substitute for a given word/sentence.</strong><br>A child born after the death of his father",
+        "option":[
+          {
+            "id":1,
+            "option":"Posthumous"
+          },
+          {
+            "id":2,
+            "option":"Orphan"
+          },
+          {
+            "id":3,
+            "option":"Bastard"
+          },
+          {
+            "id":4,
+            "option":"Progenitor"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"The absence of law and order",
+        "option":[
+          {
+            "id":1,
+            "option":"Rebellion"
+          },
+          {
+            "id":2,
+            "option":"Anarchy"
+          },
+          {
+            "id":3,
+            "option":"Mutiny"
+          },
+          {
+            "id":4,
+            "option":"Revolt"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"A religious discourse",
+        "option":[
+          {
+            "id":1,
+            "option":"Preach"
+          },
+          {
+            "id":2,
+            "option":"Stanza"
+          },
+          {
+            "id":3,
+            "option":"Sanctorum"
+          },
+          {
+            "id":4,
+            "option":"Sermon"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 85-87) Group of four words are given. In each group, one word is correctly spelt.</strong><br>Find the correctly spelt word.",
+        "option":[
+          {
+            "id":1,
+            "option":"Parapharnelia"
+          },
+          {
+            "id":2,
+            "option":"Parsimonious"
+          },
+          {
+            "id":3,
+            "option":"Peccadilo"
+          },
+          {
+            "id":4,
+            "option":"Peadialriis"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Find the correctly spelt word.",
+        "option":[
+          {
+            "id":1,
+            "option":"Measureable"
+          },
+          {
+            "id":2,
+            "option":"Manageable"
+          },
+          {
+            "id":3,
+            "option":"Marriagable"
+          },
+          {
+            "id":4,
+            "option":"Manoevrable"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"Find the correctly spelt word.",
+        "option":[
+          {
+            "id":1,
+            "option":"Tussel"
+          },
+          {
+            "id":2,
+            "option":"Tunnle"
+          },
+          {
+            "id":3,
+            "option":"Tumble"
+          },
+          {
+            "id":4,
+            "option":"Trable"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 88-90) Four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.</strong><br>To cool one's heels",
+        "option":[
+          {
+            "id":1,
+            "option":"To give a cold treatment to somebody"
+          },
+          {
+            "id":2,
+            "option":"To be kept waiting for someone"
+          },
+          {
+            "id":3,
+            "option":"To go for a holiday"
+          },
+          {
+            "id":4,
+            "option":"To settle a controversial issue"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"To cut the Gordian knot",
+        "option":[
+          {
+            "id":1,
+            "option":"To perform an opening ceremony"
+          },
+          {
+            "id":2,
+            "option":"To solve a difficult problem"
+          },
+          {
+            "id":3,
+            "option":"To get a sharp injury"
+          },
+          {
+            "id":4,
+            "option":"To go for mountaineering"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The primrose path",
+        "option":[
+          {
+            "id":1,
+            "option":"A modern market place"
+          },
+          {
+            "id":2,
+            "option":"The pursuit of pleasure"
+          },
+          {
+            "id":3,
+            "option":"Right of self determination"
+          },
+          {
+            "id":4,
+            "option":"Process using high technology"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 91-94) In these questions, sentences are given with blanks to be filled with an appropriate word(s). Four alternatives are suggested for each question. Choose the correct alternative one of the four.</strong><br>The CM has given his consent to preside ......... the meeting.",
+        "option":[
+          {
+            "id":1,
+            "option":"for"
+          },
+          {
+            "id":2,
+            "option":"about"
+          },
+          {
+            "id":3,
+            "option":"over"
+          },
+          {
+            "id":4,
+            "option":"on"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"When he found the wallets ......, his face glowed but soon it faded as the wallet was",
+        "option":[
+          {
+            "id":1,
+            "option":"empty"
+          },
+          {
+            "id":2,
+            "option":"vacant"
+          },
+          {
+            "id":3,
+            "option":"recovered"
+          },
+          {
+            "id":4,
+            "option":"stolen"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"It is desirable to take ........... in any business if you want to make profit.",
+        "option":[
+          {
+            "id":1,
+            "option":"advice"
+          },
+          {
+            "id":2,
+            "option":"risk"
+          },
+          {
+            "id":3,
+            "option":"loan"
+          },
+          {
+            "id":4,
+            "option":"recourse"
+          }
+        ],
+        "answer":2
+      },
+      {
+        "question":"The rocket ............ the target and did not cause any casualty",
+        "option":[
+          {
+            "id":1,
+            "option":"sensed"
+          },
+          {
+            "id":2,
+            "option":"reached"
+          },
+          {
+            "id":3,
+            "option":"missed"
+          },
+          {
+            "id":4,
+            "option":"exploded"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"<strong>Directions (Q. Nos. 95-97) In the questions, a sentence/part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the correct alternative to improve the sentence.</strong><br>The festival<u>is likely to fall </u>in December.",
+        "option":[
+          {
+            "id":1,
+            "option":"will likely to fall"
+          },
+          {
+            "id":2,
+            "option":"will be likely to fall"
+          },
+          {
+            "id":3,
+            "option":"will likely for fall"
+          },
+          {
+            "id":4,
+            "option":"No improvement"
+          }
+        ],
+        "answer":4
+      },
+      {
+        "question":"I asked the traveller <u>where is he going.</u>",
+        "option":[
+          {
+            "id":1,
+            "option":"where he is going"
+          },
+          {
+            "id":2,
+            "option":"where was he going"
+          },
+          {
+            "id":3,
+            "option":"where he was going"
+          },
+          {
+            "id":4,
+            "option":"No improvement"
+          }
+        ],
+        "answer":3
+      },
+      {
+        "question":"The bird sanctuary is <u>about 10 kms inside</u> from Central Delhi. ",
+        "option":[
+          {
+            "id":1,
+            "option":"was about 10 kms over"
+          },
+          {
+            "id":2,
+            "option":"is about 10 kms on top"
+          },
+          {
+            "id":3,
+            "option":"is about 10 kms away"
+          },
+          {
+            "id":4,
+            "option":" No improvement"
+          }
+        ],
+        "answer":3
+      },{
+        "question":"<strong>Directions (Q. Nos. 98-100) Some parts of the sentences have errors and some are correct. Find out which part of a sentence has an error. If a sentence is free from error, choose 'No error' as answer.</strong><br>One of the members expressed doubt if the minister was an atheist.",
+        "option":[
+          {
+            "id":1,
+            "option":"One of the members"
+          },
+          {
+            "id":2,
+            "option":"No error"
+          },
+          {
+            "id":3,
+            "option":"expressed doubt if"
+          },
+          {
+            "id":4,
+            "option":"the minister was an atheist"
+          }
+        ],
+        "answer":3
+      },{
+        "question":"I have got my M.Sc. degree in 1988.",
+        "option":[
+          {
+            "id":1,
+            "option":"I have got"
+          },
+          {
+            "id":2,
+            "option":"my M.Sc. degree"
+          },
+          {
+            "id":3,
+            "option":"No error"
+          },
+          {
+            "id":4,
+            "option":"in 1998"
+          }
+        ],
+        "answer":1
+      },
+      {
+        "question":"Block of residential flats are coming up near our house",
+        "option":[
+          {
+            "id":1,
+            "option":"No error"
+          },
+          {
+            "id":2,
+            "option":"Block of residential flats"
+          },
+          {
+            "id":3,
+            "option":"are coming up"
+          },
+          {
+            "id":4,
+            "option":"near our house"
+          }
+        ],
+        "answer":2
+      }
+    ]
+  },
+  {
     "id": 4,
     "TitleName": "SSC GD 2021 All Kerala Mock 1",
     "noQ": 100,
