@@ -63,6 +63,11 @@ input[type="number"] {
   display: inline-block;
 }
 
+#quiz{
+  margin-top: 150px;
+}
+
+
 #countdown div > span {
   padding: 5px;
   border-radius: 3px;
