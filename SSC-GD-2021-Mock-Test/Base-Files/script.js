@@ -230,7 +230,7 @@ const startExam = (testId) => {
 
           //To create timer
           var card = document.createElement("div");
-          card.className = "card shadow text-center";
+          card.className = "fixed-top card shadow text-center";
           var cardBody = document.createElement("div");
           cardBody.className = "card-body";
 
