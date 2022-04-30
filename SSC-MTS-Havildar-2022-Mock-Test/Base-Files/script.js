@@ -3,7 +3,7 @@ const mainFunc = () => {
   var remMain = document.getElementById("mainContainer");
   remMain.parentNode.removeChild(remMain);
 
-  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json", {
+  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
@@ -99,7 +99,7 @@ const test = (testId) => {
   var list1 = document.createElement("li");
 
   //Fetch details
-  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json", {
+  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
@@ -194,7 +194,7 @@ const startExam = (testId) => {
 
   //To check Roll Number exist
   fetch(
-    "https://joinindianforces.in/SSC-GD-2021-Mock-Test/registeredCandidates.json",
+    "https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/registeredCandidates.json",
     {
       cache: "no-store",
     }
@@ -291,7 +291,7 @@ const startExam = (testId) => {
 
           //Quiz container inner
           fetch(
-            "https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json",
+            "https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/tests.json",
             {
               cache: "no-store",
             }
@@ -487,7 +487,7 @@ const clearSelection = (name) => {
 const submitAnswers = (testId) => {
   document.getElementById("submitBtn").disabled = true;
   var score = 0;
-  fetch("https://joinindianforces.in/SSC-GD-2021-Mock-Test/tests.json", {
+  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
