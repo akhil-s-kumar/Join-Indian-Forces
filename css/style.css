@@ -1,6 +1,57 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+.navbar{
+  background-color: #343A40;
+  box-shadow: 0 2.6px 2.6px 0px rgba(0,0,0,.07);
+}
+
+.navbar .btn{
+  margin-left: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+@media (max-width: 991px) {
+  .navbar ul{
+      align-items: center;
+  }
+  .navbar .btn {
+      margin-left: 0px;
+      margin-top: 10px;
+      margin-right: 0px;
+      min-width: 120px;
+  }
+}
+
+.btnsolid{
+  background-color: #F35F00;
+  border-color: #F35F00;
+  font-family: 'Raleway', sans-serif;
+  border-radius: 50px;
+  font-weight: 200;
+  min-width: 80px;
+  color: #ffffff;
+}
+
+.btnsolid:active, 
+.btnsolid:focus
+{
+    background-color: #F35F00;
+    border-color: #F35F00;
+    color: #ffffff;
+    outline: none;
+    box-shadow: none;
+}
+
+.btnsolid:hover{
+  transition: 0.3s;
+  background-color: transparent;
+  color:#F35F00;
+}
+
+.btnsolid i{
+  margin-right: 10px;
+}
 
 .bd-placeholder-img {
     font-size: 1.125rem;
@@ -135,7 +186,7 @@
 }
 
 body{
-  background-color: #FAFAFA;
+  background-color: #FFFFFF;
 }
 
 @media (max-width: 992px){
@@ -308,6 +359,122 @@ body{
 .form-signin input[type="password"] {
   margin-bottom: 20px;
 }
+
+.footer_area {
+  margin-top: 80px;
+  background: #fbfbfd;
+  font-family: "Raleway", sans-serif;
+}
+
+.footer_area .btn {
+  margin-top: 20px;
+}
+
+.footer_top {
+  padding-top: 60px;
+  position: relative;
+  overflow-x: hidden;
+}
+.footer_area .footer_bottom {
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.footer_area .footer_bottom i {
+  color: red;
+}
+
+.footer_bottom p {
+  font-size: 14px;
+  line-height: 20px;
+  color: #5a5a5a;
+}
+
+a:hover,
+a:focus {
+  text-decoration: none;
+  outline: none;
+}
+
+.footer_top .f_widget.link-widget .f_list li a:hover {
+  color: #f35f00;
+}
+.footer_top .f_widget.link-widget .f_list li {
+  margin-bottom: 11px;
+}
+.f_widget.link-widget .f_list li:last-child {
+  margin-bottom: 0px;
+}
+.f_widget.link-widget .f_list li {
+  margin-bottom: 15px;
+}
+.f_widget.link-widget .f_list {
+  margin-bottom: 0px;
+}
+.footer_top .f_social_icon a {
+  width: 44px;
+  height: 44px;
+  line-height: 43px;
+  background: transparent;
+  border: 1px solid #e2e2eb;
+  font-size: 24px;
+}
+.f_social_icon a {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  font-size: 14px;
+  line-height: 45px;
+  color: #5a5a5a;
+  display: inline-block;
+  background: #ebeef5;
+  text-align: center;
+  -webkit-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
+}
+
+.footer_top .f_social_icon a:hover {
+  background: #f35f00;
+  border-color: #f35f00;
+  color: white;
+}
+.footer_top .f_social_icon a + a {
+  margin-left: 4px;
+}
+.footer_top .f-title {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  color: #333333;
+}
+.f_600 {
+  font-weight: 600;
+}
+.f_size_18 {
+  font-size: 18px;
+}
+
+.footer_top .f_widget.link-widget .f_list li a {
+  color: #5a5a5a;
+}
+
+.footer_top .footer_bg {
+  position: relative;
+  background: url("../Images/background.svg") no-repeat scroll center 0;
+  width: 100%;
+  height: 302px;
+}
+
+@media only screen and (max-width: 768px) {
+  .footer_area .footer_top{
+    padding-top: 40px;
+  }
+  .footer_bottom p{
+    text-align: center;
+    font-size: 13px;
+  }
+}
+
 
 .containerPage h2{
   margin-top: 200px;
