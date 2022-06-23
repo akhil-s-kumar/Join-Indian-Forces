@@ -8,6 +8,7 @@
 
 .headerBack img {
   height: 100vh;
+  width: max-content;
   position: absolute;
   background-size: cover;
   z-index: -1;
