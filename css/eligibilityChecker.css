@@ -64,6 +64,10 @@ body{
   border-color: #f35f00;
 }
 
+.mainRight form input::placeholder{
+  color: #ffffff;
+}
+
 ::-webkit-calendar-picker-indicator {
   filter: invert(1);
 }
