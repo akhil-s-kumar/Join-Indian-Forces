@@ -1,0 +1,161 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+.mainLeft {
+  font-family: "Raleway", sans-serif;
+  background-color: #131416;
+  padding: 8%;
+}
+
+.mainLeft h2 {
+  color: #ffffff;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.mainLeft h3 {
+  color: #f35f00;
+  font-size: 4rem;
+  font-weight: bolder;
+}
+
+.mainLeft p {
+  font-size: 15px;
+  color: #ffffff;
+  opacity: 0.4;
+}
+
+.mainRight {
+  font-family: "Raleway", sans-serif;
+  background-color: #131416;
+  padding: 8%;
+}
+
+.mainRight h3 {
+  color: #ffffff;
+  font-size: 2rem;
+  font-weight: bolder;
+  padding-bottom: 10px;
+}
+
+.mainRight form {
+  align-items: left;
+}
+
+.mainRight form label {
+  color: #ffffff;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.mainRight form input {
+  width: 100%;
+  height: 40px;
+  background-color: transparent;
+  border-radius: 8px;
+  color: #ffffff;
+  border-width: 1.5px;
+  border-color: #f35f00;
+}
+
+::-webkit-calendar-picker-indicator {
+  filter: invert(1);
+}
+
+.mainRight form input:focus {
+  background-color: transparent;
+  color: #ffffff;
+  outline: none;
+  box-shadow: none;
+  border-color: #f35f00;
+}
+
+.mainRight .form-text {
+  color: #ffffff;
+  font-size: 15px;
+}
+
+.mainRight form select {
+  width: 100%;
+  height: 40px;
+  outline: none;
+  background-color: transparent;
+  border-radius: 8px;
+  color: #ffffff;
+  border-width: 1.5px;
+  border-color: #f35f00 !important;
+}
+
+.mainRight form select:active,
+.mainRight form select:focus {
+  outline: none;
+  box-shadow: none;
+  border-color: #f35f00 !important;
+}
+
+.mainRight form select option {
+  background-color: #202020;
+}
+
+.btnsolid {
+  background-color: #f35f00;
+  border-color: #f35f00;
+  font-family: "Raleway", sans-serif;
+  border-radius: 8px;
+  font-weight: 200;
+  width: 100%;
+  color: #ffffff;
+  margin-top: 20px;
+}
+
+.btnsolid:active,
+.btnsolid:focus {
+  background-color: #f35f00;
+  border-color: #f35f00;
+  color: #ffffff;
+  outline: none;
+  box-shadow: none;
+}
+
+.btnsolid:hover {
+  transition: 0.3s;
+  background-color: transparent;
+  color: #f35f00;
+}
+
+.footer_bottom {
+  background-color: #131416;
+  width: 100%;
+}
+
+.footer_bottom p {
+  color: #ffffff;
+  text-align: center;
+  font-size: 13px;
+}
+
+.footer_bottom i {
+  color: red;
+}
+
+@media only screen and (max-width: 570px) {
+    .mainLeft h2{
+        font-size: 2.5rem;
+    }
+    .mainLeft h3{
+        font-size: 2.5rem;
+    }
+    .mainLeft p{
+        font-size: 10px;
+    }
+    .mainRight{
+        padding-top: 0px;
+    }
+    .mainRight h3{
+        font-size: 1.5rem;
+    }
+    .mainRight form label{
+        font-size: 15px;
+    }
+  }
