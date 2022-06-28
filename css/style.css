@@ -23,36 +23,6 @@
   }
 }
 
-.btnsolid{
-  background-color: #F35F00;
-  border-color: #F35F00;
-  font-family: 'Raleway', sans-serif;
-  border-radius: 50px;
-  font-weight: 200;
-  min-width: 80px;
-  color: #ffffff;
-}
-
-.btnsolid:active, 
-.btnsolid:focus
-{
-    background-color: #F35F00;
-    border-color: #F35F00;
-    color: #ffffff;
-    outline: none;
-    box-shadow: none;
-}
-
-.btnsolid:hover{
-  transition: 0.3s;
-  background-color: transparent;
-  color:#F35F00;
-}
-
-.btnsolid i{
-  margin-right: 10px;
-}
-
 .bd-placeholder-img {
     font-size: 1.125rem;
     text-anchor: middle;
@@ -102,6 +72,16 @@
   font-family: 'Raleway', sans-serif;
   border-radius: 50px;
   font-weight: 200;
+  background-image: linear-gradient(to right, #D0212E, #F2912C);
+  color: #fff;
+  height: 40px;
+  text-decoration: none !important;
+  box-shadow: none !important;
+  border: none;
+}
+
+.btnweb:hover{
+  color: #fff;
 }
 
 .coursecon{
@@ -120,70 +100,98 @@
   padding-top: 30px;
 }
 
-.courseback{
-  background-color: #ffffff;
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  border-bottom-left-radius: 10px;
-  border-bottom-right-radius: 10px;
-  border: 0.01px solid #E9ECEF;
-  margin-top: 25px;
-  margin-bottom: 25px;
-}
+/* Course Card */
 
-.courseback img{
-  border-top-left-radius: 10px;
-  border-top-right-radius: 10px;
-  width: 100%;
-  height: auto;
-}
-
-.courseback h3{
-  font-size: 15pt;
-  color:#333333;
-  padding-top: 15px;
+.coursecard{
+  overflow-x: auto;
+  margin-top: 60px;
+  color:#333333;  
   font-family: 'Raleway', sans-serif;
-  font-weight: 500;
 }
 
-.courseback hr{
-  margin-left: 30px;
-  margin-right: 30px;
+.coursecard:hover{
+  transform: scale(1.04);
+  transition: 0.5s;
 }
 
-.courseback p{
-  padding-left:20px;
-  padding-right: 20px;
-  font-family: 'Raleway', sans-serif;
-  font-weight: 300;
+.coursecard .card-body .card-title{
+  font-size: 20px;
 }
 
-.coursebottom{
+.coursecard .card-body .card-text{
+  font-size: 15px;
+}
+
+.coursecard .card-body .course-ratandpri ul{
+  display:flex;
+  padding-left: 0;
+  margin-left: 0;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.coursecard .card-body .course-ratandpri ul li{
+  list-style-type: none;
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+}
+
+.coursecard .card-body .course-ratandpri ul li i{
+  margin-right: 10px;
+}
+
+.coursecard .card-body .course-ratandpri ul .price{
+  font-size: 24px;
+  font-weight: 800;
+}
+
+.coursecard .card-body .course-author ul{
   display: flex;
+  padding-left: 0;
+  margin-left: 0;
 }
 
-.btncourse{
-  font-family: 'Roboto', sans-serif;
-  border-radius: 50px;
-  font-weight: 200;
-  height: 45px;
-  margin-top: 25px;
-  margin-bottom: 25px;
+.coursecard .card-body .course-author ul li{
+  list-style-type: none;
+  font-weight: 500;
+  margin-right: -15px;
 }
 
-.priceback{
-  border-radius: 50px;
-  font-weight: 200;
-  background-color: #F35F00;
-  color: #ffffff;
-  text-align: center;
-  height: 30px;
+.coursecard .card-body .course-author ul li img{
+  width: 40px;
+  height: 40px;
 }
 
-.priceback p{
-  padding-top: 2px;
-  font-family: 'Roboto', sans-serif;
+.coursecard .card-body .course-author ul li .extra-author{
+  font-family: 'Manrope', sans-serif;
+  background-color: #5A5A5A;
+  border-radius: 50%;
+  width:40px;
+  height: 40px;
+  padding: 10px;
+  color:#ffffff;
 }
+
+.coursecard .card-body .course-info ul{
+  display: flex;
+  padding-left: 0;
+  margin-left: 0;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.coursecard .card-body .course-info ul li{
+  font-family: 'Manrope', sans-serif;
+  font-size: 14px;
+  list-style-type: none;
+  margin-right:15px;
+  margin-bottom:5px;
+}
+
+.coursecard .card-body .course-info ul li i{
+  margin-right: 10px;
+}
+/* Card end */
 
 body{
   background-color: #FFFFFF;
