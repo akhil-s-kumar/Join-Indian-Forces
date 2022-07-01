@@ -7100,8 +7100,8 @@
     "maxS": 5,
     "maxTime":5,
     "difL": "Easy",
-    "examStart" : "jul 01, 2022 23:12:00",
-    "examEnd" : "jul 01, 2022 23:15:00",
+    "examStart" : "jul 02, 2022 18:00:00",
+    "examEnd" : "jul 02, 2022 21:00:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
