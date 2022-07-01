@@ -6,8 +6,8 @@
     "maxS": 100,
     "maxTime": 90,
     "difL": "Moderate",
-    "examStart" : "nov 14, 2021 21:00:00",
-    "examEnd" : "nov 14, 2021 22:32:00",
+    "examStart" : "jul 04, 2022 21:00:00",
+    "examEnd" : "jul 04, 2022 22:32:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
@@ -2216,8 +2216,8 @@
     "maxS": 100,
     "maxTime": 90,
     "difL": "Moderate",
-    "examStart" : "nov 11, 2021 21:00:00",
-    "examEnd" : "nov 11, 2021 22:32:00",
+    "examStart" : "jul 03, 2022 21:00:00",
+    "examEnd" : "jul 03, 2022 22:32:00",
     "questions":[
       {
         "question":"Directions (Q.Nos. 1-4) Select the related words/letters/numbers from the given alternatives<br>Post office : Envelope :: Bank: ?",
@@ -6636,8 +6636,8 @@
     "maxS": 10,
     "maxTime": 10,
     "difL": "Easy",
-    "examStart" : "nov 5, 2021 14:45:00",
-    "examEnd" : "nov 5, 2021 14:57:00",
+    "examStart" : "jul 02, 2022 18:00:00",
+    "examEnd" : "jul 02, 2022 21:00:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
@@ -6868,8 +6868,8 @@
     "maxS": 10,
     "maxTime":12,
     "difL": "Easy",
-    "examStart" : "sep 19, 2021 20:00:00",
-    "examEnd" : "sep 19, 2021 20:15:00",
+    "examStart" : "jul 02, 2022 18:00:00",
+    "examEnd" : "jul 02, 2022 21:00:00",
     "questions":[
       {
         "question":"Pre-history means",
@@ -7100,8 +7100,8 @@
     "maxS": 5,
     "maxTime":5,
     "difL": "Easy",
-    "examStart" : "jul 01, 2022 21:40:00",
-    "examEnd" : "jul 01, 2022 21:45:00",
+    "examStart" : "jul 02, 2022 18:00:00",
+    "examEnd" : "jul 02, 2022 21:00:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
