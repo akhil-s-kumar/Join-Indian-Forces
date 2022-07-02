@@ -501,6 +501,9 @@ body {
   .becomeTeacher .leftSide {
     padding-left: 20px;
   }
+  .becomeTeacher .rightSide {
+    padding-right: 20px;
+  }
   .becomeTeacher .rightSide h1 {
     font-size: 35px;
   }
@@ -510,7 +513,7 @@ body {
   }
   .becomeTeacher .rightSide .buttons button {
     width: 180px;
-    font-size: 10px;
+    font-size: 12px;
     padding-left: 20px;
     padding-right: 20px;
   }
