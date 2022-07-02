@@ -206,6 +206,9 @@ body {
   .topBanner .leftSide p{
     font-size: 15px;
   }
+  .topBanner .rightSide{
+    visibility: hidden;
+  }
 }
 
 @media (max-width: 768px) {
@@ -236,22 +239,6 @@ body {
   }
   .topBanner .leftSide p{
     font-size: 12px;
-  }
-}
-
-@media (max-width: 375px) {
-  .topBanner .leftSide{
-    padding-left: 20px;
-    margin-top: 40%;
-  }
-  .topBanner .leftSide h5{
-    font-size: 15px;
-  }
-  .topBanner .leftSide h1{
-    font-size: 35px;
-  }
-  .topBanner .leftSide p{
-    font-size: 10px;
   }
 }
 /* Landing End */
@@ -371,11 +358,6 @@ body {
   visibility: hidden;
 }
 
-@media (max-width: 768px) {
-
-}
-/* Course End */
-
 .title {
   padding-top: 80px;
   padding-left: 50px;
@@ -409,6 +391,36 @@ body {
   background-image: linear-gradient(to right, #d0212e, #f2912c);
   transition: 0.8s;
 }
+
+@media (max-width: 768px) {
+  .title h2{
+    font-size: 30px;
+  }
+  .title p{
+    font-size: 15px;
+  }
+  .title button{
+    width: 100%;
+  }
+}
+
+@media (max-width: 576px) {
+  .title {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .title h2{
+    font-size: 20px;
+  }
+  .title p{
+    font-size: 10px;
+  }
+  .courses {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+/* Course End */
 
 /* Become Teacher Start*/
 .becomeTeacher {
