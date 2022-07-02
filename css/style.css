@@ -132,11 +132,8 @@ body {
 }
 
 .topBanner .rightSide .card {
-  width: 100%;
+  min-width: 80%;
   height: 100%;
-}
-
-.topBanner .rightSide .card {
   padding-top: 40px;
   padding-bottom: 40px;
 }
