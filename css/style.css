@@ -235,13 +235,13 @@ body {
     margin-top: 40%;
   }
   .topBanner .leftSide h5{
-    font-size: 18px;
+    font-size: 15px;
   }
   .topBanner .leftSide h1{
-    font-size: 40px;
+    font-size: 35px;
   }
   .topBanner .leftSide p{
-    font-size: 12px;
+    font-size: 10px;
   }
   .topBanner .rightSide{
     visibility: hidden;
