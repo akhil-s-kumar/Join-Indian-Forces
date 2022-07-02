@@ -207,7 +207,7 @@ body {
     font-size: 15px;
   }
   .topBanner .rightSide{
-    visibility: hidden;
+    display: none;
   }
 }
 
@@ -225,7 +225,7 @@ body {
     font-size: 15px;
   }
   .topBanner .rightSide{
-    visibility: hidden;
+    display: none;
   }
 }
 
@@ -244,7 +244,7 @@ body {
     font-size: 10px;
   }
   .topBanner .rightSide{
-    visibility: hidden;
+    display: none;
   }
 }
 /* Landing End */
@@ -412,6 +412,7 @@ body {
 
 @media (max-width: 576px) {
   .title {
+    padding-top: 0px;
     padding-left: 20px;
     padding-right: 20px;
   }
