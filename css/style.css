@@ -78,6 +78,7 @@ body {
 }
 
 .topBanner .leftImg {
+  max-width: 100%;
   left: 0;
   top: 0;
   position: absolute;
@@ -224,16 +225,17 @@ body {
 
 @media (max-width: 576px) {
   .topBanner .leftSide{
+    padding-left: 20px;
     margin-top: 40%;
   }
   .topBanner .leftSide h5{
     font-size: 18px;
   }
   .topBanner .leftSide h1{
-    font-size: 43px;
+    font-size: 40px;
   }
   .topBanner .leftSide p{
-    font-size: 13px;
+    font-size: 12px;
   }
 }
 /* Landing End */
