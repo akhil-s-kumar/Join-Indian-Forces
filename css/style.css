@@ -1,78 +1,17 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Roboto:wght@100&display=swap");
 
-.navbar{
-  background-color: #343A40;
-  box-shadow: 0 2.6px 2.6px 0px rgba(0,0,0,.07);
+body {
+  background-color: #fff;
+  font-family: "Montserrat", sans-serif;
 }
 
-.navbar .btn{
-  margin-left: 10px;
-  font-family: 'Roboto', sans-serif;
-}
-
-@media (max-width: 991px) {
-  .navbar ul{
-      align-items: center;
-  }
-  .navbar .btn {
-      margin-left: 0px;
-      margin-top: 10px;
-      margin-right: 0px;
-      min-width: 120px;
-  }
-}
-
-.bd-placeholder-img {
-    font-size: 1.125rem;
-    text-anchor: middle;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -ms-user-select: none;
-    user-select: none;
-}
-
-@media (min-width: 768px) {
-    .bd-placeholder-img-lg {
-      font-size: 3.5rem;
-    }
-  }
-
-.title h2{
-  font-family: 'Raleway', sans-serif;
-  font-size: 38px;
-  color:#333333;  
-  font-weight: 700;
-  padding-top: 80px;
-}
-
-.aboutus-con img{
-  padding-top: 60px; 
-}
-
-.aboutus-con .head-para h3{
-  color:#333333;  
-  font-family: 'Raleway', sans-serif;
-  padding-top: 60px;
-  padding-left: 20px; 
-  font-weight: 500;
-}
-
-.aboutus-con .head-para p{
-  padding-left:20px;
-  padding-top: 20px;
-}
-
-.aboutus-con .head-para .p2{
-  padding-left:20px;
-  padding-top: 7px;
-}
-
-.btnweb{
-  font-family: 'Raleway', sans-serif;
+/* Button */
+.btnweb {
   border-radius: 50px;
-  font-weight: 200;
-  background-image: linear-gradient(to right, #D0212E, #F2912C);
+  font-weight: 400;
+  background-image: linear-gradient(to right, #d0212e, #f2912c);
   color: #fff;
   height: 40px;
   text-decoration: none !important;
@@ -80,99 +19,311 @@
   border: none;
 }
 
-.btnweb:hover{
+.btnweb:hover {
   color: #fff;
 }
+/* Button End */
 
-.coursecon{
-  margin-top: 40px;
+/* NavBar Start */
+.navbar {
+  background-color: transparent;
 }
 
-.countback{
-  display: inline-block;
-  background-color:#F35F00;
-  width: 100px;
-  height: 100px;
-  border-radius: 100%;
+.floatingNav {
+  background-color: #fefefe;
+  box-shadow: 0 2.6px 2.6px 0px rgba(0, 0, 0, 0.06);
+  transition: 0.6s;
 }
 
-.countback .countele{
-  padding-top: 30px;
+.navbar li a {
+  margin: 15px;
+  font-size: 15px;
+  font-weight: 600;
+  color: #131416;
 }
 
-/* Course Card */
+.navbar li a:hover {
+  color: #f35f00;
+  transition: 0.3s;
+}
 
-.coursecard{
+.navbar .btn {
+  margin-left: 10px;
+}
+
+@media (max-width: 991px) {
+  .navbar ul {
+    align-items: center;
+  }
+  .navbar .btn {
+    margin-left: 0px;
+    margin-top: 10px;
+    margin-right: 0px;
+    min-width: 120px;
+  }
+}
+/* NavBar End */
+
+/* Landing Start */
+.topBanner {
+  height: 100vh;
+}
+
+.topBanner .background {
+  width: 100%;
+  left: 0;
+  position: absolute;
+  max-width: 100%;
+  height: auto;
+}
+
+.topBanner .leftImg {
+  left: 0;
+  top: 0;
+  position: absolute;
+}
+
+.topBanner .rightImg {
+  right: 0;
+  top: 0;
+  position: absolute;
+}
+
+.topBanner .leftSide {
+  padding-left: 50px;
+  margin-top: 13%;
+  margin-bottom: 13%;
+}
+
+.topBanner .leftSide h5 {
+  color: #f35f00;
+  margin-bottom: 20px;
+}
+
+.topBanner .leftSide h1 {
+  font-size: 65px;
+  font-weight: 700;
+  color: #131416;
+  line-height: 1.2;
+}
+
+.topBanner .leftSide h1 span {
+  color: #f35f00;
+}
+
+.topBanner .leftSide p {
+  opacity: 0.8;
+  color: #131416;
+  font-size: 15px;
+  line-height: 26px;
+  font-weight: 600;
+}
+
+.topBanner .leftSide .btnweb {
+  width: 300px;
+  height: 60px;
+}
+
+.topBanner .rightSide {
+  padding-right: 50px;
+  margin-top: 13%;
+  margin-bottom: 13%;
+}
+
+.topBanner .rightSide .card {
+  width: 100%;
+  height: 100%;
+}
+
+.topBanner .rightSide .card {
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.topBanner .rightSide .card h5 {
+  font-size: 25px;
+  color: #131416;
+  font-weight: 600;
+}
+
+.topBanner .rightSide .card p {
+  font-size: 15px;
+}
+
+.topBanner .rightSide .card form {
+  margin-left: 40px;
+  margin-right: 40px;
+  padding-top: 20px;
+}
+
+.topBanner .rightSide .card form input {
+  width: 100%;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 8px;
+  color: #131416;
+  border-width: 2px;
+  border-color: #f35f00;
+  box-shadow: none;
+}
+
+.topBanner .rightSide .card form button {
+  width: 100%;
+  height: 50px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+@media (max-width: 1024px) {
+  .topBanner .leftSide h5{
+    font-size: 15px;
+  }
+  .topBanner .leftSide h1{
+    font-size: 40px;
+  }
+  .topBanner .leftSide p{
+    font-size: 13px;
+  }
+  .topBanner .rightSide .card h5{
+    font-size: 20px;
+  }
+  .topBanner .rightSide .card p{
+    font-size: 12px;
+  }
+}
+
+@media (max-width: 992px) {
+  .topBanner .leftSide{
+    margin-top: 20%;
+  }
+  .topBanner .leftSide h5{
+    font-size: 20px;
+  }
+  .topBanner .leftSide h1{
+    font-size: 70px;
+  }
+  .topBanner .leftSide p{
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .topBanner .leftSide{
+    margin-top: 30%;
+  }
+  .topBanner .leftSide h5{
+    font-size: 20px;
+  }
+  .topBanner .leftSide h1{
+    font-size: 60px;
+  }
+  .topBanner .leftSide p{
+    font-size: 15px;
+  }
+}
+
+@media (max-width: 576px) {
+  .topBanner .leftSide{
+    margin-top: 40%;
+  }
+  .topBanner .leftSide h5{
+    font-size: 18px;
+  }
+  .topBanner .leftSide h1{
+    font-size: 43px;
+  }
+  .topBanner .leftSide p{
+    font-size: 13px;
+  }
+}
+/* Landing End */
+
+/* Course Start */
+.courses {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.coursecard {
   overflow-x: auto;
   margin-top: 60px;
-  color:#333333;  
-  font-family: 'Raleway', sans-serif;
+  color: #131416;
 }
 
-.coursecard:hover{
+.coursecard:hover {
   transform: scale(1.04);
   transition: 0.5s;
 }
 
-.coursecard .card-body .card-title{
+.coursecard .card-body .card-title {
   font-size: 20px;
+  font-weight: 600;
 }
 
-.coursecard .card-body .card-text{
+.coursecard .card-body .card-text {
   font-size: 15px;
 }
 
-.coursecard .card-body .course-ratandpri ul{
-  display:flex;
+.coursecard .card-body .course-ratandpri ul {
+  display: flex;
   padding-left: 0;
   margin-left: 0;
   align-items: center;
   justify-content: space-between;
 }
 
-.coursecard .card-body .course-ratandpri ul li{
+.coursecard .card-body .course-ratandpri ul li {
   list-style-type: none;
-  font-family: 'Manrope', sans-serif;
   font-size: 14px;
 }
 
-.coursecard .card-body .course-ratandpri ul li i{
+.coursecard .card-body .course-ratandpri .ratting {
+  color: #e59819;
+}
+
+.coursecard .card-body .course-ratandpri ul li i {
   margin-right: 10px;
 }
 
-.coursecard .card-body .course-ratandpri ul .price{
+.coursecard .card-body .course-ratandpri ul .price {
   font-size: 24px;
   font-weight: 800;
 }
 
-.coursecard .card-body .course-author ul{
+.coursecard .card-body .course-ratandpri ul s {
+  margin-right: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  opacity: 0.8;
+}
+
+.coursecard .card-body .course-author ul {
   display: flex;
   padding-left: 0;
   margin-left: 0;
 }
 
-.coursecard .card-body .course-author ul li{
+.coursecard .card-body .course-author ul li {
   list-style-type: none;
   font-weight: 500;
   margin-right: -15px;
 }
 
-.coursecard .card-body .course-author ul li img{
+.coursecard .card-body .course-author ul li img {
   width: 40px;
   height: 40px;
 }
 
-.coursecard .card-body .course-author ul li .extra-author{
-  font-family: 'Manrope', sans-serif;
-  background-color: #5A5A5A;
+.coursecard .card-body .course-author ul li .extra-author {
+  background-color: #5a5a5a;
   border-radius: 50%;
-  width:40px;
+  width: 40px;
   height: 40px;
   padding: 10px;
-  color:#ffffff;
+  color: #ffffff;
 }
 
-.coursecard .card-body .course-info ul{
+.coursecard .card-body .course-info ul {
   display: flex;
   padding-left: 0;
   margin-left: 0;
@@ -180,198 +331,339 @@
   justify-content: space-between;
 }
 
-.coursecard .card-body .course-info ul li{
-  font-family: 'Manrope', sans-serif;
-  font-size: 14px;
+.coursecard .card-body .course-info ul li {
+  font-size: 12px;
+  font-weight: 600;
   list-style-type: none;
-  margin-right:15px;
-  margin-bottom:5px;
+  margin-right: 15px;
+  margin-bottom: 5px;
 }
 
-.coursecard .card-body .course-info ul li i{
-  margin-right: 10px;
-}
-/* Card end */
-
-body{
-  background-color: #FFFFFF;
+.coursecard .card-body .course-info .language {
+  background-color: #e5f0fd;
+  padding: 5px;
+  border-radius: 5px;
 }
 
-@media (max-width: 992px){
-  .courseback h3{
-    font-size: 20pt;
-  }
-  .courseback p{
-    font-size: 15pt;
-  }
+.coursecard .card-body .course-info ul li i {
+  margin-right: 5px;
 }
 
-@media (max-width: 576px){
-  .courseback h3{
-    font-size: 13pt;
-  }
+.owl-carousel .owl-dots button {
+  visibility: hidden;
 }
 
-.testimonial6 {
-  font-family: 'Raleway', sans-serif;
-  color: #333333;
-  font-weight: 300;
+@media (max-width: 768px) {
+
+}
+/* Course End */
+
+.title {
+  padding-top: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+  color: #131416;
 }
 
-.testimonial6 h1,
-.testimonial6 h2,
-.testimonial6 h3,
-.testimonial6 h4,
-.testimonial6 h5,
-.testimonial6 h6 {
-  color: #333333;
+.title h2 {
+  font-size: 32px;
+  font-weight: 700;
 }
 
-.testimonial6 .font-weight-medium {
+.title p {
+  opacity: 0.8;
+  font-size: 14px;
   font-weight: 500;
 }
 
-.testimonial6 h5 {
-    line-height: 22px;
-    font-size: 18px;
+.title button {
+  border-radius: 5px;
+  font-weight: 600;
+  width: 150px;
+  height: 50px;
+  background: none;
+  background-color: #f4f1fe;
+  color: #f35f00;
 }
 
-.testimonial6 .subtitle {
-  color: #333333;
-  line-height: 24px;
-	font-size: 16px;
+.title button:hover {
+  color: #fff;
+  background-image: linear-gradient(to right, #d0212e, #f2912c);
+  transition: 0.8s;
 }
 
-.testimonial6 .testi6 {
-  border-right: 1px solid rgba(120, 130, 140, 0.13);
+/* Become Teacher Start*/
+.becomeTeacher {
+  background-color: #f7f8fb;
+  margin-top: 50px;
+  padding-top: 80px;
+  padding-bottom: 80px;
 }
 
-.testimonial6 .testi6 .nav-link {
-  border-radius: 0px;
-  margin: 8px -2px 8px 0;
+.becomeTeacher .leftSide {
+  padding-left: 50px;
 }
 
-.testimonial6 .testi6 .nav-link img {
-  width: 70px;
-  opacity: 0.5;
+.becomeTeacher .rightSide {
+  padding-right: 50px;
 }
 
-.testimonial6 .testi6 .nav-link.active {
-  background: transparent;
-  color: #F35F00;
-  border-right: 3px solid #F35F00;
+.becomeTeacher span {
+  color: #f35f00;
 }
 
-.testimonial6 .testi6 .nav-link.active img {
-  opacity: 1;
+.becomeTeacher .rightSide h1 {
+  color: #131416;
+  font-size: 2.8rem;
+  font-weight: 700;
 }
 
-.testimonial6 .btn-danger {
-    background: #F35F00 !important;
-    border: 1px solid #F35F00 !important;
+.becomeTeacher .rightSide p {
+  margin-top: 20px;
+  color: #131416;
+  opacity: 0.8;
 }
 
-.testimonial6 .btn-md {
-    padding: 18px 0px;
-    width: 60px;
-    height: 60px;
-    font-size: 20px;
+.becomeTeacher .rightSide .buttons {
+  margin-top: 30px;
 }
 
-@media (max-width: 767px) {
-	.testimonial6 .testi6 .nav-link {
-    margin: 0px 0px -2px 0;
-    padding: 10px;
-	}
-	.testimonial6 .testi6 {
-    -webkit-box-orient: horizontal !important;
-    -webkit-box-direction: normal !important;
-    -webkit-flex-direction: row !important;
-    -ms-flex-direction: row !important;
-    flex-direction: row !important;
-    border-right: 0px solid rgba(120, 130, 140, 0.13);
-    border-bottom: 1px solid rgba(120, 130, 140, 0.13);
-    margin-bottom: 40px;
-	}
-	.testimonial6 .testi6 .nav-link img {
-    width: 40px;
-	}
-	.testimonial6 .testi6 .nav-link.active {
-			border-right: 0px solid #F35F00;
-			border-bottom: 3px solid #F35F00;
-	}
+.becomeTeacher .rightSide .buttons button {
+  height: 60px;
+  border-radius: 10px;
+  padding-left: 50px;
+  padding-right: 50px;
+  font-weight: 600;
 }
 
-.section-con img{
-  padding-top: 90px; 
+.becomeTeacher .rightSide .buttons .btnDark {
+  margin-right: 20px;
+  background: none;
+  color: #fff;
+  background-color: #131416;
+  border: 2px solid #131416;
 }
 
-.section-con .head-para h3{
-  color:#333333;  
-  font-family: 'Raleway', sans-serif;
-  padding-top: 150px;
+.becomeTeacher .rightSide .buttons .btnDark:hover {
+  background-color: transparent;
+  color: #131416;
+}
+
+.becomeTeacher .rightSide .buttons .btnLight {
+  background: none;
+  color: #131416;
+  border: 2px solid #131416;
+}
+
+.becomeTeacher .rightSide .buttons .btnLight:hover {
+  background-color: #131416;
+  color: #fff;
+  transition: 0.5s;
+}
+/* Become Teacher End*/
+
+/* findCareer Start */
+.rightCareer {
+  background-image: linear-gradient(to right, #d0212e, #f2912c);
+  padding-top: 80px;
+  padding-bottom: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.rightCareer h2 {
+  color: #fff;
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.rightCareer p {
+  color: #fff;
+  font-size: 15px;
+  font-weight: 400;
+}
+
+.rightCareer button {
+  background: none;
+  background-color: #fff;
+  color: #131416;
+  border-radius: 10px;
+  border: 2px solid #fff;
+  height: 60px;
+  font-weight: 500;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.rightCareer button:hover {
+  background-color: transparent;
+  transition: 0.5s;
+}
+/* findCareer End */
+
+/* Working Start */
+.working {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.working .workingTitle h2 {
+  color: #131416;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.working .workingTitle h2 span {
+  color: #f35f00;
+}
+
+.working .workingTitle p {
+  font-size: 14px;
   font-weight: 500;
 }
 
-.section-con .head-para p{
-  padding-top: 20px;
+.working .workingCon {
+  margin-top: 50px;
 }
 
-.section-con .head-para .p2{
-  padding-top: 7px;
+.working .workingCon .backgroundFill {
+  background-color: #e5f0fd;
+  min-width: 80px;
+  min-height: 80px;
+  border-radius: 100%;
 }
 
-@media (max-width: 992px) {
-  .section-con .head-para h3{
-    padding-top: 50px;
-  }
+.working .workingCon .backgroundFill i {
+  font-size: 35px;
+  color: transparent;
+  -webkit-text-stroke-width: 2px;
+  -webkit-text-stroke-color: #f35f00;
 }
 
-.head-para-contact h3{
-  color:#333333;  
-  font-family: 'Raleway', sans-serif;
-  padding-top: 60px;
-  padding-left: 20px; 
+.working .workingCon .titleandDec {
+  margin-left: 50px;
+}
+
+.working .workingCon .titleandDec h4 {
+  color: #131416;
+  font-weight: 600;
+  font-size: 17px;
+}
+
+.working .workingCon .titleandDec p {
+  font-weight: 500;
+  opacity: 0.9;
+  margin-top: 5px;
+  font-size: 15px;
+  line-height: 26px;
+}
+/* Working End */
+
+/* testCount Start */
+.testCount {
+  background-color: #f7f8fb;
+  padding-top: 100px;
+  padding-bottom: 80px;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.testCount .testcountTitle h2 {
+  color: #131416;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.testCount .testcountTitle p {
+  color: #131416;
+  opacity: 0.8;
+  font-size: 14px;
   font-weight: 500;
 }
 
-.head-para-contact form{
-  color:#333333;  
-  font-family: 'Raleway', sans-serif;
-  padding-top: 30px;
-  padding-left: 20px; 
+.testCount .counter h2 {
+  color: #f35f00;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.testCount .counter p {
+  color: #131416;
+  opacity: 0.8;
+  font-size: 14px;
   font-weight: 500;
 }
 
-.form-signin {
-  font-family: 'Raleway', sans-serif;
-  width: 100%;
-  max-width: 330px;
-  padding: 15px;
-  margin: 0 auto;
+.testmonial_slide {
+  padding-top: 100px;
+  padding-bottom: 80px;
+  width: 50%;
+  margin: auto;
+  text-align: center;
 }
-
-.form-signin .form-control {
+.testmonial_slide img {
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 136px;
+  height: 136px;
+  margin: auto;
+  display: block;
+  color: #f2f2f2;
+  font-size: 18px;
+  line-height: 46px;
+  text-align: center;
   position: relative;
-  box-sizing: border-box;
-  height: auto;
-  padding: 10px;
+  border-radius: 50%;
+  box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+  -moz-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+  -o-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+  -webkit-box-shadow: -6px 6px 6px rgba(0, 0, 0, 0.23);
+}
+.testmonial_slide p {
+  color: #131416;
   font-size: 16px;
-}
-.form-signin .form-control:focus {
-  z-index: 2;
-}
-.form-signin input[type="email"] {
-  margin-bottom: 20px;
-}
-.form-signin input[type="password"] {
-  margin-bottom: 20px;
+  font-weight: 500;
+  line-height: 30px;
+  margin: 40px 0 20px 0;
 }
 
+.testmonial_slide h3{
+  font-size: 100px;
+  font-weight: 700;
+  color: #f35f00;
+}
+
+.testmonial_slide h4 {
+  margin-top: 100px;
+  color: #131416;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.testmonial_slide h5 {
+  color: #131416;
+  opacity: 0.7;
+  font-size: 14px;
+}
+
+.testmonial_slide i{
+  color: #f35f00;
+  font-size: 50px;
+}
+
+.testCount .carousel-control-next i,
+.testCount .carousel-control-prev i {
+  color: #131416;
+  font-size: 35px;
+}
+/* testCount End */
+
+/* Footer Start */
 .footer_area {
-  margin-top: 80px;
   background: #fbfbfd;
-  font-family: "Raleway", sans-serif;
 }
 
 .footer_area .btn {
@@ -474,18 +766,21 @@ a:focus {
 }
 
 @media only screen and (max-width: 768px) {
-  .footer_area .footer_top{
+  .footer_area .footer_top {
     padding-top: 40px;
   }
-  .footer_bottom p{
+  .footer_bottom p {
     text-align: center;
     font-size: 13px;
   }
 }
+/* Footer End */
 
-.containerPage h2{
+/* 404 Page Start */
+.containerPage h2 {
   margin-top: 200px;
   font-size: 5rem;
   font-weight: 900;
   color: #333333;
 }
+/* 404 Page End */
