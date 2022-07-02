@@ -238,10 +238,10 @@ body {
     font-size: 15px;
   }
   .topBanner .leftSide h1{
-    font-size: 35px;
+    font-size: 40px;
   }
   .topBanner .leftSide p{
-    font-size: 10px;
+    font-size: 13px;
   }
   .topBanner .rightSide{
     display: none;
@@ -415,10 +415,10 @@ body {
     padding: 0px;
   }
   .title h2{
-    font-size: 20px;
+    font-size: 35px;
   }
   .title p{
-    font-size: 10px;
+    font-size: 15px;
   }
   .courses {
     padding-left: 20px;
@@ -501,11 +501,11 @@ body {
     padding-left: 20px;
   }
   .becomeTeacher .rightSide h1{
-    font-size: 25px;
+    font-size: 35px;
   }
 
   .becomeTeacher .rightSide p{
-    font-size: 12px;
+    font-size: 15px;
   }
   .becomeTeacher .rightSide .buttons button{
     width: 180px;
