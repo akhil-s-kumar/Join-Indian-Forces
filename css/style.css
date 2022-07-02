@@ -238,6 +238,22 @@ body {
     font-size: 12px;
   }
 }
+
+@media (max-width: 375px) {
+  .topBanner .leftSide{
+    padding-left: 20px;
+    margin-top: 40%;
+  }
+  .topBanner .leftSide h5{
+    font-size: 15px;
+  }
+  .topBanner .leftSide h1{
+    font-size: 35px;
+  }
+  .topBanner .leftSide p{
+    font-size: 10px;
+  }
+}
 /* Landing End */
 
 /* Course Start */
