@@ -224,6 +224,9 @@ body {
   .topBanner .leftSide p{
     font-size: 15px;
   }
+  .topBanner .rightSide{
+    visibility: hidden;
+  }
 }
 
 @media (max-width: 576px) {
@@ -239,6 +242,9 @@ body {
   }
   .topBanner .leftSide p{
     font-size: 12px;
+  }
+  .topBanner .rightSide{
+    visibility: hidden;
   }
 }
 /* Landing End */
