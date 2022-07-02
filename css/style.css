@@ -176,74 +176,74 @@ body {
 }
 
 @media (max-width: 1024px) {
-  .topBanner .leftSide h5{
+  .topBanner .leftSide h5 {
     font-size: 15px;
   }
-  .topBanner .leftSide h1{
+  .topBanner .leftSide h1 {
     font-size: 40px;
   }
-  .topBanner .leftSide p{
+  .topBanner .leftSide p {
     font-size: 13px;
   }
-  .topBanner .rightSide .card h5{
+  .topBanner .rightSide .card h5 {
     font-size: 20px;
   }
-  .topBanner .rightSide .card p{
+  .topBanner .rightSide .card p {
     font-size: 12px;
   }
 }
 
 @media (max-width: 992px) {
-  .topBanner .leftSide{
+  .topBanner .leftSide {
     margin-top: 20%;
   }
-  .topBanner .leftSide h5{
+  .topBanner .leftSide h5 {
     font-size: 20px;
   }
-  .topBanner .leftSide h1{
+  .topBanner .leftSide h1 {
     font-size: 70px;
   }
-  .topBanner .leftSide p{
+  .topBanner .leftSide p {
     font-size: 15px;
   }
-  .topBanner .rightSide{
+  .topBanner .rightSide {
     display: none;
   }
 }
 
 @media (max-width: 768px) {
-  .topBanner .leftSide{
+  .topBanner .leftSide {
     margin-top: 30%;
   }
-  .topBanner .leftSide h5{
+  .topBanner .leftSide h5 {
     font-size: 20px;
   }
-  .topBanner .leftSide h1{
+  .topBanner .leftSide h1 {
     font-size: 60px;
   }
-  .topBanner .leftSide p{
+  .topBanner .leftSide p {
     font-size: 15px;
   }
-  .topBanner .rightSide{
+  .topBanner .rightSide {
     display: none;
   }
 }
 
 @media (max-width: 576px) {
-  .topBanner .leftSide{
+  .topBanner .leftSide {
     padding-left: 20px;
     margin-top: 50%;
   }
-  .topBanner .leftSide h5{
+  .topBanner .leftSide h5 {
     font-size: 15px;
   }
-  .topBanner .leftSide h1{
-    font-size: 35px;
+  .topBanner .leftSide h1 {
+    font-size: 38px;
   }
-  .topBanner .leftSide p{
-    font-size: 10px;
+  .topBanner .leftSide p {
+    font-size: 15px;
   }
-  .topBanner .rightSide{
+  .topBanner .rightSide {
     display: none;
   }
 }
@@ -399,13 +399,13 @@ body {
 }
 
 @media (max-width: 768px) {
-  .title h2{
+  .title h2 {
     font-size: 30px;
   }
-  .title p{
+  .title p {
     font-size: 15px;
   }
-  .title button{
+  .title button {
     width: 100%;
   }
 }
@@ -414,10 +414,10 @@ body {
   .title {
     padding: 0px;
   }
-  .title h2{
+  .title h2 {
     font-size: 35px;
   }
-  .title p{
+  .title p {
     font-size: 15px;
   }
   .courses {
@@ -497,17 +497,17 @@ body {
 }
 
 @media (max-width: 576px) {
-  .becomeTeacher .leftSide{
+  .becomeTeacher .leftSide {
     padding-left: 20px;
   }
-  .becomeTeacher .rightSide h1{
+  .becomeTeacher .rightSide h1 {
     font-size: 35px;
   }
 
-  .becomeTeacher .rightSide p{
+  .becomeTeacher .rightSide p {
     font-size: 15px;
   }
-  .becomeTeacher .rightSide .buttons button{
+  .becomeTeacher .rightSide .buttons button {
     width: 180px;
     font-size: 10px;
     padding-left: 20px;
@@ -559,7 +559,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .rightCareer button{
+  .rightCareer button {
     min-width: 100%;
   }
 }
@@ -701,7 +701,7 @@ body {
   margin: 40px 0 20px 0;
 }
 
-.testmonial_slide h3{
+.testmonial_slide h3 {
   font-size: 100px;
   font-weight: 700;
   color: #f35f00;
@@ -720,7 +720,7 @@ body {
   font-size: 14px;
 }
 
-.testmonial_slide i{
+.testmonial_slide i {
   color: #f35f00;
   font-size: 50px;
 }
@@ -736,7 +736,7 @@ body {
     padding-left: 20px;
     padding-right: 20px;
   }
-  .testCount .testcountTitle h2{
+  .testCount .testcountTitle h2 {
     font-size: 30px;
   }
   .testCount .testcountTitle p {
@@ -746,7 +746,7 @@ body {
     padding-top: 80px;
     width: 80%;
   }
-  .testCount .counter .counterele{
+  .testCount .counter .counterele {
     margin-top: 20px;
   }
 }
