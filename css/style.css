@@ -1570,6 +1570,7 @@ a:focus {
 
 /* 404 Page Start */
 .containerPage h2 {
+  font-family: "Montserrat", sans-serif;
   margin-top: 200px;
   font-size: 5rem;
   font-weight: 900;
