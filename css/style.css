@@ -623,6 +623,13 @@ body {
   font-size: 15px;
   line-height: 26px;
 }
+
+@media (max-width: 576px) {
+  .working {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
 /* Working End */
 
 /* testCount Start */
@@ -722,6 +729,26 @@ body {
 .testCount .carousel-control-prev i {
   color: #131416;
   font-size: 35px;
+}
+
+@media (max-width: 576px) {
+  .testCount {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .testCount .testcountTitle h2{
+    font-size: 30px;
+  }
+  .testCount .testcountTitle p {
+    font-size: 12px;
+  }
+  .testmonial_slide {
+    padding-top: 80px;
+    width: 80%;
+  }
+  .testCount .counter .counterele{
+    margin-top: 20px;
+  }
 }
 /* testCount End */
 
