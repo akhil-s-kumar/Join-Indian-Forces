@@ -29,6 +29,10 @@ body {
   background-color: transparent;
 }
 
+.navbar .navbar-toggler{
+  outline: none;
+}
+
 .floatingNav {
   background-color: #fefefe;
   box-shadow: 0 2.6px 2.6px 0px rgba(0, 0, 0, 0.06);
