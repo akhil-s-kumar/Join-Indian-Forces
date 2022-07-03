@@ -1577,3 +1577,21 @@ a:focus {
   color: #333333;
 }
 /* 404 Page End */
+
+/*  more details start */
+.moreDetails{
+  font-family: "Montserrat", sans-serif;
+  margin-top: 150px;
+}
+
+.moreDetails .moreDetails-title h1{
+  font-size: 60px;
+  font-weight: 700;
+}
+
+.moreDetails .moreDetails-title p{
+  margin-top: 20px;
+  font-size: 15px;
+  line-height: 25px;
+}
+/*  more details end */
