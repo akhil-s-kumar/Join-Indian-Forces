@@ -1,32 +1,32 @@
 [
     {
         "Id": "1",
-        "rollNumber": "42055104260",
-        "name": "RAHUL K N",
-        "score": "12.5"
+        "rollNumber": "26025861382",
+        "name": "Archana PB",
+        "score": "43.25"
     },
     {
         "Id": "2",
-        "rollNumber": "24849739278",
-        "name": "Vishnu M M",
-        "score": "2.75"
+        "rollNumber": "45553793663",
+        "name": "Sreya Sreya",
+        "score": "50.5"
     },
     {
         "Id": "3",
-        "rollNumber": "45553793663",
-        "name": "Sreya Sreya",
-        "score": "34.25"
+        "rollNumber": "48254088957",
+        "name": "Rishikesh Rishikesh",
+        "score": "17.25"
     },
     {
         "Id": "4",
-        "rollNumber": "42823621996",
-        "name": "Anurag Vasan",
-        "score": "49.5"
+        "rollNumber": "65577515172",
+        "name": "Gowri Sb",
+        "score": "21.25"
     },
     {
         "Id": "5",
-        "rollNumber": "60566412236",
-        "name": "Rahul pr",
-        "score": "40"
+        "rollNumber": "42823621996",
+        "name": "Anurag Vasan",
+        "score": "56.75"
     }
 ]
