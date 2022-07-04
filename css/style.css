@@ -1612,44 +1612,4 @@ a:focus {
   margin-top: 30px;
   margin-bottom: 50px;
 }
-
-.careers .card{
-  border: none;
-  border-radius: 15px;
-  background-color: #FBFBFF;
-  margin-top: 20px;
-  margin-bottom: 20px;
-}
-
-.careers .card .card-body .career-head h2{
-  font-size: 18px;
-  font-weight: 600;
-}
-
-.careers .card .card-body .career-head i{
-  font-size: 15px;
-  margin-right: 20px;
-}
-
-.careers .card .card-body .career-head p{
-  font-size: 15px;
-  font-weight: 500;
-}
-
-.careers .card .card-body .career-otherDetails h3{
-  font-size: 15px;
-  font-weight: 600;
-}
-
-.careers .card .card-body .career-otherDetails i{
-  font-size: 20px;
-  margin-right: 15px;
-  color: #f35f00;
-}
-
-.careers .card .card-body .career-otherDetails p{
-  opacity: 0.8;
-  font-size: 15px;
-  font-weight: 500;
-}
 /* careers End */

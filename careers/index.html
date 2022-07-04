@@ -58,107 +58,18 @@
             </div>
         </div>
         <div class="row careers">
-            <div class="col-lg-6">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <div class="career-head">
-                            <div class="d-flex justify-content-between">
-                                <h2>Content Creator - English</h2>
-                                <p><span class="badge badge-warning">Part Time</span></p>
-                            </div>
-                            <p><i class="fa fa-graduation-cap"></i>Graduation</p>
-                            <p><i class="fa fa-suitcase"></i>0 - 3 Experience</p>
-                        </div>
-                        <hr>
-                        <div class="career-otherDetails">
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-map-marker"></i>Location</h3>
-                                <p>Remote</p>
-                            </div>
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-clock-o"></i>Apply Before</h3>
-                                <p>30-07-2022</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <div class="career-head">
-                            <div class="d-flex justify-content-between">
-                                <h2>Content Creator - GS</h2>
-                                <p><span class="badge badge-warning">Part Time</span></p>
-                            </div>
-                            <p><i class="fa fa-graduation-cap"></i>Graduation</p>
-                            <p><i class="fa fa-suitcase"></i>0 - 3 Experience</p>
-                        </div>
-                        <hr>
-                        <div class="career-otherDetails">
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-map-marker"></i>Location</h3>
-                                <p>Remote</p>
-                            </div>
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-clock-o"></i>Apply Before</h3>
-                                <p>28-07-2022</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <div class="career-head">
-                            <div class="d-flex justify-content-between">
-                                <h2>Content Creator - GK</h2>
-                                <p><span class="badge badge-warning">Part Time</span></p>
-                            </div>
-                            <p><i class="fa fa-graduation-cap"></i>Graduation</p>
-                            <p><i class="fa fa-suitcase"></i>0 - 3 Experience</p>
-                        </div>
-                        <hr>
-                        <div class="career-otherDetails">
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-map-marker"></i>Location</h3>
-                                <p>Remote</p>
-                            </div>
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-clock-o"></i>Apply Before</h3>
-                                <p>30-07-2022</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6">
-                <div class="card shadow">
-                    <div class="card-body">
-                        <div class="career-head">
-                            <div class="d-flex justify-content-between">
-                                <h2>Full Stack Engineer</h2>
-                                <p><span class="badge badge-warning">Part Time</span></p>
-                            </div>
-                            <p><i class="fa fa-graduation-cap"></i>Graduation</p>
-                            <p><i class="fa fa-suitcase"></i>3 - 5 Experience</p>
-                        </div>
-                        <hr>
-                        <div class="career-otherDetails">
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-map-marker"></i>Location</h3>
-                                <p>Remote</p>
-                            </div>
-                            <div class="d-flex justify-content-between">
-                                <h3><i class="fa fa-clock-o"></i>Apply Before</h3>
-                                <p>15-07-2022</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            
+            <card-component class="col-lg-6" jobTitle="Content Creator - English" type="Part Time"
+                qualification="Graduation" experience="0 - 3 Experience" location="Remote" applyBefore="30-07-2022">
+            </card-component>
+            <card-component class="col-lg-6" jobTitle="Content Creator - GS" type="Part Time" qualification="Graduation"
+                experience="0 - 3 Experience" location="Remote" applyBefore="28-07-2022">
+            </card-component>
+            <card-component class="col-lg-6" jobTitle="Content Creator - GK" type="Part Time" qualification="Graduation"
+                experience="0 - 3 Experience" location="Remote" applyBefore="30-07-2022">
+            </card-component>
+            <card-component class="col-lg-6" jobTitle="Full Stack Engineer" type="Part Time" qualification="Graduation"
+                experience="3 - 5 Experience" location="Remote" applyBefore="15-07-2022">
+            </card-component>
         </div>
     </div>
 
@@ -272,6 +183,7 @@
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="../js/floating-nav.js"></script>
+    <script src="./components/cardCom.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
         integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
