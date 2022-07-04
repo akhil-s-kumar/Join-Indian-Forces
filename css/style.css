@@ -56,6 +56,9 @@ body {
 }
 
 @media (max-width: 991px) {
+  .navbar{
+    background-color: #fff;
+  }
   .navbar ul {
     align-items: center;
   }
