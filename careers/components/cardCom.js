@@ -45,6 +45,18 @@ cardTemplate.innerHTML = `
     font-size: 15px;
     font-weight: 500;
   }
+
+.card .card-body .btnApply{
+  margin-top: 20px;
+  width: 100%;
+  font-weight: 600;
+  background-image: linear-gradient(to right, #d0212e, #f2912c);
+  color: #fff;
+  height: 40px;
+  text-decoration: none !important;
+  box-shadow: none !important;
+  border: none;
+}
 </style>
 
 <div class="card shadow">
@@ -68,6 +80,9 @@ cardTemplate.innerHTML = `
                 <p id="applyBefore">30-07-2022</p>
             </div>
         </div>
+        <button class="btn btnApply" type="submit">
+          Apply Now
+        </button>
     </div>
 </div>
 `;
