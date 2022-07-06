@@ -80,12 +80,28 @@ cardTemplate.innerHTML = `
                 <p id="applyBefore">30-07-2022</p>
             </div>
         </div>
-        <button class="btn btnApply" type="submit">
+        <button class="btn btnApply" id="applyNow" type="submit">
           Apply Now
         </button>
     </div>
 </div>
 `;
+
+
+const setItem = (jobID, jobTitle) =>{
+  return new Promise(resolve => {
+    resolve(
+      localStorage.setItem("JobID", jobID), 
+      localStorage.setItem("JobTitle", jobTitle)
+    );
+  });
+}
+
+const applyNow = async (jobID, jobTitle) => {
+  await setItem(jobID, jobTitle)
+  window.location.href = './apply'
+}
+
 class CardTemplate extends HTMLElement {
   constructor() {
     // Always call super first in constructor
@@ -105,6 +121,7 @@ class CardTemplate extends HTMLElement {
       this.getAttribute("location");
     this.shadowRoot.getElementById("applyBefore").innerHTML =
       this.getAttribute("applyBefore");
+    this.shadowRoot.getElementById("applyNow").onclick = this.getAttribute('onClick')
   }
 }
 

@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous" />
-    <link rel="stylesheet" href="../css/style.css" />
+    <link rel="stylesheet" href="../../css/style.css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-    <link rel="shortcut icon" href="../Images/Favicon.png" />
+    <link rel="shortcut icon" href="../../Images/Favicon.png" />
     <title>Join Indian Forces - Careers</title>
 </head>
 
@@ -17,7 +17,7 @@
     <header>
         <nav class="navbar navbar-expand-lg fixed-top">
             <a class="navbar-brand" href="https://joinindianforces.in/">
-                <img src="../Images/logo.png" width="45px" height="45px" />
+                <img src="../../Images/logo.png" width="45px" height="45px" />
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
                 aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -50,31 +50,14 @@
         </nav>
     </header>
 
-    <div class="container moreDetails">
-        <div class="row moreDetails-title-con">
+    <div class="container careerApply">
+        <div class="row applyDetails-title-con">
             <div class="col-lg-12">
-                <h1>Careers</h1>
+                <h1 id="jobTitle">Careers</h1>
                 <p>want to join with our team?</p>
             </div>
         </div>
-        <div class="row careers">
-            <card-component class="col-lg-6" jobTitle="Content Creator - English" type="Part Time"
-                qualification="Graduation" experience="0 - 3 Experience" location="Remote" applyBefore="30-07-2022"
-                onClick="applyNow('202207AA', 'Content Creator - English')">
-            </card-component>
-            <card-component class="col-lg-6" jobTitle="Content Creator - GS" type="Part Time" qualification="Graduation"
-                experience="0 - 3 Experience" location="Remote" applyBefore="28-07-2022"
-                onClick="applyNow('202207AB', 'Content Creator - GS')">
-            </card-component>
-            <card-component class="col-lg-6" jobTitle="Content Creator - GK" type="Part Time" qualification="Graduation"
-                experience="0 - 3 Experience" location="Remote" applyBefore="30-07-2022"
-                onClick="applyNow('202207AC', 'Content Creator - GK')">
-            </card-component>
-            <card-component class="col-lg-6" jobTitle="Full Stack Engineer" type="Part Time" qualification="Graduation"
-                experience="3 - 5 Experience" location="Remote" applyBefore="15-07-2022"
-                onClick="applyNow('202207AD', 'Full Stack Engineer')">
-            </card-component>
-        </div>
+        
     </div>
 
 
@@ -184,10 +167,19 @@
     <!--Footer End-->
 
     <!--Scripts-->
+    <script>
+        let a = localStorage.getItem('JobTitle');
+        let b = localStorage.getItem('JobID');
+        if (a == null || b == null){
+            window.location.href = 'https://joinindianforces.in/careers/'
+        }else{
+            console.log(a)
+            document.getElementById('jobTitle').innerHTML = a;
+        }
+    </script>
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
-    <script src="../js/floating-nav.js"></script>
-    <script src="./components/cardCom.js"></script>
+    <script src="../../js/floating-nav.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
         integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
