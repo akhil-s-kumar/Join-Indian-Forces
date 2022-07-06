@@ -57,9 +57,49 @@
                 <p>want to join with our team?</p>
             </div>
         </div>
-        
+        <div class="row applyForm">
+            <div class="col-lg-12">
+                <form autocomplete="off">
+                    <div class="form-row">
+                        <div class="mb-3 col-md-6">
+                            <label class="form-label">First Name</label><br />
+                            <input type="text" class="form-control" placeholder="First Name" id="firstName" required />
+                        </div>
+                        <div class="mb-3 col-md-6">
+                            <label class="form-label">Last Name</label><br />
+                            <input type="text" class="form-control" placeholder="Last Name" id="lastName" required />
+                        </div>
+                    </div>
+                    <div class="form-row">
+                        <div class="mb-3 col-md-6">
+                            <label class="form-label">Email</label><br />
+                            <input type="email" class="form-control" placeholder="Email" id="email" required />
+                        </div>
+                        <div class="mb-3 col-md-6">
+                            <label class="form-label">Mobile Number</label><br />
+                            <input type="number" class="form-control" placeholder="Mobile Number" id="number"
+                                required />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Location</label>
+                        <input type="text" class="form-control" id="location" placeholder="Location" required />
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Total Year of Experience</label>
+                        <input type="number" class="form-control" id="experience" placeholder="Experience" required />
+                    </div>
+                    <div class="form-group">
+                        <label class="form-label">Link of Demo Video</label>
+                        <input type="url" class="form-control" id="experience" placeholder="Video URL" required />
+                    </div>
+                    <button type="submit" onclick="getInputValue();" class="btn btnweb">
+                        Submit
+                    </button>
+                </form>
+            </div>
+        </div>
     </div>
-
 
     <!--Footer start-->
     <footer class="footer_area">
@@ -168,13 +208,12 @@
 
     <!--Scripts-->
     <script>
-        let a = localStorage.getItem('JobTitle');
-        let b = localStorage.getItem('JobID');
-        if (a == null || b == null){
-            window.location.href = 'https://joinindianforces.in/careers/'
-        }else{
-            console.log(a)
-            document.getElementById('jobTitle').innerHTML = a;
+        let a = localStorage.getItem("JobTitle");
+        let b = localStorage.getItem("JobID");
+        if (a == null || b == null) {
+            window.location.href = "https://joinindianforces.in/careers/";
+        } else {
+            document.getElementById("jobTitle").innerHTML = a;
         }
     </script>
     <script src="https://code.jquery.com/jquery-3.5.1.js"

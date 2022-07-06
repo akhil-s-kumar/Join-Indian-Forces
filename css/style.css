@@ -1619,4 +1619,39 @@ a:focus {
   font-size: 35px;
   font-weight: 600;
 }
+.careerApply .applyForm{
+  margin-top: 30px;
+  margin-bottom: 50px;
+}
+.careerApply .applyForm label{
+  color: #131416;
+  opacity: 0.9;
+  margin-top: 10px;
+  font-size: 18px;
+  font-weight: 500;
+}
+.careerApply .applyForm small{
+  margin-bottom: 50px;
+}
+.careerApply .applyForm input {
+  height: 40px;
+  background-color: transparent;
+  border-radius: 8px;
+  border-width: 1.5px;
+}
+
+.careerApply .applyForm input:focus {
+  background-color: transparent;
+  outline: none;
+  box-shadow: none;
+  border-color: #f35f00;
+}
+
+.careerApply .applyForm button{
+  height: 45px;
+  width: 100%;
+  font-weight: 500;
+  margin-top: 30px;
+  border-radius: 10px;
+}
 /* careers End */
