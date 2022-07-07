@@ -8,7 +8,7 @@ calloutTemplate.innerHTML = `
     margin: 10px 0;
     border: 1px solid #eee;
     border-left-width: 6px;
-    border-left-color: #26cb7c;
+    border-left-color: #f35f00;
     border-radius: 3px;
     background-color: #f5f7f9;
   }
