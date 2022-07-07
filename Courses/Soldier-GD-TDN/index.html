@@ -77,7 +77,7 @@
             </div>
             <div class="col-lg-2 my-auto">
                 <button class="btn btnweb">Enroll Now</button>
-                <button class="btn shareBtn"><i class="fa fa-share"></i> Share</button>
+                <button class="btn shareBtn" id="shareBtn"><i class="fa fa-share"></i> Share</button>
             </div>
         </div>
     </div>
@@ -123,15 +123,18 @@
                             <callout-component class="col-md-4" title="Units & Measurements"></callout-component>
                             <callout-component class="col-md-4" title="Motion & It's laws"></callout-component>
                             <callout-component class="col-md-4" title="Work, Energy & Power"></callout-component>
-                            <callout-component class="col-md-4" title="Gravitation & Properties of Matter"></callout-component>
+                            <callout-component class="col-md-4" title="Gravitation & Properties of Matter">
+                            </callout-component>
                             <callout-component class="col-md-4" title="Wave, Motion & Sound"></callout-component>
                             <callout-component class="col-md-4" title="Light"></callout-component>
                             <callout-component class="col-md-4" title="Electricity"></callout-component>
                             <callout-component class="col-md-4" title="Magnetism"></callout-component>
                             <callout-component class="col-md-4" title="Matter & It's State"></callout-component>
                             <callout-component class="col-md-4" title="Atoms & Molecules"></callout-component>
-                            <callout-component class="col-md-4" title="Periodic Classification of Elements"></callout-component>
-                            <callout-component class="col-md-4" title="Chemical Reactions & Equations"></callout-component>
+                            <callout-component class="col-md-4" title="Periodic Classification of Elements">
+                            </callout-component>
+                            <callout-component class="col-md-4" title="Chemical Reactions & Equations">
+                            </callout-component>
                             <callout-component class="col-md-4" title="Acids, Bases & Salts"></callout-component>
                             <callout-component class="col-md-4" title="Metals & Non-Metals"></callout-component>
                             <callout-component class="col-md-4" title="Carbon & It's Components"></callout-component>
@@ -139,7 +142,8 @@
                             <callout-component class="col-md-4" title="Introduction to Biology"></callout-component>
                             <callout-component class="col-md-4" title="Cell & Cell Organelles"></callout-component>
                             <callout-component class="col-md-4" title="Human Body & System"></callout-component>
-                            <callout-component class="col-md-4" title="Nutrition, Health & Diseases"></callout-component>
+                            <callout-component class="col-md-4" title="Nutrition, Health & Diseases">
+                            </callout-component>
                         </div>
                     </div>
                     <div class="tab-pane fade" id="mat" role="tabpanel" aria-labelledby="mat-tab">
@@ -293,6 +297,23 @@
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
     <script src="../../js/floating-nav.js"></script>
     <script src="../components/callout.js"></script>
+    <script>
+        const shareBtn = document.getElementById('shareBtn')
+
+        shareBtn.addEventListener('click', event => {
+            if (navigator.share) {
+                navigator.share({
+                    text: 'Agniveer Soldier GD/TDN - Malayalam complete online course',
+                    url: 'https://joinindianforces.in/Courses/Soldier-GD-TDN/'
+                }).then(() => {
+                    console.log('Thanks for sharing!');
+                })
+                    .catch((err) => console.error(err));
+            } else {
+                alert("The current browser does not support the share function. Please, manually share the link")
+            }
+        });
+    </script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
         integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
