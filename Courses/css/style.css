@@ -73,7 +73,7 @@
 }
 
 .syllabus {
-  margin-bottom: 150px;
+  margin-bottom: 50px;
 }
 
 .syllabus h1 {
@@ -110,7 +110,4 @@
   color: #fff;
   font-weight: 600;
   border-radius: 10px;
-}
-
-@media (max-width: 991px) {
 }
