@@ -78,7 +78,8 @@
                 </div>
             </div>
             <div class="col-lg-2 my-auto">
-                <button class="btn btnweb" onclick="window.location.href='https:\//telegram.me/+VcWMXgTMuMKOnSa6'">Enroll Now</button>
+                <button class="btn btnweb"
+                    onclick="window.location.href='https:\//telegram.me/+VcWMXgTMuMKOnSa6'">Enroll Now</button>
                 <button class="btn shareBtn" id="shareBtn"
                     text="Agniveer Soldier GD/TDN - Malayalam complete online course"
                     link="https://joinindianforces.in/Courses/SSC-GD/">
@@ -99,15 +100,19 @@
                 <ul class="nav nav-tabs" id="myTab" role="tablist">
                     <li class="nav-item" role="presentation">
                         <a class="nav-link active" id="eng-tab" data-toggle="tab" href="#eng" role="tab"
-                            aria-controls="eng" aria-selected="true">English</a>
+                            aria-controls="eng" aria-selected="true">General English</a>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <a class="nav-link" id="gr-tab" data-toggle="tab" href="#gr" role="tab" aria-controls="gr"
-                            aria-selected="false">General Reasoning</a>
+                        <a class="nav-link" id="gir-tab" data-toggle="tab" href="#gir" role="tab" aria-controls="gir"
+                            aria-selected="false">General Intelligence & Reasoning</a>
                     </li>
                     <li class="nav-item" role="presentation">
-                        <a class="nav-link" id="ga-tab" data-toggle="tab" href="#ga" role="tab" aria-controls="ga"
-                            aria-selected="false">General Awareness</a>
+                        <a class="nav-link" id="gka-tab" data-toggle="tab" href="#gka" role="tab" aria-controls="gka"
+                            aria-selected="false">General Knowledge & Awareness</a>
+                    </li>
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="em-tab" data-toggle="tab" href="#em" role="tab" aria-controls="em"
+                            aria-selected="false">Elementary Mathematics</a>
                     </li>
                 </ul>
                 <div class="tab-content" id="myTabContent">
@@ -117,47 +122,64 @@
                             <callout-component class="col-md-4" title="Spellings"></callout-component>
                             <callout-component class="col-md-4" title="One Word Substitution"></callout-component>
                             <callout-component class="col-md-4" title="Synonyms and Antonyms"></callout-component>
-                            <callout-component class="col-md-4" title="Sentence Completion (Fillers)"></callout-component>
+                            <callout-component class="col-md-4" title="Sentence Completion (Fillers)">
+                            </callout-component>
                             <callout-component class="col-md-4" title="Sentence Improvement"></callout-component>
                             <callout-component class="col-md-4" title="Idioms & Phrase"></callout-component>
                             <callout-component class="col-md-4" title="Cloze Test"></callout-component>
                             <callout-component class="col-md-4" title="Comprehension"></callout-component>
                         </div>
                     </div>
-                    <div class="tab-pane fade" id="gr" role="tabpanel" aria-labelledby="gr-tab">
+                    <div class="tab-pane fade show" id="gir" role="tabpanel" aria-labelledby="gir-tab">
                         <div class="row">
-                            <callout-component class="col-md-4" title="Number Series"></callout-component>
-                            <callout-component class="col-md-4" title="Odd one out"></callout-component>
-                            <callout-component class="col-md-4" title="Non-verbal reasoning"></callout-component>
-                            <callout-component class="col-md-4" title="Time, Speed and Distance"></callout-component>
+                            <callout-component class="col-md-4" title="Analogy or Similarity"></callout-component>
+                            <callout-component class="col-md-4" title="Classification or Differences">
+                            </callout-component>
+                            <callout-component class="col-md-4" title="Series"></callout-component>
+                            <callout-component class="col-md-4" title="Word Formation"></callout-component>
+                            <callout-component class="col-md-4" title="Logical Sequence of Words"></callout-component>
+                            <callout-component class="col-md-4" title="Coding & Decoding"></callout-component>
+                            <callout-component class="col-md-4" title="Ranking Test"></callout-component>
+                            <callout-component class="col-md-4" title="Spatial Orientation"></callout-component>
+                            <callout-component class="col-md-4" title="Relationship Concept"></callout-component>
+                            <callout-component class="col-md-4" title="Clock & Callender"></callout-component>
+                            <callout-component class="col-md-4" title="Sitting Arrengement"></callout-component>
+                            <callout-component class="col-md-4" title="Non-verbal Intelligence"></callout-component>
+                            <callout-component class="col-md-4" title="Inserting Missing Character"></callout-component>
                             <callout-component class="col-md-4" title="Mathematical Operations"></callout-component>
-                            <callout-component class="col-md-4" title="Youngest-tallest relations"></callout-component>
-                            <callout-component class="col-md-4" title="Mutual relation problems"></callout-component>
-                            <callout-component class="col-md-4" title="Fractions"></callout-component>
-                            <callout-component class="col-md-4" title="Probability"></callout-component>
-                            <callout-component class="col-md-4" title="Inserting correct mathematical sign"></callout-component>
-                            <callout-component class="col-md-4" title="Analogy"></callout-component>
-                            <callout-component class="col-md-4" title="Average"></callout-component>
-                            <callout-component class="col-md-4" title="Profit and Loss"></callout-component>
-                            <callout-component class="col-md-4" title="Mensuration"></callout-component>
-                            <callout-component class="col-md-4" title="Dictionary words"></callout-component>
-                            <callout-component class="col-md-4" title="Ratio and Proportion"></callout-component>
-                            <callout-component class="col-md-4" title="Percentage"></callout-component>
-                            <callout-component class="col-md-4" title="Blood relations"></callout-component>
-                            <callout-component class="col-md-4" title="Coding-Decoding"></callout-component>
-                            <callout-component class="col-md-4" title="Simple Trigonometry"></callout-component>
-                            <callout-component class="col-md-4" title="Number Simplification"></callout-component>
-                            <callout-component class="col-md-4" title="Number puzzle and coding"></callout-component>
+                            <callout-component class="col-md-4" title="Mathematical Reasoning"></callout-component>
+                            <callout-component class="col-md-4" title="Matrix"></callout-component>
+                            <callout-component class="col-md-4" title="Venn Diagram"></callout-component>
+                            <callout-component class="col-md-4" title="Spatial Visualisation"></callout-component>
+                            <callout-component class="col-md-4" title="Anlytical Reasoning"></callout-component>
                         </div>
                     </div>
-                    <div class="tab-pane fade show" id="ga" role="tabpanel" aria-labelledby="ga-tab">
+                    <div class="tab-pane fade show" id="gka" role="tabpanel" aria-labelledby="gka-tab">
                         <div class="row">
                             <callout-component class="col-md-4" title="History"></callout-component>
                             <callout-component class="col-md-4" title="Geography"></callout-component>
-                            <callout-component class="col-md-4" title="Civics"></callout-component>
+                            <callout-component class="col-md-4" title="Indian Polity"></callout-component>
+                            <callout-component class="col-md-4" title="Indian Economy"></callout-component>
                             <callout-component class="col-md-4" title="General Science"></callout-component>
                             <callout-component class="col-md-4" title="Basic Computer Operations"></callout-component>
-                            <callout-component class="col-md-4" title="Current Affairs"></callout-component>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="em" role="tabpanel" aria-labelledby="em-tab">
+                        <div class="row">
+                            <callout-component class="col-md-4" title="Number Series"></callout-component>
+                            <callout-component class="col-md-4" title="Fractions"></callout-component>
+                            <callout-component class="col-md-4" title="HCF & LCM"></callout-component>
+                            <callout-component class="col-md-4" title="Square Cube Root & Surds"></callout-component>
+                            <callout-component class="col-md-4" title="Mathematical Operations"></callout-component>
+                            <callout-component class="col-md-4" title="Ratio and Proportion"></callout-component>
+                            <callout-component class="col-md-4" title="Average"></callout-component>
+                            <callout-component class="col-md-4" title="Percentage"></callout-component>
+                            <callout-component class="col-md-4" title="Profit, Loss & Discount"></callout-component>
+                            <callout-component class="col-md-4" title="Simple & Compound interest"></callout-component>
+                            <callout-component class="col-md-4" title="Time & Work"></callout-component>
+                            <callout-component class="col-md-4" title="Time, Speed and Distance"></callout-component>
+                            <callout-component class="col-md-4" title="Mensuration"></callout-component>
+                            <callout-component class="col-md-4" title="Data Interpretation"></callout-component>
                         </div>
                     </div>
                 </div>
