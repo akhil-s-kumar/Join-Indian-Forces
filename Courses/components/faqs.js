@@ -92,6 +92,20 @@ faqsTemplate.innerHTML = `
                     </div>
                     </div>
                 </div>
+                <div class="card">
+                    <div class="card-header" id="headingFour">
+                    <h2 class="mb-0">
+                        <button class="btn btn-link btn-block text-left collapsed" type="button" data-toggle="collapse" data-target="#collapseFour" aria-expanded="false" aria-controls="collapseThree">
+                        Can I see some demo videos?
+                        </button>
+                    </h2>
+                    </div>
+                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour" data-parent="#accordionExample">
+                    <div class="card-body">
+                        Yes, You can visit our <a target="_blank" href="https://youtube.com/joinindianforces">YouTube channel</a> to know quality of our content.
+                    </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -99,11 +113,11 @@ faqsTemplate.innerHTML = `
 `;
 
 class FaqsTemplate extends HTMLElement {
-  constructor() {
-    // Always call super first in constructor
-    super();
-    document.getElementById('faqs').appendChild(faqsTemplate.content)
-  }
+    constructor() {
+        // Always call super first in constructor
+        super();
+        document.getElementById('faqs').appendChild(faqsTemplate.content)
+    }
 }
 
 customElements.define("faqs-component", FaqsTemplate);

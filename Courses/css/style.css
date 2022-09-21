@@ -27,6 +27,12 @@
   font-weight: 500;
 }
 
+.courseDetailed .price{
+  color: red;
+  font-size: 28px;
+  font-weight: 700
+}
+
 .courseDetailed .highlights {
   margin-top: 30px;
 }
