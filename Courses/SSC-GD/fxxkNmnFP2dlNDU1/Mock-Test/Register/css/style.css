@@ -1,0 +1,190 @@
+.main {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.headerBack {
+  margin-top: -100px;
+}
+
+.headerBack img {
+  height: 100vh;
+  width: max-content;
+  position: absolute;
+  background-size: cover;
+  z-index: -1;
+}
+
+.navbar {
+  height: 100px;
+  background-color: transparent;
+}
+
+.navbar .navbar-brand img{
+  width: 300px;
+}
+
+.navbar .btn{
+    background-image: linear-gradient(to right, #50089C, #9B1FCC );
+    color: #fff;
+    width: 150px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.rowMain{
+    --bs-gutter-x: 0rem;
+}
+
+.row1{
+    margin-top: 150px;
+}
+
+.row1 h2{
+    font-size: 50px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.row1 p{
+    color: #fff;
+    font-size: 24px;
+}
+
+.row1 .btn{
+    background-image: linear-gradient(to right, #50089C, #9B1FCC);
+    color: #fff;
+    width: 300px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+.row1 .modal p{
+    color: #000;
+    font-size: 15px;
+}
+
+.row1 .note{
+    margin-top: 20px;
+    font-size: 15px;
+}
+
+.row1 .card{
+    margin-top: 50px;
+    max-width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 450px;
+    margin-bottom: 50px;
+}
+
+.row1 .card h3{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: #50089C;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.row1 .card i{
+    margin-top: 20px;
+    color: #50089C;
+    font-size: 25px;
+}
+
+.row1 .card p{
+    color: #000;
+}
+
+.titleHead{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.cardcol .card{
+    background-image: linear-gradient(to right, #50089c, #9B1FCC);
+    height: 300px;
+    border: none;
+    border-radius: 15px;
+    border-color: transparent;
+}
+
+.cardcol .card i{
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-size: 60px;
+    color: #fff;
+}
+
+.cardcol .card h3{
+    color: #fff;
+}
+
+.cardcol .card:hover {
+    box-shadow: 0 11px 11px 0 rgba(0, 0, 0, 0.16);
+    transform: translateY(-5px);
+    transition: 0.5s;
+  }
+
+.accordion button:active, .accordion button:focus{
+    background-color: #fff;
+    border-color: transparent;
+    box-shadow: none;
+}
+
+.accordion .accordion-item{
+    margin-bottom: 20px;
+}
+
+.accordion h2 button{
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.accordion h2 button:active, .accordion h2 button:focus{
+    color: #50089C;
+}
+
+.accordion-button:not(.collapsed) {
+    color: #50089C;
+    background-color: #fff;
+}
+
+footer{
+    margin-top: 100px;
+}
+
+@media(max-width:768px){
+    .navbar .navbar-brand img{
+        width: 200px;
+      }
+    
+      .navbar .btn{
+        width: 110px;
+        height: 40px;
+      }
+}
+
+@media(max-width:549px){
+    .row1 h2{
+        font-size: 30px;
+        font-weight: 700;
+        color: #fff;
+    }
+    
+    .row1 p{
+        color: #fff;
+        font-size: 18px;
+    }
+    .row1 .card{
+        max-width: 350px;
+    }
+}
+
+.checkScore .btn{
+    background-image: linear-gradient(to right, #50089C, #9B1FCC);
+    color: #fff;
+    width: 250px;
+    height: 50px;
+    border-radius: 50px;
+}
