@@ -2,12 +2,12 @@
   {
     "id": 6,
     "TitleName": "SSC GD Constable Mock 3",
-    "noQ": 100,
-    "maxS": 100,
-    "maxTime": 90,
+    "noQ": 80,
+    "maxS": 160,
+    "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jul 22, 2022 21:00:00",
-    "examEnd" : "jul 22, 2022 22:32:00",
+    "examStart" : "dec 17, 2022 21:00:00",
+    "examEnd" : "dec 17, 2022 22:02:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
@@ -2212,12 +2212,12 @@
   {
     "id": 5,
     "TitleName": "SSC GD Constable Mock 2",
-    "noQ": 100,
-    "maxS": 100,
-    "maxTime": 90,
+    "noQ": 80,
+    "maxS": 160,
+    "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jul 21, 2022 21:00:00",
-    "examEnd" : "jul 21, 2022 22:32:00",
+    "examStart" : "dec 14, 2022 21:00:00",
+    "examEnd" : "dec 14, 2022 22:02:00",
     "questions":[
       {
         "question":"Directions (Q.Nos. 1-4) Select the related words/letters/numbers from the given alternatives<br>Post office : Envelope :: Bank: ?",
@@ -4422,12 +4422,12 @@
   {
     "id": 4,
     "TitleName": "SSC GD Constable Mock 1",
-    "noQ": 100,
-    "maxS": 100,
-    "maxTime": 90,
+    "noQ": 80,
+    "maxS": 160,
+    "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jul 20, 2022 21:00:00",
-    "examEnd" : "jul 20, 2022 22:32:00",
+    "examStart" : "dec 11, 2022 21:00:00",
+    "examEnd" : "dec 11, 2022 22:02:00",
     "questions":[
       {
         "question":"NIM: OHO :: SES : ? Replace (?), so that the second pair shares the same relation as the first pair",
@@ -4606,28 +4606,6 @@
         "answer":3
       },
       {
-        "question":"a _ a b _ c _ c d _",
-        "option":[
-          {
-            "id":1,
-            "option":"aabd"
-          },
-          {
-            "id":2,
-            "option":"abcd"
-          },
-          {
-            "id":3,
-            "option":"accd"
-          },
-          {
-            "id":4,
-            "option":"abcc"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"Arrange  `RTCELAI` into a meaningful word.",
         "option":[
           {
@@ -4716,28 +4694,6 @@
         "answer":1
       },
       {
-        "question":"‘A’ is the sister of ‘B’. ‘B’ is married to ‘D’. ‘B’ and ‘D’ have a daughter ‘G’. How is ‘G’ related to ‘A’?",
-        "option":[
-          {
-            "id":1,
-            "option":"Sister"
-          },
-          {
-            "id":2,
-            "option":"Daughter"
-          },
-          {
-            "id":3,
-            "option":"Niece"
-          },
-          {
-            "id":4,
-            "option":"Cousin"
-          }
-        ],
-        "answer":3
-      },
-      {
         "question":"https://drive.google.com/uc?export=view&id=1qOOg-xDiEEJQBZbNVw1zZxEt7uqhF8PQ",
         "option":[
           {
@@ -4777,28 +4733,6 @@
           {
             "id":4,
             "option":"Letter"
-          }
-        ],
-        "answer":1
-      },
-      {
-        "question":"4:19 :: 7:?",
-        "option":[
-          {
-            "id":1,
-            "option":"52"
-          },
-          {
-            "id":2,
-            "option":"68"
-          },
-          {
-            "id":3,
-            "option":"28"
-          },
-          {
-            "id":4,
-            "option":"49"
           }
         ],
         "answer":1
@@ -4892,28 +4826,6 @@
         "answer":2
       },
       {
-        "question":"'STOVE' is coded as 'EVOTS' and 'CANDLE' is coded as 'ELDNAC' then 'REPORT' is coded as?",
-        "option":[
-          {
-            "id":1,
-            "option":"QDONQS"
-          },
-          {
-            "id":2,
-            "option":"SEQPSU"
-          },
-          {
-            "id":3,
-            "option":"PORTRE"
-          },
-          {
-            "id":4,
-            "option":"TROPER"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"'÷' stands for '×', '×' stands '-', '-' stands for '+' and '+' stands for '÷' then 48 + 6 - 12 ÷ 2 + 10 = ?(Do chronologically and not using BODMAS rule)",
         "option":[
           {
@@ -4953,28 +4865,6 @@
           {
             "id":4,
             "option":"10"
-          }
-        ],
-        "answer":2
-      },
-      {
-        "question":"0.15, 0.3, ?, 1.2, 2.4",
-        "option":[
-          {
-            "id":1,
-            "option":"4.8"
-          },
-          {
-            "id":2,
-            "option":"0.6"
-          },
-          {
-            "id":3,
-            "option":"0.06"
-          },
-          {
-            "id":4,
-            "option":"0.9"
           }
         ],
         "answer":2
@@ -5024,28 +4914,6 @@
         "answer":1
       },
       {
-        "question":"The element used for making Solar cell is",
-        "option":[
-          {
-            "id":1,
-            "option":"Magnesium"
-          },
-          {
-            "id":2,
-            "option":"Sodium"
-          },
-          {
-            "id":3,
-            "option":"Calcium"
-          },
-          {
-            "id":4,
-            "option":"Silicon"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"The place where the computer stores programs and data is called",
         "option":[
           {
@@ -5088,28 +4956,6 @@
           }
         ],
         "answer":2
-      },
-      {
-        "question":"Karif crops can be described as the crops which are sown with the beginning of the _________ season",
-        "option":[
-          {
-            "id":1,
-            "option":"Winter"
-          },
-          {
-            "id":2,
-            "option":"Summer"
-          },
-          {
-            "id":3,
-            "option":"Spring"
-          },
-          {
-            "id":4,
-            "option":"Rainy"
-          }
-        ],
-        "answer":4
       },
       {
         "question":"Shooting stars are known as",
@@ -5156,28 +5002,6 @@
         "answer":3
       },
       {
-        "question":"On which one of the following rivers, the Indo-Pak Bagalihar project is located?",
-        "option":[
-          {
-            "id":1,
-            "option":"Chenab"
-          },
-          {
-            "id":2,
-            "option":"Jhelum"
-          },
-          {
-            "id":3,
-            "option":"Beas"
-          },
-          {
-            "id":4,
-            "option":"Sutlej"
-          }
-        ],
-        "answer":1
-      },
-      {
         "question":"Who wrote the famous novel 'The Guide'",
         "option":[
           {
@@ -5222,28 +5046,6 @@
         "answer":1
       },
       {
-        "question":"Facebook company has changed its's name to what name",
-        "option":[
-          {
-            "id":1,
-            "option":"Beta"
-          },
-          {
-            "id":2,
-            "option":"Meta"
-          },
-          {
-            "id":3,
-            "option":"Dyme"
-          },
-          {
-            "id":4,
-            "option":"Crypto"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"What is the rank of India in the 'Global Climate tech investment trends Report 2021'",
         "option":[
           {
@@ -5286,28 +5088,6 @@
           }
         ],
         "answer":2
-      },
-      {
-        "question":"The land-attack version of which missile was test-fired in the Andaman and Nicobar?",
-        "option":[
-          {
-            "id":1,
-            "option":"BrahMos"
-          },
-          {
-            "id":2,
-            "option":"Prithvi- III"
-          },
-          {
-            "id":3,
-            "option":"Agni- III"
-          },
-          {
-            "id":4,
-            "option":"Dhanush"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"Prithvi-2 ballistic missiles, which were recently test-fired were manufactured by which organisation?",
@@ -5552,28 +5332,6 @@
         "answer":1
       },
       {
-        "question":"Two numbers are in ratio 5 : 8. If their difference is 48, then the smallest number is",
-        "option":[
-          {
-            "id":1,
-            "option":"96"
-          },
-          {
-            "id":2,
-            "option":"80"
-          },
-          {
-            "id":3,
-            "option":"64"
-          },
-          {
-            "id":4,
-            "option":"128"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"\\(1+ {1 \\over {1+{1 \\over 5}}}\\)",
         "option":[
           {
@@ -5618,28 +5376,6 @@
         "answer":3
       },
       {
-        "question":"Ram went to a market and bought one copy of a Mathematics book and two pencil for ₹ 165. rahim went to the same market and bought another copy of the same book and ten pencil of the same brand for ₹ 169. The price of each pencil was",
-        "option":[
-          {
-            "id":1,
-            "option":"₹ 0.50"
-          },
-          {
-            "id":2,
-            "option":"₹ 1"
-          },
-          {
-            "id":3,
-            "option":"₹ 0.75"
-          },
-          {
-            "id":4,
-            "option":"₹ 2"
-          }
-        ],
-        "answer":1
-      },
-      {
         "question":"If the cost of an article is ₹ P after two successive reduction of 20% and 25%, the original price of the article was",
         "option":[
           {
@@ -5682,28 +5418,6 @@
           }
         ],
         "answer":2
-      },
-      {
-        "question":"A sum of money amounts to ₹ 6690 after 3 years and to ₹ 10035 after 6 years on compound interest. The sum is",
-        "option":[
-          {
-            "id":1,
-            "option":"₹ 4460"
-          },
-          {
-            "id":2,
-            "option":"₹ 3650"
-          },
-          {
-            "id":3,
-            "option":"₹ 4535"
-          },
-          {
-            "id":4,
-            "option":"₹ 2800"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"A certain sum amounts to ₹ 1725 at 15% per annum at simple interest and ₹ 1800 in the same time at 20% per annum at simple interest. Find the sum.",
@@ -5816,28 +5530,6 @@
         "answer":1
       },
       {
-        "question":"Total number of units manufactured by Apple is how much percent less than the total number of units manufactured by samsung ?",
-        "option":[
-          {
-            "id":1,
-            "option":"52.85%"
-          },
-          {
-            "id":2,
-            "option":"57.14%"
-          },
-          {
-            "id":3,
-            "option":"28.57%"
-          },
-          {
-            "id":4,
-            "option":"42.85%"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"What is the average of total number of units manufactured by nokia, honor and samsung ?",
         "option":[
           {
@@ -5899,28 +5591,6 @@
           {
             "id":4,
             "option":"1.75"
-          }
-        ],
-        "answer":2
-      },
-      {
-        "question":"The sum of all those prime numbers which are not greater than 17 is",
-        "option":[
-          {
-            "id":1,
-            "option":"59"
-          },
-          {
-            "id":2,
-            "option":"58"
-          },
-          {
-            "id":3,
-            "option":"41"
-          },
-          {
-            "id":4,
-            "option":"42"
           }
         ],
         "answer":2
@@ -6124,28 +5794,6 @@
         "answer":1
       },
       {
-        "question":"What is the meaning of the word ‘intricate’?",
-        "option":[
-          {
-            "id":1,
-            "option":"helpful"
-          },
-          {
-            "id":2,
-            "option":"complicated"
-          },
-          {
-            "id":3,
-            "option":"neccessary"
-          },
-          {
-            "id":4,
-            "option":"relevant"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"What does ‘they’ refer to in the line “They form the basis for the many philosophical, spiritual and mystical traditions of the Indian sub-continent.”",
         "option":[
           {
@@ -6212,28 +5860,6 @@
         "answer":3
       },
       {
-        "question":"choose a word opposite to 'Fragile'",
-        "option":[
-          {
-            "id":1,
-            "option":"Discard"
-          },
-          {
-            "id":2,
-            "option":"Weak"
-          },
-          {
-            "id":3,
-            "option":"Brittle"
-          },
-          {
-            "id":4,
-            "option":"Strong"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"Choose a word alternative to 'Obstruction'",
         "option":[
           {
@@ -6254,28 +5880,6 @@
           }
         ],
         "answer":3
-      },
-      {
-        "question":"Find the word which is either wrongly spelt or correctly spelt",
-        "option":[
-          {
-            "id":1,
-            "option":"Eficient"
-          },
-          {
-            "id":2,
-            "option":"Horrible"
-          },
-          {
-            "id":3,
-            "option":"Insignificant"
-          },
-          {
-            "id":4,
-            "option":"Barren"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"Choose the word which can be substituted for the given sentence 'To exmine ones to own toughts and feelings'",
@@ -6344,28 +5948,6 @@
         "answer":2
       },
       {
-        "question":"Spot the Error: 'Human nature is more or less the same in India likewise in Europe.'",
-        "option":[
-          {
-            "id":1,
-            "option":"Human nature is more or less"
-          },
-          {
-            "id":2,
-            "option":"the same in India"
-          },
-          {
-            "id":3,
-            "option":"likewise in Europe"
-          },
-          {
-            "id":4,
-            "option":"No error"
-          }
-        ],
-        "answer":3
-      },
-      {
         "question":"Spot the Error: 'Since my mother was angry so I did not utter a word'",
         "option":[
           {
@@ -6408,28 +5990,6 @@
           }
         ],
         "answer":1
-      },
-      {
-        "question":"Rita _________ her cooking last night.",
-        "option":[
-          {
-            "id":1,
-            "option":"does not do"
-          },
-          {
-            "id":2,
-            "option":"did not do"
-          },
-          {
-            "id":3,
-            "option":"will not do"
-          },
-          {
-            "id":4,
-            "option":"would not do"
-          }
-        ],
-        "answer":2
       },
       {
         "question":"In the given question a sentence/part of sentence has been undelined. Below options are alternatives which may improve the underlined part. Choose the correct alternative. <br><br> Two negatives destroy <u>one another.</u>",
@@ -6636,8 +6196,8 @@
     "maxS": 10,
     "maxTime": 10,
     "difL": "Easy",
-    "examStart" : "jul 09, 2022 18:00:00",
-    "examEnd" : "jul 26, 2022 21:00:00",
+    "examStart" : "dec 10, 2022 21:00:00",
+    "examEnd" : "dec 10, 2022 21:20:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
@@ -6868,8 +6428,8 @@
     "maxS": 10,
     "maxTime":12,
     "difL": "Easy",
-    "examStart" : "jul 09, 2022 18:00:00",
-    "examEnd" : "jul 26, 2022 21:00:00",
+    "examStart" : "dec 07, 2022 21:00:00",
+    "examEnd" : "dec 07, 2022 21:10:00",
     "questions":[
       {
         "question":"Pre-history means",
@@ -7100,8 +6660,8 @@
     "maxS": 5,
     "maxTime":5,
     "difL": "Easy",
-    "examStart" : "jul 09, 2022 18:00:00",
-    "examEnd" : "jul 26, 2022 21:00:00",
+    "examStart" : "dec 04, 2022 21:00:00",
+    "examEnd" : "dec 04, 2022 21:10:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",

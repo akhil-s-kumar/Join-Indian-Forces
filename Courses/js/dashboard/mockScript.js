@@ -116,7 +116,7 @@ const test = (testId) => {
 
           var list2 = document.createElement("li");
           list2.innerHTML =
-            "If a question is marked wrong 0.25 marks will be deducted.";
+            "If a question is marked wrong 0.50 marks will be deducted.";
           instructions.appendChild(list2);
 
           var list3 = document.createElement("li");
@@ -505,9 +505,9 @@ const submitAnswers = (testId) => {
               continue;
             } else {
               if (a.value == b) {
-                score += 1;
+                score += 2;
               } else {
-                score -= 0.25;
+                score -= 0.50;
               }
             }
           }
