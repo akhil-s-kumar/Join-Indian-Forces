@@ -42,7 +42,7 @@
             <div class="col-lg-12 row1 text-center">
                 <h2 class="head">Kerala's Largest <br />SSC GD Mock Test</h2>
                 <p>Evualuate what you know before the exam!</p>
-                <button type="button" class="btn" type="button" disabled data-bs-toggle="modal"
+                <button type="button" class="btn" type="button" data-bs-toggle="modal"
                     data-bs-target="#exampleModal">
                     Register Now!
                 </button>
@@ -119,13 +119,13 @@
                     <div class="card-body">
                         <h3>Mock Test 2</h3>
                         <i class="fa fa-calendar"></i>
-                        <p>10 December 2022</p>
+                        <p>14 December 2022</p>
                         <hr />
                         <i class="fa fa-clock-o"></i>
                         <p>09:00 PM</p>
                         <hr />
                         <i class="fa fa-check-square-o"></i>
-                        <p>20 Minutes</p>
+                        <p>60 Minutes</p>
                     </div>
                 </div>
             </div>
@@ -153,18 +153,18 @@
                             <tbody>
                                 <tr>
                                     <th scope="row">1</th>
-                                    <td>Sneha K P</td>
-                                    <td>10</td>
+                                    <td>Prashohb M T</td>
+                                    <td>57</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">2</th>
-                                    <td>Maneesh JM</td>
-                                    <td>7.5</td>
+                                    <td>Vyshnavi Unni</td>
+                                    <td>46.5</td>
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Sarvas Sappu</td>
-                                    <td>4</td>
+                                    <td>Maneesh Jm</td>
+                                    <td>43.5</td>
                                 </tr>
                             </tbody>
                         </table>
@@ -421,7 +421,7 @@
         $("#checkScore-form").submit((e) => {
             e.preventDefault();
             const RollNumber = document.getElementById("RollNumber").value;
-            fetch("https://joinindianforces.in/SSC-MTS-Havildar-Mock/mockScores.json", {
+            fetch("mockScores.json", {
                 cache: "no-store",
             })
             .then(function (response) {
@@ -451,7 +451,7 @@
             datasets: [{
                 label: 'Total Candidates',
                 backgroundColor: 'rgb(87, 10, 160)',
-                data: [60, 5],
+                data: [46, 8],
             }]
         };
 
@@ -469,20 +469,21 @@
     <script>
         const labels2 = [
             'Below 0',
-            '0-10',
-            '10-20',
-            '20-30',
-            '30-40',
-            '40-50',
-            '50-60',
-            '60-100',
+            '1-10',
+            '11-20',
+            '21-30',
+            '31-40',
+            '41-50',
+            '51-60',
+            '61-70',
+            '71-80',
         ];
         const data2 = {
             labels: labels2,
             datasets: [{
                 label: 'Score Status',
                 backgroundColor: 'rgb(242, 98, 63)',
-                data: [0, 0, 1, 1, 0, 1, 2, 0],
+                data: [0, 0, 2, 1, 2, 2, 1, 0, 0],
             }]
         };
 
