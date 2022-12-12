@@ -2396,28 +2396,6 @@
         "answer":4
       },
       {
-        "question":"3,7,15,?,63, 127",
-        "option":[
-          {
-            "id":1,
-            "option":"30"
-          },
-          {
-            "id":2,
-            "option":"31"
-          },
-          {
-            "id":3,
-            "option":"47"
-          },
-          {
-            "id":4,
-            "option":"52"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"Select the word which cannot be formed from the letters of the original word 'CONSOLIDATE'",
         "option":[
           {
@@ -2484,28 +2462,6 @@
         "answer":3
       },
       {
-        "question":"If x means +, + means ÷, - means x, and ÷ means -, then 8 x 7 - 8 + 40 ÷ 2 is equal to",
-        "option":[
-          {
-            "id":1,
-            "option":"1"
-          },
-          {
-            "id":2,
-            "option":"\\(7 {2 \\over 5}\\)"
-          },
-          {
-            "id":3,
-            "option":"\\(8 {3 \\over 5}\\)"
-          },
-          {
-            "id":4,
-            "option":"44"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"https://drive.google.com/uc?export=view&id=1f8Ri1kwshvWKAHuI47SxcJ-3bR-6mXQL",
         "option":[
           {
@@ -2548,28 +2504,6 @@
           }
         ],
         "answer":1
-      },
-      {
-        "question":"Which one of the given responses would be a meaningful order the following.<br>1. Table 2. Tree 3. Wood 4. Seed 5. Plant",
-        "option":[
-          {
-            "id":1,
-            "option":"4, 5, 3, 2, 1"
-          },
-          {
-            "id":2,
-            "option":"4, 5, 2, 3, 1"
-          },
-          {
-            "id":3,
-            "option":"1, 3, 2, 4, 5"
-          },
-          {
-            "id":4,
-            "option":"1, 2, 3, 4, 5"
-          }
-        ],
-        "answer":2
       },
       {
         "question":"The total age of a mother and her daughter is 60 years. The difference between their age is 30 years. Find out the age of mother.",
@@ -2726,50 +2660,6 @@
         "answer":4
       },
       {
-        "question":"ABDE GHJK MNPQ",
-        "option":[
-          {
-            "id":1,
-            "option":"RTUW"
-          },
-          {
-            "id":2,
-            "option":"STVW"
-          },
-          {
-            "id":3,
-            "option":"CEFH"
-          },
-          {
-            "id":4,
-            "option":"RSUV"
-          }
-        ],
-        "answer":2
-      },
-      {
-        "question":"If BOY is represented as 42, then GIRL is represented is",
-        "option":[
-          {
-            "id":1,
-            "option":"46"
-          },
-          {
-            "id":2,
-            "option":"48"
-          },
-          {
-            "id":3,
-            "option":"40"
-          },
-          {
-            "id":4,
-            "option":"43"
-          }
-        ],
-        "answer":1
-      },
-      {
         "question":"The two great Mughal rulers who wrote their own memoirs are",
         "option":[
           {
@@ -2880,28 +2770,6 @@
         "answer":1
       },
       {
-        "question":"Plague is transmitted by",
-        "option":[
-          {
-            "id":1,
-            "option":"house fly"
-          },
-          {
-            "id":2,
-            "option":"tse-tse fly"
-          },
-          {
-            "id":3,
-            "option":"rat flea"
-          },
-          {
-            "id":4,
-            "option":"mosquito"
-          }
-        ],
-        "answer":3
-      },
-      {
         "question":"Hemoglobin contains the metal",
         "option":[
           {
@@ -2922,28 +2790,6 @@
           }
         ],
         "answer":3
-      },
-      {
-        "question":"when water freezes its density",
-        "option":[
-          {
-            "id":1,
-            "option":"decreases"
-          },
-          {
-            "id":2,
-            "option":"increases"
-          },
-          {
-            "id":3,
-            "option":"becomes zero"
-          },
-          {
-            "id":4,
-            "option":"remains constant"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"Which of the following is ussed for wrapping of fractured bones?",
@@ -3056,50 +2902,6 @@
         "answer":2
       },
       {
-        "question":"The first mathematical calculator was designed by",
-        "option":[
-          {
-            "id":1,
-            "option":"Napier"
-          },
-          {
-            "id":2,
-            "option":"Leibnitz"
-          },
-          {
-            "id":3,
-            "option":"Fischer"
-          },
-          {
-            "id":4,
-            "option":"Pingale"
-          }
-        ],
-        "answer":3
-      },
-      {
-        "question":"The headquaters of World Trade Organization is situated in",
-        "option":[
-          {
-            "id":1,
-            "option":"Washington"
-          },
-          {
-            "id":2,
-            "option":"New Delhi"
-          },
-          {
-            "id":3,
-            "option":"London"
-          },
-          {
-            "id":4,
-            "option":"Geneva"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"India has the monoply in the International market in the supply of",
         "option":[
           {
@@ -3120,28 +2922,6 @@
           }
         ],
         "answer":2
-      },
-      {
-        "question":"Citizens of India can vote at the age of",
-        "option":[
-          {
-            "id":1,
-            "option":"18 Years"
-          },
-          {
-            "id":2,
-            "option":"21 Years"
-          },
-          {
-            "id":3,
-            "option":"22 Years"
-          },
-          {
-            "id":4,
-            "option":"25 Years"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"Instrument that records earthquakes is",
@@ -3430,50 +3210,6 @@
         "answer":3
       },
       {
-        "question":"The least number, which must be added to 6709 to make it exactly divisible by 9, is",
-        "option":[
-          {
-            "id":1,
-            "option":"5"
-          },
-          {
-            "id":2,
-            "option":"4"
-          },
-          {
-            "id":3,
-            "option":"7"
-          },
-          {
-            "id":4,
-            "option":"2"
-          }
-        ],
-        "answer":1
-      },
-      {
-        "question":"The greatest number that divides 122 and 243 leaving respectively 2 and 3 as remainders, is",
-        "option":[
-          {
-            "id":1,
-            "option":"12"
-          },
-          {
-            "id":2,
-            "option":"24"
-          },
-          {
-            "id":3,
-            "option":"30"
-          },
-          {
-            "id":4,
-            "option":"120"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"https://drive.google.com/uc?export=view&id=1567Vx2eJDW__QP-HZXqobVt1fTpEmLG4",
         "option":[
           {
@@ -3491,28 +3227,6 @@
           {
             "id":4,
             "option":"50000"
-          }
-        ],
-        "answer":3
-      },
-      {
-        "question":"The total expenses of the family on transport are equal to those spent on",
-        "option":[
-          {
-            "id":1,
-            "option":"Savings"
-          },
-          {
-            "id":2,
-            "option":"Clothing"
-          },
-          {
-            "id":3,
-            "option":"Food"
-          },
-          {
-            "id":4,
-            "option":"Others"
           }
         ],
         "answer":3
@@ -3562,28 +3276,6 @@
         "answer":3
       },
       {
-        "question":"Of the three numbers, the first is twice the second and the second is 3 times the third. If their average is 100, the largest of the three numbers is",
-        "option":[
-          {
-            "id":1,
-            "option":"120"
-          },
-          {
-            "id":2,
-            "option":"150"
-          },
-          {
-            "id":3,
-            "option":"180"
-          },
-          {
-            "id":4,
-            "option":"300"
-          }
-        ],
-        "answer":3
-      },
-      {
         "question":"A man can do a piece of work in 5 days, but with the help of his son, he can do it in 3 days. In what time can the son do it alone?",
         "option":[
           {
@@ -3626,28 +3318,6 @@
           }
         ],
         "answer":2
-      },
-      {
-        "question":"Rs 750 are divided among A, B and C in such a manner that A:B=5:2 and B:C = 7:13. What is A's share?",
-        "option":[
-          {
-            "id":1,
-            "option":"Rs 350"
-          },
-          {
-            "id":2,
-            "option":"Rs 260"
-          },
-          {
-            "id":3,
-            "option":"Rs 140"
-          },
-          {
-            "id":4,
-            "option":"Rs 250"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"A trader marks his goods at 40% above the cost price but allows a discount of 20% on the marked price. His profit per cent is",
@@ -3870,7 +3540,7 @@
         "answer":3
       },
       {
-        "question":"<strong>Directions (Q. Nos. 76-78) Out of the four alternatives, choose the one which best expresses the meaning of the given word.</strong><br>Instigate",
+        "question":"<strong>Directions (Q. Nos. 61-63) Out of the four alternatives, choose the one which best expresses the meaning of the given word.</strong><br>Instigate",
         "option":[
           {
             "id":1,
@@ -3936,7 +3606,7 @@
         "answer":1
       },
       {
-        "question":"<strong>Directions (Q. Nos. 79-81) Choose the word opposite in meaning to the given word.</strong><br>Epilogue",
+        "question":"<strong>Directions (Q. Nos. 64-66) Choose the word opposite in meaning to the given word.</strong><br>Epilogue",
         "option":[
           {
             "id":1,
@@ -4002,7 +3672,7 @@
         "answer":3
       },
       {
-        "question":"<strong>Directions (Q. Nos. 82-84) Out of the four alternatives, choose the one which can be substitute for a given word/sentence.</strong><br>A child born after the death of his father",
+        "question":"<strong>Directions (Q. Nos. 67-69) Out of the four alternatives, choose the one which can be substitute for a given word/sentence.</strong><br>A child born after the death of his father",
         "option":[
           {
             "id":1,
@@ -4068,7 +3738,7 @@
         "answer":4
       },
       {
-        "question":"<strong>Directions (Q. Nos. 85-87) Group of four words are given. In each group, one word is correctly spelt.</strong><br>Find the correctly spelt word.",
+        "question":"<strong>Directions (Q. Nos. 70-72) Group of four words are given. In each group, one word is correctly spelt.</strong><br>Find the correctly spelt word.",
         "option":[
           {
             "id":1,
@@ -4134,7 +3804,7 @@
         "answer":3
       },
       {
-        "question":"<strong>Directions (Q. Nos. 88-90) Four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.</strong><br>To cool one's heels",
+        "question":"<strong>Directions (Q. Nos. 73-75) Four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase.</strong><br>To cool one's heels",
         "option":[
           {
             "id":1,
@@ -4200,7 +3870,7 @@
         "answer":2
       },
       {
-        "question":"<strong>Directions (Q. Nos. 91-94) In these questions, sentences are given with blanks to be filled with an appropriate word(s). Four alternatives are suggested for each question. Choose the correct alternative one of the four.</strong><br>The CM has given his consent to preside ......... the meeting.",
+        "question":"<strong>Directions (Q. Nos. 76-79) In these questions, sentences are given with blanks to be filled with an appropriate word(s). Four alternatives are suggested for each question. Choose the correct alternative one of the four.</strong><br>The CM has given his consent to preside ......... the meeting.",
         "option":[
           {
             "id":1,
@@ -4288,72 +3958,7 @@
         "answer":3
       },
       {
-        "question":"<strong>Directions (Q. Nos. 95-97) In the questions, a sentence/part of the sentence is underlined. Below are given alternatives to the underlined part. Choose the correct alternative to improve the sentence.</strong><br>The festival<u>is likely to fall </u>in December.",
-        "option":[
-          {
-            "id":1,
-            "option":"will likely to fall"
-          },
-          {
-            "id":2,
-            "option":"will be likely to fall"
-          },
-          {
-            "id":3,
-            "option":"will likely for fall"
-          },
-          {
-            "id":4,
-            "option":"No improvement"
-          }
-        ],
-        "answer":4
-      },
-      {
-        "question":"I asked the traveller <u>where is he going.</u>",
-        "option":[
-          {
-            "id":1,
-            "option":"where he is going"
-          },
-          {
-            "id":2,
-            "option":"where was he going"
-          },
-          {
-            "id":3,
-            "option":"where he was going"
-          },
-          {
-            "id":4,
-            "option":"No improvement"
-          }
-        ],
-        "answer":3
-      },
-      {
-        "question":"The bird sanctuary is <u>about 10 kms inside</u> from Central Delhi. ",
-        "option":[
-          {
-            "id":1,
-            "option":"was about 10 kms over"
-          },
-          {
-            "id":2,
-            "option":"is about 10 kms on top"
-          },
-          {
-            "id":3,
-            "option":"is about 10 kms away"
-          },
-          {
-            "id":4,
-            "option":" No improvement"
-          }
-        ],
-        "answer":3
-      },{
-        "question":"<strong>Directions (Q. Nos. 98-100) Some parts of the sentences have errors and some are correct. Find out which part of a sentence has an error. If a sentence is free from error, choose 'No error' as answer.</strong><br>One of the members expressed doubt if the minister was an atheist.",
+        "question":"<strong>Directions (Q. Nos. 80) Some parts of the sentences have errors and some are correct. Find out which part of a sentence has an error. If a sentence is free from error, choose 'No error' as answer.</strong><br>One of the members expressed doubt if the minister was an atheist.",
         "option":[
           {
             "id":1,
@@ -4373,49 +3978,6 @@
           }
         ],
         "answer":3
-      },{
-        "question":"I have got my M.Sc. degree in 1988.",
-        "option":[
-          {
-            "id":1,
-            "option":"I have got"
-          },
-          {
-            "id":2,
-            "option":"my M.Sc. degree"
-          },
-          {
-            "id":3,
-            "option":"No error"
-          },
-          {
-            "id":4,
-            "option":"in 1998"
-          }
-        ],
-        "answer":1
-      },
-      {
-        "question":"Block of residential flats are coming up near our house",
-        "option":[
-          {
-            "id":1,
-            "option":"No error"
-          },
-          {
-            "id":2,
-            "option":"Block of residential flats"
-          },
-          {
-            "id":3,
-            "option":"are coming up"
-          },
-          {
-            "id":4,
-            "option":"near our house"
-          }
-        ],
-        "answer":2
       }
     ]
   },
