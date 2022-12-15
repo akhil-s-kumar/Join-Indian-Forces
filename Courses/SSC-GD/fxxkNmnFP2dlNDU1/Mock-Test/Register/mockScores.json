@@ -1,50 +1,62 @@
 [
     {
         "Id": "1",
-        "rollNumber": "78363645396",
-        "name": "Mobil  Monichan",
-        "score": "16"
+        "rollNumber": "60137969364",
+        "name": "Prashohb M T",
+        "score": "55.5"
     },
     {
         "Id": "2",
-        "rollNumber": "95156730698",
+        "rollNumber": "13669788615",
+        "name": "Aswin Prasad",
+        "score": "24"
+    },
+    {
+        "Id": "3",
+        "rollNumber": "42797132479",
+        "name": "SNEHA K P",
+        "score": "99.5"
+    },
+    {
+        "Id": "4",
+        "rollNumber": "64853478744",
+        "name": "Arun  mv",
+        "score": "76"
+    },
+    {
+        "Id": "5",
+        "rollNumber": "35092947040",
+        "name": "Muhammed  Hashir C ",
+        "score": "29"
+    },
+    {
+        "Id": "6",
+        "rollNumber": "94083943296",
+        "name": "SYAM K M",
+        "score": "31.5"
+    },
+    {
+        "Id": "7",
+        "rollNumber": "58708430698",
         "name": "Nithin prasad T J",
         "score": "35.5"
     },
     {
-        "Id": "3",
-        "rollNumber": "18333088416",
-        "name": "ABHIJITH  A",
-        "score": "15"
-    },
-    {
-        "Id": "4",
-        "rollNumber": "42382359364",
-        "name": "Prashohb M T",
-        "score": "57"
-    },
-    {
-        "Id": "5",
-        "rollNumber": "48431993131",
-        "name": "Maneesh Jm",
-        "score": "43.5"
-    },
-    {
-        "Id": "6",
-        "rollNumber": "13669788615",
-        "name": "Aswin Prasad",
-        "score": "26"
-    },
-    {
-        "Id": "7",
-        "rollNumber": "39111316945",
-        "name": "Vyshnavi Unni",
-        "score": "46.5"
-    },
-    {
         "Id": "8",
-        "rollNumber": "54242202602",
-        "name": "Abhinand  P",
-        "score": "33.5"
+        "rollNumber": "72939490372",
+        "name": "Arjun A Arjun",
+        "score": "12.5"
+    },
+    {
+        "Id": "9",
+        "rollNumber": "86598386217",
+        "name": "Muhammed shanid Muhammed shanid",
+        "score": "53"
+    },
+    {
+        "Id": "10",
+        "rollNumber": "83033674431",
+        "name": "Nandu Raj",
+        "score": "38"
     }
 ]
