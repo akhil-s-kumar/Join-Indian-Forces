@@ -6,8 +6,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "dec 17, 2022 21:00:00",
-    "examEnd" : "dec 17, 2022 22:02:00",
+    "examStart" : "dec 17, 2022 19:00:00",
+    "examEnd" : "dec 17, 2022 19:15:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
@@ -142,28 +142,6 @@
         "answer":4
       },
       {
-        "question":"Select the option that is analogous to the given pair.<br>Heart : Cardiology",
-        "option":[
-          {
-            "id":1,
-            "option":"Plants : Zoology"
-          },
-          {
-            "id":2,
-            "option":"Phycology : Fungi"
-          },
-          {
-            "id":3,
-            "option":"Disease: Hospital"
-          },
-          {
-            "id":4,
-            "option":"Virus : Virology"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"If in a certain code language the word POLITICAL is written as QNMHUHDZM, then in the same code language how will you write the word SOCIAL?",
         "option":[
           {
@@ -274,28 +252,6 @@
         "answer":3
       },
       {
-        "question":"Select the pair of letters that will follow next in the given series.<br>AB, GH, MN, ST,?",
-        "option":[
-          {
-            "id":1,
-            "option":"YZ"
-          },
-          {
-            "id":2,
-            "option":"VW"
-          },
-          {
-            "id":3,
-            "option":"UV"
-          },
-          {
-            "id":4,
-            "option":"XY"
-          }
-        ],
-        "answer":1
-      },
-      {
         "question":"https://drive.google.com/uc?export=view&id=1AEbm1UPctccCyLHRDdnvUjXc5-9JJr5H",
         "option":[
           {
@@ -316,28 +272,6 @@
           }
         ],
         "answer":3
-      },
-      {
-        "question":"Find the next number in the given series.<br>2, 10, 84,?",
-        "option":[
-          {
-            "id":1,
-            "option":"1028"
-          },
-          {
-            "id":2,
-            "option":"1229"
-          },
-          {
-            "id":3,
-            "option":"1124"
-          },
-          {
-            "id":4,
-            "option":"1032"
-          }
-        ],
-        "answer":1
       },
       {
         "question":"https://drive.google.com/uc?export=view&id=1jH-N8j_mUrIcHq1qFGH10FVfxQ6IJvTY",
@@ -406,28 +340,6 @@
         "answer":1
       },
       {
-        "question":"Pick the odd one out.",
-        "option":[
-          {
-            "id":1,
-            "option":"Detect"
-          },
-          {
-            "id":2,
-            "option":"Perceive"
-          },
-          {
-            "id":3,
-            "option":"Ignorance"
-          },
-          {
-            "id":4,
-            "option":"Observe"
-          }
-        ],
-        "answer":3
-      },
-      {
         "question":"Five men P, Q, R, S and T are reading a newspaper. The one who reads it first, gives it to T. The one who reads it last, had taken it from R. Q is not the first or last one to read it. There were two readers between P and R. Who is the third one to have read the newspaper?",
         "option":[
           {
@@ -494,28 +406,6 @@
         "answer":2
       },
       {
-        "question":"Identify the odd pair from the following",
-        "option":[
-          {
-            "id":1,
-            "option":"Grapes : Bunch"
-          },
-          {
-            "id":2,
-            "option":"Flowers : Bouquet"
-          },
-          {
-            "id":3,
-            "option":"Bees : Swarm"
-          },
-          {
-            "id":4,
-            "option":"Man : Class"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"https://drive.google.com/uc?export=view&id=1RpFt-m-Je8ziAK6FznwQrYS4lH-DIcXq",
         "option":[
           {
@@ -558,50 +448,6 @@
           }
         ],
         "answer":3
-      },
-      {
-        "question":"Pascaline is also known as",
-        "option":[
-          {
-            "id":1,
-            "option":"abacus"
-          },
-          {
-            "id":2,
-            "option":"adding machine"
-          },
-          {
-            "id":3,
-            "option":"division machine"
-          },
-          {
-            "id":4,
-            "option":"difference machine"
-          }
-        ],
-        "answer":2
-      },
-      {
-        "question":"The Pakistani General ......... imposed military rule in his country in the year 1999.",
-        "option":[
-          {
-            "id":1,
-            "option":"Ziauddin Butt"
-          },
-          {
-            "id":2,
-            "option":"Qamar Javed"
-          },
-          {
-            "id":3,
-            "option":"Raheel Sharif"
-          },
-          {
-            "id":4,
-            "option":"Parvez Musharraf"
-          }
-        ],
-        "answer":4
       },
       {
         "question":"The Banaras Hindu University was founded by",
@@ -692,28 +538,6 @@
         "answer":3
       },
       {
-        "question":"Sodium hydroxide is not used for",
-        "option":[
-          {
-            "id":1,
-            "option":"making soap"
-          },
-          {
-            "id":2,
-            "option":"making newspapers"
-          },
-          {
-            "id":3,
-            "option":"degreasing metals"
-          },
-          {
-            "id":4,
-            "option":"preserving pickle"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"......... took a hat-trick (three wickets) in the first over of the match against Pakistan in 2006, becoming the first and, to date, only bowler to do so.",
         "option":[
           {
@@ -778,28 +602,6 @@
           }
         ],
         "answer":1
-      },
-      {
-        "question":"The book 'The Origin of Species' was written by",
-        "option":[
-          {
-            "id":1,
-            "option":"Louis Pasteur"
-          },
-          {
-            "id":2,
-            "option":"James Watson"
-          },
-          {
-            "id":3,
-            "option":"Charles Darwin"
-          },
-          {
-            "id":4,
-            "option":"Jane Goodwill"
-          }
-        ],
-        "answer":3
       },
       {
         "question":"Kathakali has its roots in the State of",
@@ -1066,28 +868,6 @@
         "answer":4
       },
       {
-        "question":"The Indian desert lies towards the western margins of the",
-        "option":[
-          {
-            "id":1,
-            "option":"Kaimur Hills"
-          },
-          {
-            "id":2,
-            "option":"Himadri"
-          },
-          {
-            "id":3,
-            "option":"Nilgiri Hills"
-          },
-          {
-            "id":4,
-            "option":"Aravalli Hills"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"Which is the smallest bone in the human body?",
         "option":[
           {
@@ -1108,28 +888,6 @@
           }
         ],
         "answer":4
-      },
-      {
-        "question":"If x:y = 6:5 and z:y = 9:25, then what is the ratio of x:z?",
-        "option":[
-          {
-            "id":1,
-            "option":"50:33"
-          },
-          {
-            "id":2,
-            "option":"54:125"
-          },
-          {
-            "id":3,
-            "option":"10:3"
-          },
-          {
-            "id":4,
-            "option":"48:25"
-          }
-        ],
-        "answer":3
       },
       {
         "question":"If Manoj purchases 324 toffees for Rs 486, then how many toffees should he sell for Rs 90 to earn 50% profit?",
@@ -1308,28 +1066,6 @@
         "answer":1
       },
       {
-        "question":"Piyush is running at the speed of 8 km/h and he stops for 5 min to take rest at the end of every 3rd km. What will be the time taken by Piyush to cover a distance of 56 km?",
-        "option":[
-          {
-            "id":1,
-            "option":"7 Hours"
-          },
-          {
-            "id":2,
-            "option":"8 Hours 20 Minutes"
-          },
-          {
-            "id":3,
-            "option":"8 Hours"
-          },
-          {
-            "id":4,
-            "option":"8 Hours 30 Minutes"
-          }
-        ],
-        "answer":4
-      },
-      {
         "question":"If the cost price of an article is 30% less than the selling price of that article, then what will be the profit percentage?",
         "option":[
           {
@@ -1484,28 +1220,6 @@
         "answer":2
       },
       {
-        "question":"Sumit, Ravi and Puneet invest Rs 45000, Rs 81000 and Rs 90000 respectively to start a business. At the end of the year the total profit is Rs 4800. 30% of the total profit is given to charity and the rest is divided among them. What will be the share of Sumit?",
-        "option":[
-          {
-            "id":1,
-            "option":"Rs 700"
-          },
-          {
-            "id":2,
-            "option":"Rs 1260"
-          },
-          {
-            "id":3,
-            "option":"Rs 1310"
-          },
-          {
-            "id":4,
-            "option":"Rs 1400"
-          }
-        ],
-        "answer":1
-      },
-      {
         "question":"A sum becomes 6 times of itself in 4 years at compound interest interest is compounded annually). In how many years will the sum become 216 times of itself?",
         "option":[
           {
@@ -1526,50 +1240,6 @@
           }
         ],
         "answer":1
-      },
-      {
-        "question":"A alone can make a chair in 40 days and B alone can make the same chair in 24 days. If A and B are working on alternate days and A works on the first day, then in how many days will the chair be completed?",
-        "option":[
-          {
-            "id":1,
-            "option":"34 days"
-          },
-          {
-            "id":2,
-            "option":"32 days"
-          },
-          {
-            "id":3,
-            "option":"28 days"
-          },
-          {
-            "id":4,
-            "option":"30 days"
-          }
-        ],
-        "answer":4
-      },
-      {
-        "question":"The average of 35, 39, 41, 46, 27 and x is 38. What is the value of x?",
-        "option":[
-          {
-            "id":1,
-            "option":"44"
-          },
-          {
-            "id":2,
-            "option":"40"
-          },
-          {
-            "id":3,
-            "option":"38"
-          },
-          {
-            "id":4,
-            "option":"42"
-          }
-        ],
-        "answer":2
       },
       {
         "question":"https://drive.google.com/uc?export=view&id=1vDRRTRQeNNkLFrtQRS8ejNLiFEXyAESY",
@@ -1660,28 +1330,6 @@
         "answer":3
       },
       {
-        "question":"Identify the segment in the sentence which contains the grammatical error from the given options.<br><strong>The road was blocked since it was in repair.</strong>",
-        "option":[
-          {
-            "id":1,
-            "option":"since it was"
-          },
-          {
-            "id":2,
-            "option":"in repair"
-          },
-          {
-            "id":3,
-            "option":"was blocked"
-          },
-          {
-            "id":4,
-            "option":"The road"
-          }
-        ],
-        "answer":2
-      },
-      {
         "question":"Select the most appropriate synonym of the given word.<br><strong>Foyer</strong>",
         "option":[
           {
@@ -1726,29 +1374,7 @@
         "answer":3
       },
       {
-        "question":"Select the correctly spelt word.",
-        "option":[
-          {
-            "id":1,
-            "option":"Embarrasment"
-          },
-          {
-            "id":2,
-            "option":"Embarrassmment"
-          },
-          {
-            "id":3,
-            "option":"Embarrassment"
-          },
-          {
-            "id":4,
-            "option":"Embarassment"
-          }
-        ],
-        "answer":3
-      },
-      {
-        "question":"<strong>Direction</strong> (Q.Nos. 80-84) In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given.<br><br>There is some truth in the common saying that while dogs become attached to persons, cats are generally (1) to place. A dog will follow his master anywhere, but a cat keeps to the (2) it is used to; and even (3) the house changes hand, the cat will remain there, so long as it is treated (4) by the new owners. A cat does not seem to be capable of (5) often shown by a dog. It thinks most of its own comfort.<br><br>Fill in blank (1) with the most appropriate option.",
+        "question":"<strong>Direction</strong> (Q.Nos. 63-67) In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given.<br><br>There is some truth in the common saying that while dogs become attached to persons, cats are generally (1) to place. A dog will follow his master anywhere, but a cat keeps to the (2) it is used to; and even (3) the house changes hand, the cat will remain there, so long as it is treated (4) by the new owners. A cat does not seem to be capable of (5) often shown by a dog. It thinks most of its own comfort.<br><br>Fill in blank (1) with the most appropriate option.",
         "option":[
           {
             "id":1,
@@ -1902,28 +1528,6 @@
         "answer":4
       },
       {
-        "question":"Select the correctly spelt word.",
-        "option":[
-          {
-            "id":1,
-            "option":"Hiearchy"
-          },
-          {
-            "id":2,
-            "option":"Hierarky"
-          },
-          {
-            "id":3,
-            "option":"Hierarchy"
-          },
-          {
-            "id":4,
-            "option":"Hirarchy"
-          }
-        ],
-        "answer":3
-      },
-      {
         "question":"Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement.<br><br>The movie Uri tells the story of a surgical strike by the Indian army <u>towards militants in Pok<u>.",
         "option":[
           {
@@ -1963,28 +1567,6 @@
           {
             "id":4,
             "option":"Who"
-          }
-        ],
-        "answer":4
-      },
-      {
-        "question":"They showed her the greatest .........",
-        "option":[
-          {
-            "id":1,
-            "option":"praise"
-          },
-          {
-            "id":2,
-            "option":"tribute"
-          },
-          {
-            "id":3,
-            "option":"honour"
-          },
-          {
-            "id":4,
-            "option":"respect"
           }
         ],
         "answer":4
@@ -2122,27 +1704,6 @@
         "answer":4
       },
       {
-        "question":"Select the most appropriate antonym of the given word.<br><br><strong>Convex</strong>",
-        "option":[
-          {
-            "id":1,
-            "option":"Opaque"
-          },
-          {
-            "id":2,
-            "option":"Dense"
-          },
-          {
-            "id":3,
-            "option":"Concave"
-          },
-          {
-            "id":4,
-            "option":"Transparent"
-          }
-        ],
-        "answer":3
-      },{
         "question":"Select the word which means the same as the group of words given.<br><br>A song written in the praise of God",
         "option":[
           {
