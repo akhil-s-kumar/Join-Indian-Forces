@@ -6,8 +6,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "dec 17, 2022 19:00:00",
-    "examEnd" : "dec 17, 2022 19:15:00",
+    "examStart" : "dec 17, 2022 21:00:00",
+    "examEnd" : "dec 17, 2022 22:02:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
