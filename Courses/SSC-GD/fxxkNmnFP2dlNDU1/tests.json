@@ -6,8 +6,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "dec 17, 2022 21:00:00",
-    "examEnd" : "dec 17, 2022 22:02:00",
+    "examStart" : "jan 16, 2023 21:00:00",
+    "examEnd" : "jan 16, 2023 22:02:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
@@ -1777,8 +1777,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "dec 14, 2022 21:00:00",
-    "examEnd" : "dec 14, 2022 22:02:00",
+    "examStart" : "jan 15, 2023 21:00:00",
+    "examEnd" : "jan 15, 2023 22:02:00",
     "questions":[
       {
         "question":"Directions (Q.Nos. 1-4) Select the related words/letters/numbers from the given alternatives<br>Post office : Envelope :: Bank: ?",
@@ -3549,8 +3549,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "dec 11, 2022 21:00:00",
-    "examEnd" : "dec 11, 2022 22:02:00",
+    "examStart" : "jan 14, 2023 21:00:00",
+    "examEnd" : "jan 14, 2023 22:02:00",
     "questions":[
       {
         "question":"NIM: OHO :: SES : ? Replace (?), so that the second pair shares the same relation as the first pair",
