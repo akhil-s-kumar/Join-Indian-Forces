@@ -3549,8 +3549,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jan 14, 2023 21:00:00",
-    "examEnd" : "jan 14, 2023 22:02:00",
+    "examStart" : "jan 14, 2023 21:10:00",
+    "examEnd" : "jan 14, 2023 22:12:00",
     "questions":[
       {
         "question":"NIM: OHO :: SES : ? Replace (?), so that the second pair shares the same relation as the first pair",
