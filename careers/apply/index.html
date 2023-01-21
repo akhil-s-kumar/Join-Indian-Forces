@@ -91,12 +91,15 @@
                     </div>
                     <div class="form-group">
                         <label class="form-label">Link of Demo Video</label>
-                        <input type="url" class="form-control" id="VideoUrl" name="VideoUrl" placeholder="Video URL" required />
+                        <input type="url" class="form-control" id="VideoUrl" name="VideoUrl" placeholder="Video URL" />
                     </div>
                     <button type="submit" id="submitButton" class="btn btnweb ">
                         Submit
                     </button>
                 </form>
+                <div class="message text-center mt-5">
+                    <p id="outputMessage"></p>
+                </div>
             </div>
         </div>
     </div>
@@ -233,13 +236,15 @@
                 data: dataSet,
                 method: "post",
                 success: function (response) {
-                    alert(
-                        `${name}, Thankyou for showing intrest to join with us. Our team will contact you soon 😀`
-                    );
-                    window.location.href = 'https://joinindianforces.in/careers/';
+                    document.getElementById("careerApply-form").reset();
+                    document.getElementById("outputMessage").classList.add('success');
+                    document.getElementById("outputMessage").innerHTML = `${name}, Your application has been forwarded to our recruiting team, We will contact you within 5 - 7 days.`;
+                    return false
                 },
                 error: function (err) {
-                    alert("Something Error");
+                    document.getElementById("outputMessage").classList.add('fail');
+                    document.getElementById("outputMessage").innerHTML = "Our Server is busy right now. Try again later!"
+                    return false
                 },
             });
         });
