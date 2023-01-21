@@ -1725,10 +1725,10 @@ a:focus {
   text-align: center;
 }
 
-.contactSec .contactForm .card .message .success{
+.message .success{
   color: #26d935;
 }
 
-.contactSec .contactForm .card .message .fail{
+.message .fail{
   color: #d0212e;
 }

@@ -57,7 +57,8 @@
           </li>
         </ul>
         <ul class="ml-auto navbar-nav form-inline my-2 my-lg-0">
-          <button class="btn btnweb" type="submit" onclick="window.location.href='https:\//joinindianforces.in/#courses'">Enroll Now</button>
+          <button class="btn btnweb" type="submit"
+            onclick="window.location.href='https:\//joinindianforces.in/#courses'">Enroll Now</button>
         </ul>
       </div>
     </nav>
@@ -115,14 +116,17 @@
             <div class="card-body text-center">
               <h5>Subscribe our Newsletter</h5>
               <p>Get updates directly in your inbox</p>
-              <form>
+              <form id="submit-form">
                 <div class="mb-3">
-                  <input type="email" class="form-control" id="email" placeholder="Enter Email" required />
-                  <button type="submit" onclick="" class="btn btnweb">
+                  <input type="email" name="Email" class="form-control" id="email" placeholder="Enter Email" required />
+                  <button type="submit" class="btn btnweb">
                     Subscribe
                   </button>
                 </div>
               </form>
+              <div class="message">
+                <p id="outputMessage"></p>
+              </div>
             </div>
           </div>
         </div>
@@ -188,7 +192,8 @@
                     <li><i class="fa fa-user"></i>663</li>
                   </ul>
                 </div>
-                <button class="btn btnweb" style="width: 100%" onclick="window.location.href = 'https:\//joinindianforces.in/Courses/IAF-Group-Y/';">
+                <button class="btn btnweb" style="width: 100%"
+                  onclick="window.location.href = 'https:\//joinindianforces.in/Courses/IAF-Group-Y/';">
                   Enroll Now
                 </button>
               </div>
@@ -238,7 +243,8 @@
                     <li><i class="fa fa-user"></i>415</li>
                   </ul>
                 </div>
-                <button class="btn btnweb" style="width: 100%" onclick="window.location.href = 'https:\//joinindianforces.in/Courses/SSC-GD/';">
+                <button class="btn btnweb" style="width: 100%"
+                  onclick="window.location.href = 'https:\//joinindianforces.in/Courses/SSC-GD/';">
                   Enroll Now
                 </button>
               </div>
@@ -287,7 +293,8 @@
                     <li><i class="fa fa-user"></i>218</li>
                   </ul>
                 </div>
-                <button class="btn btnweb" style="width: 100%" onclick="window.location.href = 'https:\//joinindianforces.in/Courses/Navy-MR/';">
+                <button class="btn btnweb" style="width: 100%"
+                  onclick="window.location.href = 'https:\//joinindianforces.in/Courses/Navy-MR/';">
                   Enroll Now
                 </button>
               </div>
@@ -337,7 +344,8 @@
                     <li><i class="fa fa-user"></i>410</li>
                   </ul>
                 </div>
-                <button class="btn btnweb" style="width: 100%" onclick="window.location.href = 'https:\//joinindianforces.in/Courses/Soldier-GD-TDN/';">
+                <button class="btn btnweb" style="width: 100%"
+                  onclick="window.location.href = 'https:\//joinindianforces.in/Courses/Soldier-GD-TDN/';">
                   Enroll Now
                 </button>
               </div>
@@ -356,16 +364,18 @@
         </div>
         <div class="col-lg-5 rightSide">
           <h1>
-            <span>Courses</span> taught by expert faculties 
+            <span>Courses</span> taught by expert faculties
           </h1>
           <p>
-            Join us for teaching and mentoring millions of youth to join Indian Armed Forces, we can make their dream happen.
+            Join us for teaching and mentoring millions of youth to join Indian Armed Forces, we can make their dream
+            happen.
           </p>
           <div class="buttons d-flex">
             <button type="submit" onclick="" class="btn btnweb btnDark">
               Browse Teachers
             </button>
-            <button type="submit" onclick="window.location.href='https:\//joinindianforces.in/careers/'" class="btn btnweb btnLight">
+            <button type="submit" onclick="window.location.href='https:\//joinindianforces.in/careers/'"
+              class="btn btnweb btnLight">
               Become a teacher
             </button>
           </div>
@@ -569,7 +579,8 @@
                   <a href="https://blog.joinindianforces.in/" target="blank">Blog</a>
                 </li>
                 <li>
-                  <a href="https://joinindianforces.in/careers/">Careers </a><span class="badge badge-pill badge-warning">
+                  <a href="https://joinindianforces.in/careers/">Careers </a><span
+                    class="badge badge-pill badge-warning">
                     we're hiring</span>
                 </li>
                 <li>
@@ -659,16 +670,19 @@
     $("#submit-form").submit((e) => {
       e.preventDefault();
       $.ajax({
-        url: "https://script.google.com/macros/s/AKfycbzS1q-Zlp7W7ZfCZl2Pgf8aEfRQqZqogA0vEVV9/exec",
+        url: "https://script.google.com/macros/s/AKfycbw_79xoVWV9nFckDOWWOMxrb7Paxx5yCgVo5KTxB3SNYUyxMep-mZAzN1JBYjcemt84/exec",
         data: $("#submit-form").serialize(),
         method: "post",
         success: function (response) {
-          alert("Form submitted successfully");
-          window.location.reload();
-          //window.location.href="https://google.com"
+          document.getElementById("submit-form").reset();
+          document.getElementById("outputMessage").classList.add('success');
+          document.getElementById("outputMessage").innerHTML = "You have been added to our mailing list successfully";
+          return false
         },
         error: function (err) {
-          alert("Something Error");
+          document.getElementById("outputMessage").classList.add('fail');
+          document.getElementById("outputMessage").innerHTML = "Our Server is busy right now. Try again later!"
+          return false
         },
       });
     });
