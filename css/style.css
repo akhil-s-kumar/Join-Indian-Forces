@@ -1669,6 +1669,8 @@ a:focus {
 .contactSec .contactDetails p{
   margin-top: 30px;
   margin-bottom: 30px;
+  font-size: 13px;
+  font-weight: 600;
 }
 
 .contactSec .contactDetails p i{
@@ -1677,7 +1679,7 @@ a:focus {
   margin-right: 20px;
   border: 1px solid #f35f00;
   text-align: center;
-  padding-top: 2%;
+  padding-top: 10px;
   width: 50px;
   height: 50px;
   border-radius: 50%;
