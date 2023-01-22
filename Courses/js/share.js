@@ -9,7 +9,7 @@ shareBtn.addEventListener("click", (event) => {
       .share({
         text: text,
         url: link,
-        files: image
+        files: [image]
       })
       .then(() => {
         console.log("Thanks for sharing!");
