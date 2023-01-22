@@ -1,9 +1,6 @@
 const shareBtn = document.getElementById("shareBtn");
 const text = shareBtn.getAttribute("text");
 const link = shareBtn.getAttribute("link");
-const image = shareBtn.getAttribute("image")
-const file = await image.blob()
-file = new File([file], 'preview.png', {type: 'image/png'})
 
 shareBtn.addEventListener("click", (event) => {
   if (navigator.share) {
@@ -11,7 +8,6 @@ shareBtn.addEventListener("click", (event) => {
       .share({
         text: text,
         url: link,
-        files: [file]
       })
       .then(() => {
         console.log("Thanks for sharing!");
