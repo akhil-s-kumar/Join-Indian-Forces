@@ -4,6 +4,8 @@
 <head>
     <!-- Required meta tags -->
     <meta charset="utf-8" />
+    <meta name="Description"
+        content="Take your SSC MTS and Havildar exam preparation to the next level with our mock tests. Our mock tests are designed to mimic the actual exam experience and help you identify areas where you need to improve. Try our mock tests now and boost your chances of success." />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
 
     <!--CSS -->
@@ -26,7 +28,8 @@
                 <img src="./images/Logo.png" width="300px" />
             </a>
             <div class="d-flex">
-                <button class="btn" onclick="window.location.href='https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/'"
+                <button class="btn"
+                    onclick="window.location.href='https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/'"
                     type="submit">
                     Take Test
                 </button>
@@ -40,7 +43,7 @@
         </div>
         <div class="row rowMain">
             <div class="col-lg-12 row1 text-center">
-                <h2 class="head">Kerala's Largest <br />SSC MTS & Havildar Mock Test</h2>
+                <h2 class="head">Kerala's Largest <br />SSC MTS & Havildar 2023 Mock Test</h2>
                 <p>Evualuate what you know before the exam!</p>
                 <button type="button" disabled class="btn" type="button" data-bs-toggle="modal"
                     data-bs-target="#exampleModal">
@@ -76,7 +79,7 @@
                                         <div class="col-lg-12">
                                             <h5 class="mb-3">Step 2</h5>
                                             <p>
-                                                Register for attending our SSC MTS & Havildar 2022 Mock Tests. If
+                                                Register for attending our SSC MTS & Havildar 2023 Mock Tests. If
                                                 you already registered for any of our Mock Tests, no
                                                 need to register again use the same Roll Number for
                                                 future Mock Tests.
@@ -117,12 +120,12 @@
                 </p>
                 <div class="card shadow">
                     <div class="card-body">
-                        <h3>Mock Test 3</h3>
+                        <h3>Coming Soon</h3>
                         <i class="fa fa-calendar"></i>
-                        <p>04 July 2022</p>
+                        <p>TBA</p>
                         <hr />
                         <i class="fa fa-clock-o"></i>
-                        <p>9:00 PM</p>
+                        <p>TBA</p>
                         <hr />
                         <i class="fa fa-check-square-o"></i>
                         <p>90 Minutes</p>
@@ -163,7 +166,7 @@
                                 </tr>
                                 <tr>
                                     <th scope="row">3</th>
-                                    <td>Archana  PB</td>
+                                    <td>Archana PB</td>
                                     <td>43.25</td>
                                 </tr>
                             </tbody>
@@ -306,12 +309,12 @@
                         <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
                             data-bs-parent="#accordionExample">
                             <div class="accordion-body">
-                                <li>Total there will be 100 Questions</li>
-                                <li>Each questions carries 1 mark each.</li>
-                                <li>
-                                    0.25 marks will be deducted from total marks, if you mark
-                                    any wrong answers.
-                                </li>
+                                <li>Total there will be two sections.</li>
+                                <li>Section one carries 40 questions for 120 marks.</li>
+                                <li>Section one carries 50 questions for 150 marks.</li>
+                                <li>Each questions carries 3 mark each.</li>
+                                <li>No negative marking for Section one.</li>
+                                <li>1 mark will deduct from total marks for every wrong answer in section two.</li>
                                 <li>Exam pattern is similar to main Exam.</li>
                             </div>
                         </div>
@@ -424,21 +427,21 @@
             fetch("https://joinindianforces.in/SSC-MTS-Havildar-Mock/mockScores.json", {
                 cache: "no-store",
             })
-            .then(function (response) {
-                return response.json();
-            })
-            .then(function (data) {
-                for (var i = 0; i < data.length; i++) {
-                    if (data[i].rollNumber == RollNumber) {
-                        alert(`Hi ${data[i].name}, your score is ${data[i].score}`)
-                        break
-                    } else if (i == data.length - 1) {
-                        if (data[i].rollNumber != RollNumber) {
-                            alert("Sorry, Invalid Roll Number! Check your Roll Number properly. This can cause due to not writing the mock test or if you have not submited the mock test before the time ends.");
+                .then(function (response) {
+                    return response.json();
+                })
+                .then(function (data) {
+                    for (var i = 0; i < data.length; i++) {
+                        if (data[i].rollNumber == RollNumber) {
+                            alert(`Hi ${data[i].name}, your score is ${data[i].score}`)
+                            break
+                        } else if (i == data.length - 1) {
+                            if (data[i].rollNumber != RollNumber) {
+                                alert("Sorry, Invalid Roll Number! Check your Roll Number properly. This can cause due to not writing the mock test or if you have not submited the mock test before the time ends.");
+                            }
                         }
-                    }
-                };
-            });
+                    };
+                });
         });
     </script>
     <script>
