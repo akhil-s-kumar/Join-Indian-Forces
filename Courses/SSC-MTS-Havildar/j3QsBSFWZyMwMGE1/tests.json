@@ -1,13 +1,13 @@
 [
   {
     "id": 6,
-    "TitleName": "SSC MTS & Havildar 2022 AKM 3",
+    "TitleName": "SSC MTS & Havildar 2023 AKM 3",
     "noQ": 100,
     "maxS": 100,
     "maxTime": 90,
     "difL": "Moderate",
-    "examStart" : "jul 04, 2022 21:00:00",
-    "examEnd" : "jul 04, 2022 22:32:00",
+    "examStart" : "mar 04, 2023 21:00:00",
+    "examEnd" : "mar 04, 2023 22:32:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
@@ -2211,13 +2211,13 @@
   },
   {
     "id": 5,
-    "TitleName": "SSC MTS & Havildar 2022 AKM 2",
+    "TitleName": "SSC MTS & Havildar 2023 AKM 2",
     "noQ": 100,
     "maxS": 100,
     "maxTime": 90,
     "difL": "Moderate",
-    "examStart" : "jul 03, 2022 21:00:00",
-    "examEnd" : "jul 03, 2022 22:32:00",
+    "examStart" : "mar 03, 2023 21:00:00",
+    "examEnd" : "mar 03, 2023 22:32:00",
     "questions":[
       {
         "question":"Directions (Q.Nos. 1-4) Select the related words/letters/numbers from the given alternatives<br>Post office : Envelope :: Bank: ?",
@@ -4421,13 +4421,13 @@
   },
   {
     "id": 4,
-    "TitleName": "SSC MTS & Havildar 2022 AKM 1",
+    "TitleName": "SSC MTS & Havildar 2023 AKM 1",
     "noQ": 100,
     "maxS": 100,
     "maxTime": 90,
     "difL": "Moderate",
-    "examStart" : "jul 02, 2022 21:00:00",
-    "examEnd" : "jul 02, 2022 22:32:00",
+    "examStart" : "mar 02, 2023 21:00:00",
+    "examEnd" : "mar 02, 2023 22:32:00",
     "questions":[
       {
         "question":"NIM: OHO :: SES : ? Replace (?), so that the second pair shares the same relation as the first pair",
@@ -6636,8 +6636,8 @@
     "maxS": 10,
     "maxTime": 10,
     "difL": "Easy",
-    "examStart" : "jul 02, 2022 18:00:00",
-    "examEnd" : "jul 02, 2022 21:00:00",
+    "examStart" : "mar 02, 2023 18:00:00",
+    "examEnd" : "mar 02, 2023 21:00:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
@@ -6868,8 +6868,8 @@
     "maxS": 10,
     "maxTime":12,
     "difL": "Easy",
-    "examStart" : "jul 02, 2022 18:00:00",
-    "examEnd" : "jul 02, 2022 21:00:00",
+    "examStart" : "mar 02, 2023 18:00:00",
+    "examEnd" : "mar 02, 2023 21:00:00",
     "questions":[
       {
         "question":"Pre-history means",
@@ -7100,8 +7100,8 @@
     "maxS": 5,
     "maxTime":5,
     "difL": "Easy",
-    "examStart" : "jul 02, 2022 18:00:00",
-    "examEnd" : "jul 02, 2022 21:00:00",
+    "examStart" : "mar 02, 2023 18:00:00",
+    "examEnd" : "mar 02, 2023 21:00:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
