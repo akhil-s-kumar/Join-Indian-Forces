@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "sectionName": "Elementary Mathematics",
+    "sectionName": "Numerical and Mathematical Ability",
     "lessonName": [
       {
         "id": 1,
@@ -31,7 +31,7 @@
         "id": 5,
         "title": "Arithmetical Operations",
         "duration": "58 Min",
-        "url": "https://www.youtube-nocookie.com/embed/_g6TXciLq3I?rel=0&amp;loop=1"
+        "url": "https://www.youtube-nocookie.com/embed/YAxEznPhGto?rel=0&amp;loop=1"
       },
       {
         "id": 6,
@@ -91,133 +91,7 @@
   },
   {
     "id": 2,
-    "sectionName": "Mathematics QP's Discussion",
-    "lessonName": [
-      {
-        "id": 1,
-        "title": "Number System 01",
-        "duration": "61 Min",
-        "url": "https://www.youtube-nocookie.com/embed/0IMJ3A-NdCQ?rel=0&amp;loop=1"
-      },
-      {
-        "id": 2,
-        "title": "Number System 02",
-        "duration": "152 Min",
-        "url": "https://www.youtube-nocookie.com/embed/u9H89tQPfZI?rel=0&amp;loop=1"
-      },
-      {
-        "id": 3,
-        "title": "Number System 03",
-        "duration": "83 Min",
-        "url": "https://www.youtube-nocookie.com/embed/4HXK0QjvVeU?rel=0&amp;loop=1"
-      },
-      {
-        "id": 4,
-        "title": "HCF & LCM 01 Part 1",
-        "duration": "91 Min",
-        "url": "https://www.youtube-nocookie.com/embed/mIkuymE3YkA?rel=0&amp;loop=1"
-      },
-      {
-        "id": 5,
-        "title": "HCF & LCM 01 Part 2",
-        "duration": "59 Min",
-        "url": "https://www.youtube-nocookie.com/embed/1lwlcVUgyFY?rel=0&amp;loop=1"
-      },
-      {
-        "id": 6,
-        "title": "Decimal Fraction 01",
-        "duration": "91 Min",
-        "url": "https://www.youtube-nocookie.com/embed/DqtxlYFW3PQ?rel=0&amp;loop=1"
-      },
-      {
-        "id": 7,
-        "title": "Square & Cube Roots 01 Part 1",
-        "duration": "89 Min",
-        "url": "https://www.youtube-nocookie.com/embed/iKF2yihba-Y?rel=0&amp;loop=1"
-      },
-      {
-        "id": 8,
-        "title": "Square & Cube Roots 01 Part 2",
-        "duration": "89 Min",
-        "url": "https://www.youtube-nocookie.com/embed/ecbEhgc9hTI?rel=0&amp;loop=1"
-      },
-      {
-        "id": 9,
-        "title": "Arithmetical Operations 01",
-        "duration": "88 Min",
-        "url": "https://www.youtube-nocookie.com/embed/BsY6XIkS6KY?rel=0&amp;loop=1"
-      },
-      {
-        "id": 10,
-        "title": "Ratio & Proportion 01 Part 1",
-        "duration": "43 Min",
-        "url": "https://www.youtube-nocookie.com/embed/4ODEWQkITqw?rel=0&amp;loop=1"
-      },
-      {
-        "id": 11,
-        "title": "Ratio & Proportion 01 Part 2",
-        "duration": "47 Min",
-        "url": "https://www.youtube-nocookie.com/embed/5qwiHRovkNg?rel=0&amp;loop=1"
-      },
-      {
-        "id": 12,
-        "title": "Average 01 Part 1",
-        "duration": "93 Min",
-        "url": "https://www.youtube-nocookie.com/embed/eICf9FZ-qcw?rel=0&amp;loop=1"
-      },
-      {
-        "id": 13,
-        "title": "Average 01 Part 2",
-        "duration": "69 Min",
-        "url": "https://www.youtube-nocookie.com/embed/YVscET8HSRc?rel=0&amp;loop=1"
-      },
-      {
-        "id": 14,
-        "title": "Percentage 01 Part 1",
-        "duration": "94 Min",
-        "url": "https://www.youtube-nocookie.com/embed/XaD2hjsQ3Zg?rel=0&amp;loop=1"
-      },
-      {
-        "id": 15,
-        "title": "Percentage 01 Part 2",
-        "duration": "97 Min",
-        "url": "https://www.youtube-nocookie.com/embed/lc3HD43WMXs?rel=0&amp;loop=1"
-      },
-      {
-        "id": 16,
-        "title": "Profit Loss & Discount 01 Part 1",
-        "duration": "103 Min",
-        "url": "https://www.youtube-nocookie.com/embed/W_U0iYLDqhU?rel=0&amp;loop=1"
-      },
-      {
-        "id": 17,
-        "title": "Profit Loss & Discount 01 Part 2",
-        "duration": "48 Min",
-        "url": "https://www.youtube-nocookie.com/embed/nAmUuiqH2eE?rel=0&amp;loop=1"
-      },
-      {
-        "id": 18,
-        "title": "Profit Loss & Discount 01 Part 3",
-        "duration": "49 Min",
-        "url": "https://www.youtube-nocookie.com/embed/pD_3GDZ1LwA?rel=0&amp;loop=1"
-      },
-      {
-        "id": 19,
-        "title": "SI & CI 01 Part 1",
-        "duration": "84 Min",
-        "url": "https://www.youtube-nocookie.com/embed/UA3kLYV2tjg?rel=0&amp;loop=1"
-      },
-      {
-        "id": 20,
-        "title": "SI & CI 01 Part 2",
-        "duration": "79 Min",
-        "url": "https://www.youtube-nocookie.com/embed/FfQ5V0oOq3E?rel=0&amp;loop=1"
-      }
-    ]
-  },
-  {
-    "id": 3,
-    "sectionName": "English",
+    "sectionName": "English Language and Comprehension",
     "lessonName": [
       {
         "id": 1,
@@ -312,8 +186,8 @@
     ]
   },
   {
-    "id": 4,
-    "sectionName": "GI & R",
+    "id": 3,
+    "sectionName": "Reasoning Ability and Problem Solving",
     "lessonName": [
       {
         "id": 1,
@@ -366,8 +240,8 @@
     ]
   },
   {
-    "id": 5,
-    "sectionName": "GK & GA",
+    "id": 4,
+    "sectionName": "General Awareness",
     "lessonName": [
       {
         "id": 1,
@@ -450,8 +324,8 @@
     ]
   },
   {
-    "id": 6,
-    "sectionName": "GK & GA QP's Discussion",
+    "id": 5,
+    "sectionName": "General Awareness QP's Discussion",
     "lessonName": [
       {
         "id": 1,
@@ -549,30 +423,6 @@
         "duration": "07 Min",
         "url": "https://www.youtube-nocookie.com/embed/S5CRodaMUoM?rel=0&amp;loop=1"
       }    
-    ]
-  },
-  {
-    "id": 7,
-    "sectionName": "Practice QP's Discussion",
-    "lessonName": [
-      {
-        "id": 1,
-        "title": "Practice Set 01",
-        "duration": "128 Min",
-        "url": "https://www.youtube-nocookie.com/embed/I95maTFQe1E?rel=0&amp;loop=1"
-      },
-      {
-        "id": 2,
-        "title": "Practice Set 02 Reasoning",
-        "duration": "36 Min",
-        "url": "https://www.youtube-nocookie.com/embed/BEWa_zMMKCs?rel=0&amp;loop=1"
-      },
-      {
-        "id": 3,
-        "title": "Practice Set 02 GK & GA",
-        "duration": "09 Min",
-        "url": "https://www.youtube-nocookie.com/embed/b8_hpHnK1so?rel=0&amp;loop=1"
-      }
     ]
   }
 ]
