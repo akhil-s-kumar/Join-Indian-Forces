@@ -707,11 +707,26 @@
   </footer>
   <!--Footer End-->
 
+  <!--Pop Up start-->
+  <div class="modal fade" id="myModalCenter">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+          <img width="max-content" src="./Images//Republic-Day-offer.png" onclick="window.location.href = 'https:\//joinindianforces.in/Courses/SSC-MTS-Havildar/';">
+      </div>
+    </div>
+  </div>
+  <!--Pop Up end-->
+
   <!-- Optional JavaScript -->
   <script src="https://code.jquery.com/jquery-3.5.1.js" integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc="
     crossorigin="anonymous"></script>
   <script src="js/smooth-scroll.js"></script>
   <script src="js/floating-nav.js"></script>
+  <script>
+    $(window).on('load', function () {
+      $('#myModalCenter').modal('show');
+    }); 
+  </script>
   <script>
     $("#submit-form").submit((e) => {
       e.preventDefault();
