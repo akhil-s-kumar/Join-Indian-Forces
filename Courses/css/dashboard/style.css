@@ -49,6 +49,15 @@ body{
    font-weight: 100; 
 }
 
+@media (max-width: 432px) {
+    .head h5{
+        font-size: 18px;
+    }
+    .head p{
+        font-size: 13px; 
+     }
+}
+
 .cardcontainer .card{
     margin-top: 10px;
     margin-bottom: 10px;
