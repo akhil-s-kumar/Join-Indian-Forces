@@ -724,7 +724,13 @@
   <script src="js/floating-nav.js"></script>
   <script>
     $(window).on('load', function () {
-      $('#myModalCenter').modal('show');
+      var dateOne = new Date(2023, 00, 27);
+      var today = new Date();
+      if (today<dateOne){
+        $('#myModalCenter').modal('show');
+      }else{
+        $('#myModalCenter').modal('hide');
+      }
     }); 
   </script>
   <script>
