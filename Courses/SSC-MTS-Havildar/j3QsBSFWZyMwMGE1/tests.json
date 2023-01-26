@@ -7125,7 +7125,7 @@
         ],
         "answer":1,
         "maxM": 3,
-        "negM": 0
+        "negM": 1
       },
       {
         "question":"The sum of odd numbers from 10 to 60 is",
@@ -7149,7 +7149,7 @@
         ],
         "answer":4,
         "maxM": 3,
-        "negM": 0
+        "negM": 1
       },
       {
         "question":"Find the sum of first 27 odd numbers.",
@@ -7173,7 +7173,7 @@
         ],
         "answer":3,
         "maxM": 3,
-        "negM": 0
+        "negM": 1
       },
       {
         "question":"What is the product of first three prime numbers?",
@@ -7197,7 +7197,7 @@
         ],
         "answer":3,
         "maxM": 3,
-        "negM": 0
+        "negM": 1
       },
       {
         "question":"When a number is divided by 121, the remainder is 25. If the same number is divided by 11, the remainder will be",
@@ -7221,7 +7221,7 @@
         ],
         "answer":1,
         "maxM": 3,
-        "negM": 0
+        "negM": 1
       }
     ]
   }
