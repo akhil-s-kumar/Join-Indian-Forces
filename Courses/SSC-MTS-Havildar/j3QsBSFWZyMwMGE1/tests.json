@@ -7097,11 +7097,11 @@
     "id": 1,
     "TitleName": "Mock Test 1 Mathematics",
     "noQ": 5,
-    "maxS": 5,
+    "maxS": 15,
     "maxTime":5,
     "difL": "Easy",
-    "examStart" : "mar 02, 2023 18:00:00",
-    "examEnd" : "mar 02, 2023 21:00:00",
+    "examStart" : "jan 27, 2023 01:00:00",
+    "examEnd" : "jan 27, 2023 02:00:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
@@ -7123,7 +7123,9 @@
             "option":"455"
           }
         ],
-        "answer":1
+        "answer":1,
+        "maxM": 3,
+        "negM": 0
       },
       {
         "question":"The sum of odd numbers from 10 to 60 is",
@@ -7145,7 +7147,9 @@
             "option":"875"
           }
         ],
-        "answer":4
+        "answer":4,
+        "maxM": 3,
+        "negM": 0
       },
       {
         "question":"Find the sum of first 27 odd numbers.",
@@ -7167,7 +7171,9 @@
             "option":"869"
           }
         ],
-        "answer":3
+        "answer":3,
+        "maxM": 3,
+        "negM": 0
       },
       {
         "question":"What is the product of first three prime numbers?",
@@ -7189,7 +7195,9 @@
             "option":"None of these"
           }
         ],
-        "answer":3
+        "answer":3,
+        "maxM": 3,
+        "negM": 0
       },
       {
         "question":"When a number is divided by 121, the remainder is 25. If the same number is divided by 11, the remainder will be",
@@ -7211,7 +7219,9 @@
             "option":"25"
           }
         ],
-        "answer":1
+        "answer":1,
+        "maxM": 3,
+        "negM": 0
       }
     ]
   }

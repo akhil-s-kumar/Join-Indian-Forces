@@ -505,9 +505,9 @@ const submitAnswers = (testId) => {
               continue;
             } else {
               if (a.value == b) {
-                score += 2;
+                score += data[i].questions[j].maxM;
               } else {
-                score -= 0.50;
+                score -= data[i].questions[j].negM;
               }
             }
           }
