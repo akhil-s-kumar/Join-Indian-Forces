@@ -7100,7 +7100,7 @@
     "maxS": 15,
     "maxTime":5,
     "difL": "Easy",
-    "examStart" : "jan 27, 2023 12:00:00",
+    "examStart" : "jan 27, 2023 00:00:00",
     "examEnd" : "jan 27, 2023 02:00:00",
     "questions":[
       {
