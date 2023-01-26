@@ -190,7 +190,6 @@ const checkRoll = () => {
 const startExam = (testId) => {
   //To get Roll Number
   var rollExtract = document.querySelector('input[id="rollNumber"]').value;
-  console.log(typeof rollExtract);
 
   //To check Roll Number exist
   fetch(
@@ -203,7 +202,6 @@ const startExam = (testId) => {
       return response.json();
     })
     .then(function (data) {
-      console.log(data.length);
       for (var i = 0; i < data.length; i++) {
         if (data[i].RollNumber === rollExtract) {
           localStorage.setItem("rollNumber", rollExtract);
