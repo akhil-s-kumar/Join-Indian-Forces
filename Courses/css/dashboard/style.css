@@ -49,7 +49,7 @@ body{
    font-weight: 100; 
 }
 
-@media (max-width: 432px) {
+@media (max-width: 460px) {
     .head h5{
         font-size: 18px;
     }
