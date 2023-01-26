@@ -144,7 +144,7 @@ const test = (testId) => {
   //Roll Number Input
   var rollNo = document.createElement("input");
   rollNo.type = "password";
-  rollNo.placeholder = "Enter Roll Number";
+  rollNo.placeholder = "Enter Password";
   rollNo.className = "inputField";
   rollNo.id = "rollNumber";
   rollNo.setAttribute("onkeyup", "checkRoll()");
