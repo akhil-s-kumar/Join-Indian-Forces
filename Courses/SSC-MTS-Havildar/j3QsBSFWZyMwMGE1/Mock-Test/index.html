@@ -18,7 +18,7 @@
       rel="stylesheet"
       href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
     />
-    <link rel="shortcut icon" href="../../Images/Favicon.png" />
+    <link rel="shortcut icon" href="../../../../Images/Favicon.png" />
 
     <title>SSC MTS & Havildar : : Mock Tests</title>
   </head>
@@ -31,6 +31,13 @@
     </div>
 
     <!-- Optional JavaScript; choose one of the two! -->
+    <script>
+      const uname = localStorage.getItem("Name");
+      const password = localStorage.getItem("password");
+      if(uname == null || password == null){
+        history.go(-1);
+      }
+    </script>
 
     <!-- Option 1: Bootstrap Bundle with Popper -->
     <script

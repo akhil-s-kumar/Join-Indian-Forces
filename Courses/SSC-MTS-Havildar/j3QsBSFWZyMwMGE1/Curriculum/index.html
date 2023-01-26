@@ -42,6 +42,14 @@
       </div>
     </div>
 
+
+    <script>
+      const uname = localStorage.getItem("Name");
+      const password = localStorage.getItem("password");
+      if(uname == null || password == null){
+        history.go(-1);
+      }
+    </script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script
       src="https://code.jquery.com/jquery-3.5.1.js"

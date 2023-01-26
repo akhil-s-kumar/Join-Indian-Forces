@@ -143,7 +143,7 @@ const test = (testId) => {
 
   //Roll Number Input
   var rollNo = document.createElement("input");
-  rollNo.type = "number";
+  rollNo.type = "password";
   rollNo.placeholder = "Enter Roll Number";
   rollNo.className = "inputField";
   rollNo.id = "rollNumber";
