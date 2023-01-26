@@ -3,7 +3,7 @@ const mainFunc = () => {
   var remMain = document.getElementById("mainContainer");
   remMain.parentNode.removeChild(remMain);
 
-  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2022-Mock-Test/tests.json", {
+  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
