@@ -3,7 +3,7 @@ const mainFunc = () => {
   var remMain = document.getElementById("mainContainer");
   remMain.parentNode.removeChild(remMain);
 
-  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/tests.json", {
+  fetch("./tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
@@ -99,7 +99,7 @@ const test = (testId) => {
   var list1 = document.createElement("li");
 
   //Fetch details
-  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/tests.json", {
+  fetch("./tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
@@ -116,7 +116,7 @@ const test = (testId) => {
 
           var list2 = document.createElement("li");
           list2.innerHTML =
-            "If a question is marked wrong 0.25 marks will be deducted.";
+            "Section I carries no negative marking, Section II deducts 1 marks from total for each wrong answers.";
           instructions.appendChild(list2);
 
           var list3 = document.createElement("li");
@@ -143,8 +143,8 @@ const test = (testId) => {
 
   //Roll Number Input
   var rollNo = document.createElement("input");
-  rollNo.type = "number";
-  rollNo.placeholder = "Enter Roll Number";
+  rollNo.type = "password";
+  rollNo.placeholder = "Enter Password";
   rollNo.className = "inputField";
   rollNo.id = "rollNumber";
   rollNo.setAttribute("onkeyup", "checkRoll()");
@@ -190,11 +190,10 @@ const checkRoll = () => {
 const startExam = (testId) => {
   //To get Roll Number
   var rollExtract = document.querySelector('input[id="rollNumber"]').value;
-  console.log(typeof rollExtract);
 
   //To check Roll Number exist
   fetch(
-    "https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/registeredCandidates.json",
+    "./registeredCandidates.json",
     {
       cache: "no-store",
     }
@@ -203,7 +202,6 @@ const startExam = (testId) => {
       return response.json();
     })
     .then(function (data) {
-      console.log(data.length);
       for (var i = 0; i < data.length; i++) {
         if (data[i].RollNumber === rollExtract) {
           localStorage.setItem("rollNumber", rollExtract);
@@ -291,7 +289,7 @@ const startExam = (testId) => {
 
           //Quiz container inner
           fetch(
-            "https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/tests.json",
+            "./tests.json",
             {
               cache: "no-store",
             }
@@ -487,7 +485,7 @@ const clearSelection = (name) => {
 const submitAnswers = (testId) => {
   document.getElementById("submitBtn").disabled = true;
   var score = 0;
-  fetch("https://joinindianforces.in/SSC-MTS-Havildar-2023-Mock-Test/tests.json", {
+  fetch("./tests.json", {
     cache: "no-store",
   })
     .then(function (response) {
@@ -505,9 +503,9 @@ const submitAnswers = (testId) => {
               continue;
             } else {
               if (a.value == b) {
-                score += 1;
+                score += data[i].questions[j].maxM;
               } else {
-                score -= 0.25;
+                score -= data[i].questions[j].negM;
               }
             }
           }
