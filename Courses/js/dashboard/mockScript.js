@@ -49,6 +49,9 @@ const mainFunc = () => {
       var list3 = document.createElement("li");
       list3.innerHTML = `Difficulty Level - ${data[i].difL}`;
       cardText.appendChild(list3);
+      var list4 = document.createElement("li");
+      list4.innerHTML = `Exam Date - ${data[i].examStart}`;
+      cardText.appendChild(list4);
       var button = document.createElement("button");
       button.type = "button";
       button.setAttribute("onclick", `test(${data[i].id})`);
@@ -111,12 +114,13 @@ const test = (testId) => {
           maxQ = data[i].noQ;
           maxM = data[i].maxS;
           maxT = data[i].maxTime;
+          markingDetails = data[i].markingDetails;
           list1.innerHTML = `There are total ${maxQ} questions for ${maxM} marks.`;
           instructions.appendChild(list1);
 
           var list2 = document.createElement("li");
           list2.innerHTML =
-            "If a question is marked wrong 0.50 marks will be deducted.";
+            `${markingDetails}`;
           instructions.appendChild(list2);
 
           var list3 = document.createElement("li");
