@@ -7,27 +7,51 @@
     "maxTime":10,
     "difL": "Easy",
     "markingDetails": "There will be no negative marking",
-    "examStart" : "feb 25, 2023 21:00:00",
-    "examEnd" : "feb 25, 2023 21:12:00",
+    "examStart" : "feb 25, 2023 22:00:00",
+    "examEnd" : "feb 25, 2023 22:12:00",
     "questions":[
       {
-        "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
+        "question":"Simplify \\([1-2(3-4)^{-1}]^{-1}\\)",
         "option":[
           {
             "id":1,
-            "option":"402"
+            "option":"\\(1 \\over 4\\)"
           },
           {
             "id":2,
-            "option":"543"
+            "option":"\\(1 \\over 3\\)"
           },
           {
             "id":3,
-            "option":"436"
+            "option":"\\(1 \\over 2\\)"
           },
           {
             "id":4,
-            "option":"455"
+            "option":"\\(1 \\over 6\\)"
+          }
+        ],
+        "answer":2,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"Ram went to a market and bought one copy of a Mathematics book and two pencils for Rs 165. Rahim went to the same market and bought another copy of the same book and ten pencils of the same brand for Rs169. The price of each pencil was",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs. 0.50"
+          },
+          {
+            "id":2,
+            "option":"Rs. 1"
+          },
+          {
+            "id":3,
+            "option":"Rs. 0.75"
+          },
+          {
+            "id":4,
+            "option":"Rs. 2"
           }
         ],
         "answer":1,
@@ -35,79 +59,7 @@
         "negM": 0
       },
       {
-        "question":"The sum of odd numbers from 10 to 60 is",
-        "option":[
-          {
-            "id":1,
-            "option":"775"
-          },
-          {
-            "id":2,
-            "option":"468"
-          },
-          {
-            "id":3,
-            "option":"921"
-          },
-          {
-            "id":4,
-            "option":"875"
-          }
-        ],
-        "answer":4,
-        "maxM": 3,
-        "negM": 0
-      },
-      {
-        "question":"Find the sum of first 27 odd numbers.",
-        "option":[
-          {
-            "id":1,
-            "option":"929"
-          },
-          {
-            "id":2,
-            "option":"879"
-          },
-          {
-            "id":3,
-            "option":"729"
-          },
-          {
-            "id":4,
-            "option":"869"
-          }
-        ],
-        "answer":3,
-        "maxM": 3,
-        "negM": 0
-      },
-      {
-        "question":"What is the product of first three prime numbers?",
-        "option":[
-          {
-            "id":1,
-            "option":"10"
-          },
-          {
-            "id":2,
-            "option":"20"
-          },
-          {
-            "id":3,
-            "option":"30"
-          },
-          {
-            "id":4,
-            "option":"None of these"
-          }
-        ],
-        "answer":3,
-        "maxM": 3,
-        "negM": 0
-      },
-      {
-        "question":"When a number is divided by 121, the remainder is 25. If the same number is divided by 11, the remainder will be",
+        "question":"Find the value of (6 x 4) ÷ 12 + 72 ÷ 8 – 9",
         "option":[
           {
             "id":1,
@@ -115,11 +67,59 @@
           },
           {
             "id":2,
-            "option":"4"
+            "option":"5"
           },
           {
             "id":3,
-            "option":"6"
+            "option":"2"
+          },
+          {
+            "id":4,
+            "option":"1"
+          }
+        ],
+        "answer":3,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"Find 36 – 6 + 3 × 5 ÷ 3",
+        "option":[
+          {
+            "id":1,
+            "option":"32"
+          },
+          {
+            "id":2,
+            "option":"84"
+          },
+          {
+            "id":3,
+            "option":"74"
+          },
+          {
+            "id":4,
+            "option":"71"
+          }
+        ],
+        "answer":3,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"\\((4×3÷6+1)×3^2\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"27"
+          },
+          {
+            "id":2,
+            "option":"29"
+          },
+          {
+            "id":3,
+            "option":"18"
           },
           {
             "id":4,
