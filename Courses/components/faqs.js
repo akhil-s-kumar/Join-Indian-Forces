@@ -74,7 +74,7 @@ faqsTemplate.innerHTML = `
                     </div>
                     <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionExample">
                     <div class="card-body">
-                        We provide you with PDF study materials, which you can read online or decide to take print.
+                        We provide you with PDF study materials only if it is a complete course and if it is a crash course we will provide you with the QP's for you to solve as PDF for topics that we discuss in the live session, which you can read online or decide to take print. 
                     </div>
                     </div>
                 </div>
