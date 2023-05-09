@@ -41,7 +41,7 @@ if (uname == null || password == null) {
       <div class="row align-items-center" style="min-height: 100vh">
         <div class="col-lg-12">
           <h1>Login</h1>
-          <p>Check your mail for credentials!</p>
+          <p>Use the password provided by the admin!</p>
           <form class="form-inline" onsubmit="return login()">
             <div class="form-row">
               <div class="col">
