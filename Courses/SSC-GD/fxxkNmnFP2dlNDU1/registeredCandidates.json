@@ -3,42 +3,49 @@
         "Id": "1",
         "FirstName": "Akhil",
         "LastName": "S Kumar",
-        "RollNumber": "94001291200"
+        "RollNumber": "94001291200",
+        "isActive": "true"
     },
     {
         "Id": "2",
         "FirstName": "Muhammed",
         "LastName": "razi",
-        "RollNumber": "98478160505"
+        "RollNumber": "98478160505",
+        "isActive": "true"
     },
     {
         "Id": "3",
         "FirstName": "Muhammed",
         "LastName": "Labeeb",
-        "RollNumber": "96454200902"
+        "RollNumber": "96454200902",
+        "isActive": "true"
     },
     {
         "Id": "4",
         "FirstName": "Sarang",
         "LastName": "K",
-        "RollNumber": "99470171199"
+        "RollNumber": "99470171199",
+        "isActive": "true"
     },
     {
         "Id": "5",
         "FirstName": "MUHAMMED",
         "LastName": "SAJAD ILLIKKAL",
-        "RollNumber": "97780011102"
+        "RollNumber": "97780011102",
+        "isActive": "true"
     },
     {
         "Id": "6",
         "FirstName": "Gopukrishna",
         "LastName": "vv",
-        "RollNumber": "96456080102"
+        "RollNumber": "96456080102",
+        "isActive": "true"
     },
     {
         "Id": "7",
         "FirstName": "Sumesh",
         "LastName": "S",
-        "RollNumber": "83010110197"
+        "RollNumber": "83010110197",
+        "isActive": "true"
     }
 ]

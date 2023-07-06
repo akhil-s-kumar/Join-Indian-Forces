@@ -3,168 +3,196 @@
     "Id": "1",
     "FirstName": "Akhil",
     "LastName": "S Kumar",
-    "RollNumber": "83267051674"
+    "RollNumber": "83267051674",
+    "isActive": "true"
   },
   {
     "Id": "2",
     "FirstName": "Sooraj",
     "LastName": "S",
-    "RollNumber": "35238944754"
+    "RollNumber": "35238944754",
+    "isActive": "flase"
   },
   {
     "Id": "3",
     "FirstName": "Nidhinlal",
     "LastName": "",
-    "RollNumber": "87524949041"
+    "RollNumber": "87524949041",
+    "isActive": "flase"
   },
   {
     "Id": "4",
     "FirstName": "AKASH.",
     "LastName": "S",
-    "RollNumber": "60749136034"
+    "RollNumber": "60749136034",
+    "isActive": "flase"
   },
   {
     "Id": "5",
     "FirstName": "Nidhin",
     "LastName": "Sajeev",
-    "RollNumber": "87729203195"
+    "RollNumber": "87729203195",
+    "isActive": "flase"
   },
   {
     "Id": "6",
     "FirstName": "Sreeraj",
     "LastName": "",
-    "RollNumber": "57829618332"
+    "RollNumber": "57829618332",
+    "isActive": "flase"
   },
   {
     "Id": "7",
     "FirstName": "Gokul",
     "LastName": "",
-    "RollNumber": "14335352354"
+    "RollNumber": "14335352354",
+    "isActive": "flase"
   },
   {
     "Id": "8",
     "FirstName": "CINCY",
     "LastName": "JOHNY",
-    "RollNumber": "18690144544"
+    "RollNumber": "18690144544",
+    "isActive": "flase"
   },
   {
     "Id": "9",
     "FirstName": "ADITHIAN",
     "LastName": "CM",
-    "RollNumber": "79237330236"
+    "RollNumber": "79237330236",
+    "isActive": "flase"
   },
   {
     "Id": "10",
     "FirstName": "Akash",
     "LastName": "K",
-    "RollNumber": "81083337287"
+    "RollNumber": "81083337287",
+    "isActive": "flase"
   },
   {
     "Id": "11",
     "FirstName": "Vishnu",
     "LastName": "S",
-    "RollNumber": "98803195081"
+    "RollNumber": "98803195081",
+    "isActive": "flase"
   },
   {
     "Id": "12",
     "FirstName": "Lekshmi",
     "LastName": "H",
-    "RollNumber": "87946934131"
+    "RollNumber": "87946934131",
+    "isActive": "flase"
   },
   {
     "Id": "13",
     "FirstName": "Abhijith",
     "LastName": "",
-    "RollNumber": "56406667636"
+    "RollNumber": "56406667636",
+    "isActive": "flase"
   },
   {
     "Id": "14",
     "FirstName": "Jishnu",
     "LastName": "M",
-    "RollNumber": "89266093856"
+    "RollNumber": "89266093856",
+    "isActive": "flase"
   },
   {
     "Id": "15",
     "FirstName": "KIRAN",
     "LastName": "KRISHNAN",
-    "RollNumber": "12377300217"
+    "RollNumber": "12377300217",
+    "isActive": "flase"
   },
   {
     "Id": "16",
     "FirstName": "SANTHOSH",
     "LastName": "RAJAN",
-    "RollNumber": "57170003941"
+    "RollNumber": "57170003941",
+    "isActive": "flase"
   },
   {
     "Id": "17",
     "FirstName": "Aryasree",
     "LastName": "p",
-    "RollNumber": "94416716217"
+    "RollNumber": "94416716217",
+    "isActive": "flase"
   },
   {
     "Id": "18",
     "FirstName": "Adarsh",
     "LastName": "",
-    "RollNumber": "15377005013"
+    "RollNumber": "15377005013",
+    "isActive": "flase"
   },
   {
     "Id": "19",
     "FirstName": "Akhil",
     "LastName": "",
-    "RollNumber": "36316663867"
+    "RollNumber": "36316663867",
+    "isActive": "flase"
   },
   {
     "Id": "20",
     "FirstName": "Rahul",
     "LastName": "k",
-    "RollNumber": "21636538002"
+    "RollNumber": "21636538002",
+    "isActive": "flase"
   },
   {
     "Id": "21",
     "FirstName": "Akash.",
     "LastName": "J. S",
-    "RollNumber": "95270665897"
+    "RollNumber": "95270665897",
+    "isActive": "flase"
   },
   {
     "Id": "22",
     "FirstName": "SIVASANTH",
     "LastName": "S",
-    "RollNumber": "69276008050"
+    "RollNumber": "69276008050",
+    "isActive": "flase"
   },
   {
     "Id": "23",
     "FirstName": "Yadhu",
     "LastName": "Krishnan v",
-    "RollNumber": "27376862365"
+    "RollNumber": "27376862365",
+    "isActive": "flase"
   },
   {
     "Id": "24",
     "FirstName": "Libin",
     "LastName": "K S",
-    "RollNumber": "85032821800"
+    "RollNumber": "85032821800",
+    "isActive": "flase"
   },
   {
     "Id": "25",
     "FirstName": "JOBIN",
     "LastName": "JOSE",
-    "RollNumber": "49225575331"
+    "RollNumber": "49225575331",
+    "isActive": "flase"
   },
   {
     "Id": "26",
     "FirstName": "Ramya",
     "LastName": "",
-    "RollNumber": "26229254616"
+    "RollNumber": "26229254616",
+    "isActive": "flase"
   },
   {
     "Id": "27",
     "FirstName": "Jancy",
     "LastName": "joseph",
-    "RollNumber": "51337588530"
+    "RollNumber": "51337588530",
+    "isActive": "flase"
   },
   {
     "Id": "28",
     "FirstName": "Roshni",
     "LastName": "s",
-    "RollNumber": "28316478038"
+    "RollNumber": "28316478038",
+    "isActive": "flase"
   }
 ]

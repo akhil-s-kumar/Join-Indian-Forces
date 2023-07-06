@@ -8,12 +8,15 @@ const login = () => {
     })
     .then(function (data) {
       for (var i = 0; i < data.length; i++) {
-        if (data[i].RollNumber === password) {
+        if (data[i].RollNumber === password && data[i].isActive === "true") {
+          var date = new Date();
+          date.setDate(14)
           localStorage.setItem("password", password);
           localStorage.setItem(
             "Name",
             data[i].FirstName + " " + data[i].LastName
           );
+          localStorage.setItem("expiry", date);
           location.reload();
           break;
         } else if (i == data.length - 1) {
@@ -35,7 +38,8 @@ const logout = () =>{
 const mainContainer = document.getElementById("main");
 const uname = localStorage.getItem("Name");
 const password = localStorage.getItem("password");
-if (uname == null || password == null) {
+const expiry = localStorage.getItem("expiry");
+if (uname == null || password == null || expiry == null) {
   const login = `
     <div class="container login d-flex justify-content-center">
       <div class="row align-items-center" style="min-height: 100vh">

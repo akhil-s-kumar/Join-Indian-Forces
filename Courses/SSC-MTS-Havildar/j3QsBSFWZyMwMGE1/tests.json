@@ -7,8 +7,8 @@
     "maxTime":10,
     "difL": "Easy",
     "markingDetails": "There will be no negative marking",
-    "examStart" : "feb 25, 2023 22:00:00",
-    "examEnd" : "feb 25, 2023 22:12:00",
+    "examStart" : "jul 16, 2023 22:00:00",
+    "examEnd" : "jul 16, 2023 22:12:00",
     "questions":[
       {
         "question":"Simplify \\([1-2(3-4)^{-1}]^{-1}\\)",

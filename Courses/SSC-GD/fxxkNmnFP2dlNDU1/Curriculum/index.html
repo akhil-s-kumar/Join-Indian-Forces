@@ -43,9 +43,18 @@
     </div>
 
     <script>
+      var expiryDate = localStorage.getItem("expiry");
+      var today = new Date();
+      if(today > new Date(expiryDate) && expiryDate != null) {
+        localStorage.clear();
+      }
+    </script>
+
+    <script>
       const uname = localStorage.getItem("Name");
       const password = localStorage.getItem("password");
-      if(uname == null || password == null){
+      const expiry = localStorage.getItem("expiry");
+      if(uname == null || password == null || expiry == null){
         history.go(-1);
       }
     </script>
