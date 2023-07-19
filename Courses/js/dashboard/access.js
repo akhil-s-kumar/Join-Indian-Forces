@@ -10,7 +10,7 @@ const login = () => {
       for (var i = 0; i < data.length; i++) {
         if (data[i].RollNumber === password && data[i].isActive === "true") {
           var date = new Date();
-          date.setDate(14)
+          date.setDate(date.getDate() + 7)
           localStorage.setItem("password", password);
           localStorage.setItem(
             "Name",
