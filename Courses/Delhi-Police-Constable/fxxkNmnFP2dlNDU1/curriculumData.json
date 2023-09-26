@@ -1,0 +1,579 @@
+[
+  {
+    "id": 1,
+    "sectionName": "Elementary Mathematics",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Number System",
+        "duration": "52 Min",
+        "url": "https://www.youtube-nocookie.com/embed/-WvuAM21UUA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "HCF & LCM",
+        "duration": "28 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7mSHNGtUs_Y?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Decimal Fractions",
+        "duration": "42 Min",
+        "url": "https://www.youtube-nocookie.com/embed/GLwxrvbroTU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Square & Cube Roots",
+        "duration": "46 Min",
+        "url": "https://www.youtube-nocookie.com/embed/bWgkCOBI_Hc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Arithmetical Operations",
+        "duration": "58 Min",
+        "url": "https://www.youtube-nocookie.com/embed/_g6TXciLq3I?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Ratio And Proportion",
+        "duration": "39 Min",
+        "url": "https://www.youtube-nocookie.com/embed/teGcK6zgY9E?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Average",
+        "duration": "28 Min",
+        "url": "https://www.youtube-nocookie.com/embed/jReA5Nrir34?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Percentage",
+        "duration": "32 Min",
+        "url": "https://www.youtube-nocookie.com/embed/1pfpaczpvB8?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "Profit Loss and Discount",
+        "duration": "41 Min",
+        "url": "https://www.youtube-nocookie.com/embed/q5vb5l3CVHk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Simple & Compound Interest",
+        "duration": "36 Min",
+        "url": "https://www.youtube-nocookie.com/embed/KSMxvxKZ1p4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Time & Work",
+        "duration": "47 Min",
+        "url": "https://www.youtube-nocookie.com/embed/hKTxCvv1yfs?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Time Speed & Distance",
+        "duration": "38 Min",
+        "url": "https://www.youtube-nocookie.com/embed/pHgI_D_U--s?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "Mensuration",
+        "duration": "41 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7K_Bn09RhrQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Data Interpretation",
+        "duration": "26 Min",
+        "url": "https://www.youtube-nocookie.com/embed/N0J_9oOEQzQ?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sectionName": "Mathematics QP's Discussion",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Number System 01",
+        "duration": "61 Min",
+        "url": "https://www.youtube-nocookie.com/embed/0IMJ3A-NdCQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Number System 02",
+        "duration": "152 Min",
+        "url": "https://www.youtube-nocookie.com/embed/u9H89tQPfZI?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Number System 03",
+        "duration": "83 Min",
+        "url": "https://www.youtube-nocookie.com/embed/4HXK0QjvVeU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "HCF & LCM 01 Part 1",
+        "duration": "91 Min",
+        "url": "https://www.youtube-nocookie.com/embed/mIkuymE3YkA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "HCF & LCM 01 Part 2",
+        "duration": "59 Min",
+        "url": "https://www.youtube-nocookie.com/embed/1lwlcVUgyFY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Decimal Fraction 01",
+        "duration": "91 Min",
+        "url": "https://www.youtube-nocookie.com/embed/DqtxlYFW3PQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Square & Cube Roots 01 Part 1",
+        "duration": "89 Min",
+        "url": "https://www.youtube-nocookie.com/embed/iKF2yihba-Y?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Square & Cube Roots 01 Part 2",
+        "duration": "89 Min",
+        "url": "https://www.youtube-nocookie.com/embed/ecbEhgc9hTI?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "Arithmetical Operations 01",
+        "duration": "88 Min",
+        "url": "https://www.youtube-nocookie.com/embed/BsY6XIkS6KY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Ratio & Proportion 01 Part 1",
+        "duration": "43 Min",
+        "url": "https://www.youtube-nocookie.com/embed/4ODEWQkITqw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Ratio & Proportion 01 Part 2",
+        "duration": "47 Min",
+        "url": "https://www.youtube-nocookie.com/embed/5qwiHRovkNg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Average 01 Part 1",
+        "duration": "93 Min",
+        "url": "https://www.youtube-nocookie.com/embed/eICf9FZ-qcw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "Average 01 Part 2",
+        "duration": "69 Min",
+        "url": "https://www.youtube-nocookie.com/embed/YVscET8HSRc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Percentage 01 Part 1",
+        "duration": "94 Min",
+        "url": "https://www.youtube-nocookie.com/embed/XaD2hjsQ3Zg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 15,
+        "title": "Percentage 01 Part 2",
+        "duration": "97 Min",
+        "url": "https://www.youtube-nocookie.com/embed/lc3HD43WMXs?rel=0&amp;loop=1"
+      },
+      {
+        "id": 16,
+        "title": "Profit Loss & Discount 01 Part 1",
+        "duration": "103 Min",
+        "url": "https://www.youtube-nocookie.com/embed/W_U0iYLDqhU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 17,
+        "title": "Profit Loss & Discount 01 Part 2",
+        "duration": "48 Min",
+        "url": "https://www.youtube-nocookie.com/embed/nAmUuiqH2eE?rel=0&amp;loop=1"
+      },
+      {
+        "id": 18,
+        "title": "Profit Loss & Discount 01 Part 3",
+        "duration": "49 Min",
+        "url": "https://www.youtube-nocookie.com/embed/pD_3GDZ1LwA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 19,
+        "title": "SI & CI 01 Part 1",
+        "duration": "84 Min",
+        "url": "https://www.youtube-nocookie.com/embed/UA3kLYV2tjg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 20,
+        "title": "SI & CI 01 Part 2",
+        "duration": "79 Min",
+        "url": "https://www.youtube-nocookie.com/embed/FfQ5V0oOq3E?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sectionName": "Computer Fundamentals",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Spotting Errors Part 1",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/MRWgGYS2sJA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Spotting Errors Part 2",
+        "duration": "15 Min",
+        "url": "https://www.youtube-nocookie.com/embed/HFd30oAkK-o?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Spotting Errors Part 3",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/mr-weUHdbIw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Spotting Errors Part 4",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/6uwyIp1ozJg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Spotting Errors Part 5",
+        "duration": "21 Min",
+        "url": "https://www.youtube-nocookie.com/embed/mSGUDXVsnqA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Spotting Errors Part 6",
+        "duration": "16 Min",
+        "url": "https://www.youtube-nocookie.com/embed/P2A-GdrcEQA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Spotting Errors Part 7",
+        "duration": "20 Min",
+        "url": "https://www.youtube-nocookie.com/embed/68gw31BTvVI?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Spellings",
+        "duration": "05 Min",
+        "url": "https://www.youtube-nocookie.com/embed/ihTxqOv6sec?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "One Word Substitution",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/KLErZ3xuna4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Synonyms and Antonyms",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/zJ2lK5UffCM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Sentence Completion(Fillers)",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/MQ4564OkhqQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Sentence Improvement",
+        "duration": "13 Min",
+        "url": "https://www.youtube-nocookie.com/embed/g9IJxUnwALs?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "Idioms & Phrase",
+        "duration": "16 Min",
+        "url": "https://www.youtube-nocookie.com/embed/qdmbMC7ZMeA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Cloze Test",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/weUufV_-fZY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 15,
+        "title": "Comprehension",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/HOiwilvIcsA?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sectionName": "GI & R",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Analogies & Similarities",
+        "duration": "13 Min",
+        "url": "https://www.youtube-nocookie.com/embed/KSMP0tvNekk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Coding and Decoding",
+        "duration": "26 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dCeS7BWENTY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Number Series",
+        "duration": "53 Min",
+        "url": "https://www.youtube-nocookie.com/embed/LrE8b9AqjjM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Alphabet Series",
+        "duration": "10 Min",
+        "url": "https://www.youtube-nocookie.com/embed/r40pQMjjVdw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Classification or Differences",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/rbZTauI0PNw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Word Formation",
+        "duration": "16 Min",
+        "url": "https://www.youtube-nocookie.com/embed/Jc0OLbWcRJg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Logical Sequence of Words",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/J-jsisBFHxI?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Spatial Orientation",
+        "duration": "23 Min",
+        "url": "https://www.youtube-nocookie.com/embed/3kh7NFUEZyU?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sectionName": "GK & GA",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Computer",
+        "duration": "57 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dm1Y6cDC3H0?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Biology Part 1",
+        "duration": "31 Min",
+        "url": "https://www.youtube-nocookie.com/embed/au5EoJMomaM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Geography Part 1",
+        "duration": "26 Min",
+        "url": "https://www.youtube-nocookie.com/embed/EuK5vYj5zgA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Geography Part 2",
+        "duration": "22 Min",
+        "url": "https://www.youtube-nocookie.com/embed/eccVK2IydYU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "History Part 1",
+        "duration": "19 Min",
+        "url": "https://www.youtube-nocookie.com/embed/rBoukztaIzA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Geography Part 3",
+        "duration": "27 Min",
+        "url": "https://www.youtube-nocookie.com/embed/StcMjbh-gjg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Chemistry",
+        "duration": "30 Min",
+        "url": "https://www.youtube-nocookie.com/embed/c5c4nYmFjiQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Biology Part 2",
+        "duration": "20 Min",
+        "url": "https://www.youtube-nocookie.com/embed/_uGaz5uNc8c?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "Geography Part 4",
+        "duration": "22 Min",
+        "url": "https://www.youtube-nocookie.com/embed/G3tMx604Qdc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Biology Part 3",
+        "duration": "30 Min",
+        "url": "https://www.youtube-nocookie.com/embed/VuSLkExcTF8?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "History Part 2",
+        "duration": "51 Min",
+        "url": "https://www.youtube-nocookie.com/embed/Pzi-r_dzpRA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "History Part 3",
+        "duration": "52 Min",
+        "url": "https://www.youtube-nocookie.com/embed/rjoDldJle4w?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "History Part 4",
+        "duration": "63 Min",
+        "url": "https://www.youtube-nocookie.com/embed/QvHHjNfzGwQ?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sectionName": "GK & GA QP's Discussion",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Chemistry Part 1",
+        "duration": "10 Min",
+        "url": "https://www.youtube-nocookie.com/embed/HcFlWB2f0yo?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Chemistry Part 2",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/XGilvu2NG8o?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Chemistry Part 3",
+        "duration": "12 Min",
+        "url": "https://www.youtube-nocookie.com/embed/qarEX13NduE?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Chemistry Part 4",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/i7HPBrBr0qk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Chemistry Part 5",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/eRGbQ1PLvmA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Physics Part 1",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/DSvNj4CLLPA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Physics Part 2",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/ChaadnB2Ro4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Physics Part 3",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/sy36z2anD8I?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "Physics Part 4",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/K66qo5epM5g?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Physics Part 5",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/9c5Oyur1hSM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Physics Part 6",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/eu1ugIENMgk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Physics Part 7",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dP_zboMCyV0?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "History Part 1",
+        "duration": "06 Min",
+        "url": "https://www.youtube-nocookie.com/embed/57r_fu_8-do?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Politics Part 1",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/Gp1DPoCYquc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 15,
+        "title": "Geography Part 1",
+        "duration": "05 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7X60K8qBoC4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 16,
+        "title": "Economics Part 1",
+        "duration": "07 Min",
+        "url": "https://www.youtube-nocookie.com/embed/S5CRodaMUoM?rel=0&amp;loop=1"
+      }    
+    ]
+  },
+  {
+    "id": 7,
+    "sectionName": "Practice QP's Discussion",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Practice Set 01",
+        "duration": "128 Min",
+        "url": "https://www.youtube-nocookie.com/embed/I95maTFQe1E?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Practice Set 02 Reasoning",
+        "duration": "36 Min",
+        "url": "https://www.youtube-nocookie.com/embed/BEWa_zMMKCs?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Practice Set 02 GK & GA",
+        "duration": "09 Min",
+        "url": "https://www.youtube-nocookie.com/embed/b8_hpHnK1so?rel=0&amp;loop=1"
+      }
+    ]
+  }
+]
+
