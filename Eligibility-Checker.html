@@ -72,7 +72,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7 col-sm-12">
                     <p class="mb-0">
-                        © Join Indian Forces 2023 All rights reserved.
+                        © Join Indian Forces <script>document.write(new Date().getFullYear())</script> All rights reserved.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-5 col-sm-12 text-right">
@@ -94,10 +94,10 @@
             var c = document.getElementById("post").value;
             var dob_asdate = new Date(a);
             if (c == "sscgd") {
-                var min_age = new Date(1998, 07, 02);
-                var max_age = new Date(2003, 07, 01);
-                var min_age_obc = new Date(1995, 07, 02);
-                var min_age_sc_st = new Date(1993, 07, 02);
+                var min_age = new Date(1998, 0o7, 0o2);
+                var max_age = new Date(2003, 0o7, 0o1);
+                var min_age_obc = new Date(1995, 0o7, 0o2);
+                var min_age_sc_st = new Date(1993, 0o7, 0o2);
                 if (b == "General") {
                     if (dob_asdate >= min_age && dob_asdate <= max_age) {
                         alert("You are Eligible! 😃");
@@ -119,23 +119,23 @@
                 }
             } else if (c == "agniveervayu") {
                 var min_age = new Date(1999, 11, 29);
-                var max_age = new Date(2005, 05, 30);
+                var max_age = new Date(2005, 0o5, 30);
                 if (dob_asdate >= min_age && dob_asdate <= max_age) {
                     alert("You are Eligible! 😃");
                 } else {
                     alert("You are Not Eligible! ☹️");
                 }
             } else if (c == "agniveerarmy") {
-                var min_age = new Date(1999, 09, 01);
-                var max_age = new Date(2005, 03, 02);
+                var min_age = new Date(1999, 0o7, 0o1);
+                var max_age = new Date(2005, 0o3, 0o2);
                 if ((dob_asdate >= min_age) && (dob_asdate <= max_age)) {
                     alert("You are Eligible! 😃");
                 } else {
                     alert("You are Not Eligible! ☹️");
                 }
             } else if (c == "agniveernavy") {
-                var min_age = new Date(1999, 10, 01);
-                var max_age = new Date(2005, 04, 01);
+                var min_age = new Date(1999, 10, 0o1);
+                var max_age = new Date(2005, 0o4, 0o1);
                 if (dob_asdate >= min_age && dob_asdate <= max_age) {
                     alert("You are Eligible! 😃");
                 } else {
