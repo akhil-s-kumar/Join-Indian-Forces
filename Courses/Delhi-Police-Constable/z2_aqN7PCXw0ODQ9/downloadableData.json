@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "sectionName": "Elementary Mathematics",
+    "sectionName": "Numerical Ability",
     "fileName": [
       {
         "id": 1,
@@ -85,7 +85,7 @@
   },
   {
     "id": 2,
-    "sectionName": "Elementary Mathematics QP's",
+    "sectionName": "Numerical Ability QP's",
     "fileName": [
       {
         "id": 1,
@@ -187,108 +187,7 @@
   },
   {
     "id": 3,
-    "sectionName": "English",
-    "fileName": [
-      {
-        "id": 1,
-        "title": "Spotting Errors Part 1",
-        "pages": "04 Pages",
-        "url": "https://drive.google.com/file/d/1vCpBOkNvrYTIOW7GH9WW9hqcTRtxMET-/view?usp=sharing"
-      },
-      {
-        "id": 2,
-        "title": "Spotting Errors Part 2",
-        "pages": "04 Pages",
-        "url": "https://drive.google.com/file/d/1cBk-PJVwu9dQsLNuzF0-yNXSw3JT7jaE/view?usp=sharing"
-      },
-      {
-        "id": 3,
-        "title": "Spotting Errors Part 3",
-        "pages": "03 Pages",
-        "url": "https://drive.google.com/file/d/1RBUcKnIylU5BN16lhTqzRbBaIwgIRfyV/view?usp=sharing"
-      },
-      {
-        "id": 4,
-        "title": "Spotting Errors Part 4",
-        "pages": "04 Pages",
-        "url": "https://drive.google.com/file/d/1kZUX_mKGHd9n75jTmTEPXdqbDbpMYVvM/view?usp=sharing"
-      },
-      {
-        "id": 5,
-        "title": "Spotting Errors Part 5",
-        "pages": "04 Pages",
-        "url": "https://drive.google.com/file/d/1T0wQFGN91NoCVOKAz2Ti3QEr_ZvqDrKM/view?usp=sharing"
-      },
-      {
-        "id": 6,
-        "title": "Spotting Errors Part 6",
-        "pages": "06 Pages",
-        "url": "https://drive.google.com/file/d/1VgPhhoepCVmth1gM4pK126qs3FPTrq5y/view?usp=sharing"
-      },
-      {
-        "id": 7,
-        "title": "Spotting Errors Part 7",
-        "pages": "06 Pages",
-        "url": "https://drive.google.com/file/d/1kf6xgTnRvHaOeNI5QggdFTTH6rvzsd2a/view?usp=sharing"
-      },
-      {
-        "id": 8,
-        "title": "Spellings",
-        "pages": "04 Pages",
-        "url": "https://drive.google.com/file/d/1dnSVq6idfEq4b1njqOByURTktNQCBG3X/view?usp=sharing"
-      },
-      {
-        "id": 9,
-        "title": "One Word Substitution",
-        "pages": "04 Pages",
-        "url": "https://drive.google.com/file/d/1bfGKb44rWtLgD4RCMi8l2FMFbkhtgdBT/view?usp=sharing"
-      },
-      {
-        "id": 10,
-        "title": "Synonyms and Antonyms",
-        "pages": "05 Pages",
-        "url": "https://drive.google.com/file/d/1mTrxyI4EXJud_0R4flcI5fHwa7rvzqT0/view?usp=sharing"
-      },
-      {
-        "id": 11,
-        "title": "Sentence Completion(Fillers)",
-        "pages": "05 Pages",
-        "url": "https://drive.google.com/file/d/1SLKmJUVc3JESy345v52SFA2-tOL2WDTm/view?usp=sharing"
-      },
-      {
-        "id": 12,
-        "title": "Sentence Improvement",
-        "pages": "07 Pages",
-        "url": "https://drive.google.com/file/d/144ADxajJQnb45UHibebmbon9n2jGowfR/view?usp=sharing"
-      },
-      {
-        "id": 13,
-        "title": "Idioms & Phrase",
-        "pages": "08 Pages",
-        "url": "https://drive.google.com/file/d/1mzitkFy0NrJ58mEHkYBo7Y8tg_0zMN0e/view?usp=sharing"
-      },
-      {
-        "id": 14,
-        "title": "Cloze Test",
-        "pages": "03 Pages",
-        "url": "https://drive.google.com/file/d/1ItEFDbJVXI-OHx4kDYSr1e5oaD6OAwF9/view?usp=sharing"
-      },
-      {
-        "id": 15,
-        "title": "Comprehension",
-        "pages": "03 Pages",
-        "url": "https://drive.google.com/file/d/1-ZQeCf3Cn8njOWNht5ys8ioEQMcYLCfd/view?usp=sharing"
-      }
-    ]
-  },
-  {
-    "id": 4,
-    "sectionName": "English QP's",
-    "fileName": []
-  },
-  {
-    "id": 5,
-    "sectionName": "GI & R",
+    "sectionName": "Reasoning",
     "fileName": [
       {
         "id": 1,
@@ -341,145 +240,146 @@
     ]
   },
   {
-    "id": 6,
-    "sectionName": "GI & R QP's",
-    "fileName": []
-  },
-  {
-    "id": 7,
-    "sectionName": "GK & GA",
-    "fileName": [
-      {
-        "id": 1,
-        "title": "Computer",
-        "pages": "10 Pages",
-        "url": "https://drive.google.com/file/d/17msiQvGRIrGhb8pmWqEYzujt7jvKMMhy/view?usp=sharing"
-      },
-      {
-        "id": 2,
-        "title": "Biology Part 1",
-        "pages": "09 Pages",
-        "url": "https://drive.google.com/file/d/11RzLgSKXaRL7l1mKyKYUxuq7oUMyqR0q/view?usp=sharing"
-      },
-      {
-        "id": 3,
-        "title": "Geography Part 1",
-        "pages": "24 Pages",
-        "url": "https://drive.google.com/file/d/1gtzLyseOPYKspaQZttYQCPJv9Lwe7OE6/view?usp=sharing"
-      },
-      {
-        "id": 4,
-        "title": "Geography Part 2",
-        "pages": "27 Pages",
-        "url": "https://drive.google.com/file/d/1OnUVOGuMUFPqgxY-gj9ad1OqLwMDLi7b/view?usp=sharing"
-      },
-      {
-        "id": 5,
-        "title": "Geography Part 3",
-        "pages": "23 Pages",
-        "url": "https://drive.google.com/file/d/1_In11CTzPYMR6psu9s6O2c2PSBAZUGM2/view?usp=sharing"
-      },
-      {
-        "id": 6,
-        "title": "Chemistry",
-        "pages": "19 Pages",
-        "url": "https://drive.google.com/file/d/1hdnzHSkIQQOolNXDd9y0YXz3FNOkOyFB/view?usp=sharing"
-      },
-      {
-        "id": 7,
-        "title": "History Part 1",
-        "pages": "23 Pages",
-        "url": "https://drive.google.com/file/d/19xUJtLTZ3yJxRSm-wHuWVQB32k1iNYMI/view?usp=sharing"
-      },
-      {
-        "id": 8,
-        "title": "Geography Part 4",
-        "pages": "19 Pages",
-        "url": "https://drive.google.com/file/d/1vgR5WBPMrxJOWPcVWAngXSnXlSzKFC1V/view?usp=sharing"
-      },
-      {
-        "id": 9,
-        "title": "Biology Part 2",
-        "pages": "13 Pages",
-        "url": "https://drive.google.com/file/d/1MCcoWsZi8rXpnHfeXlbk5X_zmOibTx9a/view?usp=sharing"
-      },
-      {
-        "id": 10,
-        "title": "Biology Part 3",
-        "pages": "15 Pages",
-        "url": "https://drive.google.com/file/d/1hGSyQKBqyPH8l0BS3MEUYi4FZLItQ_0O/view?usp=sharing"
-      },
-      {
-        "id": 11,
-        "title": "History Part 2",
-        "pages": "40 Pages",
-        "url": "https://drive.google.com/file/d/1peXrvCRPzQkzCdCRk47WW1zxxcTZ4CHq/view?usp=sharing"
-      },
-      {
-        "id": 12,
-        "title": "History Part 3",
-        "pages": "32 Pages",
-        "url": "https://drive.google.com/file/d/1MwP5z3-JVURZppGq9PPb-NcgbAgPXRc9/view?usp=sharing"
-      },
-      {
-        "id": 12,
-        "title": "History Part 4",
-        "pages": "55 Pages",
-        "url": "https://drive.google.com/file/d/1H8o0uZh7ALzA3b5t1oTyEVpol7YsS5hZ/view?usp=sharing"
-      }
-    ]
-  },
-  {
-    "id": 8,
-    "sectionName": "GK & GA QP's",
-    "fileName": [
-      {
-        "id": 1,
-        "title": "Computer 01",
-        "pages": "10 Pages",
-        "url": "https://drive.google.com/file/d/17msiQvGRIrGhb8pmWqEYzujt7jvKMMhy/view?usp=sharing"
-      },
-      {
-        "id": 2,
-        "title": "Chemistry 01",
-        "pages": "12 Pages",
-        "url": "https://drive.google.com/file/d/1BeEjpQDfrRL2jQzuGCbo6LTKmuP6ZDiC/view?usp=sharing"
-      },
-      {
-        "id": 3,
-        "title": "Biology 01",
-        "pages": "07 Pages",
-        "url": "https://drive.google.com/file/d/1J7AgyJ6uMdXjtqYk3hetn3nQOOJ9YNhM/view?usp=sharing"
-      },
-      {
-        "id": 4,
-        "title": "Biology 02",
-        "pages": "05 Pages",
-        "url": "https://drive.google.com/file/d/1tPW_3goYIWhK6NOCItv7Yc8DnUcsK18y/view?usp=sharing"
-      },
-      {
-        "id": 5,
-        "title": "Biology 03",
-        "pages": "05 Pages",
-        "url": "https://drive.google.com/file/d/1AG_t2Ak7LbFBG7EMxztRRUJqxQaObZru/view?usp=sharing"
-      }
-    ]
-  },
-  {
-    "id": 9,
-    "sectionName": "Practice Sets QP's",
+    "id": 4,
+    "sectionName": "Previous Years QP's",
     "fileName": [
       {
         "id": 1,
         "title": "Practice Set 01",
-        "pages": "17 Pages",
-        "url": "https://drive.google.com/file/d/1A3IwoyTXj375vtONDisYe6Ggz_L6-KF_/view?usp=sharing"
+        "pages": "33 Pages",
+        "url": "https://drive.google.com/file/d/1f0LjIizLUuExNqqO8ntzOS9yLqC-i0n7/view?usp=sharing"
       },
       {
         "id": 2,
         "title": "Practice Set 02",
-        "pages": "17 Pages",
-        "url": "https://drive.google.com/file/d/1x1Wdx0opj0rWE1ht8dQEQ60kpieIXQZy/view?usp=sharing"
+        "pages": "32 Pages",
+        "url": "https://drive.google.com/file/d/1ii9QvBU2kXjkiaBLIfJchFvLdD-yE-ho/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "title": "Practice Set 03",
+        "pages": "32 Pages",
+        "url": "https://drive.google.com/file/d/17kvNbBeAp7R3VDROxl38Atk6h6wNiIPb/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "title": "Practice Set 04",
+        "pages": "30 Pages",
+        "url": "https://drive.google.com/file/d/18w-B27zahGHGoqkVbBUgpXDvKUv4UITo/view?usp=sharing"
+      },
+      {
+        "id": 5,
+        "title": "Practice Set 05",
+        "pages": "31 Pages",
+        "url": "https://drive.google.com/file/d/1vIdSAMWI3kEgMuYM4EakvAm72NiLt3Bu/view?usp=sharing"
+      },
+      {
+        "id": 6,
+        "title": "Practice Set 06",
+        "pages": "32 Pages",
+        "url": "https://drive.google.com/file/d/1ZUFqrwxunxeAY1steyI6yFq5GKMwzFB9/view?usp=sharing"
+      },
+      {
+        "id": 7,
+        "title": "Practice Set 07",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1-wPDDgEvuz89CW1VB3PwjgvEvnZRnUdx/view?usp=sharing"
+      },
+      {
+        "id": 8,
+        "title": "Practice Set 08",
+        "pages": "34 Pages",
+        "url": "https://drive.google.com/file/d/1fcYauPnfC2TxlGoUE1y_6cKganZh5JN8/view?usp=sharing"
+      },
+      {
+        "id": 9,
+        "title": "Practice Set 09",
+        "pages": "36 Pages",
+        "url": "https://drive.google.com/file/d/1QS9x0yO9emAPCjfsM9AISFdMGKRW_-JU/view?usp=sharing"
+      },
+      {
+        "id": 10,
+        "title": "Practice Set 10",
+        "pages": "33 Pages",
+        "url": "https://drive.google.com/file/d/1I65Z6CUfBq_sel_FWlDsFT0NcW3GMljm/view?usp=sharing"
+      },
+      {
+        "id": 11,
+        "title": "Practice Set 11",
+        "pages": "36 Pages",
+        "url": "https://drive.google.com/file/d/1BRjwQjN9qSJ8sUnx0Yvcn6bGXJnTg0rj/view?usp=sharing"
+      },
+      {
+        "id": 12,
+        "title": "Practice Set 12",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1gvlEaO9jzLg9ZKqOdRVeBNXcWKm8LTyj/view?usp=sharing"
+      },
+      {
+        "id": 13,
+        "title": "Practice Set 13",
+        "pages": "33 Pages",
+        "url": "https://drive.google.com/file/d/1NT1vvQfvUVAqtHlsKqgO24fu1Kmkn3ta/view?usp=sharing"
+      },
+      {
+        "id": 14,
+        "title": "Practice Set 14",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/16X-h_aQ2cMHsiVI-MsOwDq8_DdgWA9_4/view?usp=sharing"
+      },
+      {
+        "id": 15,
+        "title": "Practice Set 15",
+        "pages": "34 Pages",
+        "url": "https://drive.google.com/file/d/1ro1HIm-6uTlHqPSARhFh3hTSZDtRrgNj/view?usp=sharing"
+      },
+      {
+        "id": 16,
+        "title": "Practice Set 16",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1ekefvKuu9sZGBBJgiagHFnFSojyRGW4G/view?usp=sharing"
+      },
+      {
+        "id": 17,
+        "title": "Practice Set 17",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/19BqTHVSsJLkAk8PjOB7LkvkyB5-zTXQ-/view?usp=sharing"
+      },
+      {
+        "id": 18,
+        "title": "Practice Set 18",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1Ayrx3CIKU8Z44q0Y5HAEAobIZFA4RyMu/view?usp=sharing"
+      },
+      {
+        "id": 19,
+        "title": "Practice Set 19",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1CngpJEbB4vSAt_bHVbmeH0-FqY6GStKA/view?usp=sharing"
+      },
+      {
+        "id": 20,
+        "title": "Practice Set 20",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1UCUDQK676mEAahmV8eB54FEmOUO9vLuf/view?usp=sharing"
+      },
+      {
+        "id": 21,
+        "title": "Practice Set 21",
+        "pages": "35 Pages",
+        "url": "https://drive.google.com/file/d/1uNFdfZJ-QY62T1aXb-tisCmmaaoYm1w_/view?usp=sharing"
+      },
+      {
+        "id": 22,
+        "title": "Practice Set 22",
+        "pages": "34 Pages",
+        "url": "https://drive.google.com/file/d/1idGDAaFjG4EAFMeiWSmqqbtBhC94eCkO/view?usp=sharing"
+      },
+      {
+        "id": 23,
+        "title": "Practice Set 23",
+        "pages": "32 Pages",
+        "url": "https://drive.google.com/file/d/1IrtpEipMV7W-ReoYIRipAlAQJ80i9nGt/view?usp=sharing"
       }
     ]
   }

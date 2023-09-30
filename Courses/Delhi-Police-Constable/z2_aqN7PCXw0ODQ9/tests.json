@@ -1,0 +1,135 @@
+[
+  {
+    "id": 1,
+    "TitleName": "Delhi Police Mock Test 1",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime":90,
+    "difL": "Moderate",
+    "markingDetails": "There will be 0.25 negative marking",
+    "examStart" : "nov 03, 2023 21:00:00",
+    "examEnd" : "nov 03, 2023 22:32:00",
+    "questions":[
+      {
+        "question":"Simplify \\([1-2(3-4)^{-1}]^{-1}\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(1 \\over 4\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(1 \\over 3\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(1 \\over 2\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(1 \\over 6\\)"
+          }
+        ],
+        "answer":2,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"Ram went to a market and bought one copy of a Mathematics book and two pencils for Rs 165. Rahim went to the same market and bought another copy of the same book and ten pencils of the same brand for Rs169. The price of each pencil was",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs. 0.50"
+          },
+          {
+            "id":2,
+            "option":"Rs. 1"
+          },
+          {
+            "id":3,
+            "option":"Rs. 0.75"
+          },
+          {
+            "id":4,
+            "option":"Rs. 2"
+          }
+        ],
+        "answer":1,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"Find the value of (6 x 4) ÷ 12 + 72 ÷ 8 – 9",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"5"
+          },
+          {
+            "id":3,
+            "option":"2"
+          },
+          {
+            "id":4,
+            "option":"1"
+          }
+        ],
+        "answer":3,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"Find 36 – 6 + 3 × 5 ÷ 3",
+        "option":[
+          {
+            "id":1,
+            "option":"32"
+          },
+          {
+            "id":2,
+            "option":"84"
+          },
+          {
+            "id":3,
+            "option":"74"
+          },
+          {
+            "id":4,
+            "option":"71"
+          }
+        ],
+        "answer":3,
+        "maxM": 3,
+        "negM": 0
+      },
+      {
+        "question":"\\((4×3÷6+1)×3^2\\)",
+        "option":[
+          {
+            "id":1,
+            "option":"27"
+          },
+          {
+            "id":2,
+            "option":"29"
+          },
+          {
+            "id":3,
+            "option":"18"
+          },
+          {
+            "id":4,
+            "option":"25"
+          }
+        ],
+        "answer":1,
+        "maxM": 3,
+        "negM": 0
+      }
+    ]
+  }
+]

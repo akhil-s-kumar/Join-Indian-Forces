@@ -1,0 +1,147 @@
+[
+  {
+    "id": 1,
+    "sectionName": "Numerical Ability",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Number System",
+        "duration": "52 Min",
+        "url": "https://www.youtube-nocookie.com/embed/-WvuAM21UUA?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "HCF & LCM",
+        "duration": "28 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7mSHNGtUs_Y?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Decimal Fractions",
+        "duration": "42 Min",
+        "url": "https://www.youtube-nocookie.com/embed/GLwxrvbroTU?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Square & Cube Roots",
+        "duration": "46 Min",
+        "url": "https://www.youtube-nocookie.com/embed/bWgkCOBI_Hc?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Arithmetical Operations",
+        "duration": "58 Min",
+        "url": "https://www.youtube-nocookie.com/embed/_g6TXciLq3I?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Ratio And Proportion",
+        "duration": "39 Min",
+        "url": "https://www.youtube-nocookie.com/embed/teGcK6zgY9E?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Average",
+        "duration": "28 Min",
+        "url": "https://www.youtube-nocookie.com/embed/jReA5Nrir34?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Percentage",
+        "duration": "32 Min",
+        "url": "https://www.youtube-nocookie.com/embed/1pfpaczpvB8?rel=0&amp;loop=1"
+      },
+      {
+        "id": 9,
+        "title": "Profit Loss and Discount",
+        "duration": "41 Min",
+        "url": "https://www.youtube-nocookie.com/embed/q5vb5l3CVHk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 10,
+        "title": "Simple & Compound Interest",
+        "duration": "36 Min",
+        "url": "https://www.youtube-nocookie.com/embed/KSMxvxKZ1p4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 11,
+        "title": "Time & Work",
+        "duration": "47 Min",
+        "url": "https://www.youtube-nocookie.com/embed/hKTxCvv1yfs?rel=0&amp;loop=1"
+      },
+      {
+        "id": 12,
+        "title": "Time Speed & Distance",
+        "duration": "38 Min",
+        "url": "https://www.youtube-nocookie.com/embed/pHgI_D_U--s?rel=0&amp;loop=1"
+      },
+      {
+        "id": 13,
+        "title": "Mensuration",
+        "duration": "41 Min",
+        "url": "https://www.youtube-nocookie.com/embed/7K_Bn09RhrQ?rel=0&amp;loop=1"
+      },
+      {
+        "id": 14,
+        "title": "Data Interpretation",
+        "duration": "26 Min",
+        "url": "https://www.youtube-nocookie.com/embed/N0J_9oOEQzQ?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sectionName": "Reasoning",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Analogies & Similarities",
+        "duration": "13 Min",
+        "url": "https://www.youtube-nocookie.com/embed/KSMP0tvNekk?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Coding and Decoding",
+        "duration": "26 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dCeS7BWENTY?rel=0&amp;loop=1"
+      },
+      {
+        "id": 3,
+        "title": "Number Series",
+        "duration": "53 Min",
+        "url": "https://www.youtube-nocookie.com/embed/LrE8b9AqjjM?rel=0&amp;loop=1"
+      },
+      {
+        "id": 4,
+        "title": "Alphabet Series",
+        "duration": "10 Min",
+        "url": "https://www.youtube-nocookie.com/embed/r40pQMjjVdw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 5,
+        "title": "Classification or Differences",
+        "duration": "11 Min",
+        "url": "https://www.youtube-nocookie.com/embed/rbZTauI0PNw?rel=0&amp;loop=1"
+      },
+      {
+        "id": 6,
+        "title": "Word Formation",
+        "duration": "16 Min",
+        "url": "https://www.youtube-nocookie.com/embed/Jc0OLbWcRJg?rel=0&amp;loop=1"
+      },
+      {
+        "id": 7,
+        "title": "Logical Sequence of Words",
+        "duration": "08 Min",
+        "url": "https://www.youtube-nocookie.com/embed/J-jsisBFHxI?rel=0&amp;loop=1"
+      },
+      {
+        "id": 8,
+        "title": "Spatial Orientation",
+        "duration": "23 Min",
+        "url": "https://www.youtube-nocookie.com/embed/3kh7NFUEZyU?rel=0&amp;loop=1"
+      }
+    ]
+  }   
+]
+

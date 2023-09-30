@@ -1,0 +1,30 @@
+[
+    {
+        "Id": "1",
+        "FirstName": "Akhil",
+        "LastName": "S Kumar",
+        "RollNumber": "94001291200",
+        "isActive": "true"
+    },
+    {
+        "Id": "2",
+        "FirstName": "Aswathy",
+        "LastName": "r",
+        "RollNumber": "79946110399",
+        "isActive": "true"
+    },
+    {
+        "Id": "3",
+        "FirstName": "VIKNESH",
+        "LastName": "MOHANAN",
+        "RollNumber": "75938160798",
+        "isActive": "true"
+    }
+    ,{
+        "Id": "4",
+        "FirstName": "Praveena",
+        "LastName": "p",
+        "RollNumber": "81578070101",
+        "isActive": "true"
+    }
+]
