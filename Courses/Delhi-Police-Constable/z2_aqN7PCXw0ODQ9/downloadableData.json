@@ -241,6 +241,72 @@
   },
   {
     "id": 4,
+    "sectionName": "General Knowledge",
+    "fileName": [
+      {
+        "id": 1,
+        "title": "Awards & Honours",
+        "pages": "09 Pages",
+        "url": "https://drive.google.com/file/d/1AX5HSJo3UcckkBCPhM5mSRD2V96Xj3SJ/view?usp=sharing"
+      },
+      {
+        "id": 2,
+        "title": "Famous Books and their Authors",
+        "pages": "07 Pages",
+        "url": "https://drive.google.com/file/d/1C6_h5GI1RhFh28PmxSh_lptjXwQ-8l-u/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "title": "Famous Personalities & Nicknames",
+        "pages": "04 Pages",
+        "url": "https://drive.google.com/file/d/1n70f47afkWINDYmk0MU8szZkuG8anBzY/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "title": "Important Days",
+        "pages": "10 Pages",
+        "url": "https://drive.google.com/file/d/1u4VhfTxJDt-GKpk_3HQOYdZZrjdAV5Qr/view?usp=sharing"
+      },
+      {
+        "id": 5,
+        "title": "Indian States & Capitals",
+        "pages": "03 Pages",
+        "url": "https://drive.google.com/file/d/1YPsle2-e8YeSax_os6S5p2BcWH4EzpqI/view?usp=sharing"
+      },
+      {
+        "id": 6,
+        "title": "International Organizations",
+        "pages": "12 Pages",
+        "url": "https://drive.google.com/file/d/1ZQvMKSsPnjx3DLB5N5H4_JqZxguSp8EV/view?usp=sharing"
+      },
+      {
+        "id": 7,
+        "title": "Inventions & Discoveries",
+        "pages": "07 Pages",
+        "url": "https://drive.google.com/file/d/1aC6uBlskA-NpA88vDkU2qpR3i8PI5EDw/view?usp=sharing"
+      },
+      {
+        "id": 8,
+        "title": "Famous Places In India",
+        "pages": "04 Pages",
+        "url": "https://drive.google.com/file/d/16lpDwmm5fkJRjpGsS_ejslW7tRfCAtUY/view?usp=sharing"
+      },
+      {
+        "id": 9,
+        "title": "Famous Sites In India",
+        "pages": "04 Pages",
+        "url": "https://drive.google.com/file/d/1U0oWJh0OhpKWtxC5n0x19Xm13z1IxcEo/view?usp=sharing"
+      },
+      {
+        "id": 10,
+        "title": "Sports Terminologies & Trophies",
+        "pages": "05 Pages",
+        "url": "https://drive.google.com/file/d/1_5mAxiuzE8xuJDeZcNJqNKQnUy1zvnQL/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 5,
     "sectionName": "Previous Years QP's",
     "fileName": [
       {
