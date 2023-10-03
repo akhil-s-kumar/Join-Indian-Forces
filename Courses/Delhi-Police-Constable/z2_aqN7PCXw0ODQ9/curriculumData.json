@@ -142,6 +142,36 @@
         "url": "https://www.youtube-nocookie.com/embed/3kh7NFUEZyU?rel=0&amp;loop=1"
       }
     ]
+  },
+  {
+    "id": 3,
+    "sectionName": "Computer Fundamentals",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Computer Basic Overview",
+        "duration": "56 Min",
+        "url": "https://www.youtube-nocookie.com/embed/dm1Y6cDC3H0?rel=0&amp;loop=1"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sectionName": "QP Live Discussion",
+    "lessonName": [
+      {
+        "id": 1,
+        "title": "Set 01 Part 1",
+        "duration": "77 Min",
+        "url": "https://www.youtube-nocookie.com/embed/a3et6U-eEE4?rel=0&amp;loop=1"
+      },
+      {
+        "id": 2,
+        "title": "Set 01 Part 2",
+        "duration": "66 Min",
+        "url": "https://www.youtube-nocookie.com/embed/1j_k3oehRUo?rel=0&amp;loop=1"
+      }
+    ]
   }   
 ]
 

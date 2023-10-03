@@ -367,6 +367,54 @@
   },
   {
     "id": 6,
+    "sectionName": "Computer Fundamentals",
+    "fileName": [
+      {
+        "id": 1,
+        "title": "Fundamentals",
+        "pages": "10 Pages",
+        "url": "https://drive.google.com/file/d/1GFg0WOLU8YSdHcZgojj-42qez6xzzLT9/view?usp=sharing"
+      },
+      {
+        "id": 2,
+        "title": "Microsoft Excel",
+        "pages": "45 Pages",
+        "url": "https://drive.google.com/file/d/1b4M01FYYFDQ76-UV0_zSm-o-yw9Gdai_/view?usp=sharing"
+      },
+      {
+        "id": 3,
+        "title": "Shortcut Keys",
+        "pages": "08 Pages",
+        "url": "https://drive.google.com/file/d/1YcEl5ZbcVqcnjDOwJNmP2z3ZvdDqDuoA/view?usp=sharing"
+      },
+      {
+        "id": 4,
+        "title": "Computer Languages",
+        "pages": "03 Pages",
+        "url": "https://drive.google.com/file/d/1zkw1JIdbE-w458HAh_YL-UGQ5T5ycy-9/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sectionName": "Computer Fundamentals QP's",
+    "fileName": [
+      {
+        "id": 1,
+        "title": "Fundamentals 01",
+        "pages": "10 Pages",
+        "url": "https://drive.google.com/file/d/17msiQvGRIrGhb8pmWqEYzujt7jvKMMhy/view?usp=sharing"
+      },
+      {
+        "id": 2,
+        "title": "Fundamentals 02",
+        "pages": "23 Pages",
+        "url": "https://drive.google.com/file/d/1EztvGOXfN52V6fEdMHUGBIWiRXup4dC8/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 8,
     "sectionName": "Previous Years QP's",
     "fileName": [
       {
