@@ -241,6 +241,18 @@
   },
   {
     "id": 4,
+    "sectionName": "Reasoning QP's",
+    "fileName": [
+      {
+        "id": 1,
+        "title": "Analogies & Similarities",
+        "pages": "38 Pages",
+        "url": "https://drive.google.com/file/d/1x5bNiznSouGLTRxJ-UFvD48PX5_d6k1z/view?usp=sharing"
+      }
+    ]
+  },
+  {
+    "id": 5,
     "sectionName": "General Knowledge",
     "fileName": [
       {
@@ -360,7 +372,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 6,
     "sectionName": "General Knowledge QP's",
     "fileName": [
       {
@@ -372,7 +384,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 7,
     "sectionName": "Computer Fundamentals",
     "fileName": [
       {
@@ -402,7 +414,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 8,
     "sectionName": "Computer Fundamentals QP's",
     "fileName": [
       {
@@ -420,7 +432,7 @@
     ]
   },
   {
-    "id": 8,
+    "id": 9,
     "sectionName": "Previous Years QP's",
     "fileName": [
       {
