@@ -7,8 +7,8 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Oct 29, 2023 21:00:00",
-    "examEnd" : "Nov 03, 2023 22:33:00",
+    "examStart" : "Nov 04, 2023 21:00:00",
+    "examEnd" : "Nov 04, 2023 22:33:00",
     "questions":[
       {
         "question":"Veteran journalist and TV anchor Karan Thapar is the author of which of the following books?",
@@ -1807,6 +1807,54 @@
           }
         ],
         "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In Windows operating system it is a window that is used to display text or to receive text from you. The type of text it displays or the type of text you are asked to provide depends on the application or the situation.",
+        "option":[
+          {
+            "id":1,
+            "option":"Text Boxes"
+          },
+          {
+            "id":2,
+            "option":"Command Buttons"
+          },
+          {
+            "id":3,
+            "option":"Control’s Focus"
+          },
+          {
+            "id":4,
+            "option":"Dialog Boxes"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In Windows operating system it is a window that is used to display text or to receive text from you. The type of text it displays or the type of text you are asked to provide depends on the application or the situation.",
+        "option":[
+          {
+            "id":1,
+            "option":"Text Boxes"
+          },
+          {
+            "id":2,
+            "option":"Command Buttons"
+          },
+          {
+            "id":3,
+            "option":"Control’s Focus"
+          },
+          {
+            "id":4,
+            "option":"Dialog Boxes"
+          }
+        ],
+        "answer":1,
         "maxM": 1,
         "negM": 0.25
       }
