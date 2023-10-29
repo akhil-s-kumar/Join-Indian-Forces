@@ -2055,22 +2055,46 @@
         "option":[
           {
             "id":1,
-            "option":"\\(894 m \\over 2\\)"
+            "option":"\\(894 m^2\\)"
           },
           {
             "id":2,
-            "option":"\\(864 m \\over 2\\)"
+            "option":"\\(864 m^2\\)"
           },
           {
             "id":3,
-            "option":"\\(926 m \\over 2\\)"
+            "option":"\\(926 m^2\\)"
           },
           {
             "id":4,
-            "option":"\\(1024 m \\over 2\\)"
+            "option":"\\(1024 m^2\\)"
           }
         ],
         "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The diameter of a metallic sphere is 6 cm. It is melted and recasted into a wire of radius 0.1 cm. Find the length of the wire (in meters).",
+        "option":[
+          {
+            "id":1,
+            "option":"3600 m"
+          },
+          {
+            "id":2,
+            "option":"360 cm"
+          },
+          {
+            "id":3,
+            "option":"36 cm"
+          },
+          {
+            "id":4,
+            "option":"36 m"
+          }
+        ],
+        "answer":4,
         "maxM": 1,
         "negM": 0.25
       }
