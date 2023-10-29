@@ -2097,7 +2097,375 @@
         "answer":4,
         "maxM": 1,
         "negM": 0.25
+      },
+      {
+        "question":"56.25% and 62.5% are changed into fractions. Find the L.C.M of both fractions.",
+        "option":[
+          {
+            "id":1,
+            "option":"40/16"
+          },
+          {
+            "id":2,
+            "option":"45/16"
+          },
+          {
+            "id":3,
+            "option":"27/8"
+          },
+          {
+            "id":4,
+            "option":"45/8"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In an examination, passing marks are 47.5% of maximum marks. A student Pulkit got failed by 45 marks and another student Tushar got 232 marks and passed the exam by 42 marks. How much percentage of maximum marks did Pulkit get?",
+        "option":[
+          {
+            "id":1,
+            "option":"37.5%"
+          },
+          {
+            "id":2,
+            "option":"36.25%"
+          },
+          {
+            "id":3,
+            "option":"32.25%"
+          },
+          {
+            "id":4,
+            "option":"35.5%"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Successive discounts of 10%, 20% and 5% is equal to a single discount of x%, value of x is:",
+        "option":[
+          {
+            "id":1,
+            "option":"29.6"
+          },
+          {
+            "id":2,
+            "option":"33.7"
+          },
+          {
+            "id":3,
+            "option":"27.4"
+          },
+          {
+            "id":4,
+            "option":"31.6"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"There are two types of hair dryers in the shop, Type A and B. Sum of the cost price of 1 piece of A and B is Rs 900. The first one is sold at a profit of 12% while the second at 18%. A shopkeeper sells 15 hairdryers of Type A and 10 of Type B. Total profit earned from type A hairdryer is Rs 180 more than the profit from type B hairdryers. What is the selling price (in Rs) of Type A hairdryer?",
+        "option":[
+          {
+            "id":1,
+            "option":"504"
+          },
+          {
+            "id":2,
+            "option":"448"
+          },
+          {
+            "id":3,
+            "option":"560"
+          },
+          {
+            "id":4,
+            "option":"528"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Simplify: (5 + 0.5 + 0.005 + 0.0005 + 0.05) × 2",
+        "option":[
+          {
+            "id":1,
+            "option":"11.011"
+          },
+          {
+            "id":2,
+            "option":"10.111"
+          },
+          {
+            "id":3,
+            "option":"11.111"
+          },
+          {
+            "id":4,
+            "option":"11.001"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the difference between LCM and HCF of 52 and 156?",
+        "option":[
+          {
+            "id":1,
+            "option":"115"
+          },
+          {
+            "id":2,
+            "option":"104"
+          },
+          {
+            "id":3,
+            "option":"25"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which natural number is nearest to 8769, which is completely divisible by 70?",
+        "option":[
+          {
+            "id":1,
+            "option":"8820"
+          },
+          {
+            "id":2,
+            "option":"8760"
+          },
+          {
+            "id":3,
+            "option":"8770"
+          },
+          {
+            "id":4,
+            "option":"8750"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Two people P and Q started the work, P can complete the work in 18 days and Q can complete the work in 24 days. They both started working together, after 6 days P left the job. What is the number of days required to complete the job?",
+        "option":[
+          {
+            "id":1,
+            "option":"16 days"
+          },
+          {
+            "id":2,
+            "option":"18.5 days"
+          },
+          {
+            "id":3,
+            "option":"22 days"
+          },
+          {
+            "id":4,
+            "option":"12 days"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A train covers 197.5 km in 2 hours and 30 minutes. A girl is running towards the train with a speed of 3 km per hour. when the train meets with the girl, her speed reduces by 1 km/hr due to wind pressure. Find the time taken by train to cross the girl if the train is 405 meters long:",
+        "option":[
+          {
+            "id":1,
+            "option":"18 sec"
+          },
+          {
+            "id":2,
+            "option":"12 sec"
+          },
+          {
+            "id":3,
+            "option":"24 sec"
+          },
+          {
+            "id":4,
+            "option":"20 sec"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Sachin score runs in the first five matches with an average of 64. In the next match, he scored a 100. What would be the average of Sachin after the 6th match?",
+        "option":[
+          {
+            "id":1,
+            "option":"72"
+          },
+          {
+            "id":2,
+            "option":"70"
+          },
+          {
+            "id":3,
+            "option":"69"
+          },
+          {
+            "id":4,
+            "option":"68"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"If x is added to 15, 33, 7, and 17 then the number so obtained in this order are in proportion. What is the value of x?",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"5"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A man borrows money on compound interest and returns it in two equal half-yearly installments of Rs. 4410 each. Find the interest charged, if the rate of interest is 10% per annum compounded yearly.",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs. 620"
+          },
+          {
+            "id":2,
+            "option":"Rs. 645"
+          },
+          {
+            "id":3,
+            "option":"Rs. 600"
+          },
+          {
+            "id":4,
+            "option":"Rs. 580"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the interest (in Rs.) obtained by Sumit if he invested a sum of Rs 20000 at a 20% interest rate for the duration of 6 months compounded quarterly in a mutual fund?",
+        "option":[
+          {
+            "id":1,
+            "option":"4880"
+          },
+          {
+            "id":2,
+            "option":"4060"
+          },
+          {
+            "id":3,
+            "option":"2050"
+          },
+          {
+            "id":4,
+            "option":"3080"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
       }
+    ]
+  },
+  {
+    "id": 2,
+    "TitleName": "Delhi Police Mock Test 2",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime":90,
+    "difL": "Moderate",
+    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
+    "examStart" : "Nov 06, 2023 21:00:00",
+    "examEnd" : "Nov 04, 2023 22:33:00",
+    "questions":[
+      
+    ]
+  },
+  {
+    "id": 3,
+    "TitleName": "Delhi Police Mock Test 3",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime":90,
+    "difL": "Moderate",
+    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
+    "examStart" : "Nov 06, 2023 21:00:00",
+    "examEnd" : "Nov 04, 2023 22:33:00",
+    "questions":[
+      
+    ]
+  },
+  {
+    "id": 4,
+    "TitleName": "Delhi Police Mock Test 4",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime":90,
+    "difL": "Moderate",
+    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
+    "examStart" : "Nov 06, 2023 21:00:00",
+    "examEnd" : "Nov 04, 2023 22:33:00",
+    "questions":[
+      
+    ]
+  },
+  {
+    "id": 5,
+    "TitleName": "Delhi Police Mock Test 5",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime":90,
+    "difL": "Moderate",
+    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
+    "examStart" : "Nov 06, 2023 21:00:00",
+    "examEnd" : "Nov 04, 2023 22:33:00",
+    "questions":[
+      
     ]
   }
 ]
