@@ -7,7 +7,7 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Oct 29, 2023 21:00:00",
+    "examStart" : "Nov 04, 2023 21:00:00",
     "examEnd" : "Nov 04, 2023 22:33:00",
     "questions":[
       {
@@ -2421,7 +2421,7 @@
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
     "examStart" : "Nov 06, 2023 21:00:00",
-    "examEnd" : "Nov 04, 2023 22:33:00",
+    "examEnd" : "Nov 06, 2023 22:33:00",
     "questions":[
       
     ]
@@ -2434,8 +2434,8 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Nov 06, 2023 21:00:00",
-    "examEnd" : "Nov 04, 2023 22:33:00",
+    "examStart" : "Nov 08, 2023 21:00:00",
+    "examEnd" : "Nov 08, 2023 22:33:00",
     "questions":[
       
     ]
@@ -2448,8 +2448,8 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Nov 06, 2023 21:00:00",
-    "examEnd" : "Nov 04, 2023 22:33:00",
+    "examStart" : "Nov 10, 2023 21:00:00",
+    "examEnd" : "Nov 10, 2023 22:33:00",
     "questions":[
       
     ]
@@ -2462,8 +2462,8 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Nov 06, 2023 21:00:00",
-    "examEnd" : "Nov 04, 2023 22:33:00",
+    "examStart" : "Nov 12, 2023 21:00:00",
+    "examEnd" : "Nov 12, 2023 22:33:00",
     "questions":[
       
     ]
