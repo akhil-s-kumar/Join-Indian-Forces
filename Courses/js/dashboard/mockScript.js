@@ -82,7 +82,7 @@ const test = (testId) => {
 
   //To create column
   var colContainer = document.createElement("div");
-  colContainer.className = "col-lg-6";
+  colContainer.className = "col-lg-12";
 
   //To cerate card
   var card = document.createElement("div");

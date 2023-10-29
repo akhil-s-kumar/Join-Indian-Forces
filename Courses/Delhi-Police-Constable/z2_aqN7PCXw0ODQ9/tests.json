@@ -6,68 +6,1724 @@
     "maxS": 100,
     "maxTime":90,
     "difL": "Moderate",
-    "markingDetails": "There will be 0.25 negative marking",
-    "examStart" : "nov 03, 2023 21:00:00",
-    "examEnd" : "nov 03, 2023 22:32:00",
+    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
+    "examStart" : "Nov 03, 2023 21:00:00",
+    "examEnd" : "Nov 03, 2023 22:33:00",
     "questions":[
       {
-        "question":"Simplify \\([1-2(3-4)^{-1}]^{-1}\\)",
+        "question":"Veteran journalist and TV anchor Karan Thapar is the author of which of the following books?",
         "option":[
           {
             "id":1,
-            "option":"\\(1 \\over 4\\)"
+            "option":"Rebel Sultans"
           },
           {
             "id":2,
-            "option":"\\(1 \\over 3\\)"
+            "option":"Devil's Advocate: The Untold Story"
           },
           {
             "id":3,
-            "option":"\\(1 \\over 2\\)"
+            "option":"Why I Am a Hindu"
           },
           {
             "id":4,
-            "option":"\\(1 \\over 6\\)"
+            "option":"Happiness"
           }
         ],
-        "answer":2,
-        "maxM": 3,
-        "negM": 0
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
       },
       {
-        "question":"Ram went to a market and bought one copy of a Mathematics book and two pencils for Rs 165. Rahim went to the same market and bought another copy of the same book and ten pencils of the same brand for Rs169. The price of each pencil was",
+        "question":"What is the full form of NPCI which is an umbrella organization for all retail payments system in India?",
         "option":[
           {
             "id":1,
-            "option":"Rs. 0.50"
+            "option":"National Payments Corporation of India"
           },
           {
             "id":2,
-            "option":"Rs. 1"
+            "option":"Non-cash Payments Corporation of India"
           },
           {
             "id":3,
-            "option":"Rs. 0.75"
+            "option":"Non-cash Payments Cooperative Inc."
           },
           {
             "id":4,
-            "option":"Rs. 2"
+            "option":"Net Payments Company Inc."
           }
         ],
         "answer":1,
-        "maxM": 3,
-        "negM": 0
+        "maxM": 1,
+        "negM": 0.25
       },
       {
-        "question":"Find the value of (6 x 4) ÷ 12 + 72 ÷ 8 – 9",
+        "question":"Which among the following is the highest mountain in South America?",
         "option":[
           {
             "id":1,
-            "option":"3"
+            "option":"Huascarán"
           },
           {
             "id":2,
-            "option":"5"
+            "option":"Ojos del Salado"
+          },
+          {
+            "id":3,
+            "option":"Mercedario"
+          },
+          {
+            "id":4,
+            "option":"Aconcagua"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which Article of Indian Constitution empowers the Parliament to regulate the right of citizenship?",
+        "option":[
+          {
+            "id":1,
+            "option":"Article 8"
+          },
+          {
+            "id":2,
+            "option":"Article 9"
+          },
+          {
+            "id":3,
+            "option":"Article 10"
+          },
+          {
+            "id":4,
+            "option":"Article 11"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the rank of PV Sindhu in the recently released BWF rankings?",
+        "option":[
+          {
+            "id":1,
+            "option":"10th"
+          },
+          {
+            "id":2,
+            "option":"11th"
+          },
+          {
+            "id":3,
+            "option":"14th"
+          },
+          {
+            "id":4,
+            "option":"12th"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"China restricted the export of _____ metal used in high-performance chips.",
+        "option":[
+          {
+            "id":1,
+            "option":"Lithium"
+          },
+          {
+            "id":2,
+            "option":"Silicon"
+          },
+          {
+            "id":3,
+            "option":"Iron"
+          },
+          {
+            "id":4,
+            "option":"Gallium"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which of the following market forms, the market is dominated by a single seller?",
+        "option":[
+          {
+            "id":1,
+            "option":"Oligopoly"
+          },
+          {
+            "id":2,
+            "option":"Monopoly"
+          },
+          {
+            "id":3,
+            "option":"Perfect competition"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"_________ is India's ambassador and permanent representative to the World Trade Organisation.",
+        "option":[
+          {
+            "id":1,
+            "option":"P.S. Gangadhar"
+          },
+          {
+            "id":2,
+            "option":"Sangeeta Saxena"
+          },
+          {
+            "id":3,
+            "option":"Aashish Chandorkar"
+          },
+          {
+            "id":4,
+            "option":"Brajendra Navnit"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which of the following state ‘Hampi Dance Festival’ is celebrated?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kerala"
+          },
+          {
+            "id":2,
+            "option":"Karnataka"
+          },
+          {
+            "id":3,
+            "option":"Tamil Nadu"
+          },
+          {
+            "id":4,
+            "option":"Telangana"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following was the first development bank in India?",
+        "option":[
+          {
+            "id":1,
+            "option":"National Housing Bank"
+          },
+          {
+            "id":2,
+            "option":"Export Import Bank of India"
+          },
+          {
+            "id":3,
+            "option":"Industrial Finance Corporation of India"
+          },
+          {
+            "id":4,
+            "option":"Industrial Development Bank of India"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the Greek Ambassador in the court of Chandragupta Maurya?",
+        "option":[
+          {
+            "id":1,
+            "option":"Fa-hein"
+          },
+          {
+            "id":2,
+            "option":"Megasthenes"
+          },
+          {
+            "id":3,
+            "option":"Ibn Batuta"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following rivers of India drains into the Arabian Sea?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ganga"
+          },
+          {
+            "id":2,
+            "option":"Narmada"
+          },
+          {
+            "id":3,
+            "option":"Mahanadi"
+          },
+          {
+            "id":4,
+            "option":"Krishna"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following forces is required to maintain a body in Uniform Circular Motion?",
+        "option":[
+          {
+            "id":1,
+            "option":"Centripetal Force"
+          },
+          {
+            "id":2,
+            "option":"Centrifugal Force"
+          },
+          {
+            "id":3,
+            "option":"Coulomb’s Force"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who hosted the virtual summit of SCO?",
+        "option":[
+          {
+            "id":1,
+            "option":"Xi Jinping"
+          },
+          {
+            "id":2,
+            "option":"Shehbaz Sharif"
+          },
+          {
+            "id":3,
+            "option":"Vladimir Putin"
+          },
+          {
+            "id":4,
+            "option":"Narendra Modi"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following words does not exist in the Preamble of the Indian Constitution?",
+        "option":[
+          {
+            "id":1,
+            "option":"Justice"
+          },
+          {
+            "id":2,
+            "option":"Freedom"
+          },
+          {
+            "id":3,
+            "option":"Equality"
+          },
+          {
+            "id":4,
+            "option":"Liberty"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who is the first Indian musician to win the Oscar award for Best Original Score?",
+        "option":[
+          {
+            "id":1,
+            "option":"Bhanu Athaiya"
+          },
+          {
+            "id":2,
+            "option":"Resul Pookutty"
+          },
+          {
+            "id":3,
+            "option":"Mehboob Khan"
+          },
+          {
+            "id":4,
+            "option":"A.R. Rahman"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which among the following oceans is Mariana Trench located?",
+        "option":[
+          {
+            "id":1,
+            "option":"Indian Ocean"
+          },
+          {
+            "id":2,
+            "option":"Pacific Ocean"
+          },
+          {
+            "id":3,
+            "option":"Arctic Ocean"
+          },
+          {
+            "id":4,
+            "option":"Atlantic Ocean"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which of the following state Gomateshwara Temple is located?",
+        "option":[
+          {
+            "id":1,
+            "option":"Karnataka"
+          },
+          {
+            "id":2,
+            "option":"Kerala"
+          },
+          {
+            "id":3,
+            "option":"Madhya Pradesh"
+          },
+          {
+            "id":4,
+            "option":"Maharashtra"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who launched the eSARAS mobile app?",
+        "option":[
+          {
+            "id":1,
+            "option":"Shailesh Kumar Singh"
+          },
+          {
+            "id":2,
+            "option":"Vinay Mohan Kwatra"
+          },
+          {
+            "id":3,
+            "option":"Giridhar Aramane"
+          },
+          {
+            "id":4,
+            "option":"Ajay Tewari"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"According to the Constitution of India, a Judge of the Supreme Court cannot be removed from office except by an order of the ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Vice President"
+          },
+          {
+            "id":2,
+            "option":"Attorney General"
+          },
+          {
+            "id":3,
+            "option":"Prime Minister"
+          },
+          {
+            "id":4,
+            "option":"President"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who has been appointed as the brand ambassador of Asics India Private Limited?",
+        "option":[
+          {
+            "id":1,
+            "option":"Anushka Sharma"
+          },
+          {
+            "id":2,
+            "option":"Katrina Kaif"
+          },
+          {
+            "id":3,
+            "option":"Alia Bhatt"
+          },
+          {
+            "id":4,
+            "option":"Shraddha Kapoor"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who won the Austrian Grand Prix 2023?",
+        "option":[
+          {
+            "id":1,
+            "option":"Charles Leclerc"
+          },
+          {
+            "id":2,
+            "option":"Lewis Hamilton"
+          },
+          {
+            "id":3,
+            "option":"Max Verstappen"
+          },
+          {
+            "id":4,
+            "option":"Fernando Alonso"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is NOT listed as a Fundamental Duty in the Constitution of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"To obey traffic rules"
+          },
+          {
+            "id":2,
+            "option":"To protect and improve the natural environment"
+          },
+          {
+            "id":3,
+            "option":"To develop scientific temper"
+          },
+          {
+            "id":4,
+            "option":"To safeguard public property"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In a period of inflation and price rise the supply of money _____________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Increases"
+          },
+          {
+            "id":2,
+            "option":"Decreases"
+          },
+          {
+            "id":3,
+            "option":"Remains the same"
+          },
+          {
+            "id":4,
+            "option":"Increases or decreases proportionately"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who has been appointed as the CEO of Quick Heal Technologies?",
+        "option":[
+          {
+            "id":1,
+            "option":"Vishal Salvi"
+          },
+          {
+            "id":2,
+            "option":"Kameshwar Rao"
+          },
+          {
+            "id":3,
+            "option":"PM Prasad"
+          },
+          {
+            "id":4,
+            "option":"Salil Parekh"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which of the following places is Mount Mauna Loa volcano located?",
+        "option":[
+          {
+            "id":1,
+            "option":"Congo"
+          },
+          {
+            "id":2,
+            "option":"Hawaii"
+          },
+          {
+            "id":3,
+            "option":"Indonesia"
+          },
+          {
+            "id":4,
+            "option":"Colombia"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following did not get the Nobel Prize in Economic Sciences?",
+        "option":[
+          {
+            "id":1,
+            "option":"Abhijit Banerjee"
+          },
+          {
+            "id":2,
+            "option":"Esther Duflo"
+          },
+          {
+            "id":3,
+            "option":"Michel Mayor"
+          },
+          {
+            "id":4,
+            "option":"Michael Kremer"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Frictional unemployment is caused when _____.",
+        "option":[
+          {
+            "id":1,
+            "option":"There is contraction phase of the business cycle"
+          },
+          {
+            "id":2,
+            "option":"Workers left their old jobs, but haven't found new ones"
+          },
+          {
+            "id":3,
+            "option":"One is actively looking for a job for over 27 weeks"
+          },
+          {
+            "id":4,
+            "option":"Wages are so high that employers can't hire all the available workers"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who laid the foundation stone of 11 NH projects in Rajasthan?",
+        "option":[
+          {
+            "id":1,
+            "option":"Narendra Modi"
+          },
+          {
+            "id":2,
+            "option":"Nitin Gadkari"
+          },
+          {
+            "id":3,
+            "option":"Amit Shah"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Where is the headquarter of Food Corporation of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"New Delhi"
+          },
+          {
+            "id":2,
+            "option":"Mumbai"
+          },
+          {
+            "id":3,
+            "option":"Chennai"
+          },
+          {
+            "id":4,
+            "option":"Bengaluru"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is considered the oldest discovered site of Indus Valley Civilization? ",
+        "option":[
+          {
+            "id":1,
+            "option":"Harappa"
+          },
+          {
+            "id":2,
+            "option":"Mohenjo-Daro"
+          },
+          {
+            "id":3,
+            "option":"Bhirrana"
+          },
+          {
+            "id":4,
+            "option":"Chanhudaro"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Before taking over the Mughal throne, Shah Jahan was called ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Dara Shukoh"
+          },
+          {
+            "id":2,
+            "option":"Khurram"
+          },
+          {
+            "id":3,
+            "option":"Kamran"
+          },
+          {
+            "id":4,
+            "option":"Saleem"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following subjects, Article 280 of the Indian Constitution include?",
+        "option":[
+          {
+            "id":1,
+            "option":"Provision of Finance Commission"
+          },
+          {
+            "id":2,
+            "option":"Abolition or creation of Legislative Councils in the states"
+          },
+          {
+            "id":3,
+            "option":"Annual Financial Statement"
+          },
+          {
+            "id":4,
+            "option":"Constitutional Amendment"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following subjects, Article 280 of the Indian Constitution include?",
+        "option":[
+          {
+            "id":1,
+            "option":"Neymar"
+          },
+          {
+            "id":2,
+            "option":"Gabrial Batistuta"
+          },
+          {
+            "id":3,
+            "option":"Marcos Rojot"
+          },
+          {
+            "id":4,
+            "option":"Lionel Messi"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Where was the Vaikom Satyagraha (1924-25) started?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kerala"
+          },
+          {
+            "id":2,
+            "option":"Tamil Nadu"
+          },
+          {
+            "id":3,
+            "option":"Karnataka"
+          },
+          {
+            "id":4,
+            "option":"Andhra Pradesh"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"'Loor' dance is a popular dance form from the state of ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Punjab"
+          },
+          {
+            "id":2,
+            "option":"Madhya Pradesh"
+          },
+          {
+            "id":3,
+            "option":"Haryana"
+          },
+          {
+            "id":4,
+            "option":"Rajasthan"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Tropical Evergreen Forests are NOT found in which part of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"North Eastern Region"
+          },
+          {
+            "id":2,
+            "option":"Andaman & Nicobar"
+          },
+          {
+            "id":3,
+            "option":"Eastern Ghats"
+          },
+          {
+            "id":4,
+            "option":"Western Ghats"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is the launch vehicle of Spacecraft RIASAT-2BR1? ",
+        "option":[
+          {
+            "id":1,
+            "option":"GSLV-Mk III M-1"
+          },
+          {
+            "id":2,
+            "option":"PSLV-C48r"
+          },
+          {
+            "id":3,
+            "option":"Ariane-5 VA-251"
+          },
+          {
+            "id":4,
+            "option":"PSLV C46"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which one of the following is a fire walking festival that originated in the state of Tamil Nadu?",
+        "option":[
+          {
+            "id":1,
+            "option":"Thaipoosam"
+          },
+          {
+            "id":2,
+            "option":"Theemithi"
+          },
+          {
+            "id":3,
+            "option":"Puli Kali"
+          },
+          {
+            "id":4,
+            "option":"Banni"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"With which of the following sports is the term 'Cox' associated?",
+        "option":[
+          {
+            "id":1,
+            "option":"Boxing"
+          },
+          {
+            "id":2,
+            "option":"Long Jump"
+          },
+          {
+            "id":3,
+            "option":"Javelin Throw"
+          },
+          {
+            "id":4,
+            "option":"Boat Racing"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which country recently became a full member of SCO?",
+        "option":[
+          {
+            "id":1,
+            "option":"Japan"
+          },
+          {
+            "id":2,
+            "option":"Iran"
+          },
+          {
+            "id":3,
+            "option":"Iraq"
+          },
+          {
+            "id":4,
+            "option":"United Arab Emirates"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who started the Persian newspaper 'Mirat-ul-Akhbar'?",
+        "option":[
+          {
+            "id":1,
+            "option":"Derozio"
+          },
+          {
+            "id":2,
+            "option":"Raja Rammohan Roy "
+          },
+          {
+            "id":3,
+            "option":"Debendranath Tagore"
+          },
+          {
+            "id":4,
+            "option":"Syed Ahmed Khan"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is also called as the “Powerhouse of the cell”?",
+        "option":[
+          {
+            "id":1,
+            "option":"Leucocytes"
+          },
+          {
+            "id":2,
+            "option":"Mitochondria"
+          },
+          {
+            "id":3,
+            "option":"DNA"
+          },
+          {
+            "id":4,
+            "option":"RNA"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is the value of 1 Horse Power in Watts?",
+        "option":[
+          {
+            "id":1,
+            "option":"7.62"
+          },
+          {
+            "id":2,
+            "option":"9.81"
+          },
+          {
+            "id":3,
+            "option":"342"
+          },
+          {
+            "id":4,
+            "option":"746"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who established the Gupta dynasty, belonging to the vaishya caste, and hailed either from Magadha (Bihar) or Prayaga (eastern U.P.)?",
+        "option":[
+          {
+            "id":1,
+            "option":"Samudragupta"
+          },
+          {
+            "id":2,
+            "option":"Shrigupta"
+          },
+          {
+            "id":3,
+            "option":"Vikramaditya"
+          },
+          {
+            "id":4,
+            "option":"Chandragupta"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following was the first Chairman of the Planning Commission?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mahatma Gandhi"
+          },
+          {
+            "id":2,
+            "option":"Jawahar Lal Nehru"
+          },
+          {
+            "id":3,
+            "option":"B. R. Ambedkar"
+          },
+          {
+            "id":4,
+            "option":"B. N. Rau"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is the chemical name of Vitamin B3 and what is the name of disease of its deficiency?",
+        "option":[
+          {
+            "id":1,
+            "option":"Pantothenic acid, Pellagra"
+          },
+          {
+            "id":2,
+            "option":"Retinol, Scurvy"
+          },
+          {
+            "id":3,
+            "option":"Niacin, Pellagra"
+          },
+          {
+            "id":4,
+            "option":"Ascorbic Acid, Scurvy"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"How many times President has declared a National Emergency in India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Two times"
+          },
+          {
+            "id":2,
+            "option":"Three times"
+          },
+          {
+            "id":3,
+            "option":"Only once"
+          },
+          {
+            "id":4,
+            "option":"Four times"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In the context of hormones and their function in the body, which of the following is NOT correctly paired?",
+        "option":[
+          {
+            "id":1,
+            "option":"Progesterone – supports pregnancy"
+          },
+          {
+            "id":2,
+            "option":"Oxytocin – releases milk during sucking"
+          },
+          {
+            "id":3,
+            "option":"Adrenaline – increase cardiac output"
+          },
+          {
+            "id":4,
+            "option":"Prolactin – regulates female sexual behaviour"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"During the rule of which Viceroy INA trials was held?",
+        "option":[
+          {
+            "id":1,
+            "option":"Lord Wavell"
+          },
+          {
+            "id":2,
+            "option":"Lord Mountbatten"
+          },
+          {
+            "id":3,
+            "option":"Lord Irwin"
+          },
+          {
+            "id":4,
+            "option":"Lord Linlithgow"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Four words have been given out of which three are alike in some manner, while one is different. Choose the odd one.",
+        "option":[
+          {
+            "id":1,
+            "option":"Jordan"
+          },
+          {
+            "id":2,
+            "option":"Oman"
+          },
+          {
+            "id":3,
+            "option":"Bahrain"
+          },
+          {
+            "id":4,
+            "option":"Bulgaria"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1RIP7RJl2d5GLrOSzu5nRvEEgiT2a6FN0",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1vEI1FOcvdAK_xLzaj2A2-vWDOfGOpisn",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1bNY2F-DQjuOKQMuVMO6Ygp_MWVB0Aq4w",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1KIU7Ia8vgs_kviC6XrQSeT1te6lEaLEe",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=18cPI4uviR9BZcMNF3eoslIKrwig22KBh",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1p74WW5gh2u_atBYPMcDDw5fy8K6r6et5",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the number that can replace the question mark (?) in the following series. 69, 54, 41, 30, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"24"
+          },
+          {
+            "id":2,
+            "option":"22"
+          },
+          {
+            "id":3,
+            "option":"25"
+          },
+          {
+            "id":4,
+            "option":"21"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"88, 81, 75, ? , 66",
+        "option":[
+          {
+            "id":1,
+            "option":"71"
+          },
+          {
+            "id":2,
+            "option":"70"
+          },
+          {
+            "id":3,
+            "option":"72"
+          },
+          {
+            "id":4,
+            "option":"68"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Your mother is 6 years younger than your father who is 8 times older than you. If your age is 8 years, what is your mother’s age?",
+        "option":[
+          {
+            "id":1,
+            "option":"58 years"
+          },
+          {
+            "id":2,
+            "option":"42 years"
+          },
+          {
+            "id":3,
+            "option":"33 years"
+          },
+          {
+            "id":4,
+            "option":"18 years"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following interchanges signs would make the given equation correct? 32 + 5 ÷ 12 × 4 - 13 = 34",
+        "option":[
+          {
+            "id":1,
+            "option":"×, ÷"
+          },
+          {
+            "id":2,
+            "option":"+, -"
+          },
+          {
+            "id":3,
+            "option":"+, ÷"
+          },
+          {
+            "id":4,
+            "option":"-, ×"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the set in which the numbers are related in the same way as the numbers of the following set. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits.) (6, 5, 61) (2, 6, 40)",
+        "option":[
+          {
+            "id":1,
+            "option":"(7, 6, 40)"
+          },
+          {
+            "id":2,
+            "option":"(3, 6, 45)"
+          },
+          {
+            "id":3,
+            "option":"(12, 6, 40)"
+          },
+          {
+            "id":4,
+            "option":"(2, 9, 48)"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the number-pair in which the two numbers are related in the same way as the two numbers of the following number-pair. 39 : 18",
+        "option":[
+          {
+            "id":1,
+            "option":"25 : 10"
+          },
+          {
+            "id":2,
+            "option":"23 : 13"
+          },
+          {
+            "id":3,
+            "option":"24 : 27"
+          },
+          {
+            "id":4,
+            "option":"29 : 13"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the option that is related to the third word in the same way as the second word is related to the first word. Kuchipudi : Andhra Pradesh :: Jhumar :: ? ",
+        "option":[
+          {
+            "id":1,
+            "option":"Haryana"
+          },
+          {
+            "id":2,
+            "option":"Uttar pradesh"
+          },
+          {
+            "id":3,
+            "option":"Karnataka"
+          },
+          {
+            "id":4,
+            "option":"Gujarat"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1UFUKAB2U3WfFWu_OVCVhUotLlN0cgGLu",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1kwgSNLnkTuLAkyguwcsc8uyvECPF7JUu",
+        "option":[
+          {
+            "id":1,
+            "option":"E"
+          },
+          {
+            "id":2,
+            "option":"F"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"B"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1FegqOgvB32hKNAjvEMQLzpdWh-FOXhkS",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1AgG17-7NhoHCljjue4seikHaMafRXK4w",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1MHo8dL636_5jHLET4t21UtfbMwB9xIeR",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1jJFo954CGHK4Z_4qYT2pXl5cpcqKmTY8",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1kFIrrf0uPlqNmx3ds79Hvp4L90CcwZDm",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1nmDEllhS8qJVdl0XRx4bAndIa43r7lOK",
+        "option":[
+          {
+            "id":1,
+            "option":"6"
+          },
+          {
+            "id":2,
+            "option":"4"
           },
           {
             "id":3,
@@ -75,60 +1731,84 @@
           },
           {
             "id":4,
-            "option":"1"
+            "option":"3"
           }
         ],
-        "answer":3,
-        "maxM": 3,
-        "negM": 0
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
       },
       {
-        "question":"Find 36 – 6 + 3 × 5 ÷ 3",
+        "question":"https://drive.google.com/uc?export=view&id=1cZD1j34Ur20V8w5pqsj4xrd01MUYmCii",
         "option":[
           {
             "id":1,
-            "option":"32"
+            "option":"A"
           },
           {
             "id":2,
-            "option":"84"
+            "option":"B"
           },
           {
             "id":3,
-            "option":"74"
+            "option":"C"
           },
           {
             "id":4,
-            "option":"71"
-          }
-        ],
-        "answer":3,
-        "maxM": 3,
-        "negM": 0
-      },
-      {
-        "question":"\\((4×3÷6+1)×3^2\\)",
-        "option":[
-          {
-            "id":1,
-            "option":"27"
-          },
-          {
-            "id":2,
-            "option":"29"
-          },
-          {
-            "id":3,
-            "option":"18"
-          },
-          {
-            "id":4,
-            "option":"25"
+            "option":"D"
           }
         ],
         "answer":1,
-        "maxM": 3,
-        "negM": 0
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1M3Q299Bh3HVJ5dVbe2Uk5QWI7OYmvrON",
+        "option":[
+          {
+            "id":1,
+            "option":"14"
+          },
+          {
+            "id":2,
+            "option":"14"
+          },
+          {
+            "id":3,
+            "option":"10"
+          },
+          {
+            "id":4,
+            "option":"11"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"If ZHDEJ is coded as 19647, then how would DSKAR be coded?",
+        "option":[
+          {
+            "id":1,
+            "option":"686122"
+          },
+          {
+            "id":2,
+            "option":"686123"
+          },
+          {
+            "id":3,
+            "option":"686126"
+          },
+          {
+            "id":4,
+            "option":"686129"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
       }
     ]
   }
