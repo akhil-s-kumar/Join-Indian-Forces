@@ -7,7 +7,7 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Nov 04, 2023 21:00:00",
+    "examStart" : "Oct 29, 2023 21:00:00",
     "examEnd" : "Nov 04, 2023 22:33:00",
     "questions":[
       {
@@ -1835,26 +1835,242 @@
         "negM": 0.25
       },
       {
-        "question":"In Windows operating system it is a window that is used to display text or to receive text from you. The type of text it displays or the type of text you are asked to provide depends on the application or the situation.",
+        "question":"Zip files are ",
         "option":[
           {
             "id":1,
-            "option":"Text Boxes"
+            "option":"Fragmented Files"
           },
           {
             "id":2,
-            "option":"Command Buttons"
+            "option":"Deleted Files"
           },
           {
             "id":3,
-            "option":"Control’s Focus"
+            "option":"Save Files"
           },
           {
             "id":4,
-            "option":"Dialog Boxes"
+            "option":"Compressed Files"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What would you type in Run window to open 'MS Word'",
+        "option":[
+          {
+            "id":1,
+            "option":"winword.exe"
+          },
+          {
+            "id":2,
+            "option":"Cannot be open from Run"
+          },
+          {
+            "id":3,
+            "option":"word.exe"
+          },
+          {
+            "id":4,
+            "option":"msword.exe"
           }
         ],
         "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Typed text showed in active cell and also in _____.",
+        "option":[
+          {
+            "id":1,
+            "option":"Ribbon"
+          },
+          {
+            "id":2,
+            "option":"Title bar"
+          },
+          {
+            "id":3,
+            "option":"Scroll bar"
+          },
+          {
+            "id":4,
+            "option":"Formula bar"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is full form of CDC?",
+        "option":[
+          {
+            "id":1,
+            "option":"Change direct capture"
+          },
+          {
+            "id":2,
+            "option":"Change data capture"
+          },
+          {
+            "id":3,
+            "option":"Command direct capture"
+          },
+          {
+            "id":4,
+            "option":"Command data capture"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"JPEG stand for ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Joint Print Experts Group"
+          },
+          {
+            "id":2,
+            "option":"Joint Print Experts Globle"
+          },
+          {
+            "id":3,
+            "option":"Joint Photographic Experts Group"
+          },
+          {
+            "id":4,
+            "option":"Joint Photographic Experts Globle"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which one of the following tasks is not done by the data link layer?",
+        "option":[
+          {
+            "id":1,
+            "option":"error control"
+          },
+          {
+            "id":2,
+            "option":"flow control"
+          },
+          {
+            "id":3,
+            "option":"channel coding"
+          },
+          {
+            "id":4,
+            "option":"framing"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"which of the following is disadvantages of the Internet?",
+        "option":[
+          {
+            "id":1,
+            "option":"enables more people to work from home"
+          },
+          {
+            "id":2,
+            "option":"a vast amount of information can be accessed"
+          },
+          {
+            "id":3,
+            "option":"much of the information isn’t checked and may be incorrect or irrelevant"
+          },
+          {
+            "id":4,
+            "option":"easy communication with other people around the world"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When should you pay attention to spelling and grammar in an e-mail message?",
+        "option":[
+          {
+            "id":1,
+            "option":"When sending a message to a professor"
+          },
+          {
+            "id":2,
+            "option":"When sending a message to a potential governer"
+          },
+          {
+            "id":3,
+            "option":"Always, regardless of who will receive your message"
+          },
+          {
+            "id":4,
+            "option":"Never, e-mail recipients do not expect you to use correct grammar or spelling"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the maximum font size that can be manually set in MS Word?",
+        "option":[
+          {
+            "id":1,
+            "option":"1021"
+          },
+          {
+            "id":2,
+            "option":"255"
+          },
+          {
+            "id":3,
+            "option":"1638"
+          },
+          {
+            "id":4,
+            "option":"1800"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The sides of the right-angle triangular park are in ratio 3 : 4. The sum of all sides is 144 m. Find the area of the triangular park.",
+        "option":[
+          {
+            "id":1,
+            "option":"\\(894 m \\over 2\\)"
+          },
+          {
+            "id":2,
+            "option":"\\(864 m \\over 2\\)"
+          },
+          {
+            "id":3,
+            "option":"\\(926 m \\over 2\\)"
+          },
+          {
+            "id":4,
+            "option":"\\(1024 m \\over 2\\)"
+          }
+        ],
+        "answer":2,
         "maxM": 1,
         "negM": 0.25
       }
