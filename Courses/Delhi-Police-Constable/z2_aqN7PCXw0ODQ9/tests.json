@@ -2420,29 +2420,2414 @@
     "maxTime":90,
     "difL": "Moderate",
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Nov 06, 2023 21:00:00",
-    "examEnd" : "Nov 06, 2023 22:33:00",
+    "examStart" : "Nov 07, 2023 21:00:00",
+    "examEnd" : "Nov 07, 2023 22:33:00",
     "questions":[
-      
+      {
+        "question":"Cultivation is difficult on red soil because ____________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Its water holding capacity is less."
+          },
+          {
+            "id":2,
+            "option":"It is highly contaminated."
+          },
+          {
+            "id":3,
+            "option":"Biological components do not mix with it."
+          },
+          {
+            "id":4,
+            "option":"It is red in colour."
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the Tibetan Buddhist Festivals is also known as Agrarian Festival?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ashura"
+          },
+          {
+            "id":2,
+            "option":"Losar"
+          },
+          {
+            "id":3,
+            "option":"Vesak"
+          },
+          {
+            "id":4,
+            "option":"Asalha Puja"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"To which state does the traditional folk dance 'Gotipua' belong?",
+        "option":[
+          {
+            "id":1,
+            "option":"Chhattisgarh"
+          },
+          {
+            "id":2,
+            "option":"West Bengal"
+          },
+          {
+            "id":3,
+            "option":"Bihar"
+          },
+          {
+            "id":4,
+            "option":"Odisha"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In the CiSS application which was launched by the National Commission for the Protection of Child Rights. The CiSS stands for ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Children in Smart Situations"
+          },
+          {
+            "id":2,
+            "option":"Children in Senior Situations"
+          },
+          {
+            "id":3,
+            "option":"Children in Street Situations"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following schedules of the Indian Constitution include “Provisions relating to the administration of tribal areas in the states of Assam, Meghalaya, Tripura, and Mizoram”?",
+        "option":[
+          {
+            "id":1,
+            "option":"First Schedule"
+          },
+          {
+            "id":2,
+            "option":"Fifth Schedule"
+          },
+          {
+            "id":3,
+            "option":"Sixth Schedule"
+          },
+          {
+            "id":4,
+            "option":"Tenth Schedule"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In ........ tissue the cells are widely spaced.",
+        "option":[
+          {
+            "id":1,
+            "option":"Tendons"
+          },
+          {
+            "id":2,
+            "option":"Cartilage"
+          },
+          {
+            "id":3,
+            "option":"Bone"
+          },
+          {
+            "id":4,
+            "option":"Ligament"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Consider the following statements regarding the portal for parties to file financial statements. 1. It was launched by Prime Minister Narendra Modi. 2. It includes filing audited annual accounts, poll expenditure statements and contribution reports. 3. It sends a message as a reminder on the registered mobile number and registered emails of the authorised representatives of the political party to comply with the deadlines. Which of the following is a correct statement?",
+        "option":[
+          {
+            "id":1,
+            "option":"Both 1 and 3"
+          },
+          {
+            "id":2,
+            "option":"Both 2 and 3"
+          },
+          {
+            "id":3,
+            "option":"Only 3"
+          },
+          {
+            "id":4,
+            "option":"All of the above"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The type of unemployment in the agricultural sector of India where more people are employed than required is known as:",
+        "option":[
+          {
+            "id":1,
+            "option":"Disguised unemployment"
+          },
+          {
+            "id":2,
+            "option":"Seasonal unemployment"
+          },
+          {
+            "id":3,
+            "option":"Structural unemployment"
+          },
+          {
+            "id":4,
+            "option":"Marginal unemployment"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who won the first edition of the Global Chess League 2023?",
+        "option":[
+          {
+            "id":1,
+            "option":"Chingari Gulf Titans"
+          },
+          {
+            "id":2,
+            "option":"upGrad Mumba Masters"
+          },
+          {
+            "id":3,
+            "option":"Triveni Continental Kings"
+          },
+          {
+            "id":4,
+            "option":"Balan Alaskan Knights"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following pillars depicts the information on Chandragupta II?",
+        "option":[
+          {
+            "id":1,
+            "option":"Bhitari Pillar"
+          },
+          {
+            "id":2,
+            "option":"Mehrauli Pillar"
+          },
+          {
+            "id":3,
+            "option":"Allahabad Pillar"
+          },
+          {
+            "id":4,
+            "option":"Sarnath Pillar"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When was the first amendment made to the Indian Constitution?",
+        "option":[
+          {
+            "id":1,
+            "option":"1954"
+          },
+          {
+            "id":2,
+            "option":"1951"
+          },
+          {
+            "id":3,
+            "option":"1952"
+          },
+          {
+            "id":4,
+            "option":"1953"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Manu Bhaker is associated with which sport?",
+        "option":[
+          {
+            "id":1,
+            "option":"Cycling"
+          },
+          {
+            "id":2,
+            "option":"Snooker"
+          },
+          {
+            "id":3,
+            "option":"Cricket"
+          },
+          {
+            "id":4,
+            "option":"Shooting"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following forces is required to maintain a body in Uniform Circular Motion?",
+        "option":[
+          {
+            "id":1,
+            "option":"Vitamin A"
+          },
+          {
+            "id":2,
+            "option":"Vitamin B"
+          },
+          {
+            "id":3,
+            "option":"Vitamin C"
+          },
+          {
+            "id":4,
+            "option":"Vitamin D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which group of languages does the Bhil tribe of Gujarat speak?",
+        "option":[
+          {
+            "id":1,
+            "option":"Indo-Aryan"
+          },
+          {
+            "id":2,
+            "option":"Sino-Tibetan"
+          },
+          {
+            "id":3,
+            "option":"Indo-Iranian"
+          },
+          {
+            "id":4,
+            "option":"Dravidian"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is NOT a difference between lenses and mirrors?",
+        "option":[
+          {
+            "id":1,
+            "option":"Light reflects from a mirror. Light goes through and is refracted by a lens."
+          },
+          {
+            "id":2,
+            "option":"A concave mirror converges light to a focal point. For lenses, light converges to a point for a convex lens."
+          },
+          {
+            "id":3,
+            "option":"A convex mirror converges light, as does a concave lens."
+          },
+          {
+            "id":4,
+            "option":"Lenses have two focal points, one on either side of the lens."
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is the terminology associated with Football?",
+        "option":[
+          {
+            "id":1,
+            "option":"Back Hand"
+          },
+          {
+            "id":2,
+            "option":"Back Heel"
+          },
+          {
+            "id":3,
+            "option":"No Ball"
+          },
+          {
+            "id":4,
+            "option":"Checkmate"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A retired judge of the High Court is not allowed to ________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Practice in the High Court of other states"
+          },
+          {
+            "id":2,
+            "option":"Practice in the same High Court he had retired"
+          },
+          {
+            "id":3,
+            "option":"Practice in the Supreme Court"
+          },
+          {
+            "id":4,
+            "option":"All of the above"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following does the Fourth Schedule of the Indian Constitution contain?",
+        "option":[
+          {
+            "id":1,
+            "option":"Allocation of seats in the Rajya Sabha to the states and the union territories"
+          },
+          {
+            "id":2,
+            "option":"Forms of Oaths or Affirmations"
+          },
+          {
+            "id":3,
+            "option":"List of states and union territories and their territories"
+          },
+          {
+            "id":4,
+            "option":"List of recognized languages"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What type of unemployment is generally found in the agricultural sector of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Voluntary unemployment"
+          },
+          {
+            "id":2,
+            "option":"Disguised unemployment"
+          },
+          {
+            "id":3,
+            "option":"Frictional unemployment"
+          },
+          {
+            "id":4,
+            "option":"Structural unemployment"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"According to the Constitution of India, a Judge of the Supreme Court cannot be removed from office except by an order of the ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Asvadhyaksha"
+          },
+          {
+            "id":2,
+            "option":"Bhartiakas"
+          },
+          {
+            "id":3,
+            "option":"Rathadhyaksha"
+          },
+          {
+            "id":4,
+            "option":"Maula"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following has written the famous book- 'The Comedy of Errors'?",
+        "option":[
+          {
+            "id":1,
+            "option":"Jane Austen"
+          },
+          {
+            "id":2,
+            "option":"George Orwell"
+          },
+          {
+            "id":3,
+            "option":"William Shakespeare"
+          },
+          {
+            "id":4,
+            "option":"Salman Rushdie"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What was the name of the gold coins used by Vijayanagara Rulers?",
+        "option":[
+          {
+            "id":1,
+            "option":"Gold Jital"
+          },
+          {
+            "id":2,
+            "option":"Gold Fanam"
+          },
+          {
+            "id":3,
+            "option":"Gold Mohur Coin"
+          },
+          {
+            "id":4,
+            "option":"Gold Varaha"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which country unveiled its first-ever report on Critical Minerals?",
+        "option":[
+          {
+            "id":1,
+            "option":"Germany"
+          },
+          {
+            "id":2,
+            "option":"Pakistan"
+          },
+          {
+            "id":3,
+            "option":"India"
+          },
+          {
+            "id":4,
+            "option":"China"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the President of India during 1977-1982?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rajendra Prasad"
+          },
+          {
+            "id":2,
+            "option":"Neelam Sanjiva Reddy"
+          },
+          {
+            "id":3,
+            "option":"Zakir Husain"
+          },
+          {
+            "id":4,
+            "option":"R Venkataraman"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The Chief of Election Commission is appointed by the _________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Central Government"
+          },
+          {
+            "id":2,
+            "option":"State Government"
+          },
+          {
+            "id":3,
+            "option":"Chief Justice of India"
+          },
+          {
+            "id":4,
+            "option":"President of India"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who launched the National Sickle Cell Anaemia Eradication Mission 2047?",
+        "option":[
+          {
+            "id":1,
+            "option":"Amit Shah"
+          },
+          {
+            "id":2,
+            "option":"Rajnath Singh"
+          },
+          {
+            "id":3,
+            "option":"Smriti Irani"
+          },
+          {
+            "id":4,
+            "option":"Narendra Modi"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following first translated the Bhagavad Gita into English?",
+        "option":[
+          {
+            "id":1,
+            "option":"William Jones"
+          },
+          {
+            "id":2,
+            "option":"James Prinsep"
+          },
+          {
+            "id":3,
+            "option":"Charles Wilkins"
+          },
+          {
+            "id":4,
+            "option":"Sir Alexander Cunningham"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the first Indian to receive the International Shooting Sport Federation (ISSF) Blue Cross?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ronjan Sodhi"
+          },
+          {
+            "id":2,
+            "option":"Vijay Kumar"
+          },
+          {
+            "id":3,
+            "option":"Gagan Narang"
+          },
+          {
+            "id":4,
+            "option":"Abhinav Bindra"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which National Highway connects Pune to Machilipatnam?",
+        "option":[
+          {
+            "id":1,
+            "option":"NH-7"
+          },
+          {
+            "id":2,
+            "option":"NH-65"
+          },
+          {
+            "id":3,
+            "option":"NH-9"
+          },
+          {
+            "id":4,
+            "option":"NH-10"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following folk dance is not correctly matched?",
+        "option":[
+          {
+            "id":1,
+            "option":"Fugdi - Madhya Pradesh"
+          },
+          {
+            "id":2,
+            "option":"Giddha - Punjab"
+          },
+          {
+            "id":3,
+            "option":"Jat-Jatin - Bihar"
+          },
+          {
+            "id":4,
+            "option":"Kalbeliya - Rajasthan"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Where is the Harappan site of Lothal located?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ganganagar"
+          },
+          {
+            "id":2,
+            "option":"Sindh"
+          },
+          {
+            "id":3,
+            "option":"Bhuj"
+          },
+          {
+            "id":4,
+            "option":"Ahmedabad"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which among the following states is Bandipur National Park situated?",
+        "option":[
+          {
+            "id":1,
+            "option":"Madhya Pradesh"
+          },
+          {
+            "id":2,
+            "option":"Uttarakhand"
+          },
+          {
+            "id":3,
+            "option":"Arunachal Pradesh"
+          },
+          {
+            "id":4,
+            "option":"Karnataka"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A former deputy speaker of the Punjab assembly recently passed away. What was his name?",
+        "option":[
+          {
+            "id":1,
+            "option":"Nirmal Singh Kahlon"
+          },
+          {
+            "id":2,
+            "option":"Jaswant Singh Sidhu"
+          },
+          {
+            "id":3,
+            "option":"Darbari Lal"
+          },
+          {
+            "id":4,
+            "option":"Bir Devinder Singh"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"An increase in the price of which of these products will have a ripple effect in increasing the prices of many products, thereby resulting in inflation?",
+        "option":[
+          {
+            "id":1,
+            "option":"Petroleum"
+          },
+          {
+            "id":2,
+            "option":"Medicines"
+          },
+          {
+            "id":3,
+            "option":"Smartphones"
+          },
+          {
+            "id":4,
+            "option":"Automobiles"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following Presidents of India did NOT hold the office of the Vice-president?",
+        "option":[
+          {
+            "id":1,
+            "option":"Giani Zail Singh"
+          },
+          {
+            "id":2,
+            "option":"Varahagiri Venkata Giri"
+          },
+          {
+            "id":3,
+            "option":"R. Venkataraman"
+          },
+          {
+            "id":4,
+            "option":"Dr. Zakir Husain"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"'Loor' dance is a popular dance form from the state of ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Afghanistan"
+          },
+          {
+            "id":2,
+            "option":"Pakistan"
+          },
+          {
+            "id":3,
+            "option":"Australia"
+          },
+          {
+            "id":4,
+            "option":"Nepal"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Tropical Evergreen Forests are NOT found in which part of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"s-block"
+          },
+          {
+            "id":2,
+            "option":"d-block"
+          },
+          {
+            "id":3,
+            "option":"f-block"
+          },
+          {
+            "id":4,
+            "option":"p-block"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is not a Peacetime Gallantry Award?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ashok Chakra"
+          },
+          {
+            "id":2,
+            "option":"Kirti Chakra"
+          },
+          {
+            "id":3,
+            "option":"Shaurya Chakra"
+          },
+          {
+            "id":4,
+            "option":"Param Vir Chakra"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"India and _______ held a technical workshop on electric propulsion.",
+        "option":[
+          {
+            "id":1,
+            "option":"France"
+          },
+          {
+            "id":2,
+            "option":"UK"
+          },
+          {
+            "id":3,
+            "option":"Japan"
+          },
+          {
+            "id":4,
+            "option":"China"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following mountain ranges is home to the second-highest peak in the world, K2?",
+        "option":[
+          {
+            "id":1,
+            "option":"East Karakoram Range"
+          },
+          {
+            "id":2,
+            "option":"Zanskar Range"
+          },
+          {
+            "id":3,
+            "option":"Ladakh Range "
+          },
+          {
+            "id":4,
+            "option":"Pir Panjal Range"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The operational powers of the Election Commission come under which part of the Indian constitution?",
+        "option":[
+          {
+            "id":1,
+            "option":"Part XI"
+          },
+          {
+            "id":2,
+            "option":"Part XIV"
+          },
+          {
+            "id":3,
+            "option":"Part XV"
+          },
+          {
+            "id":4,
+            "option":"Part X"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"________ is the largest river island in the world.",
+        "option":[
+          {
+            "id":1,
+            "option":"Munroe"
+          },
+          {
+            "id":2,
+            "option":"Majuli"
+          },
+          {
+            "id":3,
+            "option":"Bahvani"
+          },
+          {
+            "id":4,
+            "option":"Umananda"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"RBI revoked the licence of which bank?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mahalaxmi Cooperative Bank"
+          },
+          {
+            "id":2,
+            "option":"Saraswat Cooperative Bank"
+          },
+          {
+            "id":3,
+            "option":"Bharat Cooperative Bank"
+          },
+          {
+            "id":4,
+            "option":"Janata Cooperative Bank"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is the time period of the first world war?",
+        "option":[
+          {
+            "id":1,
+            "option":"1914-1918"
+          },
+          {
+            "id":2,
+            "option":"1917-1935"
+          },
+          {
+            "id":3,
+            "option":"1920-1922"
+          },
+          {
+            "id":4,
+            "option":"1952-1960"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Firozshah Tughlaq attacked Bengal in 1359. Who was the Bengal ruler then?",
+        "option":[
+          {
+            "id":1,
+            "option":"Raja Ganesh"
+          },
+          {
+            "id":2,
+            "option":"Nasiruddin Mahmud"
+          },
+          {
+            "id":3,
+            "option":"Sikandar Shah"
+          },
+          {
+            "id":4,
+            "option":"Samsuddin Yusuf"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In 1872, Lord Mayo, the Viceroy of India was assassinated in ___________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Port Blair"
+          },
+          {
+            "id":2,
+            "option":"Kolkata"
+          },
+          {
+            "id":3,
+            "option":"Diu"
+          },
+          {
+            "id":4,
+            "option":"Delhi"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The Institute of Chartered Accountants of India (ICAI) was established on ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"2 July"
+          },
+          {
+            "id":2,
+            "option":"3 Jul;y"
+          },
+          {
+            "id":3,
+            "option":"1 July"
+          },
+          {
+            "id":4,
+            "option":"4 July"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"'Nyishi' tribe can be found in which of the following northeastern states?",
+        "option":[
+          {
+            "id":1,
+            "option":"Assam"
+          },
+          {
+            "id":2,
+            "option":"Arunachal Pradesh"
+          },
+          {
+            "id":3,
+            "option":"Nagaland"
+          },
+          {
+            "id":4,
+            "option":"Mizoram"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who won his maiden ATP doubles title?",
+        "option":[
+          {
+            "id":1,
+            "option":"Robine Hasse"
+          },
+          {
+            "id":2,
+            "option":"Philipp Oswald"
+          },
+          {
+            "id":3,
+            "option":"Yuki Bhambri"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following cell organelles are not present in animal cells?",
+        "option":[
+          {
+            "id":1,
+            "option":"Vacuole"
+          },
+          {
+            "id":2,
+            "option":"Cytoplasm"
+          },
+          {
+            "id":3,
+            "option":"Mitochondria"
+          },
+          {
+            "id":4,
+            "option":"Plastids"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1Paj3RaQSKw4zk_0zMz4gsEMQ5E3ziBZg",
+        "option":[
+          {
+            "id":1,
+            "option":"P"
+          },
+          {
+            "id":2,
+            "option":"S"
+          },
+          {
+            "id":3,
+            "option":"R"
+          },
+          {
+            "id":4,
+            "option":"T"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In a certain coded language, B - 2, E - 5, J - 10, and CALCULUS - 138, then what is the code for GEOMETRY",
+        "option":[
+          {
+            "id":1,
+            "option":"176"
+          },
+          {
+            "id":2,
+            "option":"208"
+          },
+          {
+            "id":3,
+            "option":"162"
+          },
+          {
+            "id":4,
+            "option":"128"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the odd one out from the given options.",
+        "option":[
+          {
+            "id":1,
+            "option":"3726 : 36"
+          },
+          {
+            "id":2,
+            "option":"5439 : 42"
+          },
+          {
+            "id":3,
+            "option":"7431 : 32"
+          },
+          {
+            "id":4,
+            "option":"2983 : 44"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.",
+        "option":[
+          {
+            "id":1,
+            "option":"LOL"
+          },
+          {
+            "id":2,
+            "option":"EHS"
+          },
+          {
+            "id":3,
+            "option":"WZA"
+          },
+          {
+            "id":4,
+            "option":"PSV"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=12xgulQdAbx1WQS42Bd5Fc6uRSO4MF0GR",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1zjm4GUaWdyNSjM7HdVYfDPG97zMl44Fu",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Complete the following series. 1600, 1000, 700, 550, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"475"
+          },
+          {
+            "id":2,
+            "option":"520"
+          },
+          {
+            "id":3,
+            "option":"400"
+          },
+          {
+            "id":4,
+            "option":"495"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series. KMP, QUZ, AGN, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"HPV"
+          },
+          {
+            "id":2,
+            "option":"OWF"
+          },
+          {
+            "id":3,
+            "option":"OWG"
+          },
+          {
+            "id":4,
+            "option":"IPV"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=17N2ljJ2Eg5ex3ntcuCNdvuUIbskzH5fs",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1OWHdVmJJ41hCh7GR2Qj1BwcjMnARVhFK",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the related word from the given alternatives. Gloves : Hand :: Shoes : ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Road"
+          },
+          {
+            "id":2,
+            "option":"Legs"
+          },
+          {
+            "id":3,
+            "option":"Shop"
+          },
+          {
+            "id":4,
+            "option":"Feet"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1_62lkWZXa1P_kRhcnhrW6RH7WpMZMKHC",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=11j0HA8tW3uuzkgTQSB3sufS2XrgsRsxH",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the option in which the numbers are related in the same way as are the number in the given set. (15, 556, 331)",
+        "option":[
+          {
+            "id":1,
+            "option":"(12, 228, 74)"
+          },
+          {
+            "id":2,
+            "option":"(17, 495, 104)"
+          },
+          {
+            "id":3,
+            "option":"(9, 159, 78)"
+          },
+          {
+            "id":4,
+            "option":"(4, 331, 305)"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the set in which the numbers are related in the same way as the numbers of the following set. (6, 9, 45)",
+        "option":[
+          {
+            "id":1,
+            "option":"(7, 4, 48)"
+          },
+          {
+            "id":2,
+            "option":"(2, 8, 46)"
+          },
+          {
+            "id":3,
+            "option":"(8, 10, 36)"
+          },
+          {
+            "id":4,
+            "option":"(6, 8, 60)"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1TTVXlkn8nbWTfh_cOj7cscWyCmaf3Vri",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1k_GoctHb2gP5F6X6a_o9GBPGQ_ykmCAp",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1UbKikEu-TxBDQ1j2DQy4tzGNjltSsw2Y",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=17sAK24v-qQtKupJnJicWdqGJK28InVu-",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=13P1kJr-VorCPJX21q6eBbinI_ON07iok",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1qt3DYYyBm3PywOUWCUupUnnvKMJ1GhxJ",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1mtQMgfZ2iDfOJMFSBN6-Uph6eUQBtAKG",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1gWaLUz7E6xrTVVwzIDdhSWQHyOVGyfPf",
+        "option":[
+          {
+            "id":1,
+            "option":"y, u, and x"
+          },
+          {
+            "id":2,
+            "option":"x, s, and y"
+          },
+          {
+            "id":3,
+            "option":"y and x"
+          },
+          {
+            "id":4,
+            "option":"u, y, x, and s"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1v17gz810OI05LYk3JM7RpU56osdVwDoJ",
+        "option":[
+          {
+            "id":1,
+            "option":"6"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"4"
+          },
+          {
+            "id":4,
+            "option":"1"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1H2AB2kKlhZNpfwP0J_o4t5_f70QYVuaw",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"1"
+          },
+          {
+            "id":4,
+            "option":"5"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of these software applications was part of the first version of Microsoft Office?",
+        "option":[
+          {
+            "id":1,
+            "option":"MS Word"
+          },
+          {
+            "id":2,
+            "option":"PowerPoint"
+          },
+          {
+            "id":3,
+            "option":"Paint"
+          },
+          {
+            "id":4,
+            "option":"all of these"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which feature is used to make selected sentence to All Captital Letters or All Small Letters ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Change Word"
+          },
+          {
+            "id":2,
+            "option":"Change Case"
+          },
+          {
+            "id":3,
+            "option":"Change Letter"
+          },
+          {
+            "id":4,
+            "option":"Change Sentence"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"MS Access file extension is before 2007 _____.",
+        "option":[
+          {
+            "id":1,
+            "option":".adcdb"
+          },
+          {
+            "id":2,
+            "option":".acddb"
+          },
+          {
+            "id":3,
+            "option":".accdb"
+          },
+          {
+            "id":4,
+            "option":".accdc"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Microsoft Office 4.x version is first time relesed on?",
+        "option":[
+          {
+            "id":1,
+            "option":"1994"
+          },
+          {
+            "id":2,
+            "option":"1992"
+          },
+          {
+            "id":3,
+            "option":"1993"
+          },
+          {
+            "id":4,
+            "option":"1991"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When and by whom was MS Office developed?",
+        "option":[
+          {
+            "id":1,
+            "option":"1990 and microsoft window"
+          },
+          {
+            "id":2,
+            "option":"1988 and microsoft office"
+          },
+          {
+            "id":3,
+            "option":"1990 and microsoft office"
+          },
+          {
+            "id":4,
+            "option":"1988 and microsoft window"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"what is full form of PDL?",
+        "option":[
+          {
+            "id":1,
+            "option":"program description language"
+          },
+          {
+            "id":2,
+            "option":"program design language"
+          },
+          {
+            "id":3,
+            "option":"page design language"
+          },
+          {
+            "id":4,
+            "option":"page description language"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"what is full form of UTF?",
+        "option":[
+          {
+            "id":1,
+            "option":"Universal Transport Format"
+          },
+          {
+            "id":2,
+            "option":"Universe Transformation Format"
+          },
+          {
+            "id":3,
+            "option":"Unicode Transformation Format"
+          },
+          {
+            "id":4,
+            "option":"Unicode Transport Format"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The system that translates an IP address into an easier to remember name is the ?",
+        "option":[
+          {
+            "id":1,
+            "option":"packet-switching domain system"
+          },
+          {
+            "id":2,
+            "option":"domain name system"
+          },
+          {
+            "id":3,
+            "option":"domain domain numbering system"
+          },
+          {
+            "id":4,
+            "option":"None of these of these"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":" Which of these are disadvantage of DSL connection?",
+        "option":[
+          {
+            "id":1,
+            "option":"The speed is much higher than a regular modem"
+          },
+          {
+            "id":2,
+            "option":"You can leave your Internet connection open and still use the phone line for voice calls"
+          },
+          {
+            "id":3,
+            "option":"A DSL connection works better when you are closer to the provider’s central office"
+          },
+          {
+            "id":4,
+            "option":"DSL doesn't necessarily require new wiring; it can use the phone line you already have"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"If you don't want to type your name at the end of every email you send, what can you do instead?",
+        "option":[
+          {
+            "id":1,
+            "option":"It can be used sometimes if you feel like"
+          },
+          {
+            "id":2,
+            "option":"Create a signature that will attach to every email you send"
+          },
+          {
+            "id":3,
+            "option":"Don't sign it at all as people know who the email is from"
+          },
+          {
+            "id":4,
+            "option":"Should not be used"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The length width and the height of the cuboid is 61 cm, 6 cm, and 2 cm. If the ratio of the surface area of a cuboid and volume of a cube is 1 : 1, then what is the length of the cube?",
+        "option":[
+          {
+            "id":1,
+            "option":"12 cm"
+          },
+          {
+            "id":2,
+            "option":"15 cm"
+          },
+          {
+            "id":3,
+            "option":"8 cm"
+          },
+          {
+            "id":4,
+            "option":"10 cm"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A circle of radius 3.5 cm is inscribed inside a rectangle so that all the sides of the rectangle touch the circle with only one point. Find the ratio of area of the rectangle to that of the circle.",
+        "option":[
+          {
+            "id":1,
+            "option":"97 : 77"
+          },
+          {
+            "id":2,
+            "option":"1 : 2"
+          },
+          {
+            "id":3,
+            "option":"95 : 77"
+          },
+          {
+            "id":4,
+            "option":"98 : 77"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Two candidates fought for an election. One got 65% of the votes and won by 1200 votes. The total number of votes polled is:",
+        "option":[
+          {
+            "id":1,
+            "option":"3600"
+          },
+          {
+            "id":2,
+            "option":"4800"
+          },
+          {
+            "id":3,
+            "option":"2800"
+          },
+          {
+            "id":4,
+            "option":"4000"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Vishal marked 30% above the price of his bicycle and gives a 10% discount to the customer. Find what percent profit or loss he had at the last.",
+        "option":[
+          {
+            "id":1,
+            "option":"17% loss"
+          },
+          {
+            "id":2,
+            "option":"20% profit"
+          },
+          {
+            "id":3,
+            "option":"17% profit"
+          },
+          {
+            "id":4,
+            "option":"20% loss"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A shopkeeper offers two plans of discount. In scheme A, two successive discounts of 25% and 16% are offered and in scheme B, 38% of one-time discount is offered. If the marked price is Rs 200, what is the difference between the discounted amount if scheme I and scheme II?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 6, discount amount of scheme I being higher"
+          },
+          {
+            "id":2,
+            "option":"Rs 6, discount amount of scheme II being higher"
+          },
+          {
+            "id":3,
+            "option":"Rs 2, discount amount of scheme I being higher"
+          },
+          {
+            "id":4,
+            "option":"Rs 2, discount amount of scheme II being higher"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The cost price of 15 articles is the same as the selling price of 25 articles. Find the overall profit/loss per cent.",
+        "option":[
+          {
+            "id":1,
+            "option":"60% profit"
+          },
+          {
+            "id":2,
+            "option":"40% profit"
+          },
+          {
+            "id":3,
+            "option":"60% loss"
+          },
+          {
+            "id":4,
+            "option":"40% loss"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What will come in place of the question mark (?) in the following question? 17% of 173 - 10% of 150 = (?)^0.5",
+        "option":[
+          {
+            "id":1,
+            "option":"200"
+          },
+          {
+            "id":2,
+            "option":"207"
+          },
+          {
+            "id":3,
+            "option":"220"
+          },
+          {
+            "id":4,
+            "option":"190"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When 284xy25 is divided by 11 then the remainder is 0. What is the value of x - y?",
+        "option":[
+          {
+            "id":1,
+            "option":"-5"
+          },
+          {
+            "id":2,
+            "option":"3"
+          },
+          {
+            "id":3,
+            "option":"1"
+          },
+          {
+            "id":4,
+            "option":"-1"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the number of odd factors of 2^3 x 3^2 x 5^1 x 7^3",
+        "option":[
+          {
+            "id":1,
+            "option":"96"
+          },
+          {
+            "id":2,
+            "option":"24"
+          },
+          {
+            "id":3,
+            "option":"48"
+          },
+          {
+            "id":4,
+            "option":"12"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A contractor promises to complete a piece of work in 36 days with 40 workers. After 22 days some of the workers left and the remaining work is completed in 28 days. Find the number of workers who left working.",
+        "option":[
+          {
+            "id":1,
+            "option":"40"
+          },
+          {
+            "id":2,
+            "option":"20"
+          },
+          {
+            "id":3,
+            "option":"30"
+          },
+          {
+            "id":4,
+            "option":"35"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In a circular track of 250m, three friends A, B, and C started at the same time. A completes the track in 12 seconds, B completes the track in 16 seconds, and C completes the track in 20 seconds. How many times these three will meet at the starting point in one hour?",
+        "option":[
+          {
+            "id":1,
+            "option":"21"
+          },
+          {
+            "id":2,
+            "option":"12"
+          },
+          {
+            "id":3,
+            "option":"10"
+          },
+          {
+            "id":4,
+            "option":"15"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The total weight of 4 girls is 134 kg. If the heaviest girl left the group and another girl who weighs 20 kg joins the group the average becomes 28 kg. What is the weight of the heaviest girl?",
+        "option":[
+          {
+            "id":1,
+            "option":"46 kg"
+          },
+          {
+            "id":2,
+            "option":"42 kg"
+          },
+          {
+            "id":3,
+            "option":"31 kg"
+          },
+          {
+            "id":4,
+            "option":"24 kg"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The salaries of Raju and Peter are in the ratio 3 : 5. If the salary of each is increased by Rs.2500, then the new ratio is 11 : 15. What is Peter's salary?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs.3500"
+          },
+          {
+            "id":2,
+            "option":"Rs.2500"
+          },
+          {
+            "id":3,
+            "option":"Rs.4000"
+          },
+          {
+            "id":4,
+            "option":"Rs.5000"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When an amount is invested, the difference between compound interest and simple interest for the period of 2 years is Rs. 735. If the rate of interest in both the type is 14% then what is the principal amount?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs.37500"
+          },
+          {
+            "id":2,
+            "option":"Rs.22000"
+          },
+          {
+            "id":3,
+            "option":"Rs.25500"
+          },
+          {
+            "id":4,
+            "option":"Rs.20000"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What will be the amount after 4 years at a simple interest rate of 10% where the principal is 500$?",
+        "option":[
+          {
+            "id":1,
+            "option":"600$"
+          },
+          {
+            "id":2,
+            "option":"560$"
+          },
+          {
+            "id":3,
+            "option":"700$"
+          },
+          {
+            "id":4,
+            "option":"800$"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      }
     ]
   },
   {
     "id": 3,
     "TitleName": "Delhi Police Mock Test 3",
-    "noQ": 100,
-    "maxS": 100,
-    "maxTime":90,
-    "difL": "Moderate",
-    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
-    "examStart" : "Nov 08, 2023 21:00:00",
-    "examEnd" : "Nov 08, 2023 22:33:00",
-    "questions":[
-      
-    ]
-  },
-  {
-    "id": 4,
-    "TitleName": "Delhi Police Mock Test 4",
     "noQ": 100,
     "maxS": 100,
     "maxTime":90,
@@ -2455,8 +4840,8 @@
     ]
   },
   {
-    "id": 5,
-    "TitleName": "Delhi Police Mock Test 5",
+    "id": 4,
+    "TitleName": "Delhi Police Mock Test 4",
     "noQ": 100,
     "maxS": 100,
     "maxTime":90,
@@ -2464,6 +4849,20 @@
     "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
     "examStart" : "Nov 12, 2023 21:00:00",
     "examEnd" : "Nov 12, 2023 22:33:00",
+    "questions":[
+      
+    ]
+  },
+  {
+    "id": 5,
+    "TitleName": "Delhi Police Mock Test 5",
+    "noQ": 100,
+    "maxS": 100,
+    "maxTime":90,
+    "difL": "Moderate",
+    "markingDetails": "There will be (0.25 Negative Marking) for every wrong answers",
+    "examStart" : "Nov 14, 2023 21:00:00",
+    "examEnd" : "Nov 14, 2023 22:33:00",
     "questions":[
       
     ]
