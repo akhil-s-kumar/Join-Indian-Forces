@@ -6,8 +6,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jan 16, 2023 21:00:00",
-    "examEnd" : "jan 16, 2023 22:02:00",
+    "examStart" : "Feb 02, 2024 21:00:00",
+    "examEnd" : "Feb 02, 2024 22:02:00",
     "questions":[
       {
         "question":"Find the next number in the given series.<br><br>101, 123, 147, 173, ?",
@@ -1777,8 +1777,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jan 15, 2023 21:00:00",
-    "examEnd" : "jan 15, 2023 22:02:00",
+    "examStart" : "Jan 28, 2024 21:00:00",
+    "examEnd" : "Jan 28, 2024 22:02:00",
     "questions":[
       {
         "question":"Directions (Q.Nos. 1-4) Select the related words/letters/numbers from the given alternatives<br>Post office : Envelope :: Bank: ?",
@@ -3549,8 +3549,8 @@
     "maxS": 160,
     "maxTime": 60,
     "difL": "Moderate",
-    "examStart" : "jan 14, 2023 21:10:00",
-    "examEnd" : "jan 14, 2023 22:12:00",
+    "examStart" : "Jan 25, 2024 21:10:00",
+    "examEnd" : "Jan 25, 2024 22:12:00",
     "questions":[
       {
         "question":"NIM: OHO :: SES : ? Replace (?), so that the second pair shares the same relation as the first pair",
@@ -5319,8 +5319,8 @@
     "maxS": 20,
     "maxTime": 20,
     "difL": "Easy",
-    "examStart" : "dec 10, 2022 21:00:00",
-    "examEnd" : "dec 10, 2022 21:22:00",
+    "examStart" : "Jan 18, 2024 21:00:00",
+    "examEnd" : "Jan 18, 2024 21:22:00",
     "questions":[
       {
         "question":"\\(1 \\over 0.04\\) is eual to ",
@@ -5551,8 +5551,8 @@
     "maxS": 20,
     "maxTime":12,
     "difL": "Easy",
-    "examStart" : "dec 08, 2022 22:45:00",
-    "examEnd" : "dec 08, 2022 22:57:00",
+    "examStart" : "Jan 12, 2024 22:45:00",
+    "examEnd" : "Jan 12, 2024 22:57:00",
     "questions":[
       {
         "question":"Pre-history means",
@@ -5783,8 +5783,8 @@
     "maxS": 10,
     "maxTime":10,
     "difL": "Easy",
-    "examStart" : "dec 04, 2022 21:00:00",
-    "examEnd" : "dec 04, 2022 21:10:00",
+    "examStart" : "Jan 08, 2024 21:00:00",
+    "examEnd" : "Jan 08, 2024 21:10:00",
     "questions":[
       {
         "question":"Find the dividend when divisor is 13, quotient is 30 and remainder is 12.",
