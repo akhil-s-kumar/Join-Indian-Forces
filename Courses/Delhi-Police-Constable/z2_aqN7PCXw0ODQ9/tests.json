@@ -4608,7 +4608,7 @@
         "negM": 0.25
       },
       {
-        "question":"What will come in place of the question mark (?) in the following question? 17% of 173 - 10% of 150 = (?)^0.5",
+        "question":"What will come in place of the question mark (?) in the following question? 17% of 173 - 10% of 150 = \\((?)^(1/2)\\)",
         "option":[
           {
             "id":1,
@@ -4656,7 +4656,7 @@
         "negM": 0.25
       },
       {
-        "question":"Find the number of odd factors of 2^3 x 3^2 x 5^1 x 7^3",
+        "question":"Find the number of odd factors of \\(2^3 x 3^2 x 5^1 x 7^3\\)",
         "option":[
           {
             "id":1,
