@@ -4836,7 +4836,2406 @@
     "examStart" : "Nov 10, 2023 21:00:00",
     "examEnd" : "Nov 10, 2023 22:33:00",
     "questions":[
-      
+      {
+        "question":"Bihu is the folk dance form of which Indian state?",
+        "option":[
+          {
+            "id":1,
+            "option":"Maharashtra"
+          },
+          {
+            "id":2,
+            "option":"Assam"
+          },
+          {
+            "id":3,
+            "option":"Karnataka"
+          },
+          {
+            "id":4,
+            "option":"Bihar"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following festivals is held on a new moon day?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mahavir Jayanti"
+          },
+          {
+            "id":2,
+            "option":"Kali Puja"
+          },
+          {
+            "id":3,
+            "option":"Dussehra"
+          },
+          {
+            "id":4,
+            "option":"Holi"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When was the Indian Council of Agricultural Research (ICAR) established?",
+        "option":[
+          {
+            "id":1,
+            "option":"16th July 1935"
+          },
+          {
+            "id":2,
+            "option":"16th July 1929"
+          },
+          {
+            "id":3,
+            "option":"18th July 1929"
+          },
+          {
+            "id":4,
+            "option":"25th June 1935"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following materials is used to create the Traditional Namda Carpet of kashmir?",
+        "option":[
+          {
+            "id":1,
+            "option":"Cheetah skin"
+          },
+          {
+            "id":2,
+            "option":"Sheep wool"
+          },
+          {
+            "id":3,
+            "option":"Cotton"
+          },
+          {
+            "id":4,
+            "option":"Jute"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following founded Vijayanagara Empire?",
+        "option":[
+          {
+            "id":1,
+            "option":"Deva Raya I"
+          },
+          {
+            "id":2,
+            "option":"Harihara I and Bukka Raya I"
+          },
+          {
+            "id":3,
+            "option":"Narasimha Deva Raya"
+          },
+          {
+            "id":4,
+            "option":"Ramaraja"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following plant is a Bryophyte?",
+        "option":[
+          {
+            "id":1,
+            "option":"Cycas"
+          },
+          {
+            "id":2,
+            "option":"Algae"
+          },
+          {
+            "id":3,
+            "option":"Moss"
+          },
+          {
+            "id":4,
+            "option":"Fern"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who won the bronze medal at the BWF Men's singles World Championship 2023?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kidambi Srikanth"
+          },
+          {
+            "id":2,
+            "option":"Lakshya Sen"
+          },
+          {
+            "id":3,
+            "option":"HS Prannoy"
+          },
+          {
+            "id":4,
+            "option":"Srikanth Kadambi"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which Among the following notable personalities has been awarded the EU top Human rights Sakharov Prize?",
+        "option":[
+          {
+            "id":1,
+            "option":"Malala Yousufzei"
+          },
+          {
+            "id":2,
+            "option":"Vladimir Putin"
+          },
+          {
+            "id":3,
+            "option":"Alexei Navalny"
+          },
+          {
+            "id":4,
+            "option":"Greta Thenberg"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In cricket which of the following fielding positions is behind the batsman?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mid-wicket"
+          },
+          {
+            "id":2,
+            "option":"First slip"
+          },
+          {
+            "id":3,
+            "option":"Cover"
+          },
+          {
+            "id":4,
+            "option":"Mid off"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the name of the ingeniously developed Differential Global Navigation Satellite System(DGNSS) launched to enhance the Indian maritime sector?",
+        "option":[
+          {
+            "id":1,
+            "option":"Sagar Sampark"
+          },
+          {
+            "id":2,
+            "option":"Sagar Setu"
+          },
+          {
+            "id":3,
+            "option":"Samudra Sampark"
+          },
+          {
+            "id":4,
+            "option":"Sagar Sanket"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following was the capital of the Chola dynasty?",
+        "option":[
+          {
+            "id":1,
+            "option":"Karur"
+          },
+          {
+            "id":2,
+            "option":"Kanchi"
+          },
+          {
+            "id":3,
+            "option":"Madurai"
+          },
+          {
+            "id":4,
+            "option":"Thanjavur"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following countries is not a member of the Comprehensive and Progressive Agreement for Trans-Pacific Partnership (CPTPP)?",
+        "option":[
+          {
+            "id":1,
+            "option":"Australia"
+          },
+          {
+            "id":2,
+            "option":"Canada"
+          },
+          {
+            "id":3,
+            "option":"United Kingdom"
+          },
+          {
+            "id":4,
+            "option":"India"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which among the following states is Gir National Park situated?",
+        "option":[
+          {
+            "id":1,
+            "option":"Gujarat"
+          },
+          {
+            "id":2,
+            "option":"Himachal Pradesh"
+          },
+          {
+            "id":3,
+            "option":"Andhra Pradesh"
+          },
+          {
+            "id":4,
+            "option":"Maharastra"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Chilika Lake is situated in which of the following states?",
+        "option":[
+          {
+            "id":1,
+            "option":"Karnataka"
+          },
+          {
+            "id":2,
+            "option":"Kerala"
+          },
+          {
+            "id":3,
+            "option":"Odisha"
+          },
+          {
+            "id":4,
+            "option":"Andhra Pradesh"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Bihu is the folk dance form of which Indian state?",
+        "option":[
+          {
+            "id":1,
+            "option":"Maharashtra"
+          },
+          {
+            "id":2,
+            "option":"Assam"
+          },
+          {
+            "id":3,
+            "option":"Karnataka"
+          },
+          {
+            "id":4,
+            "option":"Bihar"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which rainforests are known as the lungs of the earth?",
+        "option":[
+          {
+            "id":1,
+            "option":"Sundarban"
+          },
+          {
+            "id":2,
+            "option":"Sundarland"
+          },
+          {
+            "id":3,
+            "option":"Indo-Burma"
+          },
+          {
+            "id":4,
+            "option":"Amazon"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following was the first to use the word 'Sanyasi rebellion'?",
+        "option":[
+          {
+            "id":1,
+            "option":"Vincent Smith"
+          },
+          {
+            "id":2,
+            "option":"James Mill"
+          },
+          {
+            "id":3,
+            "option":"Warren Hastings"
+          },
+          {
+            "id":4,
+            "option":"Lord Cornwallis"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Apatani tribe belong to which region?",
+        "option":[
+          {
+            "id":1,
+            "option":"Arunachal Pradesh"
+          },
+          {
+            "id":2,
+            "option":"Manipur"
+          },
+          {
+            "id":3,
+            "option":"Assam"
+          },
+          {
+            "id":4,
+            "option":"Bihar"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following organelles of cells produce ATP?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mitochondria"
+          },
+          {
+            "id":2,
+            "option":"Cytoplasm"
+          },
+          {
+            "id":3,
+            "option":"Plasma Membrane"
+          },
+          {
+            "id":4,
+            "option":"Golgi Apparatus"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the full form of MSF in the context of banking?",
+        "option":[
+          {
+            "id":1,
+            "option":"Marginal Stage Facility"
+          },
+          {
+            "id":2,
+            "option":"Marginal Standing Facility"
+          },
+          {
+            "id":3,
+            "option":"Merger Stage Facility"
+          },
+          {
+            "id":4,
+            "option":"More Security Facility"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following countries is the largest groundwater user globally under The United Nations World Water Development Report 2022?",
+        "option":[
+          {
+            "id":1,
+            "option":"USA"
+          },
+          {
+            "id":2,
+            "option":"Pakistan"
+          },
+          {
+            "id":3,
+            "option":"China"
+          },
+          {
+            "id":4,
+            "option":"India"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the theme of the 11th meeting of the Executive board of the Association of World Election Bodies (A-WEB)?",
+        "option":[
+          {
+            "id":1,
+            "option":"A global view on the challenges of regional elections 2023"
+          },
+          {
+            "id":2,
+            "option":"Elections in democratic Nations"
+          },
+          {
+            "id":3,
+            "option":"Free and Fair Elections"
+          },
+          {
+            "id":4,
+            "option":"Global View on Proxy Elections"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which committee was created to provide a report on poverty in India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Narsimhan Committee"
+          },
+          {
+            "id":2,
+            "option":"Choren Committee"
+          },
+          {
+            "id":3,
+            "option":"Mehta Committee"
+          },
+          {
+            "id":4,
+            "option":"Rangarajan Committee"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In case of the death of the President and the Vice President of India, the ________ will act as the President of India.",
+        "option":[
+          {
+            "id":1,
+            "option":"Chief Justice of India"
+          },
+          {
+            "id":2,
+            "option":"Prime Minister of India"
+          },
+          {
+            "id":3,
+            "option":"Attorney General of India"
+          },
+          {
+            "id":4,
+            "option":"Parliament chosen candidate"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Pakistan Resolution was passed in which session of Muslim League?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kanpur session"
+          },
+          {
+            "id":2,
+            "option":"Dhaka session"
+          },
+          {
+            "id":3,
+            "option":"Lahore session"
+          },
+          {
+            "id":4,
+            "option":"Calcutta session"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"'Khuang' is a traditional musical instrument of which state?",
+        "option":[
+          {
+            "id":1,
+            "option":"Assam"
+          },
+          {
+            "id":2,
+            "option":"Mizoram"
+          },
+          {
+            "id":3,
+            "option":"Jharkhand"
+          },
+          {
+            "id":4,
+            "option":"West Bengal"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What happens to Inflation in case the interest rate increases?",
+        "option":[
+          {
+            "id":1,
+            "option":"Increases"
+          },
+          {
+            "id":2,
+            "option":"Decreases"
+          },
+          {
+            "id":3,
+            "option":"Remains Constant"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the first woman to become the governor of an Indian state?",
+        "option":[
+          {
+            "id":1,
+            "option":"Sarojini Naidu"
+          },
+          {
+            "id":2,
+            "option":"Vijay Laxmi Pandit"
+          },
+          {
+            "id":3,
+            "option":"Aruna Asaf Ali"
+          },
+          {
+            "id":4,
+            "option":"Krishna Hutheesing"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the first Chinese traveller to visit India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Fa-hien"
+          },
+          {
+            "id":2,
+            "option":"Hiuen Tsang "
+          },
+          {
+            "id":3,
+            "option":"Marco Polo "
+          },
+          {
+            "id":4,
+            "option":"Megasthenes"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the blocks contain alkali and alkaline earth metals?",
+        "option":[
+          {
+            "id":1,
+            "option":"s-block"
+          },
+          {
+            "id":2,
+            "option":"p-block"
+          },
+          {
+            "id":3,
+            "option":"d-block"
+          },
+          {
+            "id":4,
+            "option":"f-block"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following books is written by Sudha Murthy?",
+        "option":[
+          {
+            "id":1,
+            "option":"Interpreter of Maladies"
+          },
+          {
+            "id":2,
+            "option":"Unaccustomed Earth"
+          },
+          {
+            "id":3,
+            "option":"The Namesake"
+          },
+          {
+            "id":4,
+            "option":"Mahashweta"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What are the ways in which one can lose Indian citizenship?",
+        "option":[
+          {
+            "id":1,
+            "option":"Termination"
+          },
+          {
+            "id":2,
+            "option":"Deprivation"
+          },
+          {
+            "id":3,
+            "option":"Renunciation"
+          },
+          {
+            "id":4,
+            "option":"All of the above"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following wars ended the Lodi kingdom and gave rise to Mughal Era?",
+        "option":[
+          {
+            "id":1,
+            "option":"First Battle of Panipat"
+          },
+          {
+            "id":2,
+            "option":"Battle of Chausa"
+          },
+          {
+            "id":3,
+            "option":"Battle of Kannauj"
+          },
+          {
+            "id":4,
+            "option":"Battle of Tarain"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which type of farming system, Farmer uses a limited amount of labor and capital on a relatively large area?",
+        "option":[
+          {
+            "id":1,
+            "option":"Intensive Farming"
+          },
+          {
+            "id":2,
+            "option":"Subsistence Farming"
+          },
+          {
+            "id":3,
+            "option":"Extensive Farming"
+          },
+          {
+            "id":4,
+            "option":"Shifting Farming"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following Amendment changed the description of the Preamble of the Indian Constitution?",
+        "option":[
+          {
+            "id":1,
+            "option":"61st Amendment"
+          },
+          {
+            "id":2,
+            "option":"44th Amendment"
+          },
+          {
+            "id":3,
+            "option":"42nd Amendment"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the abbreviated form of the IPL franchise cricket team from Chennai?",
+        "option":[
+          {
+            "id":1,
+            "option":"GCW"
+          },
+          {
+            "id":2,
+            "option":"CSK"
+          },
+          {
+            "id":3,
+            "option":"CA"
+          },
+          {
+            "id":4,
+            "option":"CL"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who wrote the National song of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rabindranath Tagore"
+          },
+          {
+            "id":2,
+            "option":"Bankim Chandra Chatterjee"
+          },
+          {
+            "id":3,
+            "option":"Mohammed Iqbal"
+          },
+          {
+            "id":4,
+            "option":"Chitragupta"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which edition of Asian Games is to be held in 2023 at Hangzhou, China?",
+        "option":[
+          {
+            "id":1,
+            "option":"18th"
+          },
+          {
+            "id":2,
+            "option":"19th"
+          },
+          {
+            "id":3,
+            "option":"17th"
+          },
+          {
+            "id":4,
+            "option":"21st"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What percentage of the Earth's volume is the core?",
+        "option":[
+          {
+            "id":1,
+            "option":"5%"
+          },
+          {
+            "id":2,
+            "option":"15%"
+          },
+          {
+            "id":3,
+            "option":"20%"
+          },
+          {
+            "id":4,
+            "option":"16%"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which type of epithelial tissue is present in the lining kidney tubules and ducts of salivary glands?",
+        "option":[
+          {
+            "id":1,
+            "option":"Cuboidal Epithelial Tissue"
+          },
+          {
+            "id":2,
+            "option":"Columnar Epithelial Tissue"
+          },
+          {
+            "id":3,
+            "option":"Stratified Epithelial Tissue "
+          },
+          {
+            "id":4,
+            "option":"Squamous Epithelial Tissue"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following was the first Governor of the Reserve Bank of Independent India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Urjit Patel"
+          },
+          {
+            "id":2,
+            "option":"D. Subbarao"
+          },
+          {
+            "id":3,
+            "option":"Raghuram Rajan"
+          },
+          {
+            "id":4,
+            "option":"C. D. Deshmukh"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following heads the GST Council?",
+        "option":[
+          {
+            "id":1,
+            "option":"Finance Secretary"
+          },
+          {
+            "id":2,
+            "option":"Finance Minister"
+          },
+          {
+            "id":3,
+            "option":"Prime Minister"
+          },
+          {
+            "id":4,
+            "option":"Cabinet Secretary"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Where is Vittala Temple located?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kochi"
+          },
+          {
+            "id":2,
+            "option":"Hampi"
+          },
+          {
+            "id":3,
+            "option":"Rameshwar"
+          },
+          {
+            "id":4,
+            "option":"Thanjavur"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which act gives authority to White Label ATMs in India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Banking Regulation Act"
+          },
+          {
+            "id":2,
+            "option":"Payment & Settlement Systems Act"
+          },
+          {
+            "id":3,
+            "option":"Corporate Societies Act"
+          },
+          {
+            "id":4,
+            "option":"Companies Act"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the first Muslim President of the Indian National Congress?",
+        "option":[
+          {
+            "id":1,
+            "option":"Badruddin Tyabji"
+          },
+          {
+            "id":2,
+            "option":"Sir Sayyed Ahmad Khan"
+          },
+          {
+            "id":3,
+            "option":"Muhammad Ali Jinnah"
+          },
+          {
+            "id":4,
+            "option":"Abul Kalam Azad"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Chief Justice of a High Court is appointed by _________.",
+        "option":[
+          {
+            "id":1,
+            "option":"By the President after consultation with the Chief Justice of India (CJI)"
+          },
+          {
+            "id":2,
+            "option":"The President after consultation with the CJI & Governor of State"
+          },
+          {
+            "id":3,
+            "option":"The Governor on the recommendation of President who in turn consults the CJI"
+          },
+          {
+            "id":4,
+            "option":"The President after consultation with the Governor of the State and a collegium of two very senior Supreme Court judges headed by CJI"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Calculate the Power generated if the Work done is 24000 J in 1 minute.",
+        "option":[
+          {
+            "id":1,
+            "option":"400 W"
+          },
+          {
+            "id":2,
+            "option":"600 W"
+          },
+          {
+            "id":3,
+            "option":"2400 W"
+          },
+          {
+            "id":4,
+            "option":"1200 W"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"‘Golden Revolution’ is related to _____.",
+        "option":[
+          {
+            "id":1,
+            "option":"Precious minerals"
+          },
+          {
+            "id":2,
+            "option":"Pulses "
+          },
+          {
+            "id":3,
+            "option":"Jute"
+          },
+          {
+            "id":4,
+            "option":"Horticulture"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The festival of Durga Puja is observed to celebrate the triumph of Goddess Durga over",
+        "option":[
+          {
+            "id":1,
+            "option":"Mahishasura"
+          },
+          {
+            "id":2,
+            "option":"Hiranyakashipu"
+          },
+          {
+            "id":3,
+            "option":"Ravana"
+          },
+          {
+            "id":4,
+            "option":"Jarasandha"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following schedules of the Indian Constitution includes the allocation of seats by the states and union territories in Rajya Sabha?",
+        "option":[
+          {
+            "id":1,
+            "option":"Fifth Schedule"
+          },
+          {
+            "id":2,
+            "option":"Second Schedule"
+          },
+          {
+            "id":3,
+            "option":"Third Schedule"
+          },
+          {
+            "id":4,
+            "option":"Fourth Schedule"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1f2VKfe2m5FjOQwg69YhsPF8sX8NMPBR3",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1gq8iKBBIk8HDwmg0TEtpFAZQfsCN1bkh",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the option that is related to the third term in the same way as the first term is related to the second term. 6 : 18 : : 4 : ?",
+        "option":[
+          {
+            "id":1,
+            "option":"2"
+          },
+          {
+            "id":2,
+            "option":"8"
+          },
+          {
+            "id":3,
+            "option":"16"
+          },
+          {
+            "id":4,
+            "option":"6"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In the following question, select the related number from the given alternatives. 39 : 54 :: 53 : ?",
+        "option":[
+          {
+            "id":1,
+            "option":"-112"
+          },
+          {
+            "id":2,
+            "option":"-116"
+          },
+          {
+            "id":3,
+            "option":"-146"
+          },
+          {
+            "id":4,
+            "option":"441"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=15H99hXici6yUt1h1HQHdOS3XQahCPXmv",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1_P0-DnxvjnSgLb_mDWOKsjmpR0z10ubk",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=16abQX99ht0FqlxLUsDNZ5uWbUuZ2BiBT",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1omeaktAvL990_ZeSt_J3xc695G3Ni_-8",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1uGOjw5U0EI2E6rD3XsOwMK_PNPR1fr5i",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1VQN9RCPpNnvhm5w3do7jOoxzk-RKgRuy",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1omk5gOC_fvFSrSmoztavjethsmdoakzj",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1eHp3EQgp0fhAUIh_GJyQqhOPyp5naDef",
+        "option":[
+          {
+            "id":1,
+            "option":"19"
+          },
+          {
+            "id":2,
+            "option":"28"
+          },
+          {
+            "id":3,
+            "option":"16"
+          },
+          {
+            "id":4,
+            "option":"14"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1HbkBi0Ntp2-B4aehld3ReBlkPLia_RMy",
+        "option":[
+          {
+            "id":1,
+            "option":"4"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"7"
+          },
+          {
+            "id":4,
+            "option":"8"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1mvowrUUSX7PhhMhGmKWozCDvQeAXS90H",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"4"
+          },
+          {
+            "id":4,
+            "option":"5"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which two signs should be interchanged to make the given equation correct? 12 × 8 ÷ 36 + 3 - 6 = 102",
+        "option":[
+          {
+            "id":1,
+            "option":"× and +"
+          },
+          {
+            "id":2,
+            "option":"+ and -"
+          },
+          {
+            "id":3,
+            "option":"÷ and ×"
+          },
+          {
+            "id":4,
+            "option":"÷ and +"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the term that relates to the third term in the same way that the second term relates to the first term. Ammeter : Current : : Ohmmeter : ?",
+        "option":[
+          {
+            "id":1,
+            "option":"Pressure"
+          },
+          {
+            "id":2,
+            "option":"Resistance"
+          },
+          {
+            "id":3,
+            "option":"Speed"
+          },
+          {
+            "id":4,
+            "option":"Voltage"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=134R2Kw23kTfw8ULxq3rbl8zbbB79eyRu",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=18yy6A8olLjZzzYmeZIstYy6UlxaE1x9V",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the correct option that will fill in the blank and complete the series. GHI, IKN, ?, CKR",
+        "option":[
+          {
+            "id":1,
+            "option":"PTY"
+          },
+          {
+            "id":2,
+            "option":"OSX"
+          },
+          {
+            "id":3,
+            "option":"TYP"
+          },
+          {
+            "id":4,
+            "option":"QSZ"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the missing term in the following series: P$T, S@Y, N#R, ?, L%P",
+        "option":[
+          {
+            "id":1,
+            "option":"H%H"
+          },
+          {
+            "id":2,
+            "option":"U@H"
+          },
+          {
+            "id":3,
+            "option":"U*A"
+          },
+          {
+            "id":4,
+            "option":"S%G"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1UVmgL-HMAuVpKOv4WqhKka_2t6SAK5zR",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1iYzxzmfxDMd5IK4BDIKZd0ubOPz-WlQu",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is different from the other three?",
+        "option":[
+          {
+            "id":1,
+            "option":"Crocodile"
+          },
+          {
+            "id":2,
+            "option":"Sea Horse"
+          },
+          {
+            "id":3,
+            "option":"Turtle"
+          },
+          {
+            "id":4,
+            "option":"Frog"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"If in a certain code, 'DRIVER' is coded as 'XJSFWJ', 'SHARE' is coded as 'ITAJW'. Then, how is the word 'PROPHET' written in the same code language?",
+        "option":[
+          {
+            "id":1,
+            "option":"LJLMWTH"
+          },
+          {
+            "id":2,
+            "option":"LJMLTWH"
+          },
+          {
+            "id":3,
+            "option":"KILKSVG"
+          },
+          {
+            "id":4,
+            "option":"HWTLMJL"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1NFePMtF6tkcCf42M9yhne1TPM2zmz_lD",
+        "option":[
+          {
+            "id":1,
+            "option":"21"
+          },
+          {
+            "id":2,
+            "option":"23"
+          },
+          {
+            "id":3,
+            "option":"37"
+          },
+          {
+            "id":4,
+            "option":"40"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Applications are often referred to as _____",
+        "option":[
+          {
+            "id":1,
+            "option":"Deployment tools"
+          },
+          {
+            "id":2,
+            "option":"Word processors"
+          },
+          {
+            "id":3,
+            "option":"Database programs"
+          },
+          {
+            "id":4,
+            "option":"all of these"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What are the features of Microsoft Windows?",
+        "option":[
+          {
+            "id":1,
+            "option":"Windows control computer access to users for computer’s security."
+          },
+          {
+            "id":2,
+            "option":"Windows allows its user to interact with the system (using a keyboard, mouse, microphone, etc.)."
+          },
+          {
+            "id":3,
+            "option":"It controls memory allocation, data storage in a computer system."
+          },
+          {
+            "id":4,
+            "option":"all of these"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Key to permanent delete the file without sending it to the recycle bin.",
+        "option":[
+          {
+            "id":1,
+            "option":"Alt+Del"
+          },
+          {
+            "id":2,
+            "option":"Ctrl+Del"
+          },
+          {
+            "id":3,
+            "option":"Delete"
+          },
+          {
+            "id":4,
+            "option":"Shift + Delete"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is used to decrease font by 1 unit in MS Word?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ctrl + Shift + F10"
+          },
+          {
+            "id":2,
+            "option":"Ctrl + Shift + *"
+          },
+          {
+            "id":3,
+            "option":"Ctrl + Shift + <"
+          },
+          {
+            "id":4,
+            "option":"Ctrl + Alt + 1"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is/are included in a Software Suite? 1. Manual 2. Specifications 3. Configuration 4. Warranty Card",
+        "option":[
+          {
+            "id":1,
+            "option":"1, 2"
+          },
+          {
+            "id":2,
+            "option":"1, 2, 3"
+          },
+          {
+            "id":3,
+            "option":"2, 3"
+          },
+          {
+            "id":4,
+            "option":"1, 2, 3, 4"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the shortcut to restore the accidentally closed browser tab or window?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ctrl+Shift+R"
+          },
+          {
+            "id":2,
+            "option":"Ctrl+Shift+T"
+          },
+          {
+            "id":3,
+            "option":"Ctrl+Shift+S"
+          },
+          {
+            "id":4,
+            "option":"Ctrl+Shift+Y"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the shortcut key to cut the selected item?",
+        "option":[
+          {
+            "id":1,
+            "option":"Ctrl+X"
+          },
+          {
+            "id":2,
+            "option":"Ctrl+C"
+          },
+          {
+            "id":3,
+            "option":"Ctrl+U"
+          },
+          {
+            "id":4,
+            "option":"Ctrl+S"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which of the following topologies, there is a hub or switch box to which all workstations are directly connected?",
+        "option":[
+          {
+            "id":1,
+            "option":"Bus topology"
+          },
+          {
+            "id":2,
+            "option":"Star topology"
+          },
+          {
+            "id":3,
+            "option":"Ring topology"
+          },
+          {
+            "id":4,
+            "option":"Mesh topology"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"_______ is a computer network used for communication among computers and different IT devices which is close to one person.",
+        "option":[
+          {
+            "id":1,
+            "option":"MAN"
+          },
+          {
+            "id":2,
+            "option":"PAN"
+          },
+          {
+            "id":3,
+            "option":"VPN"
+          },
+          {
+            "id":4,
+            "option":"LAN"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"which of the following is an extension of a temporary file?",
+        "option":[
+          {
+            "id":1,
+            "option":".tmp"
+          },
+          {
+            "id":2,
+            "option":".txt"
+          },
+          {
+            "id":3,
+            "option":".tnt"
+          },
+          {
+            "id":4,
+            "option":".tar"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A family of 4 members' expenditure shoots up by 20% after the increase in the prices of rice by 25%. By how much percentage the consumption of rice would fall for the family?",
+        "option":[
+          {
+            "id":1,
+            "option":"5%"
+          },
+          {
+            "id":2,
+            "option":"4%"
+          },
+          {
+            "id":3,
+            "option":"4.5%"
+          },
+          {
+            "id":4,
+            "option":"Cannot be determined"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is 40% of 24 - 22% of 250/11?",
+        "option":[
+          {
+            "id":1,
+            "option":"-3.2"
+          },
+          {
+            "id":2,
+            "option":"4.6"
+          },
+          {
+            "id":3,
+            "option":"5.2"
+          },
+          {
+            "id":4,
+            "option":"-4.8"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The dimensions of the cuboid are 20 × 8 × 5m what is the cost of painting the cuboid if the cost of painting 1m^2 area is Rs 15",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 9870"
+          },
+          {
+            "id":2,
+            "option":"Rs 14000"
+          },
+          {
+            "id":3,
+            "option":"Rs 7500"
+          },
+          {
+            "id":4,
+            "option":"Rs 9000"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Three numbers are in the ratio of 2 : 3 : 4 and their HCF is 12. Then find the LCM of these numbers.",
+        "option":[
+          {
+            "id":1,
+            "option":"144"
+          },
+          {
+            "id":2,
+            "option":"96"
+          },
+          {
+            "id":3,
+            "option":"112"
+          },
+          {
+            "id":4,
+            "option":"148"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"N has 5 factors, how many values of N < 100 is possible?",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"From a solution of milk and water of ratio 3 : 2, a milkman replaces 10L of mixture with the same amount of water then the ratio becomes 2 : 3. Find the total quantity of mixture.",
+        "option":[
+          {
+            "id":1,
+            "option":"10 L"
+          },
+          {
+            "id":2,
+            "option":"15 L"
+          },
+          {
+            "id":3,
+            "option":"30 L"
+          },
+          {
+            "id":4,
+            "option":"20 L"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What will be the interest on Rs.5000 for 1.5 years at the ratio of 20% compounded semi-annually?",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 1655"
+          },
+          {
+            "id":2,
+            "option":"Rs 1331"
+          },
+          {
+            "id":3,
+            "option":"Rs 2555"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"6 men and 3 women can complete a task in 8 days,2 men and 5 women can complete the same task in 12 days. How many days it would take to complete the work by 3 men and 3 women?",
+        "option":[
+          {
+            "id":1,
+            "option":"13.5 days"
+          },
+          {
+            "id":2,
+            "option":"15.4 days"
+          },
+          {
+            "id":3,
+            "option":"12.8 days"
+          },
+          {
+            "id":4,
+            "option":"14 days"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The ratio of father and his son age is 5 : 1. The average of their age is 24. what is the age of father after 6 years?",
+        "option":[
+          {
+            "id":1,
+            "option":"40"
+          },
+          {
+            "id":2,
+            "option":"46"
+          },
+          {
+            "id":3,
+            "option":"34"
+          },
+          {
+            "id":4,
+            "option":"12"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A number 17% more than x is equal to another number 35% lesser than y. What is the value of (y + x)/(y – x)?",
+        "option":[
+          {
+            "id":1,
+            "option":"2.5"
+          },
+          {
+            "id":2,
+            "option":"3.5"
+          },
+          {
+            "id":3,
+            "option":"5"
+          },
+          {
+            "id":4,
+            "option":"7"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A certain amount of money earns Rs 450 as a simple interest in 2 years. If it earns compound interest of Rs 472.5 at the same rate of interest. Find the rate of interest.",
+        "option":[
+          {
+            "id":1,
+            "option":"10%"
+          },
+          {
+            "id":2,
+            "option":"12%"
+          },
+          {
+            "id":3,
+            "option":"8%"
+          },
+          {
+            "id":4,
+            "option":"7.5%"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Two types of notebooks marked at Rs 30 and Rs 25 are sold in the market. If the discount% offered on Rs 30 notebook and Rs 25 notebook are 30% and 20%, what is the average discount%? The total numbers of Rs 30 notebooks and Rs 25 notebooks sold are 200 and 160 respectively.",
+        "option":[
+          {
+            "id":1,
+            "option":"25"
+          },
+          {
+            "id":2,
+            "option":"26"
+          },
+          {
+            "id":3,
+            "option":"27"
+          },
+          {
+            "id":4,
+            "option":"28"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The perimeter of a rectangle is 28 cm. If the length is 5/2 times its breadth, find the length and breadth of the rectangle (in cm).",
+        "option":[
+          {
+            "id":1,
+            "option":"9 and 5"
+          },
+          {
+            "id":2,
+            "option":"10 and 4"
+          },
+          {
+            "id":3,
+            "option":"6 and 7"
+          },
+          {
+            "id":4,
+            "option":"11 and 3"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A sailor was sailing at a speed of 15 m/s whereas the speed of a stream of 5 m/s. He travelled for 3 hours against the stream then he realised he passed his desired location so he travelled back for 30 minutes more in the direction of the stream. Find the total distance travelled by boat.",
+        "option":[
+          {
+            "id":1,
+            "option":"126m"
+          },
+          {
+            "id":2,
+            "option":"172km"
+          },
+          {
+            "id":3,
+            "option":"144km"
+          },
+          {
+            "id":4,
+            "option":"144km"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"If the selling price of an article is Rs.550 while the marked price is Rs.800 then, what is the approx discount percentage given on that article?",
+        "option":[
+          {
+            "id":1,
+            "option":"23 %"
+          },
+          {
+            "id":2,
+            "option":"31 %"
+          },
+          {
+            "id":3,
+            "option":"41 %"
+          },
+          {
+            "id":4,
+            "option":"30 %"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      }
     ]
   },
   {
