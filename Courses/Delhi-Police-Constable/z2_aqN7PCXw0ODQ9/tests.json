@@ -9662,7 +9662,2406 @@
     "examStart" : "Nov 14, 2023 21:00:00",
     "examEnd" : "Nov 14, 2023 22:33:00",
     "questions":[
-      
+      {
+        "question":"Kandyan Dance is a typical dance form practiced in ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Nepal"
+          },
+          {
+            "id":2,
+            "option":"Bhutan"
+          },
+          {
+            "id":3,
+            "option":"India"
+          },
+          {
+            "id":4,
+            "option":"Sri Lanka"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Under whose patronage was the Fourth Buddhist Council held at Kashmir, wherein Buddhism got divided into Mahayana and Hinayana?",
+        "option":[
+          {
+            "id":1,
+            "option":"King Kanishka"
+          },
+          {
+            "id":2,
+            "option":"King Ashoka"
+          },
+          {
+            "id":3,
+            "option":"King Kalasoka"
+          },
+          {
+            "id":4,
+            "option":"King Ajatashatru"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the Governor General of the French during the First Anglo-French War?",
+        "option":[
+          {
+            "id":1,
+            "option":"Marquis Joseph-Francois Dupleix"
+          },
+          {
+            "id":2,
+            "option":"Admiral La Bourdonnais"
+          },
+          {
+            "id":3,
+            "option":"General Eyre Coote"
+          },
+          {
+            "id":4,
+            "option":"Count de Lally"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Global Technical Textile Market size to reach USD 272.3 Billion by ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"2025"
+          },
+          {
+            "id":2,
+            "option":"2040"
+          },
+          {
+            "id":3,
+            "option":"2030"
+          },
+          {
+            "id":4,
+            "option":"2035"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which battle was fought between Mohammad Ghori and Prithviraj Chauhan?",
+        "option":[
+          {
+            "id":1,
+            "option":"Battle of Buxar"
+          },
+          {
+            "id":2,
+            "option":"Battle of Khanwa"
+          },
+          {
+            "id":3,
+            "option":"Battle of Plassey"
+          },
+          {
+            "id":4,
+            "option":"Battle of Tarain"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The third pillar of the BASEL-II Accord is known as __________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Bundle of Rights"
+          },
+          {
+            "id":2,
+            "option":"Exchange Control"
+          },
+          {
+            "id":3,
+            "option":"Market Discipline"
+          },
+          {
+            "id":4,
+            "option":"Stare Decisis"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the SI unit of temperature?",
+        "option":[
+          {
+            "id":1,
+            "option":"Candela"
+          },
+          {
+            "id":2,
+            "option":"Kelvin"
+          },
+          {
+            "id":3,
+            "option":"Ampere"
+          },
+          {
+            "id":4,
+            "option":"Mole"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which lake in India is the result of tectonic activity?",
+        "option":[
+          {
+            "id":1,
+            "option":"Wular lake"
+          },
+          {
+            "id":2,
+            "option":"Barapani lake"
+          },
+          {
+            "id":3,
+            "option":"Dal lake"
+          },
+          {
+            "id":4,
+            "option":"Loktak lake"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following was the first Finance Minister of Independent India?",
+        "option":[
+          {
+            "id":1,
+            "option":"R.K. Shanmukham Chetty"
+          },
+          {
+            "id":2,
+            "option":"CD Deshmukh"
+          },
+          {
+            "id":3,
+            "option":"Liaquat Ali Khan"
+          },
+          {
+            "id":4,
+            "option":"K.C. Neogy"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The _____ is a structure that usually protects the flower bud before it blooms.",
+        "option":[
+          {
+            "id":1,
+            "option":"Sepal"
+          },
+          {
+            "id":2,
+            "option":"Petal"
+          },
+          {
+            "id":3,
+            "option":"Stipule"
+          },
+          {
+            "id":4,
+            "option":"Whorled leaves"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"How many members are required in Lok sabha to form the Government?",
+        "option":[
+          {
+            "id":1,
+            "option":"245"
+          },
+          {
+            "id":2,
+            "option":"320"
+          },
+          {
+            "id":3,
+            "option":"545"
+          },
+          {
+            "id":4,
+            "option":"547"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who is known as the father of Blue Revolution in India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Verghese Kurien "
+          },
+          {
+            "id":2,
+            "option":"Sam Pitroda"
+          },
+          {
+            "id":3,
+            "option":"Hiralal Chaudhuri "
+          },
+          {
+            "id":4,
+            "option":"M.S. Swaminathan "
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following finished second at Australian Open Super 100 Badminton tournament 2023?",
+        "option":[
+          {
+            "id":1,
+            "option":"PV Sindhu"
+          },
+          {
+            "id":2,
+            "option":"HS Prannoy"
+          },
+          {
+            "id":3,
+            "option":"Sania Nehwal"
+          },
+          {
+            "id":4,
+            "option":"Kadambi Srikant"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following was the leader on the East India Company side in the Battle of Plassey?",
+        "option":[
+          {
+            "id":1,
+            "option":"Robert Clive"
+          },
+          {
+            "id":2,
+            "option":"Adam Smith"
+          },
+          {
+            "id":3,
+            "option":"Robert Gatsby"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In which of the following places does India International Trade Fair take place?",
+        "option":[
+          {
+            "id":1,
+            "option":"Mumbai"
+          },
+          {
+            "id":2,
+            "option":"Pune"
+          },
+          {
+            "id":3,
+            "option":"Hyderabad"
+          },
+          {
+            "id":4,
+            "option":"New Delhi"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the first Chief Minister of Haryana?",
+        "option":[
+          {
+            "id":1,
+            "option":"Bhagwat Dayal Sharma"
+          },
+          {
+            "id":2,
+            "option":"Rao Birender Singh  "
+          },
+          {
+            "id":3,
+            "option":"Bansi Lal"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which Lodi Sultan re-imposed Jizya on non-muslims?",
+        "option":[
+          {
+            "id":1,
+            "option":"Bahlul Lodi"
+          },
+          {
+            "id":2,
+            "option":"Sikandar Lodi"
+          },
+          {
+            "id":3,
+            "option":"Ibrahim Lodi"
+          },
+          {
+            "id":4,
+            "option":"Daulat Khan Lodi"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Based on the growth habit, plants can broadly be categorized into how many groups?",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"4"
+          },
+          {
+            "id":3,
+            "option":"5"
+          },
+          {
+            "id":4,
+            "option":"2"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"From which of the following countries has the Indian Constitution acquired the form of a 'written constitution'? ",
+        "option":[
+          {
+            "id":1,
+            "option":"USSR"
+          },
+          {
+            "id":2,
+            "option":"UK"
+          },
+          {
+            "id":3,
+            "option":"USA"
+          },
+          {
+            "id":4,
+            "option":"Japan"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which is the largest fresh water lake in the World?",
+        "option":[
+          {
+            "id":1,
+            "option":"Lake Victoria"
+          },
+          {
+            "id":2,
+            "option":"Lake Erie"
+          },
+          {
+            "id":3,
+            "option":"Lake Superior"
+          },
+          {
+            "id":4,
+            "option":"Lake Ontario"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What does the budget deficit of the Central Government for a particular financial year indicate?",
+        "option":[
+          {
+            "id":1,
+            "option":"The Total amount of revenue receipts"
+          },
+          {
+            "id":2,
+            "option":"The Total amount of capital receipts"
+          },
+          {
+            "id":3,
+            "option":"The amount of money that the Government has to borrow"
+          },
+          {
+            "id":4,
+            "option":"The Total amount of estimated Government expenditure"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is a UNESCO Intangible Cultural Heritage?",
+        "option":[
+          {
+            "id":1,
+            "option":"Yoga"
+          },
+          {
+            "id":2,
+            "option":"Kumbh Mela"
+          },
+          {
+            "id":3,
+            "option":"Durga Puja in Kolkata"
+          },
+          {
+            "id":4,
+            "option":"All of the above"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The painting of Bharat Mata was originally done by ______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Jamini Roy"
+          },
+          {
+            "id":2,
+            "option":"Rabindranath Tagore"
+          },
+          {
+            "id":3,
+            "option":"Nandalal Bose"
+          },
+          {
+            "id":4,
+            "option":"Abanindranath Tagore"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Partition of Bengal was carried out in which year?",
+        "option":[
+          {
+            "id":1,
+            "option":"1906"
+          },
+          {
+            "id":2,
+            "option":"1905"
+          },
+          {
+            "id":3,
+            "option":"1903"
+          },
+          {
+            "id":4,
+            "option":"1913"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following Covid 19 variants has become a variant of concern in the United Kingdom?",
+        "option":[
+          {
+            "id":1,
+            "option":"ERIS"
+          },
+          {
+            "id":2,
+            "option":"ESKON"
+          },
+          {
+            "id":3,
+            "option":"JELLY"
+          },
+          {
+            "id":4,
+            "option":"IRIS"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The tribe 'Birhors' are mainly found in ________.",
+        "option":[
+          {
+            "id":1,
+            "option":"Arunachal Pradesh"
+          },
+          {
+            "id":2,
+            "option":"Jharkhand"
+          },
+          {
+            "id":3,
+            "option":"Himachal Pradesh"
+          },
+          {
+            "id":4,
+            "option":"Jammu and Kashmir"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was the first Vice-President of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"C. Rajagopalachari"
+          },
+          {
+            "id":2,
+            "option":"Sarvepalli Radhakrishnan"
+          },
+          {
+            "id":3,
+            "option":"Zakir Husain"
+          },
+          {
+            "id":4,
+            "option":"Rajendra Prasad"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which statements are true about Buddhism? 1. He did not reject Varna and Jati 2. He challenged the highest social category of the Brahmin class 3. He considered certain crafts as inferior.",
+        "option":[
+          {
+            "id":1,
+            "option":"1 and 2"
+          },
+          {
+            "id":2,
+            "option":"2 and 3"
+          },
+          {
+            "id":3,
+            "option":"1, 2 and 3"
+          },
+          {
+            "id":4,
+            "option":"None of the above"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following was the single biggest item of import to the Vijayanagar Empire?",
+        "option":[
+          {
+            "id":1,
+            "option":"Pearl"
+          },
+          {
+            "id":2,
+            "option":"Precious stones"
+          },
+          {
+            "id":3,
+            "option":"Horses"
+          },
+          {
+            "id":4,
+            "option":"Silk"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"What is the minimum age required for becoming Prime Minister of India?",
+        "option":[
+          {
+            "id":1,
+            "option":"25"
+          },
+          {
+            "id":2,
+            "option":"30"
+          },
+          {
+            "id":3,
+            "option":"35"
+          },
+          {
+            "id":4,
+            "option":"40"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which DTH company is to expand bandwidth with exclusive capacity on GSAT-24?",
+        "option":[
+          {
+            "id":1,
+            "option":"Tata play"
+          },
+          {
+            "id":2,
+            "option":"Sky"
+          },
+          {
+            "id":3,
+            "option":"Jio"
+          },
+          {
+            "id":4,
+            "option":"Airtel"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Shaligram is a fossilised stone collected from the riverbed or banks of river _______.",
+        "option":[
+          {
+            "id":1,
+            "option":"Tungabhadra"
+          },
+          {
+            "id":2,
+            "option":"Kali Gandaki"
+          },
+          {
+            "id":3,
+            "option":"Godavari"
+          },
+          {
+            "id":4,
+            "option":"Krishna"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who among the following chaired the 38th meeting of the Committee of Parliament on Official Language?",
+        "option":[
+          {
+            "id":1,
+            "option":"President"
+          },
+          {
+            "id":2,
+            "option":"Prime Minister "
+          },
+          {
+            "id":3,
+            "option":"Home Minister"
+          },
+          {
+            "id":4,
+            "option":"Speaker"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"FIFA is an international governing body of football. What is the full form of FIFA?",
+        "option":[
+          {
+            "id":1,
+            "option":"Federation of International Football Action"
+          },
+          {
+            "id":2,
+            "option":"Federal of International Football Association"
+          },
+          {
+            "id":3,
+            "option":"Federation of International Football Association"
+          },
+          {
+            "id":4,
+            "option":"Federation of India Football Association"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Indian men's hockey team won its first Olympic gold medal in which year?",
+        "option":[
+          {
+            "id":1,
+            "option":"1928"
+          },
+          {
+            "id":2,
+            "option":"1929"
+          },
+          {
+            "id":3,
+            "option":"1927"
+          },
+          {
+            "id":4,
+            "option":"1926"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Blue Revolution is related to which field?",
+        "option":[
+          {
+            "id":1,
+            "option":"Egg Production"
+          },
+          {
+            "id":2,
+            "option":"Fish Production"
+          },
+          {
+            "id":3,
+            "option":"Wheat"
+          },
+          {
+            "id":4,
+            "option":"Rice"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Musi river is a tributary of which of the following rivers?",
+        "option":[
+          {
+            "id":1,
+            "option":"Yamuna"
+          },
+          {
+            "id":2,
+            "option":"Godavari"
+          },
+          {
+            "id":3,
+            "option":"Krishna"
+          },
+          {
+            "id":4,
+            "option":"Ganga"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The force applied perpendicular to the surface of an object per unit area is called?",
+        "option":[
+          {
+            "id":1,
+            "option":"Pressure"
+          },
+          {
+            "id":2,
+            "option":"Work Done"
+          },
+          {
+            "id":3,
+            "option":"Power"
+          },
+          {
+            "id":4,
+            "option":"Energy"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The famous dancer T Balasaraswati was an exponent of which of the following dance forms?",
+        "option":[
+          {
+            "id":1,
+            "option":"Kuchipudi"
+          },
+          {
+            "id":2,
+            "option":"Bharatanatyam"
+          },
+          {
+            "id":3,
+            "option":"Kathak"
+          },
+          {
+            "id":4,
+            "option":"Kathakali"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Scientists developed the first ever 2D composite quantum material that exhibits quantum property called _______.",
+        "option":[
+          {
+            "id":1,
+            "option":"RASHBA SPLITTING"
+          },
+          {
+            "id":2,
+            "option":"SUPERIMPOSITION"
+          },
+          {
+            "id":3,
+            "option":"QUANTUM REALM"
+          },
+          {
+            "id":4,
+            "option":"ENTROPY"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which state launched the ATHIDHI portal for identification and registration of Migrant workers?",
+        "option":[
+          {
+            "id":1,
+            "option":"Karnataka"
+          },
+          {
+            "id":2,
+            "option":"Kerala"
+          },
+          {
+            "id":3,
+            "option":"Tamil Nadu"
+          },
+          {
+            "id":4,
+            "option":"Bihar"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Name the Indigenously developed Weapon Locating Radar (WLR-M) inducted by the Indian Army.",
+        "option":[
+          {
+            "id":1,
+            "option":"NETRA"
+          },
+          {
+            "id":2,
+            "option":"RAKSHAK"
+          },
+          {
+            "id":3,
+            "option":"SWATHI MOUNTAINS"
+          },
+          {
+            "id":4,
+            "option":"SWASTIK"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"From which of the following constitutional amendments act, is the Right to property deleted from the list of fundamental rights?",
+        "option":[
+          {
+            "id":1,
+            "option":"42nd Amendment Act"
+          },
+          {
+            "id":2,
+            "option":"44th Amendment Act "
+          },
+          {
+            "id":3,
+            "option":"73rd Amendment"
+          },
+          {
+            "id":4,
+            "option":"52nd Amendment"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who got Padma Shree award in Archery?",
+        "option":[
+          {
+            "id":1,
+            "option":"Deepika Kumari"
+          },
+          {
+            "id":2,
+            "option":"Saina Nehal"
+          },
+          {
+            "id":3,
+            "option":"Ekta Jindal"
+          },
+          {
+            "id":4,
+            "option":"Limba Sita"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Who was famous for inventing the power battery, one of the first devices to provide a reliable source of electricity, in 1800?",
+        "option":[
+          {
+            "id":1,
+            "option":"Alessandro Volta"
+          },
+          {
+            "id":2,
+            "option":"Michael Faraday"
+          },
+          {
+            "id":3,
+            "option":"Luigi Galvani"
+          },
+          {
+            "id":4,
+            "option":"Henri Becquerel"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following community is not included Citizenship Amendment Bill (CAB)?",
+        "option":[
+          {
+            "id":1,
+            "option":"Sikhs"
+          },
+          {
+            "id":2,
+            "option":"Hindu"
+          },
+          {
+            "id":3,
+            "option":"Muslims"
+          },
+          {
+            "id":4,
+            "option":"Christian"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is the third-highest waterfall in India?",
+        "option":[
+          {
+            "id":1,
+            "option":"Courtallam Falls"
+          },
+          {
+            "id":2,
+            "option":"Agaya Gangai"
+          },
+          {
+            "id":3,
+            "option":"Suruli Falls"
+          },
+          {
+            "id":4,
+            "option":"Nohkalikai Falls"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Methyl propane is an isomer of: ",
+        "option":[
+          {
+            "id":1,
+            "option":"n-hexane"
+          },
+          {
+            "id":2,
+            "option":"n-pentane"
+          },
+          {
+            "id":3,
+            "option":"n-propane"
+          },
+          {
+            "id":4,
+            "option":"n-butane"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Name the report released by Climate Risks Horizon that sheds light on India's preparedness of the Indian banking sector in confronting climate risks?",
+        "option":[
+          {
+            "id":1,
+            "option":"Climate Risk"
+          },
+          {
+            "id":2,
+            "option":"Climate Risk Mitigation"
+          },
+          {
+            "id":3,
+            "option":"Still Unprepared"
+          },
+          {
+            "id":4,
+            "option":"Unprepared Risk"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Rovers Cup is associated with which of the following sports?",
+        "option":[
+          {
+            "id":1,
+            "option":"Swimming"
+          },
+          {
+            "id":2,
+            "option":"Lawn Tennis"
+          },
+          {
+            "id":3,
+            "option":"Football"
+          },
+          {
+            "id":4,
+            "option":"Snooker"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The bus departs from the station every 45 minutes. If the previous bus left 20 minutes ago and the next bus is scheduled to depart at 8:15 am, what is the current time?",
+        "option":[
+          {
+            "id":1,
+            "option":"7 : 50 am"
+          },
+          {
+            "id":2,
+            "option":"7 : 55 am"
+          },
+          {
+            "id":3,
+            "option":"7 : 45 am"
+          },
+          {
+            "id":4,
+            "option":"7 : 40 am"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1IsLWMq397YGDobxTOzBoCkv9jdDWjR6g",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=19U0FhbwY0u-Cn7Oj6ecV_Js0ygLYMD9z",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1PNeou0iERj3TW_k4BnWTVvAagotml1VK",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A series is given with one term missing. Choose the correct alternative from the given ones that will complete the series: 110, 128, 156, 194, 242, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"280"
+          },
+          {
+            "id":2,
+            "option":"300"
+          },
+          {
+            "id":3,
+            "option":"623"
+          },
+          {
+            "id":4,
+            "option":"234"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the term that will come next in the following series. 21, 23, 28, 35, 44, ?",
+        "option":[
+          {
+            "id":1,
+            "option":"55"
+          },
+          {
+            "id":2,
+            "option":"45"
+          },
+          {
+            "id":3,
+            "option":"56"
+          },
+          {
+            "id":4,
+            "option":"49"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the option that is related to the third word in the same way as the second word is related to the first word. Yamuna : Uttar Pradesh :: Hugli :: ? ",
+        "option":[
+          {
+            "id":1,
+            "option":"West Bengal"
+          },
+          {
+            "id":2,
+            "option":"Kerala"
+          },
+          {
+            "id":3,
+            "option":"Karnataka"
+          },
+          {
+            "id":4,
+            "option":"Gujarat"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1ZuScbIvRnYeutw6Zgg2mc43JcuERNuli",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Select the set in which the numbers are related in the same way as the numbers of the following sets. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 - Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.) (12, 72, 144) (9, 54, 108)",
+        "option":[
+          {
+            "id":1,
+            "option":"(62, 17, 74)"
+          },
+          {
+            "id":2,
+            "option":"(6, 7, 84)"
+          },
+          {
+            "id":3,
+            "option":"(16, 8, 84)"
+          },
+          {
+            "id":4,
+            "option":"(16, 96, 192)"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=146wkyyWKA8SDW7QV_pr9QcDHKvNLQp8T",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1IzXq0Cbdb7X83zhx18Pk_Q_Y2zj7a1da",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the odd one out.",
+        "option":[
+          {
+            "id":1,
+            "option":"HDM"
+          },
+          {
+            "id":2,
+            "option":"CEH"
+          },
+          {
+            "id":3,
+            "option":"ECI"
+          },
+          {
+            "id":4,
+            "option":"DKP"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1RbmtdPPK5gjJjoe-GOcCB-SzrkwzBBiM",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1g2Ha6wJwAMTvaTUYi2npBFRYJGOYo0n7",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1oHk-MNMMOaZFsNfdydpD_0s85Ws-i-kl",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"6"
+          },
+          {
+            "id":3,
+            "option":"5"
+          },
+          {
+            "id":4,
+            "option":"3"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1cUyuWoKcotsy_2ULbC8KPBQK9QAhJT8T",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1SCukvYHQ6KykbY0Vi-EKrPvWRBGIQt_Y",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1WrTRfoKOb-e46cmPQz3daoxJQOpjds1w",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=13wyr_3lTtj4o4_Kn2opcizTZkwr0o8N2",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=15GsEMITbLaQNl34dyjYnpC0W-Vju8Uga",
+        "option":[
+          {
+            "id":1,
+            "option":"A"
+          },
+          {
+            "id":2,
+            "option":"B"
+          },
+          {
+            "id":3,
+            "option":"C"
+          },
+          {
+            "id":4,
+            "option":"D"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1Ary-vkCpcenMu_JbUOhbL0olGeObC3wB",
+        "option":[
+          {
+            "id":1,
+            "option":"1"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"3"
+          },
+          {
+            "id":4,
+            "option":"4"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=15bUAygTe1WmFKuHmogMDNu0Sa8YGc7O0",
+        "option":[
+          {
+            "id":1,
+            "option":"IV"
+          },
+          {
+            "id":2,
+            "option":"VI"
+          },
+          {
+            "id":3,
+            "option":"I"
+          },
+          {
+            "id":4,
+            "option":"II"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"https://drive.google.com/uc?export=view&id=1udzzJ13aX_B0mAaUuXPW0ZxHH2ydM4nA",
+        "option":[
+          {
+            "id":1,
+            "option":"29"
+          },
+          {
+            "id":2,
+            "option":"27"
+          },
+          {
+            "id":3,
+            "option":"45"
+          },
+          {
+            "id":4,
+            "option":"23"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which two numbers, from amongst the given options, should be interchanged to make the given equation correct? 14 + 39 - (√256 ÷ 3) + (5 × 4) - 6 = 58",
+        "option":[
+          {
+            "id":1,
+            "option":"4 & 3"
+          },
+          {
+            "id":2,
+            "option":"5 & 4"
+          },
+          {
+            "id":3,
+            "option":"6 & 14"
+          },
+          {
+            "id":4,
+            "option":"3 & 39"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"In a certain code language, ‘CRY’ is coded as BSZ, and ‘FLY’ is coded as EKZ. How will ‘CYST’ be coded in that language?",
+        "option":[
+          {
+            "id":1,
+            "option":"BUTZ"
+          },
+          {
+            "id":2,
+            "option":"BZTU"
+          },
+          {
+            "id":3,
+            "option":"FGTZ"
+          },
+          {
+            "id":4,
+            "option":"BMTR"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":" _________ in MS-Excel shows the contents of the current cell and allows you to create and view formulas.",
+        "option":[
+          {
+            "id":1,
+            "option":"Tool Bar"
+          },
+          {
+            "id":2,
+            "option":"Formula Bar"
+          },
+          {
+            "id":3,
+            "option":"Content Bar"
+          },
+          {
+            "id":4,
+            "option":"Status Bar"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When was Microsoft Word released?",
+        "option":[
+          {
+            "id":1,
+            "option":"1981"
+          },
+          {
+            "id":2,
+            "option":"1982"
+          },
+          {
+            "id":3,
+            "option":"1983"
+          },
+          {
+            "id":4,
+            "option":"1984"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The extension of MS Excel worksheet is-",
+        "option":[
+          {
+            "id":1,
+            "option":".xlsx"
+          },
+          {
+            "id":2,
+            "option":".xls"
+          },
+          {
+            "id":3,
+            "option":".xld"
+          },
+          {
+            "id":4,
+            "option":".xlp"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"_______ is a word processor in Ubuntu (linux) operating system.",
+        "option":[
+          {
+            "id":1,
+            "option":"Bed"
+          },
+          {
+            "id":2,
+            "option":"Ted"
+          },
+          {
+            "id":3,
+            "option":"Led"
+          },
+          {
+            "id":4,
+            "option":"Red"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is a Utility Software?",
+        "option":[
+          {
+            "id":1,
+            "option":"Compression"
+          },
+          {
+            "id":2,
+            "option":"Disk CleanUp"
+          },
+          {
+            "id":3,
+            "option":"Encryption"
+          },
+          {
+            "id":4,
+            "option":"All of the above"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"How many Modifier keys are there on the keyboard?",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"2"
+          },
+          {
+            "id":3,
+            "option":"4"
+          },
+          {
+            "id":4,
+            "option":"5"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which among the following is NOT the Algorithmic language?",
+        "option":[
+          {
+            "id":1,
+            "option":"FORTRAN"
+          },
+          {
+            "id":2,
+            "option":"ALGOL"
+          },
+          {
+            "id":3,
+            "option":"LISP"
+          },
+          {
+            "id":4,
+            "option":"COBOL"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The act of browsing the Internet is commonly referred to as ___________",
+        "option":[
+          {
+            "id":1,
+            "option":"Exploring"
+          },
+          {
+            "id":2,
+            "option":"Surfing"
+          },
+          {
+            "id":3,
+            "option":"Searching"
+          },
+          {
+            "id":4,
+            "option":"Browsing"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which of the following is an example of cyber crime?",
+        "option":[
+          {
+            "id":1,
+            "option":"child pornography"
+          },
+          {
+            "id":2,
+            "option":"creative malware"
+          },
+          {
+            "id":3,
+            "option":"cyber terrorism"
+          },
+          {
+            "id":4,
+            "option":"All of the above"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Which one of the following is NOT true about an e-mail?",
+        "option":[
+          {
+            "id":1,
+            "option":"Short-term storage"
+          },
+          {
+            "id":2,
+            "option":"Free delivery"
+          },
+          {
+            "id":3,
+            "option":"Global delivery"
+          },
+          {
+            "id":4,
+            "option":"File attachment"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"When an article is sold for Rs. 176.7 the loss is 7%. If a profit of 15% is to be earned on selling this article, find its selling price.",
+        "option":[
+          {
+            "id":1,
+            "option":"Rs 199.5"
+          },
+          {
+            "id":2,
+            "option":"Rs 218.5"
+          },
+          {
+            "id":3,
+            "option":"Rs 207.5"
+          },
+          {
+            "id":4,
+            "option":"Rs 225.4"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The expenditure of Raman in the month of December was 80% of the income. In the month of January the income increases by 25% and the share of expenditure remain the same. What is the percentage increase in the savings from December to January?",
+        "option":[
+          {
+            "id":1,
+            "option":"20%"
+          },
+          {
+            "id":2,
+            "option":"25%"
+          },
+          {
+            "id":3,
+            "option":"10%"
+          },
+          {
+            "id":4,
+            "option":"12.5%"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Base of a triangle is 32 cm and area is 280 cm^2 . Breadth of a rectangle is 20% more than the height of triangle while length is 87.5% of base of triangle. Find area of rectangle (in cm^2).",
+        "option":[
+          {
+            "id":1,
+            "option":"608"
+          },
+          {
+            "id":2,
+            "option":"588"
+          },
+          {
+            "id":3,
+            "option":"630"
+          },
+          {
+            "id":4,
+            "option":"576"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the value of [(1056 ÷ 12) of 3 ÷ 11 + (8 × 3)].",
+        "option":[
+          {
+            "id":1,
+            "option":"54"
+          },
+          {
+            "id":2,
+            "option":"38"
+          },
+          {
+            "id":3,
+            "option":"48"
+          },
+          {
+            "id":4,
+            "option":"32"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The average weight of 22 girls is 46 kg, that of another 28 girls is 54 kg and that of another 20 girls is 30 kg. Find the average weight of all the girls.",
+        "option":[
+          {
+            "id":1,
+            "option":"44.6 kg"
+          },
+          {
+            "id":2,
+            "option":"45.2 kg"
+          },
+          {
+            "id":3,
+            "option":"48.9 kg"
+          },
+          {
+            "id":4,
+            "option":"41.7 kg"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Five bells ring at the interval of 3, 5, 7, 8, and 10 seconds respectively. After first ring when will they rang together?",
+        "option":[
+          {
+            "id":1,
+            "option":"12 min "
+          },
+          {
+            "id":2,
+            "option":"16 min "
+          },
+          {
+            "id":3,
+            "option":"17 min "
+          },
+          {
+            "id":4,
+            "option":"18 min "
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The price of sugar is increased by 16.66% and the consumption of a family is decreased by 25%. Find the percentage change in his expenditure.",
+        "option":[
+          {
+            "id":1,
+            "option":"50% increase"
+          },
+          {
+            "id":2,
+            "option":"12.5% decrease"
+          },
+          {
+            "id":3,
+            "option":"27.5% increase"
+          },
+          {
+            "id":4,
+            "option":"60% decrease"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"There are 216 students in a class and the ratio of girls and boys is 5 : 7. 5 girls are replaced by 4 boys and this process is done twice. then find the final ratio of the boys and girls.",
+        "option":[
+          {
+            "id":1,
+            "option":"67 : 40"
+          },
+          {
+            "id":2,
+            "option":"37 : 40"
+          },
+          {
+            "id":3,
+            "option":"40 : 67"
+          },
+          {
+            "id":4,
+            "option":"23 : 56"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"A shopkeeper provides an initial discount of 10%, then an absolute discount of Rs 80 and then 20% on the final price. If the overall discount provided in this process is 44%, then what is the original marked price of the item? (in rupees)",
+        "option":[
+          {
+            "id":1,
+            "option":"380"
+          },
+          {
+            "id":2,
+            "option":"400"
+          },
+          {
+            "id":3,
+            "option":"420"
+          },
+          {
+            "id":4,
+            "option":"440"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The speed of a boat along with the current and against the current is 28.5 km/hr and 13 km/hr respectively. What is the speed of a boat (in km/hr) in still water?",
+        "option":[
+          {
+            "id":1,
+            "option":"20.75 km/hr"
+          },
+          {
+            "id":2,
+            "option":"18.25 km/hr"
+          },
+          {
+            "id":3,
+            "option":"19.36 km/hr"
+          },
+          {
+            "id":4,
+            "option":"23.24 km/hr"
+          }
+        ],
+        "answer":1,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the HCF of given data: 1440, 1840, and 540",
+        "option":[
+          {
+            "id":1,
+            "option":"60"
+          },
+          {
+            "id":2,
+            "option":"40"
+          },
+          {
+            "id":3,
+            "option":"20"
+          },
+          {
+            "id":4,
+            "option":"10"
+          }
+        ],
+        "answer":3,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"The ratio of curved surface area to total surface area of cylinder is 11 : 18. Also, area of its circular end is 616 sq.cm. Find the volume of cylinder.",
+        "option":[
+          {
+            "id":1,
+            "option":"11576 cm^2"
+          },
+          {
+            "id":2,
+            "option":"13552 cm^2"
+          },
+          {
+            "id":3,
+            "option":"12785 cm^2"
+          },
+          {
+            "id":4,
+            "option":"16415 cm^2"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"Find the difference between simple interest and compound interest on a principal of 135793 at the rate of interest 23% per annum for 1 year. (in Rs.)",
+        "option":[
+          {
+            "id":1,
+            "option":"31232.39"
+          },
+          {
+            "id":2,
+            "option":"167025.39"
+          },
+          {
+            "id":3,
+            "option":"444189"
+          },
+          {
+            "id":4,
+            "option":"None of these"
+          }
+        ],
+        "answer":4,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"9 men join together to complete a work in 5 days. After working for 3 days, n men leave the group due to which the number of days taken to complete the work increases by 7. What is the value of ‘n’?",
+        "option":[
+          {
+            "id":1,
+            "option":"3"
+          },
+          {
+            "id":2,
+            "option":"5"
+          },
+          {
+            "id":3,
+            "option":"7"
+          },
+          {
+            "id":4,
+            "option":"6"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      },
+      {
+        "question":"If the difference between compound interest and simple interest at 19% on a sum of money for two years (compounded anually) is Rs. 577.6, then the compound interest (in Rs.) is:",
+        "option":[
+          {
+            "id":1,
+            "option":"5676"
+          },
+          {
+            "id":2,
+            "option":"6657.5"
+          },
+          {
+            "id":3,
+            "option":"4567"
+          },
+          {
+            "id":4,
+            "option":"5546.6"
+          }
+        ],
+        "answer":2,
+        "maxM": 1,
+        "negM": 0.25
+      }
     ]
   }
 ]
