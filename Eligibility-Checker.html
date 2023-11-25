@@ -49,13 +49,13 @@
                         <label for="post">Select Your Job Post</label><br>
                         <select id="post" name="posts">
                             <option value="sscgd">SSC GD</option>
-                            <option value="agniveervayu">
+                            <option disabled value="agniveervayu">
                                 Aginiveer Vayu (Indian Air Force)
                             </option>
-                            <option value="agniveerarmy">
+                            <option disabled value="agniveerarmy">
                                 Agniveer GD/TDN/CLK/Tech (Indian Army)
                             </option>
-                            <option value="agniveernavy">
+                            <option disabled value="agniveernavy">
                                 Agniveer SSR/MR (Indian Navy)
                             </option>
                         </select>
@@ -94,10 +94,10 @@
             var c = document.getElementById("post").value;
             var dob_asdate = new Date(a);
             if (c == "sscgd") {
-                var min_age = new Date(1998, 0o7, 0o2);
-                var max_age = new Date(2003, 0o7, 0o1);
-                var min_age_obc = new Date(1995, 0o7, 0o2);
-                var min_age_sc_st = new Date(1993, 0o7, 0o2);
+                var min_age = new Date(2001, 0o0, 0o2);
+                var max_age = new Date(2006, 0o0, 0o2);
+                var min_age_obc = new Date(1998, 0o0, 0o2);
+                var min_age_sc_st = new Date(1996, 0o0, 0o2);
                 if (b == "General") {
                     if (dob_asdate >= min_age && dob_asdate <= max_age) {
                         alert("You are Eligible! 😃");
