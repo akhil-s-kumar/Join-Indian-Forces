@@ -45,7 +45,9 @@
                     </li>
                 </ul>
                 <ul class="ml-auto navbar-nav form-inline my-2 my-lg-0">
-                    <button class="btn btnweb" type="submit">Enroll Now</button>
+                    <a href="https://joinindianforces.in/book-appointment"><button
+                            class="btn btnweb appointmentBtn">Book Free
+                            Appointment</button></a>
                 </ul>
             </div>
         </nav>
@@ -64,31 +66,36 @@
                     <div class="form-row">
                         <div class="mb-3 col-md-6">
                             <label class="form-label">First Name</label><br />
-                            <input type="text" class="form-control" placeholder="First Name" id="FirstName" name="FirstName" required />
+                            <input type="text" class="form-control" placeholder="First Name" id="FirstName"
+                                name="FirstName" required />
                         </div>
                         <div class="mb-3 col-md-6">
                             <label class="form-label">Last Name</label><br />
-                            <input type="text" class="form-control" placeholder="Last Name" id="LastName" name="LastName" required />
+                            <input type="text" class="form-control" placeholder="Last Name" id="LastName"
+                                name="LastName" required />
                         </div>
                     </div>
                     <div class="form-row">
                         <div class="mb-3 col-md-6">
                             <label class="form-label">Email</label><br />
-                            <input type="email" class="form-control" placeholder="Email" id="Email" name="Email" required />
+                            <input type="email" class="form-control" placeholder="Email" id="Email" name="Email"
+                                required />
                         </div>
                         <div class="mb-3 col-md-6">
                             <label class="form-label">Mobile Number</label><br />
-                            <input type="number" class="form-control" placeholder="Mobile Number" id="Phone" name="Phone"
-                                required />
+                            <input type="number" class="form-control" placeholder="Mobile Number" id="Phone"
+                                name="Phone" required />
                         </div>
                     </div>
                     <div class="form-group">
                         <label class="form-label">Location</label>
-                        <input type="text" class="form-control" id="Location" name="Location" placeholder="Location" required />
+                        <input type="text" class="form-control" id="Location" name="Location" placeholder="Location"
+                            required />
                     </div>
                     <div class="form-group">
                         <label class="form-label">Total Year of Experience</label>
-                        <input type="number" class="form-control" id="Experience" name="Experience" placeholder="Experience" required />
+                        <input type="number" class="form-control" id="Experience" name="Experience"
+                            placeholder="Experience" required />
                     </div>
                     <div class="form-group">
                         <label class="form-label">Link of Demo Video</label>
@@ -184,7 +191,8 @@
                                     class="fa-brands fa-facebook"></a>
                                 <a href="https://instagram.com/JoinIndianForces/" target="blank"
                                     class="fa-brands fa-instagram"></a>
-                                <a href="https://twitter.com/JoinIndianForce/" target="blank" class="fa-brands fa-x-twitter"></a>
+                                <a href="https://twitter.com/JoinIndianForce/" target="blank"
+                                    class="fa-brands fa-x-twitter"></a>
                                 <a href="https://youtube.com/JoinIndianForces/" target="blank"
                                     class="fa-brands fa-youtube"></a>
                             </div>
@@ -198,7 +206,9 @@
             <div class="container">
                 <div class="row d-flex align-items-center">
                     <div class="col-lg-6 col-md-7 col-sm-12">
-                        <p class="mb-0">© Join Indian Forces <script>document.write(new Date().getFullYear())</script> All rights reserved.</p>
+                        <p class="mb-0">© Join Indian Forces
+                            <script>document.write(new Date().getFullYear())</script> All rights reserved.
+                        </p>
                     </div>
                     <div class="col-lg-6 col-md-5 col-sm-12 text-right">
                         <p>
@@ -232,7 +242,7 @@
             let jobID = localStorage.getItem("JobID");
             const name = document.getElementById("FirstName").value;
             const dataSet =
-                $("#careerApply-form").serialize() + `&JobID=` + jobID +   `&JobTitle=` + jobTitle;
+                $("#careerApply-form").serialize() + `&JobID=` + jobID + `&JobTitle=` + jobTitle;
             e.preventDefault();
             $.ajax({
                 url: "https://script.google.com/macros/s/AKfycbz_PVd1qf-6E17nYpSv8Dn7fS7TpQN0A9ARRsqAZcG9XMbhTz-LDpDeFXrWb0dIyWWV/exec",

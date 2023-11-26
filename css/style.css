@@ -1615,7 +1615,7 @@ a:focus {
   color: white;
 }
 
-.footer_top .f_social_icon a+a {
+.footer_top .f_social_icon a + a {
   margin-left: 4px;
 }
 
@@ -1861,4 +1861,57 @@ a:focus {
 
 .faqs .accordion .btn-link:hover {
   text-decoration: none;
+}
+
+.appointmentBtn{
+  border-radius: 10px;
+  height: 50px;
+}
+
+.bookAppointmentSec {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bookAppointmentSec .book-appointment .card {
+  border: none;
+  border-radius: 15px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.bookAppointmentSec .book-appointment .card form input {
+  width: 100%;
+  height: 50px;
+  background-color: transparent;
+  border-radius: 8px;
+  color: #131416;
+  border-width: 2px;
+  box-shadow: none;
+}
+
+.bookAppointmentSec .book-appointment .card form textarea {
+  height: 150px;
+  background-color: transparent;
+  border-radius: 8px;
+  color: #131416;
+  border-width: 2px;
+  box-shadow: none;
+}
+
+.bookAppointmentSec .book-appointment .card form input:focus,
+.bookAppointmentSec .book-appointment .card form textarea:focus {
+  border-color: #f35f00;
+}
+
+.bookAppointmentSec .book-appointment .card form .btnweb {
+  width: 100%;
+  border-radius: 10px;
+  height: 50px;
+}
+
+.bookAppointmentSec .book-appointment .card p {
+  margin-top: 20px;
+  font-size: 13px;
+  text-align: center;
 }
