@@ -309,6 +309,17 @@
     </footer>
     <!--Footer End-->
 
+    <!--Pop Up start-->
+    <div class="modal fade" id="myModalCenter">
+        <div class="modal-dialog modal-dialog-centered modal-xl" role="document">
+        <div class="modal-content">
+            <img width="max-content" src="../../Images/SSC_GD_2022_Toppers.jpg"
+            onclick="window.location.href = 'https:\//joinindianforces.in/Courses/SSC-GD/';" />
+        </div>
+        </div>
+    </div>
+    <!--Pop Up end-->
+
     <!--Scripts-->
     <script src="https://code.jquery.com/jquery-3.5.1.js"
         integrity="sha256-QWo7LDvxbWT2tbbQ97B53yJnYU3WhH/C8ycbRAkjPDc=" crossorigin="anonymous"></script>
@@ -316,6 +327,17 @@
     <script src="../components/callout.js"></script>
     <script src="../components/faqs.js"></script>
     <script src="../js/share.js"></script>
+    <script>
+        $(window).on("load", function () {
+          var dateOne = new Date(2024, 0o5, 27);
+          var today = new Date();
+          if (today < dateOne) {
+            $("#myModalCenter").modal("show");
+          } else {
+            $("#myModalCenter").modal("hide");
+          }
+        });
+      </script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
