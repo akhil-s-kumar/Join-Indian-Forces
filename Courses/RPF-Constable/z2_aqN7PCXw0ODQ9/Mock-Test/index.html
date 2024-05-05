@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="Description" CONTENT="Attempt SSC MTS & Havildar 2023 Mock Test to boost your exam preparation with Join Indian Forces.">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Bootstrap CSS -->
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="../../../css/dashboard/mockStyle.css" />
+    <link
+      rel="stylesheet"
+      href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
+    />
+    <link rel="shortcut icon" href="../../../../Images/Favicon.png" />
+
+    <title>Delhi Police Constable : : Mock Tests</title>
+  </head>
+
+  <body>
+    <div id="extContainer" class="container">
+      <div class="row" id="mainContainer">
+        
+      </div>
+    </div>
+
+    <!-- Optional JavaScript; choose one of the two! -->
+    <script>
+      var expiryDate = localStorage.getItem("expiry");
+      var today = new Date();
+      if(today > new Date(expiryDate) && expiryDate != null) {
+        localStorage.clear();
+      }
+    </script>
+
+    <script>
+      const uname = localStorage.getItem("Name");
+      const password = localStorage.getItem("password");
+      const expiry = localStorage.getItem("expiry");
+      if(uname == null || password == null || expiry == null){
+        history.go(-1);
+      }
+    </script>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-JEW9xMcG8R+pH31jmWH6WWP0WintQrMb4s7ZOdauHnUtxwoG2vI5DkLtS3qm9Ekf"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <script src="../../../js/dashboard/mockScript.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js" integrity="sha384-SR1sx49pcuLnqZUnnPwx6FCym0wLsk5JZuNx2bPPENzswTNFaQU1RDvt3wT4gWFG" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/js/bootstrap.min.js" integrity="sha384-j0CNLUeiqtyaRmlzUHCPZ+Gy5fQu0dQ6eZ/xAww941Ai1SxSY+0EQqNXNE6DZiVc" crossorigin="anonymous"></script>
+    -->
+  </body>
+</html>

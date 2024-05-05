@@ -1726,10 +1726,10 @@ a:focus {
 }
 
 .careerApply .applyForm input {
-  height: 40px;
+  height: 60px;
   background-color: transparent;
   border-radius: 8px;
-  border-width: 1.5px;
+  border-width: 2px;
 }
 
 .careerApply .applyForm input:focus {
@@ -1740,7 +1740,7 @@ a:focus {
 }
 
 .careerApply .applyForm button {
-  height: 45px;
+  height: 60px;
   width: 100%;
   font-weight: 500;
   margin-top: 30px;
