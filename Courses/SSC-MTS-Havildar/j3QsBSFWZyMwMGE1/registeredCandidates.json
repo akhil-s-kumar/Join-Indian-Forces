@@ -8,10 +8,10 @@
   },
   {
     "Id": "2",
-    "FirstName": "Sooraj",
-    "LastName": "S",
-    "RollNumber": "35238944754",
-    "isActive": "flase"
+    "FirstName": "Anjana",
+    "LastName": "",
+    "RollNumber": "56193725243",
+    "isActive": "true"
   },
   {
     "Id": "3",
@@ -200,6 +200,6 @@
     "FirstName": "RAJ",
     "LastName": "R",
     "RollNumber": "96560100803",
-    "isActive": "true"
-}
+    "isActive": "flase"
+  }
 ]
