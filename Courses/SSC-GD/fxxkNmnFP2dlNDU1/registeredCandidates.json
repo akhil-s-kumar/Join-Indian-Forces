@@ -11,181 +11,181 @@
         "FirstName": "Muhammed",
         "LastName": "razi",
         "RollNumber": "98478160505",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "3",
         "FirstName": "Muhammed",
         "LastName": "Labeeb",
         "RollNumber": "96454200902",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "4",
         "FirstName": "Sarang",
         "LastName": "K",
         "RollNumber": "99470171199",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "5",
         "FirstName": "MUHAMMED",
         "LastName": "SAJAD ILLIKKAL",
         "RollNumber": "97780011102",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "6",
         "FirstName": "Gopukrishna",
         "LastName": "vv",
         "RollNumber": "96456080102",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "7",
         "FirstName": "Sumesh",
         "LastName": "S",
         "RollNumber": "83010110197",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "8",
         "FirstName": "Farhan",
         "LastName": "V",
         "RollNumber": "85904180700",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "9",
         "FirstName": "ANAS",
         "LastName": "RAHMAN ",
         "RollNumber": "95399021003",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "10",
         "FirstName": "Navaneeth",
         "LastName": "m.v",
         "RollNumber": "79091230403",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "11",
         "FirstName": "Krishnajith",
         "LastName": "M S",
         "RollNumber": "90486040599",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "12",
         "FirstName": "Abdul",
         "LastName": "vahid cp",
         "RollNumber": "75928120401",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "13",
         "FirstName": "Angel",
         "LastName": "silla ps",
         "RollNumber": "79091250599",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "14",
         "FirstName": "Anoop",
         "LastName": "s",
         "RollNumber": "82816130202",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "15",
         "FirstName": "ASWIN",
         "LastName": "O",
         "RollNumber": "90720050202",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "16",
         "FirstName": "Subhash",
         "LastName": "K",
         "RollNumber": "89218100200",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "17",
         "FirstName": "Rahul",
         "LastName": "pv",
         "RollNumber": "92076261299",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "18",
         "FirstName": "Sreerag",
         "LastName": "mp",
         "RollNumber": "95448030700",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "19",
         "FirstName": "Praveen.",
         "LastName": "S",
         "RollNumber": "79946030800",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "20",
         "FirstName": "Aiswarya",
         "LastName": "m",
         "RollNumber": "81299050602",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "21",
         "FirstName": "Sreerag",
         "LastName": "vg",
         "RollNumber": "94465220501",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "22",
         "FirstName": "Akash",
         "LastName": "kumar ks",
         "RollNumber": "92079110502",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "23",
         "FirstName": "Abhinav",
         "LastName": "manikuttan",
         "RollNumber": "86060250303",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "24",
         "FirstName": "SUDHEESH",
         "LastName": "MC",
         "RollNumber": "90745180598",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "25",
         "FirstName": "Akhil",
         "LastName": "Krishna K S",
         "RollNumber": "86060090401",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "26",
         "FirstName": "Arjun",
         "LastName": "",
         "RollNumber": "96560280801",
-        "isActive": "true"
+        "isActive": "false"
     },
     {
         "Id": "27",
         "FirstName": "Aswin",
         "LastName": "V",
         "RollNumber": "99479211201",
-        "isActive": "true"
+        "isActive": "false"
     }
 ]
