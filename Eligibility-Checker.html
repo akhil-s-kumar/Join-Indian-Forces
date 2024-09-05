@@ -72,7 +72,8 @@
             <div class="row align-items-center">
                 <div class="col-lg-6 col-md-7 col-sm-12">
                     <p class="mb-0">
-                        © Join Indian Forces <script>document.write(new Date().getFullYear())</script> All rights reserved.
+                        © Join Indian Forces
+                        <script>document.write(new Date().getFullYear())</script> All rights reserved.
                     </p>
                 </div>
                 <div class="col-lg-6 col-md-5 col-sm-12 text-right">
@@ -94,10 +95,10 @@
             var c = document.getElementById("post").value;
             var dob_asdate = new Date(a);
             if (c == "sscgd") {
-                var min_age = new Date(2001, 0o0, 0o2);
-                var max_age = new Date(2006, 0o0, 0o2);
-                var min_age_obc = new Date(1998, 0o0, 0o2);
-                var min_age_sc_st = new Date(1996, 0o0, 0o2);
+                var min_age = new Date(2002, 0o0, 0o2);
+                var max_age = new Date(2007, 0o0, 0o1);
+                var min_age_obc = new Date(1999, 0o0, 0o2);
+                var min_age_sc_st = new Date(1997, 0o0, 0o2);
                 if (b == "General") {
                     if (dob_asdate >= min_age && dob_asdate <= max_age) {
                         alert("You are Eligible! 😃");
